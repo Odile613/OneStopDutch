@@ -1,0 +1,1374 @@
+[
+  {
+    "book": "tb",
+    "chapter": 1,
+    "track": 1,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p11-H1-track-oef-5.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p11-H1-track-oef-5.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 2,
+    "track": 1,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p16-H2-track-oef-1-2-fragment-1.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p16-H2-track-oef-1-2-fragment-1.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 2,
+    "track": 2,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p16-H2-track-oef-1-2-fragment-2.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p16-H2-track-oef-1-2-fragment-2.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 2,
+    "track": 3,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p16-H2-track-oef-1-2-fragment-3.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p16-H2-track-oef-1-2-fragment-3.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 2,
+    "track": 4,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p16-H2-track-oef-1-2-fragment-4.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p16-H2-track-oef-1-2-fragment-4.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 2,
+    "track": 5,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p16-H2-track-oef-1-2-fragment-5.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p16-H2-track-oef-1-2-fragment-5.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 2,
+    "track": 6,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p16-H2-track-oef-1-2-geheel.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p16-H2-track-oef-1-2-geheel.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 2,
+    "track": 7,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p19-H2-track-oef-5.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p19-H2-track-oef-5.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 2,
+    "track": 8,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p19-H2-track-oef-6.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p19-H2-track-oef-6.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 3,
+    "track": 1,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p27-H3-track-oef-5.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p27-H3-track-oef-5.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 3,
+    "track": 2,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p28-H3-track-oef-7.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p28-H3-track-oef-7.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 3,
+    "track": 3,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p30-H3-track-oef-11.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p30-H3-track-oef-11.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 4,
+    "track": 1,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p33-H4-track-oef-5-7.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p33-H4-track-oef-5-7.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 4,
+    "track": 2,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p37-H4-track-oef-13.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p37-H4-track-oef-13.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 4,
+    "track": 3,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p37-H4-track-oef-14.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p37-H4-track-oef-14.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 5,
+    "track": 1,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p41-H5-track-oef-2-gesprek-1.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p41-H5-track-oef-2-gesprek-1.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 5,
+    "track": 2,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p41-H5-track-oef-2-gesprek-2.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p41-H5-track-oef-2-gesprek-2.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 5,
+    "track": 3,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p46-H5-track-oef-9.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p46-H5-track-oef-9.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 5,
+    "track": 4,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p46-H5-track-oef-10.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p46-H5-track-oef-10.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 6,
+    "track": 1,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p49-H6-track-oef-2.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p49-H6-track-oef-2.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 6,
+    "track": 2,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p50-H6-track-oef-4-bericht-1.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p50-H6-track-oef-4-bericht-1.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 6,
+    "track": 3,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p50-H6-track-oef-4-bericht-2.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p50-H6-track-oef-4-bericht-2.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 6,
+    "track": 4,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p50-H6-track-oef-4-bericht-3.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p50-H6-track-oef-4-bericht-3.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 6,
+    "track": 5,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p50-H6-track-oef-4-bericht-4.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p50-H6-track-oef-4-bericht-4.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 7,
+    "track": 1,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p57-H7-track-oef-2-3.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p57-H7-track-oef-2-3.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 7,
+    "track": 2,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p58-H7-track-oef-4.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p58-H7-track-oef-4.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 8,
+    "track": 1,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p66-H8-track-oef-3.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p66-H8-track-oef-3.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 9,
+    "track": 1,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p72-H9-track-oef-1-2.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p72-H9-track-oef-1-2.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 9,
+    "track": 2,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p78-H9-track-oef-9-geheel.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p78-H9-track-oef-9-geheel.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 9,
+    "track": 3,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p78-H9-track-oef-9-1-2.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p78-H9-track-oef-9-1-2.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 9,
+    "track": 4,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p78-H9-track-oef-9-3-4.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p78-H9-track-oef-9-3-4.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 9,
+    "track": 5,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p78-H9-track-oef-9-5-6.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p78-H9-track-oef-9-5-6.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 9,
+    "track": 6,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p78-H9-track-oef-9-7-8.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p78-H9-track-oef-9-7-8.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 9,
+    "track": 7,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p78-H9-track-oef-9-9-10.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p78-H9-track-oef-9-9-10.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 9,
+    "track": 8,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p78-H9-track-oef-9-11-12.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p78-H9-track-oef-9-11-12.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 10,
+    "track": 1,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p81-H10-track-oef-3.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p81-H10-track-oef-3.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 10,
+    "track": 2,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p84-H10-track-oef-9-toespraak-1.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p84-H10-track-oef-9-toespraak-1.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 10,
+    "track": 3,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p84-H10-track-oef-9-toespraak-2.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p84-H10-track-oef-9-toespraak-2.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 10,
+    "track": 4,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p84-H10-track-oef-9-toespraak-3.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p84-H10-track-oef-9-toespraak-3.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 10,
+    "track": 5,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p84-H10-track-oef-9-toespraak-4.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p84-H10-track-oef-9-toespraak-4.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 10,
+    "track": 6,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p84-H10-track-oef-9-toespraak-5.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p84-H10-track-oef-9-toespraak-5.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 10,
+    "track": 7,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p84-H10-track-oef-9-toespraak-6.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p84-H10-track-oef-9-toespraak-6.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 11,
+    "track": 1,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p89-H11-track-oef-3.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p89-H11-track-oef-3.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 11,
+    "track": 2,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p93-H11-track-oef-9-geheel.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p93-H11-track-oef-9-geheel.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 11,
+    "track": 3,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p93-H11-track-oef-9-1.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p93-H11-track-oef-9-1.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 11,
+    "track": 4,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p93-H11-track-oef-9-2.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p93-H11-track-oef-9-2.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 11,
+    "track": 5,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p93-H11-track-oef-9-3.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p93-H11-track-oef-9-3.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 11,
+    "track": 6,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p93-H11-track-oef-9-4.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p93-H11-track-oef-9-4.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 11,
+    "track": 7,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p93-H11-track-oef-9-5.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p93-H11-track-oef-9-5.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 11,
+    "track": 8,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p93-H11-track-oef-9-6.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p93-H11-track-oef-9-6.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 11,
+    "track": 9,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p93-H11-track-oef-9-7.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p93-H11-track-oef-9-7.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 12,
+    "track": 1,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p97-H12-track-oef-2.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p97-H12-track-oef-2.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 12,
+    "track": 2,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p100-H12-track-oef-7.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p100-H12-track-oef-7.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 13,
+    "track": 1,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p107-H13-track-oef-6-alleen-voor-1e-druk-1e-oplage.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p107-H13-track-oef-6-alleen-voor-1e-druk-1e-oplage.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 13,
+    "track": 2,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p108-H13-track-oef-7-8-fragment-1.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p108-H13-track-oef-7-8-fragment-1.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 13,
+    "track": 3,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p108-H13-track-oef-7-8-fragment-2.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p108-H13-track-oef-7-8-fragment-2.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 13,
+    "track": 4,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p108-H13-track-oef-7-8-fragment-3.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p108-H13-track-oef-7-8-fragment-3.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 13,
+    "track": 5,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p108-H13-track-oef-7-8-fragment-4.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p108-H13-track-oef-7-8-fragment-4.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 13,
+    "track": 6,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p108-H13-track-oef-7-8-fragment-5.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p108-H13-track-oef-7-8-fragment-5.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 13,
+    "track": 7,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p108-H13-track-oef-7-8-fragment-6.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p108-H13-track-oef-7-8-fragment-6.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 14,
+    "track": 1,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p114-H14-track-oef-3-gesprek-1.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p114-H14-track-oef-3-gesprek-1.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 14,
+    "track": 2,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p114-H14-track-oef-3-gesprek-2.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p114-H14-track-oef-3-gesprek-2.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 14,
+    "track": 3,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p114-H14-track-oef-3-gesprek-3.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p114-H14-track-oef-3-gesprek-3.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 14,
+    "track": 4,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p114-H14-track-oef-3-gesprek-4.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p114-H14-track-oef-3-gesprek-4.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 14,
+    "track": 5,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p118-H14-track-oef-9.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p118-H14-track-oef-9.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 14,
+    "track": 6,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p118-H14-track-oef-10.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p118-H14-track-oef-10.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 15,
+    "track": 1,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p122-H15-track-oef-6.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p122-H15-track-oef-6.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 15,
+    "track": 2,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p125-H15-track-oef-11.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p125-H15-track-oef-11.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 15,
+    "track": 3,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p125-H15-track-oef-11-1.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p125-H15-track-oef-11-1.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 15,
+    "track": 4,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p125-H15-track-oef-11-2.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p125-H15-track-oef-11-2.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 15,
+    "track": 5,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p126-H15-track-oef-12.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p126-H15-track-oef-12.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 15,
+    "track": 6,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p126-H15-track-oef-13.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p126-H15-track-oef-13.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 16,
+    "track": 1,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p129-H16-track-oef-3-fragment-1.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p129-H16-track-oef-3-fragment-1.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 16,
+    "track": 2,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p129-H16-track-oef-3-fragment-2.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p129-H16-track-oef-3-fragment-2.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 16,
+    "track": 3,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p129-H16-track-oef-3-fragment-3.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p129-H16-track-oef-3-fragment-3.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 16,
+    "track": 4,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p129-H16-track-oef-3-fragment-4.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p129-H16-track-oef-3-fragment-4.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 16,
+    "track": 5,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p129-H16-track-oef-3-geheel.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p129-H16-track-oef-3-geheel.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 17,
+    "track": 1,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p138-Examentraining-track-oef-1.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p138-Examentraining-track-oef-1.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 17,
+    "track": 2,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p140-Examentraining-track-oef-1.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p140-Examentraining-track-oef-1.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 17,
+    "track": 3,
+    "file": "Audio/contact-4/textbook/Contact-nieuw-4-LWB-p141-Examentraining-track-oef-2.mp3",
+    "source": "audio/textbook/Contact-nieuw-4-LWB-p141-Examentraining-track-oef-2.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 1,
+    "track": 1,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H1-track-01-Luisteren-Voicemailbericht.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H1-track-01-Luisteren-Voicemailbericht.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 2,
+    "track": 1,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H2-track-01-Uitspraak-Woordaccent.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H2-track-01-Uitspraak-Woordaccent.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 2,
+    "track": 2,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H2-track-02-Uitspraak-Zinsaccent-fr1.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H2-track-02-Uitspraak-Zinsaccent-fr1.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 2,
+    "track": 3,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H2-track-02-Uitspraak-Zinsaccent-fr2.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H2-track-02-Uitspraak-Zinsaccent-fr2.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 2,
+    "track": 4,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H2-track-02-Uitspraak-Zinsaccent-fr3.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H2-track-02-Uitspraak-Zinsaccent-fr3.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 2,
+    "track": 5,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H2-track-02-Uitspraak-Zinsaccent-fr4.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H2-track-02-Uitspraak-Zinsaccent-fr4.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 2,
+    "track": 6,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H2-track-02-Uitspraak-Zinsaccent.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H2-track-02-Uitspraak-Zinsaccent.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 2,
+    "track": 7,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H2-track-03-Uitspraak-Zinsaccent.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H2-track-03-Uitspraak-Zinsaccent.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 2,
+    "track": 8,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H2-track-04-Uitspraak-Intonatie.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H2-track-04-Uitspraak-Intonatie.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 2,
+    "track": 9,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H2-track-05-Uitspraak-Ritme.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H2-track-05-Uitspraak-Ritme.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 2,
+    "track": 10,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H2-track-06-Grammatica-Passivum.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H2-track-06-Grammatica-Passivum.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 2,
+    "track": 11,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H2-track-08-Uitspraak-uu.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H2-track-08-Uitspraak-uu.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 2,
+    "track": 12,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H2-track-09-Luisteren-Politiebericht.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H2-track-09-Luisteren-Politiebericht.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 2,
+    "track": 13,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H2-track-10-Luisteren-Radioreclame.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H2-track-10-Luisteren-Radioreclame.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 4,
+    "track": 1,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H4-track-15-Luisteren-Uitgeblust-opgebrand.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H4-track-15-Luisteren-Uitgeblust-opgebrand.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 4,
+    "track": 2,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H4-track-19-Uitspraak-Woordaccent.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H4-track-19-Uitspraak-Woordaccent.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 4,
+    "track": 3,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H4-track-20-Luisteren-Intonatie.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H4-track-20-Luisteren-Intonatie.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 4,
+    "track": 4,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H4-track-21-Luisteren-Intonatie.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H4-track-21-Luisteren-Intonatie.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 5,
+    "track": 1,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H5-track-22-Luisteren-Abonnement.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H5-track-22-Luisteren-Abonnement.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 6,
+    "track": 1,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H6-track-25-Uitspraak-Woordaccent.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H6-track-25-Uitspraak-Woordaccent.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 6,
+    "track": 2,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H6-track-28-Uitspraak-Woordaccent-zin-1-5.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H6-track-28-Uitspraak-Woordaccent-zin-1-5.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 6,
+    "track": 3,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H6-track-28-Uitspraak-Woordaccent-zin-6-10.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H6-track-28-Uitspraak-Woordaccent-zin-6-10.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 7,
+    "track": 1,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H7-track-30-Luisteren-Vraaggesprek-1.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H7-track-30-Luisteren-Vraaggesprek-1.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 7,
+    "track": 2,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H7-track-30-Luisteren-Vraaggesprek-2.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H7-track-30-Luisteren-Vraaggesprek-2.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 7,
+    "track": 3,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H7-track-30-Luisteren-Vraaggesprek-3.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H7-track-30-Luisteren-Vraaggesprek-3.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 7,
+    "track": 4,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H7-track-30-Luisteren-Vraaggesprek-4.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H7-track-30-Luisteren-Vraaggesprek-4.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 7,
+    "track": 5,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H7-track-30-Luisteren-Vraaggesprek-5.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H7-track-30-Luisteren-Vraaggesprek-5.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 7,
+    "track": 6,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H7-track-30-Luisteren-Vraaggesprek-6.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H7-track-30-Luisteren-Vraaggesprek-6.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 7,
+    "track": 7,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H7-track-30-Luisteren-Vraaggesprek-7.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H7-track-30-Luisteren-Vraaggesprek-7.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 7,
+    "track": 8,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H7-track-30-Luisteren-Vraaggesprek-8.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H7-track-30-Luisteren-Vraaggesprek-8.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 7,
+    "track": 9,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H7-track-30-Luisteren-Vraaggesprekken.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H7-track-30-Luisteren-Vraaggesprekken.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 9,
+    "track": 1,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H9-track-31-Echtscheiding.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H9-track-31-Echtscheiding.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 9,
+    "track": 2,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H9-track-33-Uitspraak-emotie-2.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H9-track-33-Uitspraak-emotie-2.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 9,
+    "track": 3,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H9-track-33-UItspraak-emotie-3.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H9-track-33-UItspraak-emotie-3.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 9,
+    "track": 4,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H9-track-33-Uitspraak-emotie.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H9-track-33-Uitspraak-emotie.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 9,
+    "track": 5,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H9-track-35-Uitspraak-a.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H9-track-35-Uitspraak-a.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 9,
+    "track": 6,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H9-track-35-Uitspraak-b.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H9-track-35-Uitspraak-b.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 9,
+    "track": 7,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H9-track-35-Uitspraak-c.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H9-track-35-Uitspraak-c.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 9,
+    "track": 8,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H9-track-35-Uitspraak-d.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H9-track-35-Uitspraak-d.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 9,
+    "track": 9,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H9-track-35-Uitspraak-e.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H9-track-35-Uitspraak-e.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 9,
+    "track": 10,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H9-track-35-Uitspraak-vb.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H9-track-35-Uitspraak-vb.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 9,
+    "track": 11,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H9-track-36-Uitspraak-a.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H9-track-36-Uitspraak-a.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 9,
+    "track": 12,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H9-track-36-Uitspraak-b.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H9-track-36-Uitspraak-b.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 10,
+    "track": 1,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H10-track-2-Woordaccent-a.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H10-track-2-Woordaccent-a.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 10,
+    "track": 2,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H10-track-2-Woordaccent-b.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H10-track-2-Woordaccent-b.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 10,
+    "track": 3,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H10-track-3-Woordaccent-a.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H10-track-3-Woordaccent-a.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 10,
+    "track": 4,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H10-track-3-Woordaccent-b.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H10-track-3-Woordaccent-b.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 10,
+    "track": 5,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H10-track-5-Ritme-a.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H10-track-5-Ritme-a.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 10,
+    "track": 6,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H10-track-5-Ritme-b.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H10-track-5-Ritme-b.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 10,
+    "track": 7,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H10-track-5-Ritme-c.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H10-track-5-Ritme-c.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 10,
+    "track": 8,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H10-track-5-Ritme-d.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H10-track-5-Ritme-d.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 10,
+    "track": 9,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H10-track-5-Ritme-e.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H10-track-5-Ritme-e.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 10,
+    "track": 10,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H10-track-5-Ritme.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H10-track-5-Ritme.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 10,
+    "track": 11,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H10-track-38-Toespraak.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H10-track-38-Toespraak.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 12,
+    "track": 1,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H12-track-6-Discussie.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H12-track-6-Discussie.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 12,
+    "track": 2,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H12-track-7-Meneer.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H12-track-7-Meneer.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 12,
+    "track": 3,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H12-track-8-Gelijk-a.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H12-track-8-Gelijk-a.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 12,
+    "track": 4,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H12-track-8-Gelijk-b.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H12-track-8-Gelijk-b.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 12,
+    "track": 5,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H12-track-8-Gelijk-c.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H12-track-8-Gelijk-c.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 12,
+    "track": 6,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H12-track-8-Gelijk-d.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H12-track-8-Gelijk-d.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 12,
+    "track": 7,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H12-track-8-Gelijk-e.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H12-track-8-Gelijk-e.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 12,
+    "track": 8,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H12-track-8-Gelijk-f.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H12-track-8-Gelijk-f.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 12,
+    "track": 9,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H12-track-10-Reactie-a.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H12-track-10-Reactie-a.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 12,
+    "track": 10,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H12-track-10-Reactie-b.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H12-track-10-Reactie-b.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 12,
+    "track": 11,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H12-track-10-Reactie-c.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H12-track-10-Reactie-c.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 12,
+    "track": 12,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H12-track-10-Reactie-d.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H12-track-10-Reactie-d.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 12,
+    "track": 13,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H12-track-10-Reactie-e.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H12-track-10-Reactie-e.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 12,
+    "track": 14,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H12-track-10-Reactie-f.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H12-track-10-Reactie-f.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 12,
+    "track": 15,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H12-track-10-Reactie-g.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H12-track-10-Reactie-g.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 13,
+    "track": 1,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H13-track-12-Verloren.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H13-track-12-Verloren.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 14,
+    "track": 1,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H14-track-13-Ontslag-a.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H14-track-13-Ontslag-a.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 14,
+    "track": 2,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H14-track-13-Ontslag-b.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H14-track-13-Ontslag-b.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 14,
+    "track": 3,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H14-track-13-Ontslag-c.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H14-track-13-Ontslag-c.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 14,
+    "track": 4,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H14-track-19-Uitspraak-a.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H14-track-19-Uitspraak-a.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 14,
+    "track": 5,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H14-track-19-Uitspraak-b.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H14-track-19-Uitspraak-b.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 14,
+    "track": 6,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H14-track-19-Uitspraak-c.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H14-track-19-Uitspraak-c.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 14,
+    "track": 7,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H14-track-19-Uitspraak-d.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H14-track-19-Uitspraak-d.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 14,
+    "track": 8,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H14-track-19-Uitspraak-e.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H14-track-19-Uitspraak-e.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 14,
+    "track": 9,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H14-track-19-Uitspraak-vb.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H14-track-19-Uitspraak-vb.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 14,
+    "track": 10,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H14-track-20-Uitspraak.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H14-track-20-Uitspraak.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 15,
+    "track": 1,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H15-track-21-Luisteren.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H15-track-21-Luisteren.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 1,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-a.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-a.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 2,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-b.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-b.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 3,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-c.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-c.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 4,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-d.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-d.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 5,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-e.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-e.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 6,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-f.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-f.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 7,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-g.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-g.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 8,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-h.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-h.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 9,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-i.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-i.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 10,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-j.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-j.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 11,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-k.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H16-track-22-Luisteren-k.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 1,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-3-Spreken-1a.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-3-Spreken-1a.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 2,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-3-Spreken-1b.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-3-Spreken-1b.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 3,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-3-Spreken-1c.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-3-Spreken-1c.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 4,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-3-Spreken-1d.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-3-Spreken-1d.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 5,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-3-Spreken-1e.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-3-Spreken-1e.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 6,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-6-Radiocommercials-a.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-6-Radiocommercials-a.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 7,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-6-Radiocommercials-b.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-6-Radiocommercials-b.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 8,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-6-Radiocommercials-c.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-6-Radiocommercials-c.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 9,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-10-Spreken-5.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-10-Spreken-5.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 10,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-16-Promotie.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-16-Promotie.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 11,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-19-Spreken-2a.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-19-Spreken-2a.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 12,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-19-Spreken-2b.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-19-Spreken-2b.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 13,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-19-Spreken-2c.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-19-Spreken-2c.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 14,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-19-Spreken-2d.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-19-Spreken-2d.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 15,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-19-Spreken-2e.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-19-Spreken-2e.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 16,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-20-Spreken-3a.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-20-Spreken-3a.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 17,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-20-Spreken-3b.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-20-Spreken-3b.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 18,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-20-Spreken-3c.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-20-Spreken-3c.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 19,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-21-Spreken-4a.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-21-Spreken-4a.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 20,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-21-Spreken-4b.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-21-Spreken-4b.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 21,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-21-Spreken-4c.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-21-Spreken-4c.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 22,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-21-Spreken-4d.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-21-Spreken-4d.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 23,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-21-Spreken-4e.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-21-Spreken-4e.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 17,
+    "track": 24,
+    "file": "Audio/contact-4/workbook/Contact-nieuw-4-HW-H17-track-21-Spreken-4f.mp3",
+    "source": "audio/workbook/Contact-nieuw-4-HW-H17-track-21-Spreken-4f.mp3"
+  }
+]

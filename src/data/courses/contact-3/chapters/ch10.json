@@ -1,0 +1,382 @@
+{
+  "number": 10,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "afslaan (ik sla … af )",
+          "english": "to turn",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "afsluiten (ik sluit … af )",
+          "english": "to close off",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "gelden voor",
+          "english": "to apply to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "informeren",
+          "english": "to inform",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "inrichten (ik richt … in)",
+          "english": "to organize",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "merken",
+          "english": "to notice",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "scheiden",
+          "english": "to separate",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "starten",
+          "english": "to start",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verdelen",
+          "english": "to divide",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vernieuwen",
+          "english": "to renew, to renovate",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de afbeelding (de afbeeldingen)",
+          "english": "image",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de afsluiting (de afsluitingen)",
+          "english": "closing off",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bereikbaarheid",
+          "english": "accessibility",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de brief (de brieven)",
+          "english": "letter",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bushalte (de bushaltes)",
+          "english": "bus stop",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de consequentie (de consequenties)",
+          "english": "consequence",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de fase (de fasen/fases)",
+          "english": "phase",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de fietsstrook (de fietsstroken)",
+          "english": "bicycle lane",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de maatregel (de maatregelen/maatregels)",
+          "english": "measure",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de omleiding (de omleidingen)",
+          "english": "alternative route",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de overlast",
+          "english": "inconvenience",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de personenauto (de personenauto’s)",
+          "english": "car",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de reiziger (de reizigers)",
+          "english": "traveller",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de rijstrook (de rijstroken)",
+          "english": "lane",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de uitzondering (de uitzonderingen)",
+          "english": "exception",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verkeershinder",
+          "english": "traffic disruption",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verkeersveiligheid",
+          "english": "road safety",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vernieuwing (de vernieuwingen)",
+          "english": "renovation",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de weg (de wegen)",
+          "english": "road",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gevolg (de gevolgen)",
+          "english": "consequence",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het kruispunt (de kruispunten)",
+          "english": "crossing",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het onderhoud",
+          "english": "maintenance",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het ontwerp (de ontwerpen)",
+          "english": "design",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het riool (de riolen)",
+          "english": "sewer",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het spoor",
+          "english": "track",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het stof",
+          "english": "dust",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het vrachtverkeer",
+          "english": "lorry traffic tweehonderddrie 203",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "alternatief (alternatieve)",
+          "english": "alternative",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "bereikbaar (bereikbare)",
+          "english": "accessible",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "dichtstbijzijnd (dichtstbijzijnde)",
+          "english": "nearest",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ernstig (ernstige)",
+          "english": "serious",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "gedeeltelijk (gedeeltelijke)",
+          "english": "partial; partially",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "gedetailleerd (gedetailleerde)",
+          "english": "in detail",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "geheel (gehele)",
+          "english": "complete; completely",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nader (nadere)",
+          "english": "further",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "gerust",
+          "english": "feel free to, do not hesitate to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "tijdelijk",
+          "english": "temporary",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "tijdig",
+          "english": "in time",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "preposities",
+      "entries": [
+        {
+          "dutch": "behalve",
+          "english": "except (for)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "tijdens",
+          "english": "during",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "aan de kant van",
+          "english": "on the side of",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "buiten kantooruren",
+          "english": "outside business hours",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "contact opnemen met",
+          "english": "to contact, to get in touch with",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "in opdracht van",
+          "english": "by order of, commissioned by",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "invloed hebben op",
+          "english": "to affect",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "naar aanleiding van",
+          "english": "as a result of",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "op de hoogte houden van",
+          "english": "to keep informed of",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

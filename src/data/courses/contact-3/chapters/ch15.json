@@ -1,0 +1,579 @@
+{
+  "number": 15,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "afnemen (het neemt … af )",
+          "english": "to decrease",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "blijken uit (het blijkt … uit)",
+          "english": "to show",
+          "other": null,
+          "note": "Dat blijkt uit onderzoek van … Research shows that …"
+        },
+        {
+          "dutch": "dalen",
+          "english": "to fall, to go down",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "groeien",
+          "english": "to grow",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "halen uit",
+          "english": "to source",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "elektriciteit uit wind halen",
+          "english": "to source electricity from wind",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "krimpen",
+          "english": "to shrink",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "laten weten (ik laat … weten)",
+          "english": "to mention",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "produceren",
+          "english": "to produce",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "stijgen",
+          "english": "to rise, to go up",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "toenemen (het neemt … toe)",
+          "english": "to increase",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vergelijken met",
+          "english": "to compare to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "veroorzaken",
+          "english": "to cause",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich houden aan (ik houd me … aan)",
+          "english": "to stick to",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de 18-jarige (de 18-jarigen)",
+          "english": "eighteen-year-old",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de achttienjarige (de achttienjarigen)",
+          "english": "eighteen-year-old",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de alcohol (-)",
+          "english": "alcohol",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de enquête (de enquêtes)",
+          "english": "survey",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de grafiek (de grafieken)",
+          "english": "graph, chart",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de hoeveelheid (de hoeveelheden)",
+          "english": "amount, number",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de lucht (de luchten/-)",
+          "english": "air",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de oudere (de ouderen)",
+          "english": "senior citizen",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de productie (de producties/-)",
+          "english": "production",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de statistiek (de statistieken)",
+          "english": "statistic",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de stijging (de stijgingen)",
+          "english": "increase",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vrachtwagen (de vrachtwagens)",
+          "english": "lorry, truck tweehonderdelf 211",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het aandeel (de aandelen)",
+          "english": "share",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het cijfer (de cijfers)",
+          "english": "number",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gebruik (-)",
+          "english": "use",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het alcoholgebruik",
+          "english": "alcohol use",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het kwartaal (de kwartalen)",
+          "english": "quarter",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het onderscheid (-)",
+          "english": "difference",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het percentage (de percentages)",
+          "english": "percentage",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het procent (de procenten)",
+          "english": "per cent",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het verkeer (-)",
+          "english": "traffic",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het wegverkeer",
+          "english": "road traffic",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "afnemend (afnemende)",
+          "english": "decreasing",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "dalend (dalende)",
+          "english": "falling, descending",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een dalende lijn",
+          "english": "downward trend",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "groeiend (groeiende)",
+          "english": "growing",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "krimpend (krimpende)",
+          "english": "shrinking",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "matig (matige)",
+          "english": "moderate",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "stijgend (stijgende)",
+          "english": "rising, increasing",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een stijgende lijn",
+          "english": "upward trend",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "toenemend (toenemende)",
+          "english": "increasing",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "totaal (totale)",
+          "english": "total",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "volwassen (volwassen)",
+          "english": "adult",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "deels",
+          "english": "partially",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "helemaal geen",
+          "english": "no … at all",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "helemaal geen alcohol",
+          "english": "no alcohol at all",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "hoogstens",
+          "english": "at the most",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "twee derde",
+          "english": "two thirds",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "preposities",
+      "entries": [
+        {
+          "dutch": "tegenover",
+          "english": "compared to",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "11 procent van …",
+          "english": "11 per cent of …",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "11 procent van alle Nederlanders",
+          "english": "11 per cent of all Dutch people",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de grafiek gaat over …",
+          "english": "the graph/chart is about …",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de grafiek laat … zien",
+          "english": "the graph/chart shows …",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een jaar eerder",
+          "english": "the previous year",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het valt (me) op dat …",
+          "english": "what stands out is that …",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "(in) dezelfde periode vorig jaar",
+          "english": "during the same period last year",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "in vergelijking met",
+          "english": "compared to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "samen goed zijn voor",
+          "english": "to account for",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verantwoordelijk zijn voor",
+          "english": "to be responsible for",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vergeleken met",
+          "english": "compared to",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 45,
+      "title": null,
+      "lines": [
+        "1. zeventien procent",
+        "2. percentage",
+        "3. twee derde",
+        "4. negentienjarigen",
+        "5. drie kwart",
+        "6. afnemen",
+        "7. cijfer",
+        "8. periode",
+        "9. kwartaal",
+        "10. volwassenen",
+        "11. jongeren",
+        "12. ouderen",
+        "13. negentienvijftig",
+        "14. tweeduizendnegentien",
+        "15. vergelijking",
+        "16. hoogstens"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 46,
+      "title": null,
+      "lines": [
+        "1. De grafiek gaat over CO2-uitstoot.",
+        "2. De grafiek gaat over het gebruik van alcohol.",
+        "3. De grafiek gaat over de verkoop van boeken.",
+        "4. We zien de uitstoot bij verschillende soorten bedrijven.",
+        "5. We zien het alcoholgebruik bij verschillende leeftijdsgroepen.",
+        "6. We zien de boekverkoop in verschillende jaren.",
+        "7. Het valt me op dat de verschillen groot zijn.",
+        "8. Het valt me op dat het verschil tussen jongeren en ouderen groot is.",
+        "9. Het valt me op dat mannen meer drinken dan vrouwen.",
+        "10. Conclusie: …"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 52,
+      "title": "Tanja en Charly, om en om",
+      "lines": [
+        "1. vijfenzestigplusser · 13. x-as",
+        "2. jongere · 14. y-as",
+        "3. oudere · 15. percentage",
+        "4. volwassene · 16. festivalganger",
+        "5. Nederlander · 17. werkende",
+        "6. gevangene · 18. niet-werkende",
+        "7. vakantieganger · 19. bedrijf",
+        "8. economie · 20. detailhandel",
+        "9. student · 21. consument",
+        "10. reiziger · 22. producent",
+        "11. bioscoopbezoeker · 23. winkelier",
+        "12. achttienjarige · 24. detaillist"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 53,
+      "title": null,
+      "lines": [
+        "De grafiek gaat over jongeren in Nederland die in de jeugdzorg terechtkomen.",
+        "We zien op de y-as de aantallen jongeren die in de jeugdzorg zitten. Op de x-as zien we de verschillende",
+        "perioden van meting. De metingen gaan over het eerste halfjaar van 2015 tot en met het eerste halfjaar",
+        "van 2019.",
+        "Het valt me op dat de aantallen steeds stijgen.",
+        "In het eerste halfjaar van 2015 waren er bijna 300.000 jongeren in de jeugdzorg. In het eerste halfjaar van",
+        "2019 waren dat er bijna 350.000.",
+        "Het valt me ook op dat er een piek was in het tweede halfjaar van 2018: toen zaten ruim 350.000 jongeren",
+        "in de jeugdzorg.",
+        "Conclusie: er komen steeds meer Nederlandse jongeren die in de jeugdzorg zitten. Ondanks een lichte",
+        "daling in het eerste halfjaar van 2019 blijft hun aantal hoog."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 54,
+      "title": null,
+      "lines": [
+        "Nederlanders gaan steeds vaker per vliegtuig naar hun vakantiebestemming, terwijl dit een van de",
+        "milieuonvriendelijkste vervoermiddelen is. Het Centraal Bureau voor de Statistiek (CBS) maakte bekend dat in",
+        "2009 bij 37 procent van de lange vakanties per vliegtuig werd gereisd. In 2006 was dat 30 procent. Het aantal",
+        "vakantiegangers dat op een korte reis voor het vliegtuig koos, steeg in diezelfde periode van 19 naar 25",
+        "procent. Het lijkt alsof Nederlanders zich weinig aantrekken van schadelijke gevolgen van hun reisgedrag.",
+        "“Vliegen is relatief het meest vervuilende vervoer”, zegt Paul Peeters, docent Duurzaam Vervoer en",
+        "Toerisme. “Een vakantie naar Thailand van twee weken staat gelijk aan de uitstoot van 5 ton CO2”, stelt hij.",
+        "Ter vergelijking: het directe energiegebruik van een gemiddeld huishouden – aardgas, elektra en vervoer",
+        "– is 9 ton CO2 per jaar.",
+        "Volgens Peeters groeit het aantal vliegvakanties wereldwijd met gemiddeld 10 procent per jaar. Vooral",
+        "verre reizen zijn steeds meer in trek. Peeters voorspelt dat het aantal reizen van Europeanen de komende",
+        "tijd met 60 procent toeneemt, en het aantal afgelegde kilometers meer dan verdubbelt. “Mensen maken",
+        "meer kilometers om ergens in de zon te gaan liggen.”",
+        "Zijn er milieuvriendelijkere alternatieven voor het reislustige volk? Er is de mogelijkheid voor het beperken",
+        "van CO2-uitstoot door ‘klimaatcompensatie’. Reizigers kunnen bij organisaties als Trees for Travel en",
+        "GreenSeat een bedrag inleggen voor het planten van bomen. Het idee is dat de bomen evenveel CO2",
+        "opnemen als de reis aan CO2-uitstoot veroorzaakt. Peeters ziet er echter weinig heil in. “We hebben laten",
+        "berekenen dat als al het luchtverkeer wordt gecompenseerd met bomen, de ruimte hiervoor in 2050 op",
+        "is.” Volgens hem is de enige oplossing het indammen van het vliegtoerisme. “Het beste is om minder te",
+        "vliegen. Voor het bekijken van walvissen hoef je niet per se naar",
+        "Nieuw-Zeeland, dat kan ook in Schotland.”"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 55,
+      "title": null,
+      "lines": [
+        "Vierduizend gezinnen met jonge kinderen hebben thuis geen internet",
+        "In ongeveer vierduizend huishoudens met jonge kinderen is thuis geen internet, meldt het Centraal",
+        "Bureau voor de Statistiek (CBS) op basis van cijfers over 2019. Het gaat om gezinnen met kinderen in de",
+        "leeftijd van vijf tot dertien jaar. Dat komt neer op 17.000 Nederlanders, inclusief jonge kinderen."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 56,
+      "title": null,
+      "lines": [
+        "In totaal hebben ongeveer 453.000 mensen van twaalf jaar of ouder in Nederland thuis geen internet."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 57,
+      "title": null,
+      "lines": [
+        "Het gaat met name om ouderen. Bijna een kwart (23 procent) van de 75-plussers heeft thuis geen internet.",
+        "Die groep is in vijf jaar tijd wel meer dan gehalveerd. In 2014 had 51 procent van de 75-plussers thuis geen",
+        "internettoegang."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 58,
+      "title": null,
+      "lines": [
+        "In de groep 65- tot 75-jarigen heeft 6 procent geen internet. Ook dat is een halvering ten opzichte van vijf",
+        "jaar geleden, want in 2014 ging het nog om 12 procent."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 59,
+      "title": null,
+      "lines": [
+        "Mensen die thuis geen internet hebben, geven daar verschillende redenen voor. Het vaakst hebben",
+        "zij geen interesse (66 procent), gevolgd door gebrek aan kennis of vaardigheden (39 procent). Voor 14",
+        "procent is de benodigde apparatuur te duur. Een op de negen personen (11 procent) kiest er vanwege",
+        "zorgen over privacy of veiligheid voor om thuis geen internet te hebben."
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

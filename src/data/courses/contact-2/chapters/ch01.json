@@ -1,0 +1,670 @@
+{
+  "number": 1,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "doen",
+          "english": "to put",
+          "other": null,
+          "note": "Ik doe mijn telefoon in mijn tas. I am putting my phone in my bag."
+        },
+        {
+          "dutch": "halen",
+          "english": "to (go and) get",
+          "other": null,
+          "note": "Kun je Fatma even halen? Can you (go and) get Fatma?"
+        },
+        {
+          "dutch": "hangen",
+          "english": "to hang",
+          "other": null,
+          "note": "De jas hangt aan de kapstok. (positie) The coat is hanging on the coat rack. (position)\nIk hang de jas aan de kapstok. (actie) I am hanging the coat on the coat rack. (action)"
+        },
+        {
+          "dutch": "horen bij",
+          "english": "to belong to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "leggen",
+          "english": "to lay",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "liggen",
+          "english": "to lie",
+          "other": null,
+          "note": "De man ligt op het bed. (personen) The man is lying on the bed. (people)\nDe boeken liggen op tafel. (dingen) The books are on the table. (things)"
+        },
+        {
+          "dutch": "tutoyeren /tuu-twa-jee-ren/",
+          "english": "to address somebody with jij",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zetten",
+          "english": "to put",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zitten",
+          "english": "to sit",
+          "other": null,
+          "note": "Gaat u zitten. (personen) Please take a seat. (people)\nDe telefoon zit in mijn tas. (dingen) The phone is in my bag. (things)"
+        },
+        {
+          "dutch": "ik ben … gebleven (blijven)",
+          "english": "I stayed, I have stayed (to stay)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ik ben … geworden (worden)",
+          "english": "I became, I have become (to become)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het vindt … plaats (plaatsvinden)",
+          "english": "it takes place (to take place)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de bibliotheek (de bibliotheken)",
+          "english": "library",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de file (de files)",
+          "english": "traffic jam",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de gitaar (de gitaren)",
+          "english": "guitar",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de grond (-)",
+          "english": "ground, floor",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de jas (de jassen)",
+          "english": "coat",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de jongen (de jongens)",
+          "english": "boy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kapstok (de kapstokken)",
+          "english": "coat rack",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de klok (de klokken)",
+          "english": "clock",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de lamp (de lampen)",
+          "english": "lamp",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de lip (de lippen)",
+          "english": "lip",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de muur (de muren)",
+          "english": "wall",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de onbekende (de onbekenden)",
+          "english": "stranger",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de regen (-)",
+          "english": "rain",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de rijst (-)",
+          "english": "rice",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de spullen (pl.)",
+          "english": "things, stuff",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "mijn persoonlijke spullen",
+          "english": "my personal belongings",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de tas (de tassen)",
+          "english": "bag",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de telefoon (de telefoons)",
+          "english": "phone",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vloer (de vloeren)",
+          "english": "floor",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de zaal (de zalen)",
+          "english": "room",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vergaderzaal (de vergaderzalen)",
+          "english": "meeting room",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het bureau (de bureaus)",
+          "english": "desk",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bureaustoel (de bureaustoelen)",
+          "english": "desk chair",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gesprekje (de gesprekjes)",
+          "english": "dialogue",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het raam (de ramen)",
+          "english": "window",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het snoep (-)",
+          "english": "sweets",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het stopcontact (de stopcontacten)",
+          "english": "socket",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het verkeer (-)",
+          "english": "traffic",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "droog (droge)",
+          "english": "dry",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "druk (drukke)",
+          "english": "busy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "gespannen (gespannen)",
+          "english": "tense",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nat (natte)",
+          "english": "wet",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "onbekend (onbekende)",
+          "english": "unknown",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ontspannen (ontspannen)",
+          "english": "relaxed",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "aangenaam",
+          "english": "pleased to meet you",
+          "other": null,
+          "note": "Ik ben Tom Smit, aangenaam. Pleased to meet you, I’m Tom Smit."
+        },
+        {
+          "dutch": "alle",
+          "english": "all",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "alsjeblieft",
+          "english": "please",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "beide",
+          "english": "both",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "circa",
+          "english": "about, approximately",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "dank u wel",
+          "english": "thank you",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "eindelijk",
+          "english": "finally",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "hè",
+          "english": "isn’t it?",
+          "other": null,
+          "note": "Wat een slecht weer is het, hè? Terrible weather, isn’t it?"
+        },
+        {
+          "dutch": "hierheen",
+          "english": "over here",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "net als",
+          "english": "just like",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "waar … over",
+          "english": "what … about",
+          "other": null,
+          "note": "Waar gaat het over? What is it about?"
+        },
+        {
+          "dutch": "zo",
+          "english": "in a moment",
+          "other": null,
+          "note": "Ik wil zo beginnen. I’d like to start in a moment."
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "een afspraak hebben met",
+          "english": "to have an appointment with",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "op tijd",
+          "english": "on time",
+          "other": null,
+          "note": "Ik wil op tijd beginnen. I want to start on time."
+        },
+        {
+          "dutch": "net op tijd",
+          "english": "just in time",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Eén moment, graag.",
+          "english": "One moment, please.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Even denken.",
+          "english": "Let me think.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Even kijken.",
+          "english": "Let me see.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Geen dank!",
+          "english": "You’re welcome.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ik heb geen idee.",
+          "english": "I have no idea.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "over koetjes en kalfjes praten",
+          "english": "to make small talk",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ze komt eraan.",
+          "english": "She’s on her way.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Zeg maar jij, hoor!",
+          "english": "You can say jij to me. honderdeenenzeventig 171",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 1,
+      "title": null,
+      "lines": [
+        "Dochter: Pap! Waar is mijn telefoon? Ik kan hem nergens vinden.",
+        "Vader: Ik heb geen idee. Ligt hij niet op je kamer?",
+        "Dochter: Nee.",
+        "Vader: Zit hij misschien in je tas?",
+        "Dochter: Nee, ook niet.",
+        "Vader: Zit hij nog in je jas?",
+        "Dochter: Waar is mijn jas?",
+        "Vader: Die hangt aan de kapstok in de gang.",
+        "Dochter: Oh. Even kijken … Nee, hij zit ook niet in mijn jas.",
+        "Vader: Dan weet ik het ook niet.",
+        "Dochter: Oh, ik zie hem al! Hij zit nog in het stopcontact!",
+        "Bedankt voor je hulp!",
+        "Vader: Graag gedaan."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 2,
+      "title": null,
+      "lines": [
+        "Docent: Welkom allemaal! Ga zitten.",
+        "Hoe gaat het vandaag met jullie?",
+        "Cursisten: Goed.",
+        "Docent: Wat een slecht weer is het, hè?",
+        "Cursist A: Ja, regen, regen, regen!",
+        "Docent: Is er iemand op de fiets gekomen?",
+        "Cursist B: Ja, ik!",
+        "Docent: Ben je nat geworden?",
+        "Cursist B: Nee, ik was gelukkig net op tijd binnen, vóór de regen.",
+        "Docent: Oh, gelukkig.",
+        "Cursist C: En jij?",
+        "Docent: Ik? Ik was ook op de fiets. Maar ik had een regenpak aan, dus ik ben ook droog gebleven.",
+        "Cursist C: Oh, gelukkig.",
+        "Docent: Ik wil zo beginnen met de les. Maar ik mis nog twee mensen.",
+        "Waar zijn Fatma en Suzanna?",
+        "Cursist A: Die staan nog op de gang. Ze zijn aan het bellen.",
+        "Docent: Oh. Kun jij ze even halen, alsjeblieft? De les begint over twee minuten.",
+        "Cursist A: Maar ze zijn aan het bellen!",
+        "Docent: \u0007Ja, dat weet ik. Maar ik wil op tijd met de les beginnen. Daarom moeten ze nu",
+        "binnenkomen.",
+        "Cursist A: Oh, oké. Ja, ik ga ze naar binnen halen.",
+        "Docent: Dank je wel!",
+        "Cursist A: Geen dank!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 3,
+      "title": null,
+      "lines": [
+        "Jongen: Pardon, mevrouw, mag ik u iets vragen?",
+        "Vrouw: Natuurlijk. En zeg maar ‘jij’, hoor!",
+        "Jongen: Oh, oké. Weet u, ehh, weet je waar de bibliotheek is?",
+        "Vrouw: De bibliotheek? Even denken. Ja, die is hier in de buurt. Ben je te voet of op de fiets?",
+        "Jongen: Te voet.",
+        "Vrouw: Dan kun je het beste hier links gaan en dan de derde straat rechts nemen.",
+        "Na 500 meter zie je de bibliotheek voor je.",
+        "Jongen: Dank u wel, ehh, dank je wel.",
+        "Vrouw: Geen dank!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 4,
+      "title": null,
+      "lines": [
+        "Tom: \u0007Goedemorgen, ik kom voor Diny Ploegsma. Ik heb om tien uur een afspraak met",
+        "haar.",
+        "Baliemedewerker: \u0007Goedemorgen, ik zal haar even bellen. Dan komt ze hierheen. Wat is uw naam?",
+        "Tom: Tom de Molen.",
+        "Baliemedewerker: Eén moment graag.",
+        "Tom: Natuurlijk.",
+        "Baliemedewerker: Diny, je afspraak van tien uur is hier. Prima, dat zal ik tegen hem zeggen.",
+        "\u0007Meneer? Diny komt eraan. U kunt daar even gaan zitten, als u wilt. En zal ik uw jas",
+        "aan de kapstok hangen?",
+        "Tom: Graag, dank u.",
+        "Baliemedewerker: Geen dank!",
+        "Diny: Tom de Molen?",
+        "Tom: Ja, dat ben ik.",
+        "Diny: Goedemorgen, en welkom op ons kantoor!",
+        "Tom: Goedemorgen. Dank u.",
+        "Diny: Ik ben Diny Ploegsma.",
+        "Tom: Tom de Molen, aangenaam.",
+        "Diny: Fijn om elkaar eindelijk te zien, na alle e-mails en telefoontjes.",
+        "Tom: Ja, dat vind ik ook!",
+        "Diny: Hebt u een goede reis gehad?",
+        "Tom: Ja, prima. Er was geen file gelukkig.",
+        "Diny: Gelukkig.",
+        "\u0007Loopt u met me mee? We gaan naar de vergaderzaal. De koffie staat al klaar!",
+        "Tom: Dat klinkt goed.",
+        "Diny: En zullen we tutoyeren, trouwens?",
+        "Tom: Ja, graag.",
+        "Diny: Nou Tom, wil je melk en suiker in je koffie?",
+        "Tom: Ja graag, dank je."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 5,
+      "title": null,
+      "lines": [
+        "Klant: Pardon, mag ik iets vragen alstublieft?",
+        "Medewerker supermarkt: Natuurlijk, hoe kan ik u helpen?",
+        "Klant: Waar staat de rijst? Weet u dat?",
+        "Medewerker supermarkt: \u0007De rijst? Die staat in het volgende gangpad, naast de olie en azijn en tegen-",
+        "over de pasta.",
+        "Klant: Ah, dank u wel. En nog een vraagje: Waar ligt het snoep?",
+        "Medewerker supermarkt: Dat ligt bij de kassa.",
+        "Klant: Bedankt.",
+        "Medewerker supermarkt: Graag gedaan."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 6,
+      "title": null,
+      "lines": [
+        "1. Je mag best jij zeggen.",
+        "2. Zeg maar jij, hoor!",
+        "3. Zullen we je en jij zeggen?",
+        "4. Zullen we tutoyeren?",
+        "5. Hoe moet ik haar aanspreken, met je en jij of met u?",
+        "6. Hoe moet ik hem aanspreken, met je en jij of met u?"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 7,
+      "title": "Dit zeg je overal",
+      "lines": [
+        "1. Pardon, mag ik u iets vragen? Ja, natuurlijk!",
+        "2. Pardon, mag ik u wat vragen? Ja, zeker!",
+        "3. Kunt u me helpen? Ja, hoor.",
+        "Dit zeg je in de kledingwinkel:",
+        "4. Waar hangen de jassen?",
+        "5. Waar liggen de T-shirts?",
+        "6. Waar staan de schoenen?",
+        "Dit zeg je in de kantoorboekwinkel:",
+        "7. Waar liggen de schriften?",
+        "8. Waar staan de woordenboeken?",
+        "Dit zeg je in de kantine:",
+        "9. Waar staat de koffie?",
+        "10. Waar staat de suiker?",
+        "Dit zeg je overal:",
+        "11. Bedankt voor uw hulp! · Graag gedaan."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 1,
+      "title": "dialoog 1",
+      "lines": [
+        "Man: Mag ik iets vragen, alstublieft?",
+        "Vrouw: Natuurlijk.",
+        "Man: Weet u waar kamer 1.07 is?",
+        "Vrouw: Jazeker, dat is op de eerste verdieping. U kunt de trap of de lift nemen.",
+        "Man: Dank u wel.",
+        "Vrouw: Geen dank.",
+        "dialoog 2:",
+        "Vrouw 1: Goedenavond, en welkom!",
+        "Man: Goedenavond. Dank u.",
+        "Man: Dit is mijn vrouw, Linda.",
+        "Vrouw 1: Aangenaam.",
+        "Vrouw 2: Aangenaam.",
+        "Vrouw 1: Wilt u misschien iets drinken?",
+        "Vrouw 2: Ja, graag."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 2,
+      "title": null,
+      "lines": [
+        "1. mij",
+        "2. nu",
+        "3. ze",
+        "4. duur",
+        "5. we",
+        "6. me",
+        "7. wij",
+        "8. u"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 3,
+      "title": null,
+      "lines": [
+        "1. zit – zit",
+        "2. zet – zit",
+        "3. zit – zet",
+        "4. leg – leg",
+        "5. lig – lig",
+        "6. ligt – legt",
+        "7. leggen – liggen",
+        "8. zetten – zetten"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 4,
+      "title": null,
+      "lines": [
+        "1. zetten",
+        "2. liggen",
+        "3. lig",
+        "4. zit",
+        "5. legt"
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

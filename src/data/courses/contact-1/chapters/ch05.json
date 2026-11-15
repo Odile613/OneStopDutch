@@ -1,0 +1,742 @@
+{
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "afspreken",
+          "english": "(to arrange) to meet",
+          "other": "to agree on",
+          "note": null
+        },
+        {
+          "dutch": "beloven",
+          "english": "to promise",
+          "other": null,
+          "note": "Wat beloof jij? What do you promise?"
+        },
+        {
+          "dutch": "dansen",
+          "english": "to dance",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "eten",
+          "english": "to eat",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "kunnen",
+          "english": "can",
+          "other": "to be able to",
+          "note": "Kun je maandag om 10 uur? Is Monday at 10 o’clock possible?\nKun je goed dansen? Can you dance well?"
+        },
+        {
+          "dutch": "leren",
+          "english": "to learn",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "moeten",
+          "english": "to have to",
+          "other": "must",
+          "note": null
+        },
+        {
+          "dutch": "mogen",
+          "english": "can",
+          "other": "to be allowed to",
+          "note": "Mag ik hier roken? Can I smoke here?\nJe mag in de vergaderruimte niet eten. You can’t eat in the meeting room."
+        },
+        {
+          "dutch": "overleggen",
+          "english": "to consult, to discuss",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "plannen",
+          "english": "to plan",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "reageren op",
+          "english": "to react to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "reserveren",
+          "english": "to book",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "roken",
+          "english": "to smoke",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vergaderen",
+          "english": "to meet",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verzetten",
+          "english": "to change, to reschedule",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "willen",
+          "english": "to want",
+          "other": null,
+          "note": "Wilt u iets drinken? Would you like something to drink?\nWe willen graag sporten. We would like to exercise."
+        },
+        {
+          "dutch": "zingen",
+          "english": "to sing",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zullen",
+          "english": "will, shall",
+          "other": null,
+          "note": "Zal ik even helpen? Shall I give you a hand?\nZullen we om half 9 afspreken? Shall we meet at half past eight?\nWe zullen ons huiswerk maken! We will do our homework!"
+        },
+        {
+          "dutch": "ga … terug (teruggaan)",
+          "english": "go back",
+          "other": "(to go back)",
+          "note": null
+        },
+        {
+          "dutch": "ga … vooruit (vooruitgaan)",
+          "english": "go forward",
+          "other": "(to go forward)",
+          "note": null
+        },
+        {
+          "dutch": "aan de beurt zijn",
+          "english": "to be one’s turn",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de deadline (de deadlines)",
+          "english": "deadline (deadlines)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de planning (de planningen)",
+          "english": "plan (plans), schedule (schedules)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de jaarplanning",
+          "english": "annual schedule (annual schedules)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de toekomst (-)",
+          "english": "future",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vergadering (de vergaderingen)",
+          "english": "meeting (meetings)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het overleg (-)",
+          "english": "consultation (consultations)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het team (de teams)",
+          "english": "team (teams)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het verschil (de verschillen)",
+          "english": "difference (differences)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het voorstel (de voorstellen)",
+          "english": "proposal (proposals)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de opdracht (de opdrachten)",
+          "english": "assignment (assignments), task (tasks)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gesprek (de gesprekken)",
+          "english": "conversation (conversations)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "een afspraak maken",
+          "english": "to make an appointment",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een afspraak verzetten",
+          "english": "to reschedule an appointment",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een voorstel doen",
+          "english": "to suggest, to propose",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "iets graag willen",
+          "english": "would like something",
+          "other": null,
+          "note": "Ik wil graag een kopje koffie. I would like a cup of coffee."
+        },
+        {
+          "dutch": "vrij zijn",
+          "english": "to have the day off",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "beter (betere)",
+          "english": "better",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "druk (drukke)",
+          "english": "busy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "kort (korte)",
+          "english": "short",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lang (lange)",
+          "english": "long",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "anders",
+          "english": "different",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "/aa/ klinkt anders dan",
+          "english": "/ ee/. /aa/ sounds different than /ee/.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "even",
+          "english": "just",
+          "other": null,
+          "note": "Ik ga even lunchen. I am going to have some lunch."
+        },
+        {
+          "dutch": "hetzelfde",
+          "english": "the same",
+          "other": null,
+          "note": "au klinkt hetzelfde als ou. au sounds the same as ou."
+        },
+        {
+          "dutch": "misschien",
+          "english": "perhaps",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ons (onze)",
+          "english": "our",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "hun",
+          "english": "their",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "privé",
+          "english": "private",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de privéafspraak",
+          "english": "private engagement",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Ik heb het druk.",
+          "english": "I am busy.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Vind je dat goed?",
+          "english": "Is that okay for you?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Succes!",
+          "english": "Good luck!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dan kan ik niet.",
+          "english": "I can’t make it then.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Momentje, …",
+          "english": "Just a minute, …",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Leer ook:",
+          "english": "Also learn:",
+          "other": null,
+          "note": "– de preposities (zie p. 52) – the prepositions (see p. 52)"
+        },
+        {
+          "dutch": "Het Wat-weet-je-al-spel",
+          "english": "Game: What have you learnt so far?",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 27,
+      "title": null,
+      "lines": [
+        "Diana: Goedemorgen, Adam. Hoe gaat het met je?",
+        "Adam: Hallo Diana. Het gaat wel. Ik heb het een beetje druk. En hoe gaat het met jou?",
+        "Diana: Ja, prima. Mag ik je wat vragen? Ik ga een nieuwe planning maken en ik wil graag even",
+        "met je overleggen. Zullen we een overleg plannen?",
+        "Adam: Ja, dat is een goed idee. Ik heb het deze week heel druk maar volgende week heb ik wel",
+        "tijd. Maandag ben ik een dag vrij maar op dinsdag, woensdag, donderdag en vrijdag",
+        "werk ik.",
+        "Diana: Even denken. Ehm, kun je dan misschien op dinsdag? Of is woensdag beter?",
+        "Adam: Oh, dinsdag heb ik al een andere afspraak, dus woensdag, graag.",
+        "Diana: Oké, woensdag kan ik ook. Kun je in de ochtend?",
+        "Adam: Ja, in de ochtend is prima.",
+        "Diana: Zullen we dan om tien uur afspreken?",
+        "Adam: Ehm, ik kijk even in mijn agenda. Momentje. (…) Even kijken. Woensdagochtend om tien",
+        "uur. Mag het ook een half uur later zijn?",
+        "Diana: Ja, hoor. Geen probleem!",
+        "Adam: Dan is onze afspraak op woensdag om half elf.",
+        "Diana: Mooi. Ik zal het ook in mijn agenda noteren. Ik zal ook een vergaderruimte reserveren.",
+        "Adam: Oké, nou, ik ga even lunchen. Ga je ook lunchen?",
+        "Diana: Nee, ik moet nog veel dingen doen. Ik ga later lunchen.",
+        "Adam: Oh, jammer! Nou, veel succes dan!",
+        "Diana: Dank je wel."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 28,
+      "title": null,
+      "lines": [
+        "Zullen we een afspraak maken?  Ja, goed!",
+        "Zullen we naar het café gaan? Gezellig!",
+        "Zullen we maandag gaan? Maandag kan ik niet.",
+        "Oh, wat jammer! Kun je morgen? Nee, dan kan ik niet.",
+        "Kun je woensdag? Nee, dan kan ik ook niet.",
+        "Kun je volgende week donderdag? Ja, dan kan ik wel.",
+        "Hoe laat? Om 11 uur? Kun je ook later?",
+        "Om 12 uur? Kun je nog later?",
+        "Hoe laat kun jij? Ik kan pas om 2 uur.",
+        "Om 2 uur doen dan? Goed!",
+        "Dan zie ik je volgende week donderdag, om 2 uur. Tot dan!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 29,
+      "title": null,
+      "lines": [
+        "De |aa| en de |a|.  maan - man",
+        "De |ee| en de |e|. week - wek",
+        "De |ie| en de |i|. vies - vis",
+        "De |oo| en de |o|. zoon - zon",
+        "De |uu| en de |u|. duur - dus"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 30,
+      "title": null,
+      "lines": [
+        "maan - man",
+        "1. laat",
+        "2. van",
+        "3. lang",
+        "4. gaat",
+        "5. dat",
+        "6. maakt"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 31,
+      "title": null,
+      "lines": [
+        "week - wek",
+        "1. week",
+        "2. spreek",
+        "3. heb",
+        "4. met",
+        "5. heet",
+        "6. zes"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 32,
+      "title": null,
+      "lines": [
+        "vies - vis",
+        "1. ik",
+        "2. zien",
+        "3. drie",
+        "4. vier",
+        "5. wil",
+        "6. is"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 33,
+      "title": null,
+      "lines": [
+        "zoon - zon",
+        "1. op",
+        "2. ook",
+        "3. zon",
+        "4. woon",
+        "5. rok",
+        "6. hoor"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 34,
+      "title": null,
+      "lines": [
+        "duur - dus",
+        "1. nu",
+        "2. huur",
+        "3. bus",
+        "4. duur",
+        "5. vul",
+        "6. stuk"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 25,
+      "title": null,
+      "lines": [
+        "Vera: Met Vera.",
+        "Sander: Hoi Vera, met Sander.",
+        "Vera: Hé Sander, wat leuk dat je belt.",
+        "Sander: Zullen we weer eens een keer afspraken? Dan kunnen we eindelijk weer eens bijkletsen.",
+        "Vera: Ja, gezellig. Wanneer zullen we afspreken?",
+        "Sander: Kun je aanstaande vrijdag?",
+        "Vera: Nee, sorry, dan moet ik werken.",
+        "Sander: Werken? Jij studeert toch nog?",
+        "Vera: Ja, maar ik werk ook twee avonden in de week in een café.",
+        "Sander: In welk café werk je?",
+        "Vera: In café ‘De Studio’ . Kun je zaterdagavond? Dan ben ik vrij.",
+        "Sander: Zaterdagavond kan ik wel. Zullen we om acht uur afspreken?",
+        "Vera: Ja, prima. Waar?",
+        "Sander: Nou, in ‘‘De Studio’ . Ik wil wel eens zien waar je werkt.",
+        "Vera: Oké, dan zien we elkaar zaterdag om acht uur in café ‘De Studio’ .",
+        "Sander: Ja leuk, tot zaterdag.",
+        "Vera: Tot dan."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 26,
+      "title": null,
+      "lines": [
+        "1.  /a/  6. /aa/ 11. /oo/ 16. /o/",
+        "2. /aa/ 7. /a/ 12. /oo/ 17. /o/",
+        "3. /aa/ 8. /aa/ 13. /oo/ 18. /o/",
+        "4. /a/ 9. /aa/ 14. /o/ 19. /oo/",
+        "5. /a/ 10. /a/ 15. /oo/ 20. /oo/"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 27,
+      "title": null,
+      "lines": [
+        "1.  wat  6. land 11. woon 16. kok",
+        "2. naam 7. kaart 12. kom 17. kook",
+        "3. taal 8. dat 13. hoor 18. pot",
+        "4. man 9. straat 14. ook 19. kom",
+        "5. acht 10. dag 15. op 20. poot"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 28,
+      "title": null,
+      "lines": [
+        "1. /e/ 6. /e/ 11. /i/ 16. /i/",
+        "2. /ee/ 7. /ee/ 12. /i/ 17. /ie/",
+        "3. /ee/ 8. /e/ 13. /ie/ 18. /ie/",
+        "4. /e/ 9. /ee/ 14. /ie/ 19. /i/",
+        "5. /ee/ 10. /ee/ 15. /ie/ 20. /ie/"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 29,
+      "title": null,
+      "lines": [
+        "1. ben 6. heb 11. min 16. wil",
+        "2. deel 7. heel 12. lig 17. wie",
+        "3. geen 8. met 13. tien 18. vriend",
+        "4. spel 9. meer 14. vier 19. vis",
+        "5. spreek 10. week 15. niet 20. vies"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 30,
+      "title": null,
+      "lines": [
+        "1. /u/ 6. /u/ 11. /uu/",
+        "2. /uu/ 7. /u/ 12. /uu/",
+        "3. /u/ 8. /uu/ 13. /u/",
+        "4. /u/ 9. /uu/ 14. /uu/",
+        "5. /uu/ 10. /u/ 15. /u/"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 31,
+      "title": null,
+      "lines": [
+        "1. stuk 6. nul 11. u",
+        "2. dus 7. duur 12. gul",
+        "3. rug 8. mus 13. kus",
+        "4. uur 9. buur 14. munt",
+        "5. Luuk 10. nu 15. vuur"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 32,
+      "title": null,
+      "lines": [
+        "Sven:  Hé Karin!",
+        "Karin: Hoi Sven. Hoe is het?",
+        "Sven: Prima, en met jou?",
+        "Karin:  Heel goed.",
+        "Sven: Werk jij nog in de pizzeria?",
+        "Karin: Nee, niet meer. Altijd ‘s avonds werken… Ik vind dat niet zo leuk. Ik werk nu als",
+        "barkeepster in een museumcafé.",
+        "Sven: Oh, wat leuk. Welk museum?",
+        "Karin: Museum Het Valkhof.",
+        "Sven: Dat ken ik niet. Wat voor museum is het?",
+        "Karin: Een museum voor kunst en archeologie.",
+        "Sven: Interessant.",
+        "(…)",
+        "Sven: Ik wil graag weer eens naar een museum gaan.",
+        "Karin: Nou, we kunnen samen gaan. Ik moet zo toch werken!",
+        "Sven: Nu?",
+        "Karin: Ja … dan ga ik werken en dan kun jij het museum bekijken.",
+        "Sven: Hmm, hoe laat is het?",
+        "Karin: Even kijken, het is nu half een.",
+        "Sven: Oh, is het al half een? Nee, sorry, ik heb nu geen tijd. Om één uur heb ik een afspraak.",
+        "(…)",
+        "Sven: Wanneer is het museum eigenlijk open?",
+        "Karin: Iedere dag, alleen op maandag is het museum gesloten.",
+        "Sven: Van hoe laat tot hoe laat is het museum open?",
+        "Karin: Het museum gaat doordeweeks om tien uur open en sluit om vijf uur. In het weekend",
+        "gaat het museum om twaalf uur open.",
+        "Sven: Oké, dan kan ik zaterdag gaan. Moet jij dan werken?",
+        "Karin: Op zaterdag werk ik, ja.",
+        "Sven: Dan kom ik zaterdag om twaalf uur een kopje koffie drinken. En dan ga ik daarna kunst",
+        "kijken…",
+        "Karin:  Dat is goed. Dan zal ik een lekker kopje koffie voor je maken.",
+        "Sven: Oké, leuk. Hé, ik moet nu gaan. Ik zie je zaterdag …",
+        "Karin: Tot zaterdag."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "id": "tb-05-auto-1",
+      "instruction": "Kies het juiste antwoord.",
+      "question": "Oefening bij hoofdstuk 5: Zullen we even overleggen?.",
+      "options": [
+        "Juist",
+        "Onjuist"
+      ],
+      "answerIndex": 0,
+      "explanation": ""
+    }
+  ],
+  "workbookExercises": [],
+  "grammar": [
+    {
+      "id": "ch05-overzicht-hoofdstuk-5",
+      "title": "Overzicht hoofdstuk 5",
+      "paragraphs": [
+        "overzicht hoofdstuk5",
+        "yeache neer, merroaw"
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch05-preposities",
+      "title": "Preposities",
+      "paragraphs": [
+        "me",
+        "→ mijn agenda, mijn collega",
+        "→ ons overleg, onze afspraak, onze collega",
+        "(het-woorden: ons; de-woorden: onze)"
+      ],
+      "examples": [
+        "Aan het begin: Ha/Hoi/Hallo",
+        "Ik schrijf een e-mail aan een collega.",
+        "Aan het einde: Groet/ Groetjes",
+        "Ik maak een afspraak met mijn collega.",
+        "Ik kan pas na de lunch.",
+        "Ik heb om 10 uur een afspraak.",
+        "ik",
+        "Ik heb op dinsdag geen afspraken.",
+        "we/wij",
+        "Ik bel/mail over onze afspraak.",
+        "Ik werk bij een groot bedrijf.",
+        "ze/zij (pl.) → hun e-mails, hun afspraak",
+        "Ik heb één afspraak per dag.",
+        "Ik kan niet in de agenda van mijn collega kijken."
+      ]
+    },
+    {
+      "id": "ch05-de-modale-verba-auxiliaria",
+      "title": "De modale verba auxiliaria",
+      "paragraphs": [
+        "Het presens van de modale verba auxiliaria + het verbum gaan",
+        "infinitief",
+        "moeten",
+        "willen",
+        "mogen",
+        "kunnen",
+        "zullen",
+        "udoull",
+        "ik",
+        "sing.",
+        "moet",
+        "mag",
+        "wil",
+        "kan",
+        "zal",
+        "ga",
+        "moet",
+        "je/jij",
+        "wil/wilt*(wil je)",
+        "mag",
+        "kan/kunt* (kan/kun je)",
+        "zal/zult* (zal/zul je)",
+        "gaat (ga je)",
+        "moet",
+        "wilt",
+        "kunt",
+        "mag",
+        "zult"
+      ],
+      "examples": [
+        "Ik gebruik mijn agenda alleen voor werkafspraken",
+        "Kan/Mag ik wat vragen?",
+        "Kun je me helpen?",
+        "We mogen hier niet eten.",
+        "Kun je op maandag?",
+        "We willen graag Nederlands leren.",
+        "Zij kunnen goed dansen.",
+        "Ik zal de vergaderruimte reserveren.",
+        "Jullie moeten het huiswerk maken.",
+        "Zullen we om half negen afspreken?"
+      ]
+    }
+  ],
+  "number": 5,
+  "title": "Zullen we even overleggen?"
+}

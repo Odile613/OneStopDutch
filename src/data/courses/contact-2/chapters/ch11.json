@@ -1,0 +1,602 @@
+{
+  "number": 11,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "beantwoorden",
+          "english": "to reply",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "genieten van",
+          "english": "to enjoy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ontdekken",
+          "english": "to discover",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ontvangen",
+          "english": "to receive",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "organiseren",
+          "english": "to organize",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verzamelen",
+          "english": "to collect",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich aanmelden voor (ik meld me aan voor…)",
+          "english": "to sign up for (I sign up for …)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich oriënteren op",
+          "english": "to find out (as much as possible) about",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de diplomawaardering (de diplomawaarderingen)",
+          "english": "credential evaluation",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de eis (de eisen)",
+          "english": "requirement",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de folder (de folders)",
+          "english": "flyer",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de hogeschool (de hogescholen)",
+          "english": "college of higher education",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de inleiding (de inleidingen)",
+          "english": "introduction",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de open dag (de open dagen)",
+          "english": "open day",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de relatie (de relaties)",
+          "english": "relation",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de scholier (de scholieren)",
+          "english": "pupil",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de structuur (de structuren)",
+          "english": "structure",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de student (de studenten)",
+          "english": "student",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de studentenvereniging (de studentenverenigingen)",
+          "english": "student union",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de studie (de studies)",
+          "english": "study",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de studieadviseur (de studieadviseurs)",
+          "english": "supervisor",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de studiekeuze (de studiekeuzes)",
+          "english": "choice of study programme",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de universiteit (de universiteiten)",
+          "english": "university",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de voorlichting (de voorlichtingen)",
+          "english": "information, advice",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vooropleiding (de vooropleidingen)",
+          "english": "prior education",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het begin (-)",
+          "english": "beginning",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het buitenland (-)",
+          "english": "foreign country, abroad",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het certificaat (de certificaten)",
+          "english": "certificate",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het einde (de einden/eindes)",
+          "english": "end",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het eindexamen (de eindexamens)",
+          "english": "final exam",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gedrag (-/de gedragingen)",
+          "english": "behaviour",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het niveau (de niveaus)",
+          "english": "level",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het onderwerp (de onderwerpen)",
+          "english": "subject",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het midden (-)",
+          "english": "middle",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het slot (-)",
+          "english": "end",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het studentenleven (-)",
+          "english": "student life",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het vak (de vakken)",
+          "english": "subject",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "algemeen (algemene)",
+          "english": "general",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "buitenlands (buitenlandse)",
+          "english": "foreign",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "precies (precieze)",
+          "english": "precise",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uitgebreid (uitgebreide)",
+          "english": "detailed",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verplicht (verplichte)",
+          "english": "compulsory",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "bijzinconjuncties",
+      "entries": [
+        {
+          "dutch": "zoals",
+          "english": "such as",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "alvast",
+          "english": "in the meantime",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "persoonlijk",
+          "english": "personally",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "precies",
+          "english": "precisely",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uitstekend",
+          "english": "excellent",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "van alles",
+          "english": "everything",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "voldoende",
+          "english": "sufficiently",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vooral",
+          "english": "especially",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wellicht",
+          "english": "perhaps",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zulke",
+          "english": "such",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "afkortingen",
+      "entries": [
+        {
+          "dutch": "drs. (doctorandus)",
+          "english": "MSc, MA",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "i.v.m. (in verband met)",
+          "english": "regarding",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "o.a. (onder andere(n))",
+          "english": "such as",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "t/m (tot en met)",
+          "english": "up to and including",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "z.s.m. (zo snel mogelijk)",
+          "english": "as soon as possible",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "voorlichting krijgen",
+          "english": "to get advice",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "van plan zijn om … te",
+          "english": "to intend, to be going to",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "(formele mails)",
+          "english": "(formal emails)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Geachte heer Achternaam,",
+          "english": "Dear Mr Last Name,",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Geachte mevrouw Achternaam,",
+          "english": "Dear Mrs / Ms Last Name,",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Geachte mevrouw, geachte heer,",
+          "english": "Dear Madam / Sir,",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Geachte heer, mevrouw,",
+          "english": "Dear Sir / Madam,",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Beste meneer Achternaam,",
+          "english": "Dear Mr LLast Name,",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Beste mevrouw Achternaam,",
+          "english": "Dear Mrs / Ms Last Name,",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Met vriendelijke groet,",
+          "english": "Kind regards,",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Met vriendelijke groeten,",
+          "english": "Kind regards, honderdeenennegentig 191",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 54,
+      "title": null,
+      "lines": [
+        "Student: Hoi, welkom bij het kraampje van Psychologie. Kan ik je misschien helpen?",
+        "Johanna: \u0007Hallo, ik ben van plan om in Nederland te gaan studeren. Op dit moment ben ik vooral",
+        "geïnteresseerd in Psychologie en Politicologie. Kun je me iets vertellen over die studies?",
+        "Student: Ik kan je van alles vertellen over de studie Psychologie. Wat wil je precies weten?",
+        "Johanna: Ik heb veel vragen. Bijvoorbeeld, welke vakken krijg je in het eerste jaar?",
+        "Student: \u0007In deze folder staat precies beschreven hoe de studie is opgebouwd. Zoals je ziet, krijg je",
+        "vooral algemene vakken. De specialisatie komt pas in het derde jaar.",
+        "Johanna: In welk jaar zit jij?",
+        "Student: Ik zit zelf in het derde jaar. Ik heb net mijn specialisatie gekozen.",
+        "Johanna: Leuk. Welke specialisatiemogelijkheden zijn er?",
+        "Student: \u0007Je kunt kiezen uit Klinische Psychologie, Organisatiepsychologie of Neuropsychologie.",
+        "Ik heb voor Klinische Psychologie gekozen. Waarom ben jij eigenlijk geïnteresseerd in",
+        "Psychologie?",
+        "Johanna: \u0007Ik vind menselijk gedrag heel interessant. Waarom doen mensen wat ze doen?",
+        "Hoe werken relaties? Die vragen stel ik mijzelf vaak.",
+        "Student: Dan is Psychologie de juiste studie voor jou. Heb je nog meer vragen?",
+        "Johanna: \u0007Ja, eigenlijk wel. Ik kom uit Duitsland, dat heb je misschien wel gehoord. Hoe zit het met",
+        "buitenlandse studenten? Moet ik een diplomawaardering hebben?",
+        "Student: Maar jouw Nederlands is uitstekend! Ik had niet gehoord dat je uit Duitsland komt!",
+        "Johanna: O, dank je.",
+        "Student: \u0007Je vroeg of je een diplomawaardering moet hebben. Dat weet ik helaas niet.",
+        "Onze studieadviseur kan zulke vragen wel beantwoorden. Ze staat daar.",
+        "Johanna: \u0007Dat is goed. Dan loop ik even naar haar toe. Bedankt voor het beantwoorden van mijn",
+        "vragen.",
+        "Student: Graag gedaan. Succes met je studiekeuze. En vergeet de folder niet.",
+        "Johanna: Nee, zeker niet. Wellicht tot volgend jaar!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 55,
+      "title": null,
+      "lines": [
+        "1. Kan ik je helpen?",
+        "2. Wat wil je precies weten?",
+        "3. Heb je nog meer vragen?",
+        "4. Zal ik je een folder geven?",
+        "5. Veel succes met je studiekeuze!",
+        "6. Wellicht tot ziens!",
+        "7. Ik ben van plan om Psychologie te gaan studeren.",
+        "8. Mag ik iets vragen over die studie?",
+        "9. Kun je me iets meer vertellen over de studie?",
+        "10. Welke vakken krijg je in het eerste jaar?",
+        "11. Heb je misschien een folder met alle informatie?",
+        "12. Moet ik een diplomawaardering hebben?",
+        "13. Bedankt voor het beantwoorden van mijn vragen.",
+        "14. Bedankt voor alle informatie. Het was heel duidelijk."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 56,
+      "title": null,
+      "lines": [
+        "1. filosofie",
+        "2. economie",
+        "3. biologie",
+        "4. psychologie",
+        "5. politicologie",
+        "6. geologie"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 25,
+      "title": null,
+      "lines": [
+        "Arek: \u0007Zo, het eerste jaar van onze studie is bijna afgelopen. Weten jullie al wat jullie volgend",
+        "jaar gaan doen?",
+        "Jonas: \u0007Ik neem een tussenjaar. Ik ben van plan om een reis door Zuid-Amerika te maken. Dat",
+        "lijkt me erg leuk.",
+        "Ulrike: Wow, wat cool, Jonas. Ga je dan voor een stage of alleen om te reizen?",
+        "Jonas: \u0007Ik ga alleen om te reizen. Mijn stage komt later wel. Wat ben jij eigenlijk van plan,",
+        "Arek?",
+        "Arek: \u0007Ik wil ook naar het buitenland, maar ik ben wel van plan om mijn stage daar te toen. Ik",
+        "denk aan een stage in Zweden of Italië.",
+        "Ulrike: Beide landen zijn leuk. Heb je al een stageadres?",
+        "Arek: \u0007Alleen in Zweden. Ik ben van plan om dit weekend te mailen naar een bedrijf in Italië.",
+        "We zullen zien.",
+        "Wat zijn jouw plannen voor het komende jaar, Ulrike?",
+        "Ulrike: \u0007Ik ben van plan om gewoon hier te blijven. Ik wil mijn stage pas in het derde jaar",
+        "doen, als dat kan.",
+        "Jonas: Volgens mij kan dat wel, hoor. Ik hoop wel dat wij contact houden met elkaar.",
+        "Arek: Natuurlijk, er is overal internet.",
+        "Ulrike: Ja, zeker weten. We houden contact!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 26,
+      "title": null,
+      "lines": [
+        "Richard: Hé Martina, wat heb ik gehoord? Wil je ook in Enschede gaan studeren?",
+        "Martina: Ja, misschien. Ik ben me nog aan het oriënteren.",
+        "Richard: Wat leuk! Dan kunnen we wellicht huisgenoten worden.",
+        "Martina: Ja!",
+        "Richard: Heb jij de goede papieren al voor een studie in Nederland?",
+        "Martina: \u0007Dat weet ik niet zo goed. Ik heb de website gelezen, maar ik heb nog een paar vragen.",
+        "Kun jij me wellicht helpen?",
+        "Richard: Ik kan het altijd proberen! Wat wil je weten?",
+        "Martina: Er staat hier iets over diplomawaardering. Maar ik begrijp niet alles.",
+        "Richard: Ah, oké. Héb je al een diplomawaardering?",
+        "Martina: Ja, die heb ik.",
+        "Richard: En staat op je diplomawaardering ook in welke vakken je eindexamen hebt gedaan?",
+        "Martina: Nee, de vakken staan er niet op. Is dat een probleem?",
+        "Richard: Dat denk ik wel, maar ik weet het niet zeker.",
+        "Martina: Wat moet ik nu doen?",
+        "Richard: Je kunt het beste een mailtje sturen naar de universiteit, en dat even vragen.",
+        "Martina: Goed idee.",
+        "Richard: Kan ik je nog met andere vragen helpen?",
+        "Martina: \u0007Ja, dat hoop ik wel. Denk jij dat ik voldoende Nederlands spreek voor een studie in",
+        "Nederland?",
+        "Richard: \u0007Je spreekt heel goed Nederlands, maar dat alleen is niet voldoende. Je moet ook",
+        "een bewijs hebben dat je een hoog taalniveau hebt. Heb je al een diploma of een",
+        "certificaat?",
+        "Martina: Ja, ik heb een taalcursus gedaan. Daar heb ik een certificaat van gekregen.",
+        "Richard: Welk taalniveau was dat?",
+        "Martina: O, dat weet ik zo niet. Dat moet ik opzoeken. Ik heb het certificaat niet hier.",
+        "Richard: Was het een beginnerscursus of een cursus voor gevorderden?",
+        "Martina: Een beginnerscursus. En daarna heb ik door zelfstudie nog beter Nederlands geleerd.",
+        "Richard: \u0007Het certificaat van een beginnerscursus is volgens mij niet genoeg. Maar dat weet ik",
+        "ook niet zeker.",
+        "Martina: Zal ik dat ook maar vragen in de mail?",
+        "Richard: Ja, dat kun je het beste doen. En wil je in Nederland ook nog een taalcursus doen?",
+        "Martina: Ja, misschien wel. Weet jij of dat kan?",
+        "Richard: Nee, dat weet ik ook niet. Ik heb op de website gezocht, maar ik kon het niet vinden.",
+        "Martina: Ik vraag het in mijn mail!",
+        "Richard: Dat wordt een uitgebreide mail, ha ha.",
+        "Martina: Ja, dat denk ik ook.",
+        "Richard: Weet je nu alles wat je moet vragen?",
+        "Martina: Nee, nog één dingetje. Op de website staat dat je je uiterlijk 15 juni moet aanmelden.",
+        "\u0007Maar ik krijg de uitslag van mijn examen pas eind juni. Dan kan ik me toch niet voor",
+        "15 juni aanmelden?",
+        "Richard: Nee, dat denk ik ook niet.",
+        "Martina: En nu?",
+        "Richard + Martina: In de mail!"
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

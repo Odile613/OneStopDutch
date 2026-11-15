@@ -1,0 +1,485 @@
+{
+  "number": 3,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "zich aanmelden (ik meld me … aan)",
+          "english": "to sign up (I sign up, I am signing up)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "begrijpen",
+          "english": "to understand",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "betekenen",
+          "english": "to mean",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "durven",
+          "english": "to dare",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uitleggen (ik leg … uit)",
+          "english": "to explain (I explain, I am explaining)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vergeten",
+          "english": "to forget",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verstaan",
+          "english": "to hear; to understand",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ik heb begrepen (begrijpen)",
+          "english": "I understood, I have understood",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ik ben vergeten (vergeten)",
+          "english": "I forgot, I have forgotten",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ik heb verstaan (verstaan)",
+          "english": "I heard, I have heard; I understood, I have understood",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de bedoeling (de bedoelingen)",
+          "english": "purpose",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de betekenis (de betekenissen)",
+          "english": "meaning",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de ruzie (de ruzies)",
+          "english": "argument, fight",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de uitleg (-)",
+          "english": "explanation",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de presentatie (de presentaties)",
+          "english": "presentation",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de volwassene (de volwassenen)",
+          "english": "adult",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de voorwaarde (de voorwaarden)",
+          "english": "condition",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het onderwerp (de onderwerpen)",
+          "english": "subject",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het taalmaatje (de taalmaatjes)",
+          "english": "language buddy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het vertrouwen (-)",
+          "english": "confidence, trust",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het zelfvertrouwen",
+          "english": "self-confidence",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "bang (bange)",
+          "english": "afraid",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "boos (boze)",
+          "english": "angry",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "eenzaam (eenzame)",
+          "english": "lonely",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "formeel (formele)",
+          "english": "formal",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "hard (harde)",
+          "english": "hard",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ingewikkeld (ingewikkelde)",
+          "english": "complicated",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "langzaam (langzame)",
+          "english": "slow",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "negatief (negatieve)",
+          "english": "negative",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "simpel (simpele)",
+          "english": "simple",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "somber (sombere)",
+          "english": "down, depressed",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verschrikkelijk (verschrikkelijke)",
+          "english": "terrible",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vervelend (vervelende)",
+          "english": "annoying",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zenuwachtig (zenuwachtige)",
+          "english": "nervous",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "dichtbij",
+          "english": "close",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "eenmaal",
+          "english": "once, one time",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "helemaal niet",
+          "english": "not at all",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "in de praktijk",
+          "english": "in practice",
+          "other": null,
+          "note": "Je leert dit in de praktijk. You will learn this by practising it."
+        },
+        {
+          "dutch": "je best doen",
+          "english": "to do one’s best",
+          "other": null,
+          "note": "Ik doe mijn best. I am doing my best."
+        },
+        {
+          "dutch": "ruziemaken met",
+          "english": "to argue with",
+          "other": null,
+          "note": "Ik maak ruzie met een vriend. I am arguing with a friend."
+        },
+        {
+          "dutch": "ruzie maken over",
+          "english": "to argue about",
+          "other": null,
+          "note": "Wij maken ruzie over de oefening. We are arguing about the exercise."
+        },
+        {
+          "dutch": "uit het hoofd leren",
+          "english": "to learn by heart",
+          "other": null,
+          "note": "Ik leer de nieuwe woorden uit het hoofd. I am learning the new words by heart."
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Wat is er aan de hand?",
+          "english": "What is going on? honderdvijfenzeventig 175",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 11,
+      "title": null,
+      "lines": [
+        "Okky: Edwin? Kun je me helpen? Ik begrijp het niet!",
+        "Edwin: Natuurlijk wil ik helpen Okky. Wat begrijp je niet?",
+        "Okky: Ik begrijp dit woord niet! Hier, dit woord. In-ge-wik-keld. Kun je dit woord uitleggen?",
+        "Edwin: Wat zeg je? Ik versta je niet. Kun je harder praten?",
+        "Okky: In-ge-wik-keld. Wat is de betekenis van dit woord?",
+        "Edwin: Ingewikkeld?! Oh, maar dat is heel simpel hoor. Dat betekent moeilijk.",
+        "Okky: Edwin, ik begrijp je niet helemaal. Je praat heel snel. Wil je langzaam praten, alstublieft?",
+        "Edwin: \u0007Zeg je nu alstublieft tegen me? Je kunt gewoon alsjeblieft zeggen hoor. Ik ben je man. Je",
+        "hoeft geen u tegen me te zeggen.",
+        "Okky: \u0007Ik begrijp je niet. Wat bedoel je? Alstublieft is beleefd om te zeggen. Dat heb ik in de cur-",
+        "sus Nederlands geleerd.",
+        "Edwin: \u0007Ja, het is beleefd om te zeggen. Maar het is ook formeel. Tegen mij kun je beter alsjeblieft",
+        "zeggen. Soms is de Nederlandse taal in de praktijk anders dan in de cursus. Dat moet je",
+        "nog leren.",
+        "Okky: \u0007Oké, Edwin, ik wil de taal ook graag leren. Wil je nu alsjeblieft de betekenis van ingewik-",
+        "keld uitleggen. En wil je langzaam praten, alsjeblieft.",
+        "Edwin: \u0007Okky, wat is er aan de hand? Waarom ben je boos? Ik wil je alleen helpen. Dit gebeurt",
+        "altijd als ik je met je huiswerk help. Ik vind het helemaal niet leuk. Ik wil geen ruzie met je",
+        "maken.",
+        "Okky: \u0007Edwin, ik ben ook boos. Boos op het Nederlands. Het gaat niet goed met me. Ik vind de",
+        "taal moeilijk. Ik vind huiswerk maken vervelend. Het boek is niet duidelijk. Nederlanders",
+        "in de winkel of op straat praten heel erg snel. Ik versta ze vaak niet. Wat bedoelen ze? Ik",
+        "begrijp ze niet. Ik wil beleefd zijn dus ik zeg alstublieft maar dat vind jij niet goed. Waar-",
+        "om niet? Wat doe ik niet goed? Ik doe mijn best. Ik leer alle woorden uit het boek uit mijn",
+        "hoofd maar ik vergeet ze snel. Ik word moe van Nederlands praten. Ik leer de taal nooit.",
+        "Als ik Nederlanders ontmoet ben ik altijd zenuwachtig want ik durf geen Nederlands te",
+        "praten. Ik ben bang om te praten. Ik ben bang om iets te vragen. Ik ben niet ontspannen",
+        "want ik ben vaak bang. Ik heb geen vrienden. Ik ben eenzaam. En ik voel me dom. Maar ik",
+        "ben niet dom. Ik ben slim. Ik ben alleen niet slim genoeg om Nederlands te leren.",
+        "Edwin: \u0007Oh Okky…ik vind het verschrikkelijk om dit te horen. Ik wil graag dat je blij bent in Neder-",
+        "land. Blij bij mij. Je hebt helemaal geen zelfvertrouwen. Je praat heel negatief over Neder-",
+        "land. Maar je bent geen negatieve persoon. Je bent altijd een positieve persoon. Jij bent",
+        "sterk. Hoe kan ik je helpen? Je moet niet somber zijn maar blij.",
+        "Okky: \u0007Dat wil ik ook zijn. Ik heb een idee. Ik wil oefenen met de Nederlandse taal maar niet met",
+        "jou.",
+        "Edwin: Eh, wat bedoel je precies?",
+        "Okky: \u0007Ik wil met jou geen ruzie maken over de Nederlandse taal. Jij moet gewoon mijn man zijn",
+        "en jij moet niet mijn docent zijn. Ik heb een website over taalmaatjes gezien op het inter-",
+        "net. Ik ga een taalmaatje zoeken. Dan kan ik Nederlands oefenen met mijn taalmaatje.",
+        "Edwin: \u0007Eh, taalmaatje? Wat bedoel je met taalmaatje? Wat is de bedoeling van een taalmaatje?",
+        "Wat is een taalmaatje?",
+        "Okky: \u0007Een taalmaatje is een Nederlander. Die Nederlander oefent samen met mij. We praten",
+        "samen Nederlands of we gaan iets doen. Het is extra oefening, buiten de les.",
+        "Edwin: Nederlands oefenen in de praktijk, met een echte Nederlander. Dat is een goed idee.",
+        "Okky: Ja, ik ga de website snel zoeken, maar Edwin…?",
+        "Edwin: Ja, lieverd.",
+        "Okky: Nu weet ik nog de betekenis van ingewikkeld niet. Wat betekent ingewikkeld?",
+        "Edwin: Ingewikkeld betekent moeilijk, heel moeilijk.",
+        "Okky: \u0007Echt? Ingewikkeld betekent moeilijk? Maar dat is eigenlijk heel makkelijk. Waarom heb-",
+        "ben we daar ruzie over gemaakt?"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 12,
+      "title": null,
+      "lines": [
+        "Sanne: Hoi, ben jij Okky?",
+        "Okky: Ja, ik ben Okky. Ben jij Sanne?",
+        "Sanne: Ja, ik ben Sanne. Leuk om je te ontmoeten.",
+        "Okky: Dank je. Ik vind het ook fijn om jou te ontmoeten… Ik ben heel zenuwachtig.",
+        "Sanne: Ik ook. Ik ben nog nooit taalmaatje geweest. Waar kom je vandaan?",
+        "Okky: Ik kom uit Indonesië. Ben jij Nederlandse?",
+        "Sanne: Ja! Ik ben geboren in Amsterdam.",
+        "Okky: Ik ben geboren in Bandung.",
+        "Sanne: Hoe lang woon je al in Nederland?",
+        "Okky: Ik woon nu 11 maanden in Nederland. Bij mijn man.",
+        "Sanne: Oh, je bent getrouwd. Wat leuk. Hoe heet je man?",
+        "Okky: Edwin.",
+        "Sanne: Edwin? Is je man Nederlands?",
+        "Okky: Ja. We hebben elkaar in Bandung ontmoet. Hij heeft daar 1 jaar gewerkt.",
+        "Sanne: Werk jij ook?",
+        "Okky: \u0007Ik heb in Indonesië in een hotel gewerkt. Ik heb toerisme gestudeerd. In Nederland werk",
+        "ik niet. Ik wil eerst de Nederlandse taal leren. En jij? Werk of studeer jij?",
+        "Sanne: \u0007Ik studeer nog. Ik wil docent Nederlands worden. Ik ben bijna klaar met mijn studie. Hoe",
+        "oud ben jij, Okky?",
+        "Okky: Ik ben 25. Hoe oud ben jij?",
+        "Sanne: 22.",
+        "Okky: Ben je getrouwd?",
+        "Sanne: Nee. Ik heb wel een vriend. Welke taal spreken jij en je man thuis?",
+        "Okky: \u0007We spreken soms Engels en soms Nederlands. Nederlands is moeilijk. Soms begrijpen we",
+        "elkaar niet.",
+        "Sanne: Nou, mijn vriend spreekt Nederlands, net als ik, maar ik begrijp hem soms ook niet, hoor.",
+        "Okky: Hoe heet je vriend?",
+        "Sanne: Mark.",
+        "Okky: En …eh … heb je … eh …",
+        "Sanne: Wat wil je vragen? Je mag alles vragen hoor.",
+        "Okky: \u0007Ik vind dat soms moeilijk. Ik durf soms geen vragen te stellen. Ik ben bang dat ik niet be-",
+        "leefd ben.",
+        "Sanne: \u0007Volgens mij ben jij heel beleefd en heel vriendelijk. Je kunt gewoon vragen stellen en ik",
+        "zal gewoon antwoord geven.",
+        "Okky: \u0007Jij bent ook heel vriendelijk, Sanne. Ik ben heel blij. Ik vind het moeilijk om contact te",
+        "maken in Nederland. Ik heb veel vrienden in Bandung. In Nederland heb ik alleen Edwin.",
+        "Sanne: \u0007Weet je, Okky. Maatje betekent in het Nederlands vriend. Ik wil graag je taalmaatje zijn.",
+        "Dan ben ik dus eigenlijk je taalvriend.",
+        "Okky: Een taalvriend?! … Dat is mooi. Dank je Sanne!",
+        "Sanne: Graag gedaan. Zullen we dan nu over de Nederlandse taal praten?"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 13,
+      "title": null,
+      "lines": [
+        "Sanne: Zullen we dan nu over de Nederlandse taal praten?",
+        "Okky: Oké.",
+        "Sanne: Oei, jouw mening is duidelijk!",
+        "Okky: Wat bedoel je?",
+        "Sanne: Vind je de Nederlandse taal niet leuk?",
+        "Okky: Ik vind Nederlands moeilijk. Ik vind de grammatica heel erg ingewikkeld.",
+        "Sanne: \u0007Ingewikkeld. Wauw, dat is een moeilijk woord maar jij gebruikt het wel op de goede ma-",
+        "nier.",
+        "Okky: Ik heb het woord van Edwin geleerd. De betekenis van ingewikkeld is heel erg moeilijk.",
+        "Sanne: De betekenis! Dat is ook zo’n moeilijk woord. Woorden leren is makkelijk voor jou, denk ik.",
+        "Okky: Ja, dat is waar. Ik vind woorden leren leuk. Ik ken veel woorden.",
+        "Sanne: Dat hoor ik.",
+        "Okky: Ik wil met jou oefenen omdat ik de woorden niet wil vergeten.",
+        "Sanne: Oké, dat begrijp ik. Wat wil je ook nog met me oefenen?",
+        "Okky: \u0007Grammatica! Ik begrijp de Nederlandse grammatica niet goed. Ik begrijp de regels maar",
+        "als ik praat dan vergeet ik de regels. De oefeningen in mijn werkboek vind ik simpel. Ik",
+        "maak in de cursus niet veel fouten. Maar in de praktijk maak ik wel fouten.",
+        "Sanne: \u0007In de praktijk?! Okky, jouw Nederlands is heel goed. Ingewikkeld, de betekenis, in de",
+        "praktijk. Je gebruikt deze woorden op de juiste manier. Je kunt het wel maar je hebt geen",
+        "zelfvertrouwen.",
+        "Okky: Zelfvertrouwen? Wat betekent dat?",
+        "Sanne: \u0007Iemand met zelfvertrouwen denkt positief over zichzelf. Iemand met zelfvertrouwen pro-",
+        "beert iets en gelooft dat het goed gaat.",
+        "Okky: Oh, ik begrijp het. Ik vind jouw uitleg duidelijk. Dank je!",
+        "Sanne: Graag gedaan. Wat wil je nog meer oefenen?",
+        "Okky: \u0007De uitspraak van het Nederlands vind ik ook verschrikkelijk. Mensen kunnen mij niet ver-",
+        "staan.",
+        "Sanne: Echt? Maar ik kan je heel makkelijk verstaan.",
+        "Okky: \u0007De buurvrouw verstaat me niet. Soms probeer ik met haar in het Nederlands te praten",
+        "maar dan gaat zij altijd snel in het Engels praten. That is better! Your Dutch is not good.",
+        "Dat zegt ze. Maar zij spreekt slecht Engels dus we begrijpen elkaar niet.",
+        "Sanne: \u0007Oh Okky, jouw uitspraak van het Nederlands is echt het probleem niet. Jouw buurvrouw",
+        "doet gewoon vervelend.",
+        "Okky: \u0007Sanne, ik wil zelfvertrouwen krijgen. Ik wil extra oefenen om mijn Nederlands te verbete-",
+        "ren. Ik wil goede Nederlandse zinnen zeggen. Ik wil leren om duidelijk en snel te praten. Ik",
+        "wil oefenen met spreken en met schrijven. Ik wil over een jaar goed Nederlands spreken.",
+        "Ik wil het Staatsexamen doen en ik wil werk in Nederland vinden.",
+        "Sanne: Duidelijk! Nou, ik ga mijn best doen."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 14,
+      "title": null,
+      "lines": [
+        "Hoi, ik ben Okky.",
+        "Ik ga een presentatie over taalmaatjes geven.",
+        "Ik ga jullie eerst over mijn taalmaatje vertellen.",
+        "Mijn taalmaatje heet Sanne.",
+        "Sanne is een vrouw. Zij is 22.",
+        "Ik ontmoet Sanne één keer per week in de bibliotheek.",
+        "We praten samen Nederlands.",
+        "We oefenen samen de spreekoefeningen uit het boek.",
+        "Ik vertel Sanne ook over mijn leven.",
+        "Ik stel ook vragen aan Sanne.",
+        "Soms gaan we samen iets doen.",
+        "Vorige week zijn we samen naar een Nederlandse film gegaan.",
+        "Sanne is rustig en positief.",
+        "Ik vind dat fijn.",
+        "Soms is Sanne een beetje te laat.",
+        "Onze afspraak is om 16.00 uur maar ze komt om 16.15 uur.",
+        "Dat is niet zo leuk.",
+        "Ik heb contact met Sanne gekregen via de website jekuntmeer.nl",
+        "Ik heb een e-mail naar de contactpersoon gestuurd.",
+        "De contactpersoon heeft mijn e-mailadres aan Sanne gegeven.",
+        "Sanne heeft mij toen een e-mail gestuurd.",
+        "Het is niet makkelijk om een taalmaatje te vinden.",
+        "Er is een wachttijd van 3 maanden.",
+        "Tot slot vertel ik mijn mening over taalmaatjes.",
+        "Ik vind een taalmaatje fijn.",
+        "Ik kan nu vaker Nederlands spreken.",
+        "Ik voel me niet meer eenzaam.",
+        "Dat is positief.",
+        "Mijn presentatie is klaar.",
+        "Hebben jullie vragen?"
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

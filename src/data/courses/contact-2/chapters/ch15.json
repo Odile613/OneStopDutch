@@ -1,0 +1,469 @@
+{
+  "number": 15,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "afschrijven (ik schrijf … af )",
+          "english": "to debit (I debit, I am debiting)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "afsluiten (ik sluit … af )",
+          "english": "to take out",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "bijbetalen (ik betaal … bij)",
+          "english": "to pay extra (I pay extra, I am paying extra)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "noteren",
+          "english": "to note",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "overmaken (ik maak … over)",
+          "english": "to transfer (I transfer, I am transferring)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "overschrijven (ik schrijf … over)",
+          "english": "to transfer (I transfer, I am transferring)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "terugvragen (ik vraag … terug)",
+          "english": "to reclaim (I reclaim, I am reclaiming)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vergelijken",
+          "english": "to compare",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verlengen",
+          "english": "to extend",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de afschrijving (de afschrijvingen)",
+          "english": "debit",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bijbetaling (de bijbetalingen)",
+          "english": "additional charge",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de factuur (de facturen)",
+          "english": "invoice",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de instantie (de instanties)",
+          "english": "authority",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de machtiging (de machtigingen)",
+          "english": "standing order",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de rekening (de rekeningen)",
+          "english": "invoice",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de simkaart (de simkaarten)",
+          "english": "SIM card",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de toestemming (-)",
+          "english": "permission",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het abonnement (de abonnementen)",
+          "english": "subscription",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het merk (de merken)",
+          "english": "brand",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het overzicht (de overzichten)",
+          "english": "overview",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het toestel (de toestellen)",
+          "english": "device",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "eenmalig (eenmalige) los (losse) een los toestel",
+          "english": "non-recurring",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "maandelijks (maandelijkse)",
+          "english": "monthly",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "onbeperkt (onbeperkte)",
+          "english": "unlimited",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "gemiddeld (gemiddelde)",
+          "english": "on average",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "omstreeks",
+          "english": "around",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "afkortingen",
+      "entries": [
+        {
+          "dutch": "btw",
+          "english": "VAT",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "excl. (exclusief)",
+          "english": "excluding",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "min. (minuten)",
+          "english": "minutes",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "/mnd (per maand)",
+          "english": "per month",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "/sec (per seconde)",
+          "english": "per second",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "o.v.v. (onder vermelding van)",
+          "english": "stating, mentioning",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "t.n.v. (ten name van)",
+          "english": "in the name of",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "% (procent)",
+          "english": "percent",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "automatische incasso",
+          "english": "direct debit",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "in termijnen betalen",
+          "english": "to pay in instalments",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een abonnement of verzekering afsluiten",
+          "english": "to take out a subscription or insurance honderdzevenennegentig 197",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 92,
+      "title": null,
+      "lines": [
+        "Daniel: Goedemorgen",
+        "Verkoopster: Goedemorgen, meneer. Kan ik u helpen?",
+        "Daniel: Ja, ik ben op zoek naar een nieuwe telefoon met een abonnement.",
+        "Verkoopster: Wilt u uw huidige abonnement verlengen of wilt u een nieuw abonnement?",
+        "Daniel: Ik heb nog geen Nederlands nummer, dus ik wil graag een nieuw abonnement.",
+        "Verkoopster: Wat voor telefoon zoekt u?",
+        "Daniel: \u0007Ik heb momenteel een iPhone, maar het merk van de telefoon is niet zo belangrijk voor",
+        "mij.",
+        "\u0007Ik bel niet zo veel, maar ik gebruik wel veel internet. Dus ik wil in ieder geval een abonne-",
+        "ment met veel data.",
+        "Verkoopster: Dat kan. Geen probleem. Hebt u onze nieuwste toestellen al gezien?",
+        "Daniel: \u0007Ja, die heb ik al op internet gezien, maar ik heb nog wat vragen, daarom kom ik nu even",
+        "langs.",
+        "Ik zag dat het abonnement met het Samsungtoestel het goedkoopste is, klopt dat?",
+        "Verkoopster: \u0007Dat klopt, dat abonnement kost € 36,50. Maar dan hebt u slechts 5 GB data. U zei net dat u",
+        "veel data nodig hebt omdat u veel internet gebruikt, toch?",
+        "Daniel: Inderdaad.",
+        "Verkoopster: \u0007Dan kunt u misschien toch beter de Huawei nemen. Bij dat abonnement hebt u 10 GB",
+        "data.",
+        "Dat is twee keer zo veel.",
+        "Daniel: \u0007O ja, dat zie ik. Maar dat abonnement kost € 46,50 per maand. Dat is 10 euro meer dan het",
+        "abonnement met de Samsung.",
+        "Verkoopster: Ja, maar bij dat abonnement krijgt u maar 5 GB.",
+        "Daniel: O ja, dat is waar.",
+        "Verkoopster: \u0007U kúnt het Samsung-toestel ook met 10 GB krijgen. Maar dat is een ander abonnement.",
+        "Dan betaalt u maandelijks 48,50 voor het abonnement.",
+        "Daniel: O, dat is dan duurder dan de Huawei met 10 GB.",
+        "Verkoopster: \u0007Dat klopt. U zei net trouwens ook dat u nu een iPhone hebt. Weet u dat een iPhone anders",
+        "werkt dan de Samsung en de Huawei?",
+        "Daniel: \u0007Dat weet ik, dat is geen probleem. Ik denk dat ik de Huawei neem met het abonnement",
+        "van € 46,50. Ik wil graag een zwart toestel.",
+        "Verkoopster: \u0007Dat is een goede keuze. Zullen we het abonnement meteen in orde maken? Hebt u een",
+        "identiteitsbewijs bij u?",
+        "Daniel: Ik heb mijn rijbewijs bij me, is dat goed?Verkoopster: Ja, dat is prima.",
+        "\u0007En ik wil ook graag uw bankrekeningnummer voor de maandelijkse betaling. Wilt u uw",
+        "bankrekeningnummer hier noteren?",
+        "Daniel: Natuurlijk. En hier is mijn rijbewijs.",
+        "Verkoopster: \u0007Prima. Voor het afsluiten van het abonnement moet u ook 25 euro betalen. Dat zijn een-",
+        "malige kosten, die betaalt u dus niet iedere maand.",
+        "Daniel: Geen probleem.",
+        "Verkoopster: Wilt u uw huidige telefoonnummer behouden?",
+        "Daniel: \u0007Nee, dat kan niet. Ik heb nu een buitenlands nummer, en ik wil graag een Nederlands",
+        "nummer.",
+        "Verkoopster: O ja, dat had u al gezegd, sorry.",
+        "Daniel: Dat geeft niet.",
+        "Verkoopster: En voor welke periode wilt u een abonnement afsluiten? Voor één, twee of drie jaar?",
+        "Daniel: Is er verschil in prijs?",
+        "Verkoopster: \u0007Ja, de prijs van € 46,50 geldt voor een contract voor drie jaar. Bij kortere contracten is het",
+        "abonnement per maand duurder.",
+        "Daniel: O. Doe dan maar een abonnement voor 3 jaar.",
+        "Verkoopster: Prima, dan doen we dat. Wilt u dan hier uw handtekening zetten, dan is alles in orde.",
+        "Daniel: Alstublieft.",
+        "Verkoopster: \u0007Alstublieft, het zwarte toestel. Hier zijn de papieren van het abonnement en hier is de",
+        "simkaart van uw telefoon. Wilt u de simkaart thuis plaatsen of zal ik dat voor u doen?",
+        "Daniel: Wilt u dat voor mij doen?",
+        "Verkoopster: Natuurlijk.",
+        "Daniel: Hartelijk dank.",
+        "Verkoopster: Graag gedaan. Veel plezier met uw nieuwe toestel!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 93,
+      "title": null,
+      "lines": [
+        "V: Kan ik u helpen?",
+        "D: Ja, graag. Ik ben op zoek naar een nieuwe telefoon.",
+        "V: Wat voor toestel zoekt u?",
+        "D: Dat maakt niet uit. Het merk is niet belangrijk voor me.",
+        "V: Welke kleur vindt u mooi?",
+        "D: Ik vind het zwarte toestel mooi.",
+        "V: Wilt u uw huidige abonnement verlengen?",
+        "D: Nee, ik wil graag een nieuw abonnement.",
+        "V: Wat voor abonnement hebt u nu?",
+        "D: Ik heb nu een buitenlands abonnement.",
+        "V: Belt u veel?",
+        "D: Nee, ik bel niet zo veel.",
+        "V: Zit u veel op internet?",
+        "D: Ja, ik zit heel veel op internet.",
+        "V: Hoeveel data wilt u?",
+        "D: Ik wil graag veel data. Ik wil onbeperkt kunnen internetten.",
+        "V: Welk toestel kiest u?",
+        "D: Ik neem het zwarte Huawei-toestel.",
+        "V: Welk abonnement kiest u?",
+        "D: Ik wil graag het abonnement voor drie jaar.",
+        "V: Zal ik de sim-kaart voor u plaatsen?",
+        "D: Ja, graag.",
+        "V: Hebt u nog vragen?",
+        "D: Nee hoor, alles is duidelijk.",
+        "V: Veel plezier met uw nieuwe telefoon!",
+        "D: Dank u wel."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 94,
+      "title": null,
+      "lines": [
+        "1. Wat kan ik voor u doen?",
+        "2. Wat voor abonnement hebt u nu?",
+        "3. Wat voor toestel zoekt u?",
+        "4. Mag ik uw identiteitsbewijs zien?",
+        "5. Wilt u hier uw handtekening zetten?",
+        "6. Zal ik de simkaart voor u plaatsen?"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 40,
+      "title": null,
+      "lines": [
+        "1. Het abonnement kost € 36,50 per maand.",
+        "2. Dat is dan € 1,99, alstublieft",
+        "3. De huur van dit appartement is € 750 per maand.",
+        "4. Die laptop kost € 1400.",
+        "5. Voor een nieuwe auto heb ik € 5000 nodig.",
+        "6. Ik wil het bedrag van € 450 graag in termijnen betalen.",
+        "7. Ik wil € 80 pinnen.",
+        "8. U moet € 179 bijbetalen voor het toestel."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 41,
+      "title": null,
+      "lines": [
+        "1. Ik woon in de Van Galenstraat. V-a-n G-a-l-e-n-s-t-r-a-a-t.",
+        "2. Mijn woonplaats is Woerden. W-o-e-r-d-en.",
+        "3. Wilt u uw achternaam spellen? Ja natuurlijk. D-e W-a-a-i-e-r.",
+        "4. Wat zijn de letters van uw postcode? BD, Bernhard Dirk.",
+        "5. Hoe schrijf je jouw voornaam? S-u-s-a-n-n-e",
+        "6. In welke zaal hebben we college? In de Erasmuszaal. E-r-a-s-m-u- s.",
+        "7. Mijn IBAN is NL 95 INGB 0688741615. Welke letters zei u? I-N-G-B.",
+        "8. Mijn voorletters zijn C.I.D."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 42,
+      "title": null,
+      "lines": [
+        "1. abonnement · 6. procent · 11. automatisch 16. afsluiten",
+        "2. bedrag · 7. rekening · 12. eenmalig · 17. betalen",
+        "3. betaling · 8. telefoon · 13. exclusief · 18. bijbetalen",
+        "4. elektriciteit · 9. toestel · 14. maandelijks 19. noteren",
+        "5. overzicht · 10. verzekering · 15. onbeperkt · 20. verlengen"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 43,
+      "title": null,
+      "lines": [
+        "Milan: \u0007Zo, de rekeningen voor deze maand zijn ook weer binnen. Pff, het is weer een dure",
+        "maand.",
+        "Krijg jij ook elke maand zo veel rekeningen, Norbert?",
+        "Norbert: Nee, gelukkig heb ik er niet zo veel. Ik krijg er maar twee.",
+        "Patricia: Jij hebt geluk, Norbert. Je woont nog bij je ouders.",
+        "Milan: Ja, inderdaad. Dan heb je er niet zo veel.",
+        "Patricia: Ik moet iedere maand een hoog bedrag betalen. Ik vind het best veel.",
+        "Norbert: Hoeveel betaal je dan?",
+        "Patricia: \u0007Ik ben iedere maand € 515 kwijt voor mijn huur, zorgverzekering, telefoon en",
+        "elektriciteit. Vroeger had ik nog Netflix en Spotify, toen betaalde ik € 550, maar dat",
+        "was echt te veel. Dus ik heb het abonnement op Netflix en Spotify opgezegd. Dat",
+        "scheelt weer € 35,-. Alle kleine beetjes helpen.",
+        "Milan: Mijn kosten zijn iedere maand nog hoger. Ik moet straks weer € 800 overmaken.",
+        "Norbert: Overmaken? Betaal je dat niet automatisch, Milan?",
+        "Milan: \u0007Nee, ik betaal niks automatisch op dit moment. Misschien ga ik dat nog regelen. Het is",
+        "iedere maand veel werk om al die rekeningen over te maken. En de huur moet ik toch",
+        "betalen, dus dat kan ik dan net zo goed automatisch laten afschrijven.",
+        "Patricia: \u0007Ik ga straks de zorgverzekering bellen. Ik heb een factuur van € 385,- gekregen voor",
+        "de fysiotherapie en mijn medicijnen, en die wil ik in termijnen betalen.",
+        "Milan: Dat snap ik. Het leven in Nederland is duur."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 44,
+      "title": null,
+      "lines": [
+        "Sportschool: Goedemorgen, met sportschool Sport en Bewegen..",
+        "Miguel: \u0007Goedemorgen, met Miguel Costillo. Ik wil graag iets vragen over jullie",
+        "abonnementen.",
+        "Sportschool: Dat kan natuurlijk. Wat wilt u weten?",
+        "Miguel: Ik wil graag beginnen met fitness. Wat zijn de mogelijkheden bij jullie?",
+        "Sportschool: \u0007Wij hebben twee abonnementen: een basisabonnement voor € 29,50 per maand en",
+        "een plusabonnement voor € 39,50.",
+        "Miguel: Wat is het verschil?",
+        "Sportschool: \u0007Als u een basisabonnement kiest, kunt u één keer per week sporten. Als u een",
+        "plusabonnement kiest, dan kunt u zo vaak als u wilt komen sporten.",
+        "Miguel: Dat is duidelijk. Wat moet ik doen als ik een abonnement wil?",
+        "Sportschool: \u0007U kunt het inschrijfformulier op onze site downloaden. Als u het ingevuld hebt, dan",
+        "mailt u het naar info@sportenbewegen.com.",
+        "Miguel: Prima, dat ga ik doen.",
+        "Sportschool: \u0007Heel goed, meneer. Ik wil u nog wel vertellen dat u eenmalig € 25 inschrijfgeld",
+        "betaalt. Verder moet u op het formulier invullen dat u via automatische incasso wilt",
+        "betalen.",
+        "Miguel: Dat is geen probleem. Ik vul het formulier in en mail het vandaag nog naar u toe.",
+        "Sportschool: Fijn, dan zien we u hopelijk snel in de sportschool!"
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

@@ -1,0 +1,864 @@
+{
+  "number": 13,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "beledigen",
+          "english": "to offend",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "exporteren",
+          "english": "to export",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "grenzen aan",
+          "english": "to border",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "horen bij",
+          "english": "to belong to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "importeren",
+          "english": "to import",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "liggen aan/in",
+          "english": "to be situated by/in",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "meemaken (ik maak … mee)",
+          "english": "to experience, to go through",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "overleven",
+          "english": "to survive",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "stemmen",
+          "english": "to vote",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wennen aan",
+          "english": "to get used to",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de berg (de bergen)",
+          "english": "mountain",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de buitenlander (de buitenlanders)",
+          "english": "foreigner",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de crisis (de crises, de crisissen)",
+          "english": "crisis",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de cultuur (de culturen)",
+          "english": "culture",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de democratie (de democratieën)",
+          "english": "democracy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de diamant (de diamanten)",
+          "english": "diamond",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de dictatuur (de dictaturen)",
+          "english": "dictatorship",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de economie (de economieën)",
+          "english": "economy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de grens (de grenzen)",
+          "english": "border",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de grondstof (de grondstoffen)",
+          "english": "raw material",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de grondwet (de grondwetten)",
+          "english": "constitution",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de hoofdstad (de hoofdsteden)",
+          "english": "capital",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de industrie (de industrieën)",
+          "english": "industry",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de koningin (de koninginnen)",
+          "english": "queen",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kritiek (de kritieken)",
+          "english": "criticism",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de landbouw (-)",
+          "english": "agriculture",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de leider (de leiders)",
+          "english": "leader",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de macht",
+          "english": "power",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de minister (de ministers)",
+          "english": "minister",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de minister-president (de minister-presidenten)",
+          "english": "prime minister",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de natuur",
+          "english": "nature tweehonderdzeven 207",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de nieuwkomer (de nieuwkomers)",
+          "english": "newcomer",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de oppervlakte (de oppervlaktes)",
+          "english": "(surface) area",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de partij (de partijen)",
+          "english": "party",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de politieke partij",
+          "english": "political party",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de politiek",
+          "english": "politics",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de premier (de premiers)",
+          "english": "prime minister",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de president (de presidenten)",
+          "english": "president",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de provincie (de provincies)",
+          "english": "province",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de regering (de regeringen)",
+          "english": "government",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de republiek (de republieken)",
+          "english": "republic",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de seks",
+          "english": "sex",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verandering (de veranderingen)",
+          "english": "change",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vergelijking (de vergelijkingen)",
+          "english": "comparison",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verkiezing (de verkiezingen)",
+          "english": "election",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de werkloosheid",
+          "english": "unemployment",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de zee (de zeeën)",
+          "english": "sea",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het beleid",
+          "english": "policy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het bos (de bossen)",
+          "english": "forest",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het buitenland",
+          "english": "foreign countries; ± abroad",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het buurland (de buurlanden)",
+          "english": "neighbouring country",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het eiland (de eilanden)",
+          "english": "island",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het feit (de feiten)",
+          "english": "fact",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het goud",
+          "english": "gold",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het graan (de granen)",
+          "english": "grain",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het koninkrijk (de koninkrijken)",
+          "english": "kingdom",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het landschap (de landschappen)",
+          "english": "landscape",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het leger (de legers)",
+          "english": "army",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het parlement (de parlementen)",
+          "english": "parliament",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het voedsel",
+          "english": "food",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "afhankelijk (afhankelijke)",
+          "english": "dependent",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "arm (arme)",
+          "english": "poor",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "dichtbevolkt (dichtbevolkte)",
+          "english": "densely populated",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "direct (directe)",
+          "english": "direct",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "dunbevolkt (dunbevolkte)",
+          "english": "sparsely populated",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "economisch (economische)",
+          "english": "economic",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "natuurlijk (natuurlijke)",
+          "english": "natural",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "onafhankelijk (onafhankelijke)",
+          "english": "independent",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "overdreven",
+          "english": "exaggerated",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "politiek (politieke)",
+          "english": "political",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "populair (populaire)",
+          "english": "popular",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "raar (rare)",
+          "english": "strange",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "rijk (rijke)",
+          "english": "rich",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "anderzijds",
+          "english": "on the other hand",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "echter",
+          "english": "however",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "enerzijds",
+          "english": "on the one hand",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ook al",
+          "english": "even though",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "oorspronkelijk",
+          "english": "originally",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zelfs",
+          "english": "even",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "de macht overnemen",
+          "english": "to assume power",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "direct zijn",
+          "english": "to be direct",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "geld waard zijn",
+          "english": "to be worth money",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "hoe …, hoe …",
+          "english": "the …, the …",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "kritiek hebben op",
+          "english": "to criticize",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich geaccepteerd voelen",
+          "english": "to feel accepted",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zowel … als",
+          "english": "… as well as …",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "op je woorden letten",
+          "english": "to be careful what you say",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 31,
+      "title": null,
+      "lines": [
+        "Hoi, ik ben Matiss. Ik ben 17 en ik kom uit Letland.",
+        "Ik ben een jaar geleden naar Nederland gekomen omdat mijn moeder hier een baan heeft. Zij heeft",
+        "namelijk een Nederlandse vriend. We wonen in Hensbroek. Hensbroek is een mooi dorp dat in",
+        "Noord-Holland ligt.",
+        "Ik zal vandaag wat vertellen over Letland.",
+        "Letland is een land in Noordoost-Europa. Het ligt aan de Oostzee. Het land is anderhalf keer zo groot als",
+        "Nederland. Er zijn geen bergen. Er zijn wel veel bossen en er is veel water. Letland is een dunbevolkt land.",
+        "Daarin verschilt het echt van Nederland. Er wonen maar 2 miljoen mensen. De meeste mensen wonen in",
+        "een stad. Riga is de hoofdstad. Met 700.000 inwoners is Riga een van de grootste steden van",
+        "Noord-Europa. Het heeft een oud centrum dat heel mooi is. Het heeft ook een grote haven en veel industrie.",
+        "Letland is sinds 1918 een republiek. Het is een democratie. De president wordt elke vier jaar door het",
+        "parlement gekozen. In 2003 kwam Letland bij de Europese Unie. In 2007 was er een grote economische",
+        "crisis. Met hulp van de Europese Unie is het beter geworden. Sinds 2014 wordt in Letland met de euro",
+        "betaald.",
+        "Vroeger werkten de meesten Letten in de landbouw. Later werd ook de industrie belangrijk. Steeds meer",
+        "mensen gingen in fabrieken werken.",
+        "Er is helaas veel werkloosheid."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 32,
+      "title": null,
+      "lines": [
+        "Hoi allemaal, ik ben Takura. Ik ben 21 en ik kom oorspronkelijk uit Zimbabwe, maar ik heb van mijn",
+        "twaalfde tot mijn vijftiende met mijn moeder in Dubai gewoond.",
+        "Ik woon nu bijna twee jaar in Nederland. In woon in Enkhuizen met mijn moeder, mijn stiefvader en mijn",
+        "broer. Mijn stiefvader is Nederlander. Mijn moeder heeft hem 4 jaar geleden in Dubai ontmoet. Ze",
+        "werkten daar allebei.",
+        "Ik zal vandaag vertellen over Zimbabwe want dat land ken ik beter dan de Verenigde Arabische Emiraten.",
+        "Zimbabwe ligt in Afrika. De hoofdstad van Zimbabwe is Harare. Er wonen ongeveer 17 miljoen mensen in",
+        "het land. De inwonersaantallen van Nederland en Zimbabwe verschillen niet zo veel. Zimbabwe is wel",
+        "9,5 keer zo groot als Nederland. Buurlanden zijn Zambia, Zuid-Afrika, Botswana en Mozambique.",
+        "Misschien ken je de Limpopo rivier die de natuurlijke grens met Zuid-Afrika is. Zimbabwe heeft veel",
+        "natuurlijke grondstoffen die veel geld waard zijn, zoals goud en diamanten.",
+        "Zimbabwe is sinds 1980 een onafhankelijke republiek. In 1987 riep Robert Mugabe zichzelf uit tot",
+        "president. Toen begon zijn dictatuur. De president en zijn regering werden rijk. Het land werd arm.",
+        "Tot 2000 exporteerde Zimbabwe veel voedsel. Men noemde het land de graanschuur van Afrika. Door",
+        "een nieuw landbouwbeleid van de regering ging het echter steeds slechter met de landbouw. De",
+        "werkloosheid in",
+        "Zimbabwe steeg toen tot bijna 85%. De helft van de bevolking had voedselhulp nodig om te overleven.",
+        "Duizenden Zimbabwanen vluchtten voor de werkloosheid en de honger. In 2017 nam het leger de macht",
+        "over. Ik woonde toen al met mijn moeder in Dubai en heb dat niet meegemaakt."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 33,
+      "title": null,
+      "lines": [
+        "Ik zie zeker verschillen tussen Nederland en Letland.",
+        "Nederland is dichtbevolkt. Letland is dunbevolkt.",
+        "In Nederland is sport heel populair. In Letland is dat minder populair. Ik houd van sport. Hoe meer ik kan",
+        "sporten, hoe beter.",
+        "Ik vind ook dat Nederlanders sociaal zijn en makkelijk contact maken.",
+        "Ze praten veel. Daar moest ik eerst aan wennen want in Letland praat je alleen met vrienden.",
+        "Er zijn ook overeenkomsten.",
+        "Ik vind het eten in Nederland niet anders dan in Letland. Gelukkig maar."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 34,
+      "title": null,
+      "lines": [
+        "Ik zal proberen een vergelijking tussen Nederland en Zimbabwe te maken.",
+        "Nederlanders zijn erg direct. Je kunt hier over alles praten, zelfs over seks of politiek. Je mag gewoon",
+        "kritiek hebben op je leider of de regering. Dat is voor mij heel vreemd. Dat doe je in Zimbabwe niet. Het",
+        "lijkt ook wel of bij de meeste Nederlanders de gordijnen ’s avonds altijd open zijn. Dat is volgens mij heel",
+        "raar. Waarom? Dat zie je in Zimbabwe nooit.",
+        "Maar veel in Nederland voelt juist heel goed. Zowel Nederland als Zimbabwe zijn mooie landen met",
+        "mooie mensen. Als ik kennismaak met Nederlanders, voel ik me erg welkom. Ik voel me geaccepteerd.",
+        "Daarom vier ik ook graag Koningsdag. Dat is een feest dat voor Nederlanders belangrijk is en dus ook",
+        "voor mij. Koningin Máxima is mijn voorbeeld. Zij komt ook uit het buitenland, net als ik. Een buitenlander",
+        "kan gewoon succes hebben in Nederland.",
+        "Ook al zijn Nederlanders direct, je moet wel op je woorden letten. Je kunt niet alle woorden meer",
+        "gebruiken. Dan worden mensen boos. Ik zei net buitenlander maar ik moet eigenlijk nieuwkomer zeggen.",
+        "Enerzijds kun je dat overdreven noemen. Anderzijds is het goed om op te letten want met woorden kun",
+        "je mensen echt beledigen. Hierin lijken de landen op elkaar.",
+        "Dat vind ik in ieder geval. In Zimbabwe proberen de meeste mensen ook om elkaar niet te beledigen.",
+        "Ook daar moet je oppassen welke woorden je gebruikt. Mijn moeder denkt daar trouwens heel anders over."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 35,
+      "title": null,
+      "lines": [
+        "Japan is een land dat ligt in de Grote Oceaan. Het is eigenlijk een eilandengroep die bestaat uit meer dan",
+        "6800 eilanden. De grootste vier eilanden beslaan bijna 97% van de totale oppervlakte die 377.930 km2",
+        "is. De grote eilanden zijn inmiddels via bruggen en tunnels met elkaar verbonden. De kleinere eilanden",
+        "zijn meestal per boot en soms per vliegtuig bereikbaar. Japan ligt in Azië. De hoofdstad en grootste",
+        "stad van het land is Tokio. Het land ligt ten oosten van China, Zuid-Korea en Noord-Korea. Ten noorden",
+        "van Japan ligt Rusland en ten zuiden van Japan bevindt zich Taiwan. Japan is het enige keizerrijk van de",
+        "wereld. Hoewel de keizer het hoofd van het land is, heeft hij tegenwoordig weinig macht. Japan is dan",
+        "ook een parlementaire monarchie met een minister-president als politiek leider. Het grootste gedeelte",
+        "van Japan bestaat uit bergen. De hoogste berg daarvan is de Fuji met een hoogte van 3776 meter. De Fuji",
+        "is eigenlijk een slapende vulkaan en speelt een grote rol in de Japanse cultuur. De Japanners vinden de",
+        "berg heilig. Het Japanse landschap is vrij uniek. Het bestaat grotendeels uit besneeuwde, steile bergen,",
+        "bossen, water en kleine, vruchtbare akkers. Japan heeft veel korte rivieren. De langste rivier, de Shinano,",
+        "is slechts 367 kilometer lang. Slechts 11% van het land is bedekt met steden. Japan telt echter ongeveer",
+        "127 miljoen inwoners. Met meer dan 330 inwoners per km2 is Japan één van de dichtstbevolkte landen",
+        "ter wereld maar het zijn vooral de steden die zo druk zijn."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 36,
+      "title": null,
+      "lines": [
+        "Argentinië is een land dat in Zuid-Amerika ligt. Ten noorden van Argentinië liggen Bolivia, Paraguay en",
+        "Brazilië. Andere buurlanden zijn Uruguay en Chili. In het oosten ligt de Atlantische Oceaan. De hoofdstad",
+        "van Argentinië is Buenos Aires. Argentinië is na Brazilië het grootste land in Zuid-Amerika. Argentinië is",
+        "70 keer zo groot als Nederland. Het land is namelijk ruim 2.780.000 km2. Argentinië heeft ongeveer 3 keer",
+        "zoveel inwoners als Nederland. Argentinië kun je in drie delen verdelen. In het noorden ligt de Pampa.",
+        "Dit is een vruchtbaar landschap. Daarom vind je er veel boerderijen. In het zuiden ligt Patagonië. De rivier",
+        "de Colorado vormt de grens tussen de Pampa en Patagonië. Hier vind je veel natuur. Ten westen van",
+        "Patagonië ligt het Andesgebergte. De hoogste berg in Argentinië is 6961 meter hoog. De officiële taal van",
+        "Argentinië is het Spaans omdat de Spanjaarden Argentinië hebben ontdekt. Daardoor zijn er veel",
+        "Spanjaarden in Argentinië gaan wonen.",
+        "Argentinië is verdeeld in 23 provincies. Elke provincie heeft een hoofdstad. De provincies van Argentinië",
+        "zijn weer verdeeld in departementen. In Argentinië zijn er in totaal 376 departementen. Argentinië is een",
+        "republiek. De president en vicepresident van Argentinië worden om de 4 jaar gekozen. Ze mogen",
+        "maximaal 8 jaar regeren. Daarna moeten ze 4 jaar wachten en dan mogen ze weer meedoen met de",
+        "verkiezingen. De president kiest de ministers. Het parlement controleert de president en de ministers. Het",
+        "parlement bestaat uit twee delen, de Senaat en het Huis van Afgevaardigden."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 38,
+      "title": null,
+      "lines": [
+        "1. Als er verkiezingen zijn, mogen de inwoners van Nederland stemmen op",
+        "de politieke partij die zij het beste vinden.",
+        "2. Een ander woord voor minister-president is premier.",
+        "3. De regering van Nederland zit in de stad Den Haag.",
+        "4. De premier is de leider van alle ministers.",
+        "5. Maxima is de naam van de Nederlandse koningin.",
+        "6. Veel Nederlanders sporten veel en graag. Sporten als hobby is erg populair.",
+        "7. Mijn collega komt oorspronkelijk uit Indonesië maar ze woont al sinds haar",
+        "vierde in Nederland.",
+        "8. Steeds meer mensen vinden werk. De werkloosheid neemt gelukkig af.",
+        "9. De Noordzee is de natuurlijke grens van Nederland in het westen.",
+        "10. Sorry dat ik dit heb gezegd. Ik zie dat je boos bent. Ik wilde je niet beledigen."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 39,
+      "title": "Hildegard en Charly, om en om",
+      "lines": [
+        "1. stemmen",
+        "2. premier",
+        "3. regering",
+        "4. ministers",
+        "5. koningin",
+        "6. populair",
+        "7. oorspronkelijk",
+        "8. werkloosheid",
+        "9. natuurlijke",
+        "10. beledigen"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 40,
+      "title": null,
+      "lines": [
+        "1. beledigen · ik beledig · ik beledigde ik heb beledigd",
+        "wij beledigen · wij beledigden wij hebben beledigd 2.",
+        "exporteren · ik exporteer · ik exporteerde ik heb geëxporteerd",
+        "wij exporteren · wij exporteerden · wij hebben geëxpor",
+        "3. grenzen aan het grenst aan het grensde aan · het heeft gegrensd aan",
+        "zij grenzen aan zij grensden aan · zij hebben gegrensd aan",
+        "4. horen bij · ik hoor bij · ik hoorde bij ik heb gehoord bij",
+        "wij horen bij wij hoorden bij wij hebben gehoord bij",
+        "5. importeren · ik importeer · ik importeerde ik heb geïmporteerd",
+        "wij importeren wij importeerden · wij hebben geïmporteerd",
+        "6. liggen aan · het ligt aan · het lag aan · het heeft gelegen aan",
+        "zij liggen aan zij lagen aan zij hebben gelegen aan · 7.",
+        "meemaken · ik maak mee ik maakte mee ik heb meegemaakt",
+        "wij maken mee wij maakten mee · wij hebben meegemaakt",
+        "8. overleven · ik overleef · ik overleefde ik heb overleefd",
+        "wij overleven wij overleefden wij hebben overleefd",
+        "9. stemmen · ik stem · ik stemde · ik heb gestemd",
+        "wij stemmen wij stemden · wij hebben gestemd",
+        "10. wennen aan ik wen aan · ik wende aan ik ben gewend aan",
+        "wij wennen aan · wij wenden aan wij zijn gewend aan"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 41,
+      "title": "Teamleider",
+      "lines": [
+        "Goedemiddag allemaal. Voordat we gaan beginnen, geef ik even het woord aan onze twee nieuwe",
+        "collega’s, Liam en Debora. Zouden jullie je willen voorstellen en misschien kort wat willen vertellen over",
+        "waar jullie vandaan komen?",
+        "Liam:",
+        "Natuurlijk! Hoi, allemaal. Ik ben Liam. Ik kom uit Alaska. Ik heb tussen 2015 en 2018 in Nederland",
+        "gestudeerd. In die tijd heb ik cursussen Nederlands gevolgd. Daarom spreek ik al Nederlands. Na mijn",
+        "studie ben ik teruggegaan naar Alaska totdat ik de kans kreeg om voor dit bedrijf te werken.",
+        "Ik zal kort wat vertellen over Alaska. Alaska is geen land zoals jullie misschien denken maar de meest",
+        "noordelijke staat van de Verenigde Staten. Het is de grootste van alle vijftig staten, met een oppervlakte",
+        "van ongeveer 1,7 miljoen km2. Meer dan 200.000 km2 is echter water. Hoewel Alaska heel groot is, wonen",
+        "er helemaal niet zoveel mensen. Ongeveer 700.000. Dat is dus bijna net zoveel als hier in Rotterdam. Ik",
+        "ben er trots op dat ik uit de dunbevolktste staat van Amerika kom. Hoe minder mensen, hoe meer ruimte",
+        "voor de prachtige natuur. Natuur is belangrijk voor me. Er zijn bijvoorbeeld veel bergen in Alaska zoals",
+        "Mount McKinley, de hoogste berg van Amerika. Bergbeklimmen is dan ook een hobby van mij. Eentje",
+        "die ik voorlopig niet zal kunnen uitoefenen. Ik woonde trouwens in de hoofdstad, Juneau, maar daar",
+        "wonen maar 30.000 inwoners. Dat is niks vergeleken met Rotterdam. Jullie begrijpen dat ik heel erg moet",
+        "wennen aan de drukte in Nederland. Ik mis de bergen en mooie natuur ook, maar dit bedrijf geeft mij de",
+        "kans om te werken aan nieuwe technologieën die meehelpen het milieu te beschermen. Daar wil ik graag",
+        "aan meewerken en dus ben ik toch naar Nederland verhuisd. Uit mijn studententijd weet ik dat de",
+        "mensen in Nederland heel vriendelijk zijn. Dat ervaar ik ook in dit bedrijf.",
+        "Bedankt daarvoor.",
+        "Teamleider:",
+        "Dank je, Liam. Debora, nu is het jouw beurt.",
+        "Debora:",
+        "Dank je. Ik ben dus Debora. Ik kom uit Albanië. Het ligt in",
+        "Zuidoost-Europa. Het hoort bij het gebied dat de Balkan heet. Buurlanden zijn onder andere Griekenland",
+        "en Servië. Albanië is geen groot land. Het is een stuk kleiner dan Nederland. De totale oppervlakte is iets",
+        "minder dan 30.000 km2. Er wonen ook minder mensen dan in Nederland, ruim 3 miljoen. Maar dat is nog",
+        "altijd veel meer dan in Alaska begrijp ik.",
+        "Net als in Alaska zijn er veel bergen te vinden in het landschap van Albanië. Net als Liam houd ik van",
+        "bergbeklimmen. Wat jullie niet weten is dat Liam en ik elkaar uit onze studietijd in Nederland kennen. We",
+        "hebben allebei in Wageningen gestudeerd.",
+        "Voor mij is de natuur ook belangrijk, ook al woon ik al mijn hele leven in een stad. In Albanië woonde ik in",
+        "Tirana, de hoofdstad. In Nederland woonde ik eerst in Wageningen en nu dus in Rotterdam. Als je meer",
+        "wilt weten over",
+        "Albanië, wil ik er graag over vertellen maar voor nu heb ik wel genoeg verteld."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 42,
+      "title": null,
+      "lines": [
+        "Natuurlijk! Hoi, allemaal. Ik ben Liam. Ik kom uit Alaska. Ik heb tussen 2015 en 2018 in Nederland",
+        "gestudeerd.",
+        "In die tijd heb ik cursussen Nederlands gevolgd. Daarom spreek ik al Nederlands. Na mijn studie ben ik",
+        "teruggegaan naar Alaska totdat ik de kans kreeg om voor dit bedrijf te werken.",
+        "Ik zal kort wat vertellen over Alaska. Alaska is geen land zoals jullie misschien denken maar de meest",
+        "noordelijke staat van de Verenigde Staten. Het is de grootste van alle vijftig staten, met een oppervlakte",
+        "van ongeveer 1,7 miljoen km2. Meer dan 200.000 km2 is echter water. Hoewel Alaska heel groot is, wonen",
+        "er helemaal niet zoveel mensen. Ongeveer 700.000. Dat is dus bijna net zoveel als hier in Rotterdam. Ik",
+        "ben er trots op dat ik uit de dunbevolktste staat van Amerika kom. Hoe minder mensen, hoe meer ruimte",
+        "voor de prachtige natuur. Natuur is belangrijk voor me. Er zijn bijvoorbeeld veel bergen in Alaska zoals",
+        "Mount McKinley, de hoogste berg van Amerika. Bergbeklimmen is dan ook een hobby van mij. Eentje",
+        "die ik voorlopig niet zal kunnen uitoefenen. Ik woonde trouwens in de hoofdstad, Juneau, maar daar",
+        "wonen maar 30.000 inwoners. Dat is niks vergeleken met Rotterdam. Jullie begrijpen dat ik heel erg moet",
+        "wennen aan de drukte in Nederland. Ik mis de bergen en mooie natuur ook, maar dit bedrijf geeft mij de",
+        "kans om te werken aan nieuwe technologieën die meehelpen het milieu te beschermen. Daar wil ik graag",
+        "aan meewerken en dus ben ik toch naar Nederland verhuisd. Uit mijn studententijd weet ik dat de",
+        "mensen in Nederland heel vriendelijk zijn. Dat ervaar ik ook in dit bedrijf.",
+        "Bedankt daarvoor."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 43,
+      "title": null,
+      "lines": [
+        "Fragment 1. Vraag 1.",
+        "Dank je. Ik ben dus Debora. Ik kom uit Albanië. Het ligt in Zuidoost-Europa.",
+        "Het hoort bij het gebied dat de Balkan heet. Buurlanden zijn onder andere",
+        "Griekenland en Servië."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 44,
+      "title": null,
+      "lines": [
+        "Fragment 2. Vraag 2.",
+        "Albanië is geen groot land. Het is een stuk kleiner dan Nederland. De totale oppervlakte is iets minder dan",
+        "30.000 km2. Er wonen ook minder mensen dan in Nederland, ruim 3 miljoen. Maar dat is nog altijd veel",
+        "meer dan in Alaska begrijp ik."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 45,
+      "title": null,
+      "lines": [
+        "Fragment 3. Vraag 3.",
+        "Net als Alaska zijn er veel bergen te vinden in het landschap van Albanië. Net als Liam houd ik van",
+        "bergbeklimmen. Wat jullie niet weten is dat Liam en ik elkaar uit onze studietijd in Nederland kennen. We",
+        "hebben allebei in Wageningen gestudeerd.",
+        "Voor mij is de natuur ook belangrijk, ook al woon ik al mijn hele leven in een stad. In Albanië woonde ik in",
+        "Tirana, de hoofdstad. In Nederland woonde ik eerst in Wageningen en nu dus in Rotterdam. Als je meer",
+        "wilt weten over",
+        "Albanië, wil ik er graag over vertellen maar voor nu heb ik wel genoeg verteld."
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

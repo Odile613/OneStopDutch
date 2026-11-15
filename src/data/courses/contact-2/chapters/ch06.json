@@ -1,0 +1,658 @@
+{
+  "number": 6,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "bekijken",
+          "english": "to look at",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "huren",
+          "english": "to rent",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verhuren",
+          "english": "to let, to rent out",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de advertentie (de advertenties)",
+          "english": "ad",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de buurt (de buurten)",
+          "english": "neighbourhood",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de douche (de douches)",
+          "english": "shower",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de etage (de etages)",
+          "english": "floor",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de flat (de flats)",
+          "english": "apartment",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de gang (de gangen)",
+          "english": "hallway",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de garage (de garages)",
+          "english": "garage",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de horeca (-)",
+          "english": "here: restaurants and bars",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de huur (de huren)",
+          "english": "rent",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de huurder (de huurders)",
+          "english": "tenant",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kamer (de kamers)",
+          "english": "room",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de badkamer (de badkamers)",
+          "english": "bathroom",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de logeerkamer (de logeerkamers)",
+          "english": "guestroom",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de slaapkamer (de slaapkamers)",
+          "english": "bedroom",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de studeerkamer (de studeerkamers)",
+          "english": "study",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de werkkamer (de werkkamers)",
+          "english": "study, office",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de woonkamer (de woonkamers)",
+          "english": "living room",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kelder (de kelders)",
+          "english": "basement, cellar",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de keuken (de keukens)",
+          "english": "kitchen",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de koper (de kopers)",
+          "english": "buyer",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de locatie (de locaties)",
+          "english": "location",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de makelaar (de makelaars)",
+          "english": "real estate agent",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de oppervlakte (de oppervlakten/oppervlaktes)",
+          "english": "surface area",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de ruimte (de ruimten/ruimtes)",
+          "english": "space",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de schuur (de schuren)",
+          "english": "shed",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het schuurtje (de schuurtjes)",
+          "english": "garden shed",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de sleutel (de sleutels)",
+          "english": "key",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verhuurder (de verhuurders)",
+          "english": "landlord / landlady",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de wc (de wc’s)",
+          "english": "toilet",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de weg (de wegen !)",
+          "english": "road",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de wens (de wensen)",
+          "english": "wish",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de woonwens (de woonwensen)",
+          "english": "housing requirements (pl)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de wijk (de wijken)",
+          "english": "neighbourhood, district",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de woning (de woningen)",
+          "english": "house",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de zolder (de zolders)",
+          "english": "attic",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de zon (de zonnen)",
+          "english": "sun",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het aantal (de aantallen)",
+          "english": "number",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het bad (de baden !)",
+          "english": "bath",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het balkon (de balkons)",
+          "english": "balcony",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het detail (de details)",
+          "english": "detail",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het dorp (de dorpen)",
+          "english": "village, town",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het toilet (de toiletten)",
+          "english": "toilet",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het zwembad (de zwembaden !)",
+          "english": "swimming pool",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "breed (brede)",
+          "english": "wide",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "diep (diepe)",
+          "english": "deep",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "geacht (geachte)",
+          "english": "dear",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "gemeubileerd (gemeubileerde)",
+          "english": "furnished",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "gevaarlijk (gevaarlijke)",
+          "english": "dangerous",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "handig (handige)",
+          "english": "handy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "hoog (hoge)",
+          "english": "high",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "huidig (huidige)",
+          "english": "current",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "laag (lage)",
+          "english": "low",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ondiep (ondiepe)",
+          "english": "shallow; short",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "oud (oude)",
+          "english": "old",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ruim (ruime)",
+          "english": "spacious",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "smal (smalle)",
+          "english": "narrow",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "veilig (veilige)",
+          "english": "safe",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zwanger (zwangere)",
+          "english": "pregnant",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "bijzinconjuncties",
+      "entries": [
+        {
+          "dutch": "als",
+          "english": "if, when",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "omdat",
+          "english": "because",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "afkortingen",
+      "entries": [
+        {
+          "dutch": "cm (centimeter)",
+          "english": "centimetre",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "m (meter)",
+          "english": "metre",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "m 2 (vierkante meter)",
+          "english": "square metre",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "km (kilometer)",
+          "english": "kilometre",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "beneden",
+          "english": "downstairs",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "boven",
+          "english": "upstairs",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "daarom",
+          "english": "therefore",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "geen van beide",
+          "english": "neither",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "in de buurt van",
+          "english": "near, close to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "in verwachting zijn",
+          "english": "to be expecting (a baby)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "voor de deur",
+          "english": "in front of the door",
+          "other": null,
+          "note": "De bus stopt voor de deur. The bus stops in front of the door."
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Aangenaam kennis te maken.",
+          "english": "Pleased to meet you. honderdeenentachtig 181",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 20,
+      "title": null,
+      "lines": [
+        "Eva: Welk huis vind jij het leukst?",
+        "Bas: Ik vind ze allebei leuk. En jij?",
+        "Eva: Ja, ik ook.",
+        "Bas: Volgens mij zijn ze ongeveer even groot.",
+        "Eva: Ja, volgens mij ook.",
+        "Bas: En ze hebben allebei een tuin.",
+        "Eva: Ja, en allebei drie slaapkamers.",
+        "Bas: Dus de huizen zelf verschillen niet zo veel.",
+        "Eva: Nee, dat denk ik ook niet.",
+        "Bas: \u0007En de buurt dan? Dat huurhuis is wel dichter bij mijn werk. En de bus stopt voor de deur.",
+        "Dat is wel erg handig natuurlijk.",
+        "Eva: Ja.",
+        "Bas: Je klinkt niet erg enthousiast. Wat vind jij belangrijk?",
+        "Eva: Ik wil het liefst in een rustige buurt wonen, omdat de kinderen nog klein zijn.",
+        "Bas: Dan heb je liever dat koophuis, of niet? Dat staat in een kindvriendelijke buurt.",
+        "Eva: Ja, dat lijkt mij fijner.",
+        "Bas: En er zijn scholen in de buurt. Dat is handig, als Benjamin straks naar school gaat.",
+        "Eva: Ja, dat vind ik ook een groot pluspunt.",
+        "Bas: \u0007Maar de buurt lijkt me ook een beetje saai. Echt een wóónwijk, met huizen en veel groen.",
+        "Dat huurhuis staat in een veel gezelligere buurt, met cafeetjes en zo.",
+        "Eva: \u0007Ik ken die buurt niet zo goed. Maar die straat wel. Dat is toch een heel drukke weg? Met",
+        "heel veel verkeer?",
+        "Bas: Ja, dat klopt.",
+        "Eva: Dat is niet veilig voor de kinderen.",
+        "Bas: Nee, je hebt gelijk.",
+        "Eva: Zullen we het koophuis dan maar eens gaan bekijken?",
+        "Bas: Ja, laten we dat doen.",
+        "Eva: Oeh, spannend! Ik ga morgen meteen de makelaar bellen!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 21,
+      "title": null,
+      "lines": [
+        "Makelaarskantoor: Makelaarskantoor Verheij, met Monique.",
+        "Eva: Met Eva Vermeer, goedemorgen.",
+        "Makelaarskantoor: Goedemorgen, hoe kan ik u helpen?",
+        "Eva: Ik wil graag een afspraak maken om een huis te bekijken.",
+        "Makelaarskantoor: Dat kan. Om welk huis gaat het?",
+        "Eva: Het gaat om de woning aan de Valklaan op nummer 23.",
+        "Makelaarskantoor: \u0007Een momentje, ik pak de gegevens er even bij …. Ja, hier heb ik hem. De Valklaan",
+        "23. Die zou u morgen kunnen bezichtigen. Hebt u morgenmiddag tijd, om vier",
+        "uur?",
+        "Eva: Morgenmiddag om vier uur is prima.",
+        "Makelaarskantoor: \u0007Goed. U kunt dan direct naar de Valklaan gaan. De makelaar, meneer Verheij, zal",
+        "daar op u wachten.",
+        "Eva: Oké. Fijn dat het zo snel kan!",
+        "Makelaarskantoor: Natuurlijk.",
+        "Eva: Goed, dan ziet u ons morgen.",
+        "Makelaarskantoor: Eh, ik wil graag nog wat gegevens van u noteren.",
+        "Eva: O ja, natuurlijk, ha ha. Dat vergeet ik bijna!",
+        "Makelaarskantoor: Allereerst graag uw achternaam."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 22,
+      "title": null,
+      "lines": [
+        "Makelaar: Ah, daar bent u al! Mijn naam is Henk Verheij, goedemiddag!",
+        "Eva: Goedemiddag, ik ben Eva Vermeer.",
+        "Makelaar: Aangenaam kennis te maken.",
+        "Bas: Bas de Kleijn, aangenaam.",
+        "Makelaar: Aangenaam. Goed, zullen we maar naar binnen gaan?",
+        "Eva: Heel graag. We zijn zo benieuwd naar het huis!",
+        "Makelaar: Kijk, dit is de hal, met hier links het toilet en dat is de trap naar boven.",
+        "Eva: De gang is wel een beetje smal.",
+        "Bas: Hij is wel breed genoeg voor een kinderwagen, denk ik.",
+        "Eva: Ja, dat is waar.",
+        "Makelaar: En dan hebben we hier rechts de woonkamer.",
+        "Eva: O, wat een ruime kamer! Kijk eens Bas, die diepe tuin! Prachtig!",
+        "Bas: Ja, inderdaad. Is het een zonnige tuin?",
+        "Makelaar: Ja, hij ligt op het zuiden, dus er is veel zon.",
+        "Bas: En ik zie ook een schuurtje, dat is handig voor de fietsen!",
+        "Eva: En de keuken?",
+        "Makelaar: Daar gaan we nu naartoe.",
+        "Eva: O, die is niet zo groot.",
+        "Makelaar: \u0007De keuken is inderdaad niet zo groot, maar er is ook nog een kelder, kijk maar. Hier achter",
+        "deze deur gaat de trap naar beneden.",
+        "Bas: O ja, die kelder is best groot. Kijk maar, Eef.",
+        "Eva: O, maar hij is wel een beetje laag.",
+        "Bas: Ja, het is een kélder! Kelders zijn altijd laag. Maar er is wel genoeg opbergruimte.",
+        "Makelaar: Zullen we naar boven gaan?",
+        "Bas: Prima.",
+        "Makelaar: We beginnen hier rechts met de kleinste slaapkamer.",
+        "Eva: Kijk Bas, een perfecte babykamer!",
+        "Bas: Ja.",
+        "Makelaar: De andere twee slaapkamers zijn groter. Kijk maar.",
+        "Eva: O, deze kamer is prima voor Benjamin.",
+        "Bas: Eva, moet je deze kamer zien! Dit wordt onze slaapkamer!",
+        "Eva: Wat ruim! Heerlijk!",
+        "Bas: En een balkon, wat leuk!",
+        "Eva: Prachtig!",
+        "Makelaar: \u0007Ja, deze slaapkamer is een groot pluspunt. Ik zal u nu de badkamer laten zien. Die is hele-",
+        "maal nieuw.",
+        "Eva: Oh ja, ik zie het. Mmm, het is niet echt onze smaak…",
+        "Bas: Maar alles is wel nieuw, dat is wel heel fijn!",
+        "Eva: Ja, maar zwart met goud Bas, dat is toch afschuwelijk!",
+        "Bas: Ach ja. Er is hier wel een tweede wc, dat is wel handig.",
+        "Makelaar: Er is ook nog een zolder. Zullen we die ook nog even bekijken?",
+        "Eva: Ja, zeker.",
+        "Bas: \u0007Wat een grote ruimte! Hier kunnen we nog een extra kamer maken! Dit kan mijn studeer-",
+        "kamer worden.",
+        "Eva: Ja, of een logeerkamer, voor als mijn moeder komt.",
+        "Bas: Ja, dat kan ook.",
+        "Makelaar: \u0007Het is vrij makkelijk om hier een slaapkamer met een extra douche te maken. Dat hebben",
+        "de buren ook gedaan.",
+        "Bas: Ah, interessant.",
+        "Makelaar: We kunnen u meer informatie over de mogelijkheden geven, als u interesse hebt.",
+        "Bas: Dat is goed om te weten. Eva, zullen wij thuis eens even alles gaan bespreken?",
+        "Eva: Ja, dat lijkt me goed.",
+        "Makelaar: U kunt ons altijd bellen, als u nog vragen heeft.",
+        "Eva: Fijn. Dank voor de rondleiding en alle informatie!",
+        "Makelaar: Graag gedaan.",
+        "Bas: We laten u zo snel mogelijk iets weten.",
+        "Makelaar: Fijn, bedankt."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 23,
+      "title": null,
+      "lines": [
+        "Waarom wil je verhuizen? · Omdat mijn huis te klein wordt.",
+        "Waarom wil je verhuizen? · Omdat mijn huis oud en kapot is.",
+        "Waarom wil je verhuizen? · Omdat ik een nieuwe baan in een andere stad krijg.",
+        "Waarom wil je verhuizen? · Omdat we een kindje krijgen.",
+        "Waarom wil je verhuizen? · Omdat de buurt te druk wordt.",
+        "Waarom wil je verhuizen? · Omdat de buurt zo saai is.",
+        "Waarom wil je verhuizen? · Omdat er hier geen winkels zijn.",
+        "Waarom wil je verhuizen? · Omdat er hier geen horeca is.",
+        "Wanneer ga je verhuizen? · Als ik met mijn studie klaar ben.",
+        "Wanneer ga je verhuizen? · Als ik genoeg geld heb.",
+        "Wanneer ga je verhuizen? · Als de kinderen volwassen zijn.",
+        "Wanneer ga je verhuizen? · Als ons nieuwe huis klaar is."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 9,
+      "title": null,
+      "lines": [
+        "1. De woonkamer is 4 bij 11 meter.",
+        "2. Er zijn drie slaapkamers: één grote, van 18 m2, en twee kleine, van 9 en 7,5 m2.",
+        "3. Het huis heeft een 25 meter diepe achtertuin.",
+        "4. Oude huizen in Nederland hebben vaak hoge plafonds, soms zijn ze wel 3,50 meter hoog.",
+        "5. \u0007In de meeste keukens is het werkblad 90 centimeter hoog. Maar mijn vriendin en ik zijn allebei lang.",
+        "Daarom hebben we een hoger werkblad, van 95 centimeter.",
+        "6. Onze buren hebben een zwembad in de tuin. Het zwembad is ondiep: 1 m 32."
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

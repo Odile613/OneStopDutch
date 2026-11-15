@@ -1,0 +1,728 @@
+{
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "bellen met",
+          "english": "to give (someone) a call",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "bestellen",
+          "english": "to order",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "betalen",
+          "english": "to pay",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nemen",
+          "english": "to take",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "pinnen",
+          "english": "to pay with a (debit) card",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de deur (de deuren)",
+          "english": "door (doors)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de foto (de foto’s)",
+          "english": "photo (photos)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de groente (de groentes/groenten)",
+          "english": "vegetable (vegetables)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de herfst (-)",
+          "english": "autumn",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de menukaart (de menukaarten)",
+          "english": "menu (menus)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de klant (de klanten)",
+          "english": "customer (customers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de lente (de lentes)",
+          "english": "spring (springs)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de lepel (de lepels)",
+          "english": "spoon (spoons)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de ober (de obers)",
+          "english": "waiter (waiters)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de persoon (de personen)",
+          "english": "person (people)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de rekening (de rekeningen)",
+          "english": "bill (bills)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de salade (de salades)",
+          "english": "salad (salads)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de tafel (de tafels)",
+          "english": "table (tables)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vis (– / de vissen)",
+          "english": "fish",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vork (de vorken)",
+          "english": "fork (forks)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de wijn (de wijnen)",
+          "english": "wine (wines)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de winter (de winters)",
+          "english": "winter (winters)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de zomer (de zomers)",
+          "english": "summer (summers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het biertje (de biertjes)",
+          "english": "beer (beers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het bord (de borden)",
+          "english": "plate (plates)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het drankje (de drankjes)",
+          "english": "drink (drinks)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het eetcafé (de eetcafés)",
+          "english": "pub serving food",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het eten (-)",
+          "english": "food",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het fruit (-)",
+          "english": "fruit",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gerecht (de gerechten)",
+          "english": "dish (dishes)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het voorgerecht (de voorgerechten)",
+          "english": "starter (starters)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het hoofdgerecht (de hoofdgerechten)",
+          "english": "main course (main courses)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het nagerecht (de nagerechten)",
+          "english": "dessert (desserts)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het glas (de glazen)",
+          "english": "glass (glasses)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het kopje (de kopjes)",
+          "english": "cup (cups)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het mes (de messen)",
+          "english": "knife (knives)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het najaar (-)",
+          "english": "autumn",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het restaurant (de restaurants)",
+          "english": "restaurant (restaurants)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het seizoen (de seizoenen)",
+          "english": "season (seasons)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het servet (de servetten)",
+          "english": "napkin (napkins)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het toetje (de toetjes)",
+          "english": "dessert (desserts)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het vlees (-)",
+          "english": "meat",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het voorjaar (-)",
+          "english": "spring",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het woordenboek (de woordenboeken)",
+          "english": "dictionary (dictionaries)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "een keuze maken",
+          "english": "to make a choice",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lekker vinden",
+          "english": "to like something",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uit eten gaan",
+          "english": "to go out for dinner",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "favoriet (favoriete)",
+          "english": "favourite",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lekker (lekkere)",
+          "english": "good",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "rood (rode)",
+          "english": "red",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vegetarisch (vegetarische)",
+          "english": "vegetarian",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wit (witte)",
+          "english": "white",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "bijna",
+          "english": "almost",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "bijvoorbeeld",
+          "english": "for example",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "contant",
+          "english": "cash",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zonder",
+          "english": "without",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Een tafel voor twee (personen), alstublieft.",
+          "english": "A table for two, please.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Eet smakelijk!",
+          "english": "Enjoy your meal!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Het komt eraan!",
+          "english": "Coming right up!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Het was heerlijk.",
+          "english": "It was wonderful.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Mogen we de rekening alstublieft?",
+          "english": "Can we have the bill, please?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Leer ook:",
+          "english": "Also learn:",
+          "other": null,
+          "note": "– de preposities (zie p. 64) – the prepositions (see p. 64)\n– de maanden van het jaar (zie p. 36) – the months of the year (see p. 36)"
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 35,
+      "title": null,
+      "lines": [
+        "Franca: Met Franca.",
+        "Els: Hoi Franca, met Els.",
+        "Franca: Hé Els, wat leuk. Hoe is het met jou?",
+        "Els: Heel goed… en je weet vast wel waarom ik je bel?",
+        "Franca: Mijn verjaardag zeker? Je komt niet op mijn feestje?",
+        "Els: Nee, dan kan ik echt niet. Daarom bel ik je ook. Ik vind het heel jammer, maar ik heb een",
+        "voorstel. Ik neem je mee uit eten, voor je verjaardag.",
+        "Franca: O, wat een leuke verrassing! Naar welk restaurant gaan we?",
+        "Els: We gaan naar een eetcafé. Ik ken een heel leuk nieuw eetcafé. Het eten is daar echt heel",
+        "goed.",
+        "Franca: Ik vind het geweldig. Wanneer?",
+        "Els: Even kijken. Het is nu vrijdag… Heb jij in het weekend tijd?",
+        "Franca: Dit weekend?",
+        "Els: Ja, morgen of overmorgen…",
+        "Franca: Morgen kan ik niet, maar overmorgen is prima.",
+        "Els: Oké, leuk. Hoe laat zullen we afspreken?",
+        "Franca: Om zeven uur?",
+        "Els: Ja, zeven uur is prima.",
+        "Franca: En waar is het eetcafé?",
+        "Els: In de Javastraat. Weet je waar de Javastraat is?",
+        "Franca: Ja… maar in de Javastraat zijn heel veel restaurants en cafés.",
+        "Els: Dat klopt. Het eetcafé heet ‘Het Seizoen’ .",
+        "Franca: Waarom heet het eetcafé eigenlijk ‘Het Seizoen’?",
+        "Els: Dit eetcafé heeft per seizoen een andere menukaart. In de zomer, dus in juni, juli en",
+        "augustus, hebben ze bijvoorbeeld veel vers fruit. En in de winter echte Hollandse",
+        "stamppot.",
+        "Franca: Ah oké! Nou, ik heb er zin in! Zondagavond om zeven uur in ‘Het Seizoen’ … hartstikke",
+        "leuk!",
+        "Els: Tot zondag.",
+        "Franca: Tot zondag. Doei!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 36,
+      "title": null,
+      "lines": [
+        "Franca: Els, wat leuk je weer te zien!",
+        "Els: Ha Franca, gefeliciteerd!",
+        "Franca: Dank je wel!",
+        "Els: Kom, we gaan naar binnen.",
+        "Ober: Goedenavond, dames. Twee personen?",
+        "Els: Hallo. Ja, een tafel voor twee personen, alstublieft.",
+        "Ober: Hmm, daar zijn nog twee vrije tafels. Loopt u maar mee.",
+        "Els: Dank u wel.",
+        "Franca: Dank u.",
+        "Ober: Alstublieft, de menukaart. Wilt u alvast iets drinken?",
+        "Els: Ik wil graag een rode wijn.",
+        "Franca: En voor mij een biertje, alstublieft.",
+        "Ober: Oké, dank u wel.",
+        "Els: Hmm, wat ga ik bestellen? Even kijken. Nemen we ook een voorgerecht?",
+        "Franca: Nee, ik houd niet zo van voorgerechten. Ik neem alleen een hoofdgerecht. En natuurlijk",
+        "een toetje! De toetjes zijn heel lekker in dit restaurant.",
+        "Els: Ja, goed idee!",
+        "Franca: Ik neem als hoofdgerecht de biefstuk met frietjes en gegrilde paprika’s. En als toetje de",
+        "sorbet met vers fruit.",
+        "Els: Lekker! Ik neem de vis met groente en ook de sorbet.",
+        "Ober: Hebt u een keuze gemaakt?",
+        "Franca: Ja, ik wil graag de biefstuk met gegrilde paprika’s.",
+        "Ober: Sorry, de paprika’s zijn op. U kunt wel de salade bestellen. Is dat ook goed?",
+        "Franca: Oh, wat jammer. Oké, een salade is ook prima.",
+        "Ober: En hoe wilt u het vlees?",
+        "Franca: Medium, graag.",
+        "Els: Voor mij de vis met groente, alstublieft.",
+        "Ober: Wilt u ook een nagerecht?",
+        "Franca: Ja, we willen graag allebei als nagerecht de sorbet met vers fruit. Oh, en graag nog een",
+        "wijntje en een biertje.",
+        "Ober: Prima. Komt eraan!",
+        "Ober: Zo, de vis met groente. En de biefstuk. Alstublieft. Eet smakelijk!",
+        "Franca: Dank u wel! Hmm, dat ziet er heerlijk uit!",
+        "Els: Ja, lekker! Eet smakelijk.",
+        "Franca: Eet smakelijk.",
+        "Ober: Heeft het gesmaakt?",
+        "Franca: Het was heerlijk!",
+        "Els: Ja, het was heel lekker. We willen graag betalen. Mogen we de rekening?",
+        "Ober: Natuurlijk. Een momentje. Ik breng u zo de rekening.",
+        "Ober: Alstublieft, de rekening. Wilt u pinnen of contant betalen?",
+        "Els: Dank u. Pinnen, graag,",
+        "Ober: Dank u wel. Nog een fijne avond en tot ziens.",
+        "Els: Tot ziens.",
+        "Franca: Fijne avond."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 37,
+      "title": null,
+      "lines": [
+        "Wat wilt u bestellen, meneer? Ik wil graag de vis met groente.",
+        "En u, mevrouw? Voor mij de biefstuk, alstublieft.",
+        "En wat wilt u drinken? Een cola, graag.",
+        "En u, mevrouw? Ik wil graag een biertje.",
+        "Eet smakelijk! Dank u!",
+        "Heeft het gesmaakt? Ja, het was heerlijk!",
+        "Heeft het gesmaakt? Ja, het was lekker!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 38,
+      "title": null,
+      "lines": [
+        "Mogen we de rekening? Jazeker! Komt eraan.",
+        "Kan ik pinnen? Natuurlijk.",
+        "Bedankt en tot ziens! Tot ziens!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 39,
+      "title": null,
+      "lines": [
+        "Wie is er aan de beurt?",
+        "Jij bent!",
+        "Ben ik?",
+        "Nee, hij is!",
+        "Mag ik nog een keer?",
+        "Ja, je mag nog een keer!",
+        "Mag ze nóg een keer?",
+        "Nee, ze is af. Ze mag niet meer.",
+        "Jij bent aan de beurt.",
+        "Heb jij voor mij, in de categorie BESTEK, de VORK, alsjeblieft?",
+        "Nee, sorry, die heb ik niet.",
+        "Mag ik van jou, in de categorie BESTEK, de VORK, alsjeblieft?",
+        "Ja, hier, alsjeblieft.",
+        "KWARTET!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 40,
+      "title": null,
+      "lines": [
+        "1 landen",
+        "2 mannen",
+        "3 namen",
+        "4 talen",
+        "5 leren",
+        "6 spreken",
+        "7 werken",
+        "8 horen",
+        "9 sporten",
+        "10 wonen"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 41,
+      "title": null,
+      "lines": [
+        "1 praten",
+        "2 sporten",
+        "3 werken",
+        "4 spreken",
+        "5 leren",
+        "6 horen",
+        "7 pinnen",
+        "8 mannen",
+        "9 landen",
+        "10 buren"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 33,
+      "title": null,
+      "lines": [
+        "1. naam",
+        "2. dranken",
+        "3. glazen",
+        "4. landen",
+        "5. jarig",
+        "6. maar",
+        "7. maanden",
+        "8. samen",
+        "9. na",
+        "10. tafel"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 34,
+      "title": null,
+      "lines": [
+        "1. docent",
+        "2. woord",
+        "3. cola",
+        "4. november",
+        "5. vork",
+        "6. kopje",
+        "7. collega",
+        "8. contant",
+        "9. bord",
+        "10. ook",
+        "11. rode",
+        "12. mogen",
+        "13. product"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 35,
+      "title": null,
+      "lines": [
+        "1. dus",
+        "2. u",
+        "3. cursist",
+        "4. punten",
+        "5. dubbel",
+        "6. menu",
+        "7. nummer",
+        "8. nu",
+        "9. formulier",
+        "10. juni"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 36,
+      "title": null,
+      "lines": [
+        "1. vis",
+        "2. begin",
+        "3. juni",
+        "4. familie",
+        "5. gezin",
+        "6. China",
+        "7. ik",
+        "8. kind",
+        "9. paprika",
+        "10. dialoog"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 37,
+      "title": null,
+      "lines": [
+        "Marga: Brrrrr, wat is het koud.",
+        "Jaap: Ja, het is echt winter. We gaan snel naar binnen. Hier is het restaurant.",
+        "(…)",
+        "Ober: Goedenavond.",
+        "Jaap: Goedenavond. Een tafel voor twee personen, alstublieft.",
+        "Ober: Natuurlijk. Loopt u maar mee.",
+        "(…)",
+        "Ober: Wilt u alvast iets drinken?",
+        "Marga: Ik wil graag een rode wijn.",
+        "Jaap: Lekker, voor mij ook graag. Mogen wij ook meteen de menukaart, alstublieft?",
+        "Ober: Zeker, ik zal de menukaart meebrengen met de drankjes.",
+        "(…)",
+        "Ober: Twee rode wijn. Alstublieft. En hier is de menukaart. Alstublieft.",
+        "Marga: Dank u.",
+        "Jaap: Dank u.",
+        "(…)",
+        "Marga: Zullen we de menukaart bekijken?",
+        "Jaap: Ja, dat is goed.",
+        "Marga: Neem jij een voorgerecht?",
+        "Jaap: Ja, ik wil graag een soepje.",
+        "Marga: Ze hebben tomatensoep en groentesoep. Welke wil je?",
+        "Jaap: Dan neem ik de tomatensoep. Neem jij ook een voorgerecht?",
+        "Marga: Ja, maar ik heb geen zin in soep.",
+        "Jaap: Ze hebben ook salades.",
+        "Marga: Nee, dat is koud. Ik wil een warm voorgerecht.",
+        "Jaap: Ik zie hier ook een warme groentesalade op de menukaart.",
+        "Marga: Echt?",
+        "Jaap: Ja, hier, kijk, onder de soep.",
+        "Marga: Oh ja, ik zie het! Warme salade, is dat lekker?",
+        "Jaap: Dat weet ik niet.",
+        "Marga: Weet je wat? Ik neem hem!",
+        "Jaap: De warme salade?",
+        "Marga: Ja.",
+        "Jaap: En wat neem je als hoofdgerecht?",
+        "Marga: Eens even kijken. Oh lekker, ze hebben stamppot. Ik eet graag stamppot in de winter.",
+        "Jaap: Ik houd niet zo van stamppot.",
+        "Marga: Niet?",
+        "Jaap: Nee.",
+        "Marga: Wat wil je dan eten?",
+        "Jaap: Asperges. Maar ik zie geen asperges op de kaart.",
+        "Marga: Nee, joh. Het is januari, asperges eet je alleen in de lente!",
+        "Jaap: Oh haha, ja natuurlijk.",
+        "Marga: In dit restaurant hebben ze alleen seizoensproducten. Bijvoorbeeld de stamppot nu, in",
+        "de winter. Asperges kun je alleen in de lente bestellen.",
+        "Jaap: Aha. Nou, ik neem geen stamppot. Ik neem de biefstuk!",
+        "Marga: Dat is ook lekker! Pardon, mogen we bestellen?",
+        "Ober: Ja, natuurlijk. Zegt u het maar. Wat wilt u bestellen?",
+        "Jaap: Voor mij…"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "id": "tb-06-auto-1",
+      "instruction": "Kies het juiste antwoord.",
+      "question": "Oefening bij hoofdstuk 6: Wat gaan we eten?.",
+      "options": [
+        "Juist",
+        "Onjuist"
+      ],
+      "answerIndex": 0,
+      "explanation": ""
+    }
+  ],
+  "workbookExercises": [],
+  "grammar": [
+    {
+      "id": "ch06-overzicht",
+      "title": "Overzicht hoofdstuk 6",
+      "paragraphs": [
+        "Hoofdstuk 6: Wat gaan we eten?. Dit overzicht bevat de belangrijkste grammaticale punten en woordenschat van dit hoofdstuk."
+      ],
+      "examples": []
+    }
+  ],
+  "number": 6,
+  "title": "Wat gaan we eten?"
+}

@@ -1,0 +1,364 @@
+{
+  "number": 11,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "afwijken van (ik wijk … af van)",
+          "english": "to differ",
+          "other": null,
+          "note": "De planning van vandaag wijkt af van de standaardplanning. Today’s schedule is different from the standard schedule."
+        },
+        {
+          "dutch": "blokkeren",
+          "english": "to cancel",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "neerleggen (ik leg … neer)",
+          "english": "to put down",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verbruiken",
+          "english": "to use",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verlagen",
+          "english": "to lower",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verwijderen",
+          "english": "to remove",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verwijzen naar",
+          "english": "to refer to",
+          "other": null,
+          "note": "Ik verwijs u graag naar onze helpdesk. I would like to refer you to our helpdesk."
+        },
+        {
+          "dutch": "zich bevinden (ik bevind me)",
+          "english": "to be (located)",
+          "other": null,
+          "note": "De bioscoop bevindt zich in het centrum van de stad. The cinema is located in the city centre."
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de bundel (de bundels)",
+          "english": "bundle",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de internetbundel",
+          "english": "data bundle",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de herinnering (de herinneringen)",
+          "english": "reminder",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de omgeving (de omgevingen)",
+          "english": "vicinity",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de omstandigheid (de omstandigheden)",
+          "english": "circumstance",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de onvoorziene omstandigheden",
+          "english": "unforeseen circumstances",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de plek (de plekken)",
+          "english": "place",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de praktijk (de praktijken)",
+          "english": "practice",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de tandartspraktijk",
+          "english": "dentist’s (surgery)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de snelheid (de snelheden)",
+          "english": "speed",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de internetsnelheid",
+          "english": "internet speed",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de uitvoering (de uitvoeringen)",
+          "english": "actual work, realization",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verwachting (de verwachtingen)",
+          "english": "expectation",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de voetganger (de voetgangers)",
+          "english": "pedestrian",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de voorzorg (de voorzorgen)",
+          "english": "precaution",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uit voorzorg",
+          "english": "out of precaution",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de woning (de woningen)",
+          "english": "house",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de zijde (de zijdes)",
+          "english": "side",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het consult (de consulten)",
+          "english": "consultation",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het formulier (de formulieren)",
+          "english": "form",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het intakeformulier",
+          "english": "intake form",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het pad (de paden)",
+          "english": "path",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het voetpad",
+          "english": "pavement",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het pand (de panden)",
+          "english": "premise",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het tarief (de tarieven)",
+          "english": "rate",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het beltarief (de beltarieven)",
+          "english": "calling rate",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het tegoed (de tegoeden)",
+          "english": "credit",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het internettegoed",
+          "english": "data allotment",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het trottoir (de trottoirs)",
+          "english": "pavement",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het verloop (-)",
+          "english": "course",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "even",
+          "english": "even",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "2, 4, 6 en 8 zijn even getallen.",
+          "english": "2, 4, 6 and 8 are even numbers.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "oneven",
+          "english": "odd",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "1, 3, 5 en 7 zijn oneven getallen.",
+          "english": "1, 3, 5 and 7 are odd numbers.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "onvoorzien (onvoorziene)",
+          "english": "unforeseen",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de onvoorziene omstandigheden",
+          "english": "unforeseen circumstances",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "door",
+          "english": "because of",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vanwege",
+          "english": "due to",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "komen te vervallen",
+          "english": "to be cancelled",
+          "other": null,
+          "note": "De afspraak komt te vervallen. The appointment has been cancelled."
+        },
+        {
+          "dutch": "naar aanleiding van",
+          "english": "as a result of",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "toe zijn aan",
+          "english": "to be in need of",
+          "other": null,
+          "note": "Ik ben echt toe aan een kopje koffie. I could really use a cup of coffee. tweehonderdvijf 205"
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "wb",
+      "track": 33,
+      "title": "Marcel",
+      "lines": [
+        "Welkom allemaal. Fijn dat jullie kunnen helpen bij de hardloopwedstrijd. Jullie zullen verantwoordelijk",
+        "zijn voor het regelen van het verkeer, of om preciezer te zijn: jullie moeten zorgen dat het publiek en",
+        "alle andere voetgangers de route van de hardlopers niet blokkeren. De verwachting is dat er ongeveer",
+        "3500 mensen langs de route zullen staan als supporters voor de hardlopers. We willen zo min mogelijk",
+        "overlast voor de buurt, dus uit voorzorg zijn alle bewoners een maand geleden al geïnformeerd over dit",
+        "evenement. De bewoners weten dus al dat het trottoir voor hun woningen tijdens de wedstrijd vol zal",
+        "staan met publiek. Als er een probleem is, bijvoorbeeld als iemand een klacht heeft, dan kun je diegene",
+        "verwijzen naar de centrale hulppost. Deze bevindt zich aan de noordzijde van het park, in de witte tent",
+        "voor het pand van de Rabobank. Goed, dat was de informatie over de voorbereidingen. Dan zal ik nu",
+        "vertellen over de uitvoering van jullie taken …"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 34,
+      "title": null,
+      "lines": [
+        "1. Dit is de ANWB-verkeersinformatie. Er is een ongeluk gebeurd op de A50 van Arnhem naar Oss. Er is op",
+        "dit moment maar één rijstrook beschikbaar. Verkeer vanuit Arnhem in de richting van Eindhoven wordt",
+        "geadviseerd een andere route te nemen. Er wordt een omleiding ingesteld.",
+        "2. Dit is de ANWB-verkeersinformatie. Verkeer op de A2 – Den Bosch richting Eindhoven – moet rekening",
+        "houden met een langere reistijd. Er wordt op verschillende plaatsen aan de weg gewerkt. De weg is wel",
+        "open voor alle verkeer, maar er gelden snelheidsbeperkingen. Er zijn momenteel geen files op het traject.",
+        "3. Ten slotte nog een bericht voor treinreizigers. Op het traject Venlo – Maastricht rijden geen treinen. Er",
+        "staat een kapot treinstel op het spoor. Het treinstel wordt op dit moment gerepareerd. De NS verwacht",
+        "dat het treinverkeer nog de hele middag en avond platligt. Er rijden bussen in plaats van treinen. De",
+        "vertraging kan oplopen tot 45 minuten."
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

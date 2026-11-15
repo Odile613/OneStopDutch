@@ -1,0 +1,456 @@
+{
+  "number": 2,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "afvallen (ik val … af )",
+          "english": "to lose weight",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "googelen",
+          "english": "to google",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "inburgeren (ik burger … in)",
+          "english": "to integrate (into Dutch society)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lukken",
+          "english": "to manage",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "passen",
+          "english": "to fit, to suit",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "roken",
+          "english": "to smoke",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "stoppen",
+          "english": "to stop",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "stressen",
+          "english": "to stress",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uitgeven (ik geef … uit)",
+          "english": "to spend",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uitvoeren (ik voer … uit)",
+          "english": "to carry out",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verbeteren",
+          "english": "to improve",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verliezen",
+          "english": "to lose",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de beslissing (de beslissingen)",
+          "english": "decision",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bioloog (de biologen)",
+          "english": "biologist",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de combinatie (de combinaties)",
+          "english": "combination",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de ervaring (de ervaringen)",
+          "english": "experience",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de faculteit (de faculteiten)",
+          "english": "faculty",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de farmacie (-)",
+          "english": "pharmacy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de gewoonte (de gewoontes, de gewoonten)",
+          "english": "habit",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de eetgewoonte",
+          "english": "eating habit",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de les (de lessen)",
+          "english": "lesson; class",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de yogales",
+          "english": "yoga class",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de lip (de lippen)",
+          "english": "lip",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de onderlip",
+          "english": "bottom lip",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de opvang (-)",
+          "english": "(child) care",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kinderopvang",
+          "english": "child care",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de ov-chipkaart (de ov-chipkaarten)",
+          "english": "public transport pass",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de schrijver (de schrijvers)",
+          "english": "writer",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de schuld (de schulden)",
+          "english": "debt",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de serveerster (de serveersters)",
+          "english": "waitress",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de tand (de tanden)",
+          "english": "tooth",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de boventand",
+          "english": "upper tooth",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de technologie (de technologieën)",
+          "english": "technology",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de informatietechnologie",
+          "english": "information technology",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de toets (de toetsen)",
+          "english": "test",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de eindtoets",
+          "english": "final test",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de uitvoering (-)",
+          "english": "realization",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vierdejaars (de vierdejaars)",
+          "english": "fourth-year student",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het artikel (de artikelen/de artikels)",
+          "english": "article",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gebied (de gebieden)",
+          "english": "area",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het vakgebied",
+          "english": "area of expertise",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het pensioen (de pensioenen)",
+          "english": "pension",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het personeel (-)",
+          "english": "staff",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het horecapersoneel",
+          "english": "hospitality staff",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het privéleven (de privélevens)",
+          "english": "private life",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het programma (de programma's)",
+          "english": "programme",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het radioprogramma",
+          "english": "radio programme",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het tijdschrift (de tijdschriften)",
+          "english": "magazine",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het voornemen (de voornemens)",
+          "english": "intention, plan",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "werkloos (werkloze)",
+          "english": "unemployed",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "vanuit",
+          "english": "from",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zoal",
+          "english": "± roughly speaking, as an example honderdeenennegentig 191",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "afscheid nemen (van)",
+          "english": "to say goodbye to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een … of …",
+          "english": "about",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een maand of zes",
+          "english": "about six months",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een uur of twee",
+          "english": "about two hours",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "(het) middelbaar onderwijs",
+          "english": "secondary education",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "op en neer",
+          "english": "back and forth",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "sociale contacten",
+          "english": "social contacts",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "wb",
+      "track": 6,
+      "title": null,
+      "lines": [
+        "1. vuur – vuur – vuur",
+        "2. wat – wat – wat",
+        "3. waar – waar – vaar",
+        "4. feest – feest - feest",
+        "5. went – vent - vent",
+        "6. vang – wang - wang",
+        "7. wel – wel – wel",
+        "8. vind – wind – wind",
+        "9. vond – vond – vond",
+        "10. vond – wond - wond"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 7,
+      "title": null,
+      "lines": [
+        "1. Frans",
+        "2. wij",
+        "3. veel",
+        "4. vel",
+        "5. fruit",
+        "6. beweeg",
+        "7. voetbal",
+        "8. gevallen",
+        "9. vieren",
+        "10. gaf"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 8,
+      "title": null,
+      "lines": [
+        "1. voornemen",
+        "2. ver gens",
+        "3. waarom",
+        "4. woorden",
+        "5. uitvoeren",
+        "6. vriendin",
+        "7. antwoorden",
+        "8. faculteit",
+        "9. verwachten",
+        "10. vrienden",
+        "11. afscheid",
+        "12. geweten"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 9,
+      "title": null,
+      "lines": [
+        "1. Hoe laat begint de vergadering? · Om een uur of negen.",
+        "2. Wanneer doe je de eindtoetsen? · Over een week of zeven.",
+        "3. Wanneer gaan jullie op vakantie? · Over een dag of acht.",
+        "4. Hoe laat vertrekt de trein? · Over een minuut of tien.",
+        "5. Wanneer komt de baby? · Over een maand of drie.",
+        "6. Wanneer ga je met pensioen? · Over een jaar of vier."
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

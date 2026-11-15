@@ -1,0 +1,606 @@
+{
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "beginnen met",
+          "english": "to start with",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "helpen",
+          "english": "to help",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "jarig zijn",
+          "english": "to have one’s birthday",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nodig hebben",
+          "english": "to need",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "starten",
+          "english": "to begin, to start",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "tellen",
+          "english": "to count",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "weten",
+          "english": "to know",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "willen",
+          "english": "to want",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ik ben geboren (geboren zijn)",
+          "english": "I was born",
+          "other": "(to be born)",
+          "note": null
+        },
+        {
+          "dutch": "ik kan (kunnen)",
+          "english": "I can",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ik was (zijn)",
+          "english": "I was",
+          "other": "(to be)",
+          "note": null
+        },
+        {
+          "dutch": "hij geeft (geven)",
+          "english": "he gives",
+          "other": "(to give)",
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de balie (de balies)",
+          "english": "desk (desks)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de dag (de dagen)",
+          "english": "day (days)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de datum (de data/de datums)",
+          "english": "date (dates)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de geboortedatum (de geboortedata)",
+          "english": "date of birth (dates of birth)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de startdatum (de startdata)",
+          "english": "starting date (starting dates)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de cursus (de cursussen)",
+          "english": "course (courses)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de taalcursus",
+          "english": "language course",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de leeftijd (de leeftijden)",
+          "english": "age (ages)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de plaats (de plaatsen)",
+          "english": "place (places)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de postcode (de postcodes)",
+          "english": "postcode (postcodes)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de secretaresse (de secretaresses)",
+          "english": "secretary (secretaries)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de straat (de straten)",
+          "english": "street (streets)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verjaardag (de verjaardagen)",
+          "english": "birthday (birthdays)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het adres (de adressen)",
+          "english": "address (addresses)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het e-mailadres (de e-mailadressen)",
+          "english": "email address (email addresses)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het formulier (de formulieren)",
+          "english": "form (forms)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het inschrijfformulier (de inschrijfformulieren)",
+          "english": "enrolment form (enrolment forms)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het getal (de getallen)",
+          "english": "number (numbers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het jaar (de jaren)",
+          "english": "year (years)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het geboortejaar (de geboortejaren)",
+          "english": "birth year (birth years)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het nummer (de nummers)",
+          "english": "number (numbers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het huisnummer (de huisnummers)",
+          "english": "house number (house numbers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het telefoonnummer (de telefoonnummers)",
+          "english": "phone number (phone numbers)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "verplicht (verplichte)",
+          "english": "mandatory",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "bedankt",
+          "english": "thank you",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "hoe oud",
+          "english": "how old",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "meer",
+          "english": "more",
+          "other": null,
+          "note": "Je wilt graag meer informatie. You would like more information."
+        },
+        {
+          "dutch": "vandaag",
+          "english": "today",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wanneer",
+          "english": "when",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Echt waar? Ja, echt.",
+          "english": "Really? Yes, really.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Nog een fijne dag!",
+          "english": "Have a nice day!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Oké.",
+          "english": "Okay.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dat kan.",
+          "english": "That’s possible.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Prima!",
+          "english": "Great!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Leer ook:",
+          "english": "Also learn:",
+          "other": null,
+          "note": "– de getallen 0 – 100 (zie p. 34) – the numbers 0 – 100 (see p. 34)\n– de maanden van het jaar (zie p. 36) – the months of the year (see p. 36)\n– de preposities (zie p. 36) – the prepositions (see p. 36)"
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 14,
+      "title": null,
+      "lines": [
+        "Cursist:  Hallo.",
+        "Secretaresse: Goedemorgen, mevrouw.",
+        "Cursist:  Ik zoek de balie van het Taleninstituut.",
+        "Secretaresse: Dat is hier. Kan ik u helpen?",
+        "Cursist: Welke taalcursussen hebben jullie?",
+        "Secretaresse: We hebben cursussen Nederlands, Frans, Duits",
+        "en Engels.",
+        "Cursist: Mooi. Ik zoek een cursus Frans.",
+        "Secretaresse: Dat kan. Wanneer wilt u beginnen met de cursus?",
+        "De cursussen starten op 15 september en op",
+        "28 januari.",
+        "Cursist: Ehm, ik begin graag in september.",
+        "Secretaresse: Prima. Ik heb hier het inschrijfformulier. Wat is uw naam?",
+        "Cursist: Mijn naam is Anne Hanssen.",
+        "Secretaresse: Kunt u uw achternaam spellen?",
+        "Cursist: Ja natuurlijk, dat is H, A, N, S, S, E, N.",
+        "Secretaresse: Wanneer bent u geboren?",
+        "Cursist: Mijn geboortedatum is 21 juli 1989.",
+        "Secretaresse: Echt waar? 21 juli? Dat is vandaag! U bent vandaag jarig!",
+        "Cursist: Ja, ik ben vandaag jarig.",
+        "Secretaresse: Gefeliciteerd!",
+        "Cursist: Dank u wel.",
+        "Secretaresse: Ehm, waar was ik? O ja, wat is uw adres?",
+        "Cursist: Ik woon aan het Stationsplein nummer 24b in Sittard.",
+        "Secretaresse: Wat is uw postcode?",
+        "Cursist: 6131 AT.",
+        "Secretaresse: Ik heb ook nog uw e-mailadres nodig.",
+        "Cursist: Mijn e-mailadres is a.hanssen89@mail.nl",
+        "Secretaresse: Dank u wel. U krijgt de informatie over de cursus per e-mail.",
+        "Cursist: Oké, bedankt.",
+        "Secretaresse:  Nog een fijne dag, mevrouw.",
+        "Cursist: Dank u wel. U ook. Tot ziens."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 15,
+      "title": null,
+      "lines": [
+        "0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 40, 50, 60,",
+        "70, 80, 90, 100, 200, 300, 1000, 2000, 3000"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 16,
+      "title": null,
+      "lines": [
+        "Hoe oud ben jij? – Ik ben 15.",
+        "Hoeveel talen spreekt Mario? – Hij spreekt wel 6 talen.",
+        "Wie woont op nummer 14?",
+        "Het woord dialoog heeft 7 letters.",
+        "Ben jij al 8 jaar, Kristel?",
+        "Wat is jouw e-mailadres? – Dat is Hanna21@hotmail.com",
+        "Wat is jouw huisnummer? – Mijn huisnummer is 76.",
+        "Ik ben 18 en ik heb een auto."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 17,
+      "title": null,
+      "lines": [
+        "Voorbeeld:  Hoe oud ben je? Ik ben 24.",
+        "1 Hoe oud ben je? Ik ben 21.",
+        "2 Wat is je huisnummer?  Mijn huisnummer is 256.",
+        "3 Wat is je telefoonnummer?  Mijn telefoonnummer is 06 – 01 89 67 45",
+        "4 Wat is je postcode?  Mijn postcode is 9736 CG.",
+        "5 Wat is je e-mailadres?  Mijn e-mailadres is c.pepping92@mail.nl.",
+        "6 In welk jaar ben je geboren?  Ik ben geboren in 1998.",
+        "7 Wanneer ben je jarig?  Ik ben jarig op 14 maart."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 18,
+      "title": null,
+      "lines": [
+        "Telefoonnummer: 06 14730550",
+        "Postcode: 6131 AT",
+        "Jaar: 1984",
+        "Jaar: 2003",
+        "Datum: 17 januari",
+        "Huisnummer: 312"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 19,
+      "title": null,
+      "lines": [
+        "1 Hoe heet jij? - Ik heet Luuk.",
+        "2 Hoe heet jij? - Ik heet Joep.",
+        "3 Hoe heet jij? - Ik heet Huub.",
+        "4 Hoe heet jij? - Ik heet Ruud.",
+        "5 Hoe heet jij? - Ik heet Loes.",
+        "6 Hoe heet jij? - Ik heet Guus."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 20,
+      "title": null,
+      "lines": [
+        "1 Duits",
+        "2 leuk",
+        "3 uit",
+        "4 kruis",
+        "5 euro"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 21,
+      "title": null,
+      "lines": [
+        "1 heet",
+        "2 naam",
+        "3 waar",
+        "4 gaan",
+        "5 leer"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 16,
+      "title": null,
+      "lines": [
+        "1. Wil de eigenaar van de auto met kenteken 69-PXF-3 zich melden bij de  ingang?",
+        "2. Hoeveel is 12 plus 15? Dat is 27.",
+        "3. Op welk huisnummer woon jij? – Ik woon op nummer 125.",
+        "4. Het is een huis uit 1794.",
+        "5. Op mijn nummerbord staat het geboortejaar van mijn opa: 1906",
+        "6. Het is in totaal 87.251",
+        "7. Ik woon op de Daalseweg nummer 148."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 17,
+      "title": null,
+      "lines": [
+        "1. Hoi! Ik ben Nikki. Ik woon in Breda. Mijn adres is Dorpsstraat 59. Mijn postcode is 4251EK.",
+        "2. Hallo. Mijn naam is Bart. Ik woon aan de Kruidlaan 178 in Stadskanaal. Mijn postcode is 9501AA.",
+        "3. Goedemiddag. Ik heet Tim. Ik woon met mijn vader en moeder in Emmeloord aan de Muntweg op",
+        "nummer 18. Mijn postcode is 8301 AP ."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 18,
+      "title": null,
+      "lines": [
+        "1. Goedemiddag. Mijn naam is Jan en ik ben docent. Ik werk op de universiteit. Ik ben 45 jaar oud.",
+        "2. Hoi. Ik heet Lidy. Ik kom uit Utrecht. Ik zit op school. Ik ben 15 jaar.",
+        "3. Hallo. Ik ben Marjan. Ik heb geen werk. Ik ben al oud. Mijn leeftijd is 82.",
+        "4. Mijn voornaam is Kees en mijn achternaam is Berends. Ik kom uit Den Haag. Ik ben 61.",
+        "5. En ik ben Marloes. Ik studeer aan de universiteit. Ik ben 28 jaar."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 19,
+      "title": null,
+      "lines": [
+        "A. 13 – 14 – 15 – 16 – 17 – 18 – 19",
+        "B. 30 – 40 – 50 – 60 – 70 – 80 – 90",
+        "C.  13 – 30 14 – 40 15 – 50 16 – 60 17 – 70 18 – 80 19 – 90"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 20,
+      "title": null,
+      "lines": [
+        "1.  Wij leren Nederlands bij het taleninstituut.",
+        "2. Nederlands is leuk!",
+        "3. Hij komt uit Duitsland.",
+        "4. De docent spreekt alleen Nederlands.",
+        "5. Mijn broer werkt in een restaurant.",
+        "6. Ik luister naar de docent.",
+        "7. Zijn naam is Guus.",
+        "8. Zij komt uit Brazilië.",
+        "9. Dag mevrouw. Wat is uw naam?",
+        "10. Ik volg een opleiding."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "id": "tb-03-auto-1",
+      "instruction": "Kies het juiste antwoord.",
+      "question": "Oefening bij hoofdstuk 3: Aan de balie.",
+      "options": [
+        "Juist",
+        "Onjuist"
+      ],
+      "answerIndex": 0,
+      "explanation": ""
+    }
+  ],
+  "workbookExercises": [],
+  "grammar": [
+    {
+      "id": "ch03-overzicht-hoofdstuk-3",
+      "title": "Overzicht hoofdstuk 3",
+      "paragraphs": [
+        "ianuari- fobruari - maart - anril - mei - juni - jufi - augustus - september - oktober - november - december",
+        "Jke gegevens vragen (formeel en informeel) en vertellen",
+        "Mijn adres is Kerkstraat 17,3265 kL, Thl.",
+        "Mijn postcode is 3265 KL.",
+        "Wat is je adres?",
+        "Wat is je postcode?",
+        "Mijn telefoonnummer is 06-12345674.",
+        "Wat is je telefoonnummer?",
+        "Mijn e-mailadres is ik@mail.nl.",
+        "Wat is je e-mailadres?",
+        "Mijn geboortedatum is 3 juli 1999,",
+        "Wat is je geboortedatum?",
+        "Ik woon in Tiel, in de Kerkstraat:",
+        "Ik woon in de Kerkstraat.",
+        "Waar woon je?",
+        "In weike straat woon je?",
+        "Ik woon op nummer 17.",
+        "Op welk nummer woon je?",
+        "Ik ben geboren op 3 juli 1999.",
+        "Wanneer ben je geboren?",
+        "ik ben 3 jul jarig./ik ben jarig op 3 jul.",
+        "Wanneer ben je jarig?",
+        "Ik ben 26.",
+        "Hoe oud ben je?"
+      ],
+      "examples": [
+        "Wat is uw adres?",
+        "Wat is uw postcode?",
+        "Wat is uw telefoonnummer?",
+        "Wat is un e-mailadres?",
+        "Wat is uw geboortedatum?",
+        "Waar woont u?",
+        "In welke straat woont u?",
+        "Op welk, nummer woont u?",
+        "Wanneer bent u geboren?",
+        "Wanneer bent u jarig?",
+        "Hoe oud bent u?"
+      ]
+    },
+    {
+      "id": "ch03-preposities",
+      "title": "Preposities",
+      "paragraphs": [
+        "B: Dank u wel, u ook!"
+      ],
+      "examples": [
+        "Ik begin graag in september.",
+        "Ik ben geboren in 1998.",
+        "ic → mijn adres, mijn naam",
+        "N → jouw adres, jouw naam",
+        "Ik ben jarig op 10 april.",
+        "Wanneer wilt u beginnen met de cursus?",
+        "je → je adres. je naam",
+        "u → uw adres, uw naam, uw nummer"
+      ]
+    },
+    {
+      "id": "ch03-reageren",
+      "title": "Reageren",
+      "paragraphs": [
+        "B: Gefeliciteerd:",
+        "B: Tot ziens.",
+        "B: Ja, echt.",
+        "Verba: hebben en zijn",
+        "zijn",
+        "ben",
+        "heb",
+        "singularis",
+        "ben je",
+        "hebje"
+      ],
+      "examples": [
+        "A: Nog een fijne dag.",
+        "A: ik ben vandaag jarig.",
+        "A: Tot ziens.",
+        "A: Echt waar?"
+      ]
+    }
+  ],
+  "number": 3,
+  "title": "Aan de balie"
+}

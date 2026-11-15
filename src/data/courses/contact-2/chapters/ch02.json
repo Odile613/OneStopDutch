@@ -1,0 +1,434 @@
+{
+  "number": 2,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "appen",
+          "english": "to text",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "chatten",
+          "english": "to chat",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "doorhalen (ik haal … door)",
+          "english": "to cross out (I cross out)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "downloaden",
+          "english": "to download",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "duren",
+          "english": "to last",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich inschrijven (... je in te schrijven)",
+          "english": "to register",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "klikken",
+          "english": "to click",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "proberen",
+          "english": "to try",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verbeteren",
+          "english": "to improve",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verzenden",
+          "english": "to send",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de bijbaan (de bijbanen)",
+          "english": "side job",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de eigenschap (de eigenschappen)",
+          "english": "quality",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de opleiding (de opleidingen)",
+          "english": "education, training",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de talenkennis",
+          "english": "knowledge of languages",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verpleegkundige (de verpleegkundigen)",
+          "english": "nurse",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vrijwilliger (de vrijwilligers)",
+          "english": "volunteer",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de werkdag (de werkdagen)",
+          "english": "working day",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de werkervaring",
+          "english": "work experience",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de werktijd (de werktijden)",
+          "english": "working hours",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het beroep (de beroepen)",
+          "english": "profession",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het cv (het curriculum vitae) (de cv’s) (de curricula vitae)",
+          "english": "CV",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het diploma (de diploma’s)",
+          "english": "diploma",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het inschrijfformulier (de inschrijfformulieren)",
+          "english": "registration form",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het uitzendbureau (de uitzendbureaus)",
+          "english": "temporary employment agency",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het vrijwilligerswerk (-)",
+          "english": "volunteer work",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "actief (actieve)",
+          "english": "active",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "beleefd (beleefde)",
+          "english": "polite",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "beschikbaar (beschikbare)",
+          "english": "available",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "duidelijk (duidelijke)",
+          "english": "clear",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "flexibel (flexibele)",
+          "english": "flexible",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "fulltime (fulltime)",
+          "english": "full-time",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "parttime (parttime)",
+          "english": "part-time",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "positief (positieve)",
+          "english": "positive",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "rustig (rustige)",
+          "english": "calm",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "sociaal (sociale)",
+          "english": "social",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vriendelijk (vriendelijke)",
+          "english": "friendly",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zelfstandig (zelfstandige)",
+          "english": "independent",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "genoeg",
+          "english": "enough",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "in deeltijd",
+          "english": "part-time",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wat voor, wat … voor",
+          "english": "what kind of",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "niet van toepassing",
+          "english": "not applicable",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "op zoek naar",
+          "english": "looking for",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Bedankt voor uw tijd.",
+          "english": "Thank you for your time.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Kunt u mij helpen?",
+          "english": "Can you help me?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Met vriendelijke groet,",
+          "english": "Kind regards,",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Wat kan ik voor u doen?",
+          "english": "How can I help you? honderddrieënzeventig 173",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 8,
+      "title": null,
+      "lines": [
+        "Lidia: Goedemorgen, Werkexperts, u spreekt met Lidia Kooimans.",
+        "Florian: Goedemorgen, met Florian Hansen. Mag ik iets vragen?",
+        "Lidia: Natuurlijk, wat kan ik voor u doen?",
+        "Florian: Ik ben student en ik ben op zoek naar een bijbaan. Kunt u mij helpen?",
+        "Lidia: \u0007Jazeker. U kunt het beste ons digitale inschrijfformulier invullen. Op onze website vindt u",
+        "het inschrijfformulier. U kunt het digitaal invullen en daarna verzenden.",
+        "Florian: \u0007Ik heb dat al geprobeerd, maar helaas werkt het niet. Als ik op het formulier klik, dan kan",
+        "ik daar niets invullen.",
+        "Lidia: \u0007O, dat is niet zo fijn. Ik kan nu telefonisch met u het formulier invullen. Het duurt niet lang.",
+        "Uw cv kunt u later via de mail naar mij sturen.",
+        "Florian: Oké.",
+        "Lidia: Wat studeert u trouwens?",
+        "Florian: \u0007Ik heb eerst in Duitsland gestudeerd. Daar heb ik drie jaar de opleiding Verpleegkunde",
+        "gedaan. Nu studeer ik Fysiotherapie in Eindhoven. Ik doe de Engelstalige opleiding.",
+        "Lidia: \u0007Mooi, wij hebben veel vacatures voor verpleegkundigen. U kunt in Nederland met uw",
+        "Duitse diploma werken, dus dat is geen probleem.",
+        "Florian: \u0007Nee, nee, nee, ik wil niet als verpleegkundige werken, ik zoek een andere bijbaan in",
+        "deeltijd.",
+        "Lidia: Prima, dat is geen probleem. Wanneer bent u naar Nederland gekomen?",
+        "Florian: \u0007Ik ben vorige maand naar Nederland gekomen….om bij mijn Nederlandse vriendin te",
+        "wonen, haha.",
+        "Lidia: \u0007….Goed, we beginnen met uw persoonlijke gegevens. Uw naam is Florian Hansen. Is dat",
+        "met één s?",
+        "Florian: Ja, met één s.",
+        "Lidia: Wat is uw geboortedatum?",
+        "Florian: 15 september 1995.",
+        "Lidia: Wat is uw adres en uw telefoonnummer?",
+        "Florian: Bloemenweg 15, 5632 KL Eindhoven. Mijn telefoonnummer is 06 – 56 87 34 21.",
+        "Lidia: U zoekt een bijbaan. Wat voor werk zoekt u?",
+        "Florian: \u0007Ik wil graag als barman werken. Dan heb ik veel contact met Nederlanders en kan ik mijn",
+        "Nederlands verbeteren.",
+        "Lidia: Hebt u al als barman gewerkt?",
+        "Florian: \u0007Ja , ik heb 2 jaar als barman in een café gewerkt. Een studentenbijbaan in het weekend.",
+        "Heel leuk.",
+        "Lidia: Dat is heel positief. Wat voor persoon bent u? Kunt u een paar eigenschappen noemen?",
+        "Florian: Ik ben meestal vriendelijk, beleefd en rustig, maar ook heel sociaal.",
+        "Lidia: U zoekt een bijbaan, dus u wilt parttime werken….",
+        "Florian: Ja, ik kan niet fulltime werken want ik studeer nog.",
+        "Lidia: En vanaf wanneer bent u beschikbaar?",
+        "Florian: \u0007Ik kan al snel beginnen. Ik wil graag op zaterdag en zondag werken. Ik kan deze zaterdag",
+        "al beginnen.",
+        "Lidia: Dat is heel goed.",
+        "Florian: Ja, zeker.",
+        "Lidia: Als laatste wil ik nog iets weten over uw talenkennis. Welke talen spreekt u?",
+        "Florian: Duits natuurlijk, Engels en ook Nederlands.",
+        "Lidia: Uw Nederlands is al heel goed. Welk niveau hebt u?",
+        "Florian: Ik denk …A2 of B1. Ik volg een cursus.",
+        "Lidia: En wat is uw niveau van het Engels?",
+        "Florian: Dat is B2. Ik heb pas een test gedaan voor mijn opleiding.",
+        "Lidia: \u0007Prima, ik weet op dit moment voldoende. Wilt u uw cv naar mij sturen? Mijn mailadres is",
+        "l.kooimans@werkexperts.nl",
+        "Florian: Oké, ik mail u mijn cv. Hoe gaat het nu verder?",
+        "Lidia: \u0007Ik wacht op uw cv. Daarna ga ik kijken of er een vacature voor u is. Daarna bel ik u voor",
+        "een persoonlijke afspraak.",
+        "Florian: Dank u wel voor uw tijd. Ik wacht op uw telefoontje. Hebt u verder nog vragen voor mij?",
+        "Lidia: Nee, u bent heel duidelijk geweest. Graag gedaan. Tot ziens!",
+        "Florian: Tot ziens. Fijne dag nog!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 9,
+      "title": null,
+      "lines": [
+        "1. diploma",
+        "2. cv",
+        "3. vacature",
+        "4. inschrijfformulier"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 10,
+      "title": null,
+      "lines": [
+        "uitzendbureau · Florian",
+        "U spreekt met Lidia Kooijmans. · Hallo, met Florian Hansen.",
+        "Wat kan ik voor u doen? · Ik ben op zoek naar een bijbaan.",
+        "Wilt u zich inschrijven? · Ja, ik wil me graag inschrijven.",
+        "Is het zo duidelijk? · Ja, het is duidelijk.",
+        "Florian · uitzendbureau",
+        "Mag ik iets vragen? · Natuurlijk!",
+        "Kunt u mij helpen? · Ja zeker!",
+        "Hoe gaat het nu verder? · Dat zal ik vertellen.",
+        "Bedankt voor uw tijd. · Graag gedaan.",
+        "Fijne dag nog. · U ook.",
+        "Tot ziens. · Tot ziens."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 5,
+      "title": "Interview met Sara",
+      "lines": [
+        "Mijn naam is Sara, ik ben 42 jaar en ik kom uit Jamaica. Ik ben vrijwilliger in ouderencomplex De",
+        "Wittenberg. In Jamaica heb ik als verpleegkundige gewerkt. Dat wil ik in Nederland ook doen. Ik moet nu",
+        "veel Nederlands spreken en daarna wil ik een opleiding doen.",
+        "In De Wittenberg help ik oudere mensen met eten en drinken. Ook doe ik spelletjes met de ouderen. Ik wil",
+        "met oudere mensen werken als ik mijn diploma heb. Ik heb veel respect voor oudere mensen.",
+        "Interview met Bilal",
+        "Ik ben Bilal, ik ben 35 jaar en ik kom uit Irak. Sinds twee maanden ben ik vrijwilliger op basisschool De",
+        "Regenboog in Meteren. Het is erg leuk. Ik werk twee dagen per week, op dinsdag en op donderdag. Op",
+        "dinsdag help ik met kopiëren en koffie naar de docenten brengen. Op donderdag ga ik met groep 5 naar",
+        "de bibliotheek. Ik lees zelf ook boeken in de bibliotheek. Ik leer heel veel Nederlands.",
+        "Interview met Marek",
+        "Ik ben Marek, ik ben 17 jaar en ik kom uit Polen. Ik zit op ISK Lingecollege. Ik ben pas 1 jaar in Nederland.",
+        "Ik wil later een opleiding voor sportinstructeur of fysiotherapeut doen. Ik werk als vrijwilliger bij",
+        "voetbalclub WNC. Ik help op woensdagavond bij de training van de meisjes. Op zaterdag ga ik mee naar",
+        "de wedstrijden van de meisjes. De meisjes helpen mij met mijn Nederlands. Ze maken grapjes met mij. Het",
+        "is heel leuk als vrijwilliger bij de voetbalclub."
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

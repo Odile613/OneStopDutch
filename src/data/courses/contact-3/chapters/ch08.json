@@ -1,0 +1,518 @@
+{
+  "number": 8,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "aanstaan (hij staat … aan)",
+          "english": "to be (turned) on",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "aanvinken (ik vink … aan)",
+          "english": "to tick",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "aanzetten (ik zet … aan)",
+          "english": "to switch on",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "afsluiten (ik sluit … af )",
+          "english": "to shut down",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "helpen met",
+          "english": "to help with",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "invullen (ik vul … in)",
+          "english": "to fill in, to enter",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "klikken op",
+          "english": "to click on",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "opstarten (ik start … op)",
+          "english": "to start up",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uitzetten (ik zet … uit)",
+          "english": "to switch off",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verschijnen",
+          "english": "to appear honderdnegenennegentig 199",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de aan-uitknop (de aan-uitknoppen)",
+          "english": "on-off button",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de enige (de enigen)",
+          "english": "only one",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de foutmelding (de foutmeldingen)",
+          "english": "error message",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de helpdesk (de helpdesks)",
+          "english": "help desk",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de hulp (-)",
+          "english": "help",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de instellingen (-)",
+          "english": "settings",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de monitor (de monitors, monitoren)",
+          "english": "monitor",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de muis (de muizen)",
+          "english": "mouse",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de optie (de opties)",
+          "english": "option",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de reden (de redenen)",
+          "english": "reason",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de stekker (de stekkers)",
+          "english": "plug",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de toets (de toetsen)",
+          "english": "key",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het hokje (de hokjes)",
+          "english": "box",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het scherm (de schermen)",
+          "english": "screen",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het snoer (de snoeren)",
+          "english": "cord",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het stopcontact (de stopcontacten)",
+          "english": "socket, power point",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het symbool (de symbolen)",
+          "english": "symbol",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het toetsenbord (de toetsenborden)",
+          "english": "keyboard",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het vinkje (de vinkjes)",
+          "english": "tick",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "draadloos",
+          "english": "wireless",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "mis",
+          "english": "wrong",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "logisch",
+          "english": "logical",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "opnieuw",
+          "english": "again",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "steeds",
+          "english": "time and again",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "…, toch?",
+          "english": "…, right?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "trouwens",
+          "english": "by the way",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "achter de computer zitten",
+          "english": "to sit behind the computer",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het (niet) doen",
+          "english": "to (not) work",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "in ieder geval",
+          "english": "in any case",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Dat heb ik al gedaan.",
+          "english": "I have already done that.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Er verschijnt steeds een …",
+          "english": "A/An … keeps popping up.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Het ligt aan …",
+          "english": "The problem is …",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Hij doet het (niet).",
+          "english": "It’s (not) working.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Waarmee kan ik je/u helpen?",
+          "english": "How can I help you?",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 20,
+      "title": null,
+      "lines": [
+        "Hedy Goedemiddag, ICT-helpdesk, met Hedy.",
+        "Dara Goedemiddag, u spreekt met Dara Vos.",
+        "Hedy Dag meneer Vos. Waarmee kan ik u helpen?",
+        "Dara Mijn e-mail doet ’t niet!",
+        "Hedy Hebt u de computer al een keer uitgezet en weer opnieuw aangezet?",
+        "Dara Ja natuurlijk, dat is altijd het eerste wat ik doe als iets het weer eens niet doet.",
+        "Hedy Eens even kijken… Krijgt u, zodra uw e-mail is opgestart, een foutmelding of start het",
+        "programma helemaal niet op?",
+        "Dara Dat wel, maar er verschijnt steeds een foutmelding, iets van ‘kan server niet vinden’ of zo.",
+        "Hedy Hebt u iets veranderd aan de instellingen van uw programma?",
+        "Dara Nee, sinds ik hier werk, heb ik nog nooit iets veranderd.",
+        "Hedy Oké, laten we eens kijken. Zit u nu achter uw computer?",
+        "Dara Ja, zeg maar wat ik moet doen.",
+        "Hedy Staat uw computer nu aan?",
+        "Dara Ja.",
+        "Hedy Goed. Start het e-mailprogramma maar op.",
+        "Dara Dat heb ik al gedaan.",
+        "Hedy Oké, klik dan eerst op ‘extra’ en kies daarna ‘accountinstellingen’.",
+        "Dara Even kijken… waar staat dat… ‘extra’. O, hier! En dan ‘accountinstellingen’, toch?",
+        "Hedy Ja, dat klopt. Zodra het scherm zichtbaar is, gaan we naar stap 3. U klikt aan de linkerkant",
+        "op ‘serverinstellingen’.",
+        "Dara Ja, oké, dat heb ik gedaan.",
+        "Hedy En dan controleert u vervolgens of bij servernaam ‘Claus-lyceum.nl’ is ingevuld.",
+        "Dara Ja, dat staat er.",
+        "Hedy Oké, dat is mooi. En hebt u een vinkje staan bij ‘beveiligde",
+        "authenticatie gebruiken’?",
+        "Dara Eh, sorry, ik begrijp niet wat u bedoelt.",
+        "Hedy Staat er een vinkje? Dat is een symbool, net als de letter V.",
+        "Dara En waar moet dat vinkje staan?",
+        "Hedy Bij ‘beveiligde authenticatie gebruiken’. Dat staat onder ‘beveiligingsinstellingen’.",
+        "Dara O juist ja, nu zie ik het! Daar staat inderdaad geen vinkje.",
+        "Hedy Klik maar op dat hokje om die optie aan te vinken, want zolang dat vinkje er niet staat,",
+        "werkt het niet.",
+        "Dara Oké. En wat moet ik nu doen?",
+        "Hedy Klik op ‘OK’ en sluit het programma maar af.",
+        "Dara En dan werkt het weer?",
+        "Hedy Ja, zodra het programma weer opnieuw is opgestart, kunt u weer bij uw mail.",
+        "Dara Ah, heel fijn! En wat was nou de reden dat die ene optie niet was aangevinkt?",
+        "Hedy Ik heb geen flauw idee! Er is gisteren een nieuwe update geïnstalleerd op alle",
+        "schoolcomputers, dus misschien is daar iets mis gegaan. Of misschien was er een storing.",
+        "Dara Nou, gelukkig ben ik niet de enige die dat heeft, haha! Ik heb trouwens nog een heel",
+        "andere vraag: ik heb af en toe problemen met mijn muis. Soms doet ‘ie het niet goed.",
+        "Hedy: Is de muis wel goed aangesloten op de computer? Zit de stekker in het stopcontact?",
+        "Dara: Eeh…",
+        "Hedy: Of is het een draadloze muis?",
+        "Dara: Ja, mijn muis heeft geen snoer, dus het is een draadloze muis. Het kan dus niet aan de",
+        "stekker of het stopcontact liggen.",
+        "Hedy: Als ik u was, zou ik de onderkant van de muis even goed schoonmaken.",
+        "Dara: Ja, dat klinkt logisch. Goed, ik zal hem eens proberen schoon te maken. En anders bel ik",
+        "jullie helpdesk wel weer. In ieder geval bedankt voor de hulp!",
+        "Hedy · Heel graag gedaan hoor. En een fijne dag nog!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 21,
+      "title": null,
+      "lines": [
+        "A · B",
+        "Waarom doet de computer het niet? · Ik heb geen flauw idee!",
+        "Wat betekent het woord authenticatie? · Ik zou het niet weten!",
+        "Wanneer kan ik de helpdesk bellen? · Dat weet ik niet!",
+        "Hoe kom ik bij de instellingen? · Weet ik veel!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 22,
+      "title": null,
+      "lines": [
+        "1. John: Hee Thijs, goed dat ik je zie. Kun je me misschien even helpen?",
+        "Thijs: Ja hoor. Wat is het probleem?",
+        "John: Ik wil een cappuccino, maar de koffieautomaat doet ’t niet. Kijk maar.",
+        "Thijs: Oh, ik zie het al. Je doet ’t niet in de juiste volgorde. Druk eerst op de knop ‘koffie’, druk",
+        "dan op de knop ‘speciaal’, kijk zo, en dan druk je op het knopje voor ‘cappuccino’.",
+        "John: Aha, nu snap ik het! Bedankt voor je hulp!",
+        "Thijs: Graag gedaan hoor!",
+        "2. Klantenservice: Goedemiddag, De Ochtendkrant-klantenservice. Waarmee kan ik u helpen?",
+        "Marjolein: Goedemiddag, met Marjolein de Groot. Ik heb een abonnement op jullie ochtendkrant en",
+        "ik heb nu al drie keer de krant niet ontvangen.",
+        "Klantenservice: O, dat is vervelend voor u. Ik kijk even in ons systeem.",
+        "Momentje. Hm, mevrouw De Groot, daar was ik weer. Ik zie hier staan dat de krant wel",
+        "telkens is verwerkt door het postbedrijf. Wij kunnen dus verder niets voor u doen, helaas.",
+        "Marjolein: Nou ja, maar wat moet ik dan doen? Ik betaal voor een krant, maar ik krijg hem steeds niet!",
+        "Klantenservice: Ik begrijp dat het vervelend is. U kunt het beste zelf contact opnemen met het postbedrijf.",
+        "Zij kunnen controleren wie uw postbode is en dus wie er verantwoordelijk is voor uw krant.",
+        "Marjolein: Nou, oké, dan doe ik dat maar. Dag hoor.",
+        "3. Welkom bij de workshop ‘Grootmoeders appeltaart bakken’. Vandaag ga ik u leren hoe u een overheerlijke",
+        "appeltaart bakt. Leg alle ingrediënten klaar op het aanrecht. Begin met het schillen van de appels.",
+        "Verwijder het klokhuis en snijd vervolgens de appels in stukjes van ongeveer één tot twee centimeter.",
+        "Voeg een beetje suiker en kaneel toe. Pak dan de boter en …",
+        "4. Nikos: Sandy, had je niet om half drie een afspraak in de stad?",
+        "Sandy: Ja, hoezo?",
+        "Nikos: Als ik jou was, zou ik maar snel gaan, want het is al kwart over twee!",
+        "Sandy: O nee, echt?! Ik ben helemaal de tijd vergeten! Dan ga ik meteen. Tot snel!",
+        "Nikos: Haha, tot later!",
+        "5. Astrid: Hoi Tuan, alles goed? Je ziet er een beetje gespannen uit.",
+        "Tuan: Hee Astrid. Ja, ik moet straks een presentatie geven over mijn project, maar ik ben zo",
+        "zenuwachtig! Wat nou als ik mijn tekst vergeet? Of als ik de vragen niet kan beantwoorden?",
+        "Astrid: Ik zou me geen zorgen maken. Jij bent altijd zo goed voorbereid. Dat komt wel goed. Als",
+        "ik jou was, zou ik nu een lekker kopje thee drinken en dan kun je daarna ontspannen je",
+        "presentatie geven.",
+        "Tuan: Dat zal ik doen. Ik hoop maar dat alles goed gaat…"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 23,
+      "title": null,
+      "lines": [
+        "1. opstarten",
+        "2. proberen",
+        "3. storing",
+        "4. hokje",
+        "5. opnieuw",
+        "6. stopcontact",
+        "7. draadloos",
+        "8. logisch"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 24,
+      "title": null,
+      "lines": [
+        "1. Je kunt het beste de computer opnieuw opstarten.",
+        "2. Dat heb ik al geprobeerd.",
+        "3. Controleer of de stekker in het stopcontact zit.",
+        "4. Ja, dat is nogal logisch!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 25,
+      "title": null,
+      "lines": [
+        "Doet ‘ie ‘t? · Nee, hij doet ’t niet.",
+        "Doet ‘ie ‘t? · Nee, hij doet ’t nog steeds niet.",
+        "Doet ‘ie ’t nu? · Ja, hij doet ‘t!",
+        "Doet ‘ie ’t nu? · Ja, nu doet ‘ie ‘t!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 26,
+      "title": null,
+      "lines": [
+        "Doet ‘ie ‘t? · Nee, hij doet ’t niet.",
+        "Doet ‘ie ‘t? · Nee, hij doet ’t nog steeds niet.",
+        "Doet ‘ie ’t nu? · Ja, hij doet ‘t!",
+        "Doet ‘ie ’t nu? · Ja, nu doet ‘ie ‘t!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 25,
+      "title": "Dialoog 1",
+      "lines": [
+        "Vriendin 1: Communicatie, het draait allemaal om communicatie! Als je niet met elkaar kunt praten,",
+        "dan blijf je nooit lang samen.",
+        "Vriendin 2: Maar ze zegt nooit wat! Hoe krijg ik haar ooit aan het praten?",
+        "Vriendin 1: Ja, dat weet ik ook niet zo één, twee, drie. Geef haar eens wat meer ruimte om te praten!",
+        "Ik bedoel, jij neemt zelf best veel ruimte in, want jij praat toch wel door!",
+        "Vriendin 2: Bedoel je dat het aan mij ligt?",
+        "Vriendin 1: Nee, dat bedoel ik niet, maar je bent wel dominant, vind ik. Je moet elkaar wel een",
+        "beetje ruimte geven.",
+        "Vriendin 2: Ja, maar als zij niks zegt, dan krijg ik zelf ook wel heel veel ruimte!",
+        "Vriendin 1: Ja, daar heb je een punt. Misschien zouden jullie eens samen in therapie moeten gaan.",
+        "Vriendin 2: Ik weet het niet, hoor…",
+        "Vriendin 1: Ja, je moet het zelf weten, maar ik zou het gewoon proberen, als ik jou was. Ik bedoel,",
+        "jullie houden nog van elkaar, toch?",
+        "Vriendin 2: Ja, misschien heb je gelijk, we kunnen het altijd eens proberen.",
+        "Dialoog 2",
+        "Man: Moet ik de brief mailen of opsturen per post?",
+        "Vrouw: Als ik jou was, zou ik hem niet mailen, maar ook niet opsturen. Ik zou hem zelf brengen.",
+        "Dan hebben ze je meteen gezien en dat maakt vast een goede indruk.",
+        "Man: Ja, dat is een goed plan.",
+        "Vrouw: Aan wie is de brief geadresseerd?",
+        "Man: Aan ene mevrouw Houchati. [@studio: Uitspraak: Hoetsjatie]",
+        "Vrouw: Zorg dan wel dat je de brief aan die mevrouw zelf geeft. Als je hem aan de portier geeft,",
+        "heeft het nog geen zin.",
+        "Man: Ja inderdaad, goeie tip. Bedankt!",
+        "Dialoog 3",
+        "Docent: Waarom maak je niet eerst een uittreksel?",
+        "Leerling: Hoe bedoelt u?",
+        "Docent: Nou, waarom maak je geen samenvatting van het hoofdstuk?",
+        "Leerling: Ik heb nog nooit een samenvatting gemaakt. Hoe doe je dat eigenlijk?",
+        "Docent: Nou, je leest eerst het hoofdstuk goed door en schrijft vervolgens de hoofdpunten op.",
+        "Dan lees je die nog een keer goed door en je bedenkt of je nog iets meer over het",
+        "onderwerp kunt vertellen. Kun je dat, dan ken je de stof, kun je dat niet, dan moet je dat",
+        "bepaalde stukje van het hoofdstuk nog eens goed doorlezen.",
+        "Leerling: Dat ga ik doen! Goed idee, dank u wel!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 26,
+      "title": null,
+      "lines": [
+        "1. Waarmee kan ik u helpen?",
+        "2. Wat is het probleem?",
+        "3. Hebt u al gecontroleerd of de stekker in het stopcontact zit?",
+        "4. Hoe ziet het toetsenbord er precies uit?",
+        "5. U kunt het beste de computer afsluiten en opnieuw opstarten. Doet ‘ie ’t nu?",
+        "6. Hebt u de muis weleens schoongemaakt? Misschien kunt u dat eens",
+        "proberen."
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

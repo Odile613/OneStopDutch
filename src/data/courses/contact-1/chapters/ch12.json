@@ -1,0 +1,739 @@
+{
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "bezoeken",
+          "english": "to visit",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "volgen",
+          "english": "to follow",
+          "other": null,
+          "note": "Volg de borden naar de universiteit. Follow the signs for the university."
+        },
+        {
+          "dutch": "zitten",
+          "english": "to sit",
+          "other": "to be",
+          "note": "Ik zit in kamer 4.05. I am in room 4.05."
+        }
+      ]
+    },
+    {
+      "group": "speciale verba",
+      "entries": [
+        {
+          "dutch": "aankomen (ik kom … aan)",
+          "english": "to arrive (I arrive)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uitstappen (ik stap …uit)",
+          "english": "to get out (I get out)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de auto (de auto’s)",
+          "english": "car (cars)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de begane grond (-)",
+          "english": "ground floor (ground floors)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de boot (de boten)",
+          "english": "boat (boats)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bus (de bussen)",
+          "english": "bus (buses)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de halte (de haltes)",
+          "english": "stop (stops)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bushalte (de bushaltes)",
+          "english": "bus stop (bus stops)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de hulp (-)",
+          "english": "help",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kamer (de kamers)",
+          "english": "room (rooms)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de keuze (de keuzes)",
+          "english": "choice (choices)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de studiekeuze (de studiekeuzes)",
+          "english": "study programme choice (study programme choices)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de lift (de liften)",
+          "english": "lift (lifts)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de lijn (de lijnen)",
+          "english": "line (lines)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lijn 11",
+          "english": "line 11",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de parkeerplaats (de parkeerplaatsen)",
+          "english": "car park (car parks)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de reactie (de reacties)",
+          "english": "reaction (reactions)",
+          "other": "reply (replies)",
+          "note": null
+        },
+        {
+          "dutch": "de reis (de reizen)",
+          "english": "trip (trips)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de richting (de richtingen)",
+          "english": "direction (directions)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de route (de routes) (Fr.)",
+          "english": "route (routes)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de snelweg (de snelwegen)",
+          "english": "motorway (motorway)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de tram (de trams)",
+          "english": "tram (trams)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de trap (de trappen)",
+          "english": "stairs (flights of stairs)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de trein (de treinen)",
+          "english": "train (trains)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de universiteit (de universiteiten)",
+          "english": "university (universities)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verdieping (de verdiepingen)",
+          "english": "floor (floors)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de 4e verdieping",
+          "english": "fourth floor",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de weg (de wegen)",
+          "english": "road (roads)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de straat (de straten)",
+          "english": "street (streets)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het advies (de adviezen)",
+          "english": "advice",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het studieadvies (de studieadviezen)",
+          "english": "study advice",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het bord (de borden)",
+          "english": "sign (signs)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het bordje (de bordjes)",
+          "english": "sign (signs)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het centrum (de centra)",
+          "english": "centre (centres)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het openbaar vervoer (-)",
+          "english": "public transport",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het secretariaat (de secretariaten)",
+          "english": "secretary’s office (secretary’s offices)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het spoor (de sporen)",
+          "english": "track (tracks)",
+          "other": "platform (platforms)",
+          "note": null
+        },
+        {
+          "dutch": "het station (de stations)",
+          "english": "station (stations)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het vliegtuig (de vliegtuigen)",
+          "english": "plane (planes)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het vliegveld (de vliegvelden)",
+          "english": "airport (airports)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "advies/hulp/instructie geven (aan iemand)",
+          "english": "to give (somebody) advice / help / instructions",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de weg vragen (aan iemand)",
+          "english": "to ask (somebody) for directions",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de borden volgen",
+          "english": "to follow the signs",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de eerste straat links nemen",
+          "english": "to take the first street on the left",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de …* nemen",
+          "english": "to take the …*",
+          "other": null,
+          "note": "* auto/boot/bus/fiets/lift/metro/\ntram/trap/trein\n* car / boat / bus / bicycle / lift / metro / tram / stairs / train"
+        },
+        {
+          "dutch": "met de …** gaan",
+          "english": "to go by …**",
+          "other": null,
+          "note": "** auto/boot/bus/fiets/lift/metro/\ntram/trap/trein\n** car / boat / bus / bicycle / – / metro / tram / – / train"
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "interessant (interessante)",
+          "english": "interesting",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "makkelijk (makkelijke)",
+          "english": "easy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verdwaald (verdwaalde)",
+          "english": "lost",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "links",
+          "english": "left",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lopend",
+          "english": "on foot",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "rechtdoor",
+          "english": "straight on",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "rechts",
+          "english": "right",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "te voet",
+          "english": "on foot",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ver / ver weg",
+          "english": "far / far way",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Tot volgende week!",
+          "english": "See you next week!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Toch bedankt.",
+          "english": "Thanks anyway.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Leer ook:",
+          "english": "Also learn:",
+          "other": null,
+          "note": "– de preposities (zie p. 124) – the prepositions (see p. 124)"
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 67,
+      "title": null,
+      "lines": [
+        "Conducteur: Het volgende station is Eindhoven. Station Eindhoven.",
+        "Carlien: Eens even kijken, het is ongeveer 8 minuten lopen … Naar links … Eerste straat rechts en",
+        "dan rechtdoor …",
+        "Carlien: Sorry, mag ik wat vragen?",
+        "Student: Natuurlijk.",
+        "Carlien: Waar is de faculteit Bouwkunde?",
+        "Student: Daar. Je gaat rechtdoor en dan zie je de faculteit voor je.",
+        "Carlien: Oké, ja, ik zie het. Dank je.",
+        "Student: Geen dank!",
+        "Carlien: Oké … kamer vierhonderdvijf… Waar is kamer vierhonderdvijf? Hier? Hm …",
+        "Portier: Kan ik u helpen?",
+        "Carlien: O, ja, dank u. Ik ben een beetje verdwaald, denk ik.",
+        "Portier: Waar moet u naartoe?",
+        "Carlien: Naar mevrouw Van Wijk, kamer vierhonderdvijf.",
+        "Portier: Vierhonderdvijf? Ah, u bedoelt kamer vier punt nul vijf. Het eerste cijfer is de verdieping.",
+        "Vier punt nul vijf is dus op de vierde verdieping en niet hier op de begane grond.",
+        "Carlien: O zo!",
+        "Portier: U kunt de trap nemen, maar u kunt ook de lift nemen. De lift is daar, links, ziet u?",
+        "Carlien: Ja, ik zie het. Ik ga meestal met de trap, maar de vierde verdieping is een beetje te hoog.",
+        "Dus ik neem nu liever de lift.",
+        "Portier: Oké. U neemt eerst de lift naar de vierde verdieping. Ga de lift uit en ga dan naar rechts.",
+        "Kamer vier punt nul vijf is de vijfde deur rechts.",
+        "Carlien: Duidelijk, dank u wel!",
+        "Portier: Graag gedaan, hoor."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 68,
+      "title": null,
+      "lines": [
+        "Sorry, mag ik iets vragen? Ja, natuurlijk.",
+        "Waar is de faculteit Bouwkunde? Daar. Ga eerst rechts en ga daarna rechtdoor.",
+        "Oké, dank u wel. Graag gedaan.",
+        "Pardon, mag ik iets vragen? Ja, natuurlijk.",
+        "Waar is kamer 4.05? Sorry, dat weet ik niet.",
+        "O jammer, toch bedankt."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 69,
+      "title": null,
+      "lines": [
+        "1. Ik woon al tien jaar in Nederland.",
+        "2. Je moet eerst lezen.",
+        "3. Je moet eerst lezen.",
+        "4. Hij lust geen koffie, maar ik wel!",
+        "5. Hij lust geen koffie, maar wel thee."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 70,
+      "title": null,
+      "lines": [
+        "1. Moet ik bij het kruispunt links?",
+        "2. Neemt Suzy de trein?"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 71,
+      "title": null,
+      "lines": [
+        "1. Moet ik bij het kruispunt links?  Nee, rechts.",
+        "2. Neemt Suzy de trein?  Nee, Hannah."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 65,
+      "title": null,
+      "lines": [
+        "1. Ik ga met de bus naar de bibliotheek.",
+        "2. Zullen we op het station afspreken?",
+        "3. Morgen doe ik de boodschappen.",
+        "4. Ik pak vandaag de fiets.",
+        "5. Je bent altijd aan het werk.",
+        "6. Ik moet Anna nog bellen vandaag.",
+        "7. Heeft dit gebouw geen lift?",
+        "8. Je kunt daar niet rechtdoor.",
+        "9. Mijn kamer is op de derde verdieping.",
+        "10. Ik ben weer verdwaald."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 66,
+      "title": null,
+      "lines": [
+        "1. Ik ga naar bed want ik ben moe.",
+        "2. Mijn collega’s zitten op de tiende verdieping.",
+        "3. De lunch kost vijftien euro per persoon.",
+        "4. De bus naar de universiteit stopt onderweg bij alle haltes.",
+        "5. Doe jij vandaag de boodschappen, of moet ik het doen?",
+        "6. In het centrum is parkeren heel duur.",
+        "7. De trein naar Groningen vertrekt vandaag van spoor twee.",
+        "8. Ga eerst rechts en daarna links.",
+        "9. Meestal ga ik met het openbaar vervoer, maar soms pak ik de auto.",
+        "10. Ik woon aan het spoor, maar ik pak nooit de trein."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 67,
+      "title": null,
+      "lines": [
+        "1.  Ik doe vaak boodschappen. Gelukkig is de supermarkt niet ver weg. Ik kan dus gewoon met de fiets",
+        "gaan. Het is ongeveer vijf minuten fietsen!",
+        "2.  Ik heb geen auto dus ik ga met de trein naar mijn werk. Ik vind reizen met de trein leuk. Ik pak mijn",
+        "laptop en dan kan ik al werken. Ik moet ongeveer een half uur in de trein zitten.",
+        "3.  Ik ga altijd met het openbaar vervoer naar mijn werk. Dat is niet altijd leuk. Soms is de bus erg vol.",
+        "Dan kan ik niet zitten en dan moet ik staan!",
+        "4.  Ik moet ongeveer 20 minuten naar mijn werk rijden. Ik vind auto rijden best leuk. Gelukkig zijn er op",
+        "het werk ook altijd genoeg parkeerplaatsen!",
+        "5.  Gelukkig woon ik heel dichtbij dus ik ga het liefs te voet. Het is ongeveer een kwartiertje lopen naar",
+        "de universiteit."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 68,
+      "title": null,
+      "lines": [
+        "Dialoog 1:",
+        "Journalist: Hallo meneer. Mag ik u wat vragen?",
+        "Man: Jazeker.",
+        "Journalist: Hoe gaat u meestal naar uw werk?",
+        "Man: Ik werk hier dichtbij, dus ik ga meestal lopend naar mijn werk.",
+        "Journalist: Loopt u altijd naar uw werk?",
+        "Man: Ja, meestal wel, haha. Soms heb ik geen zin om te lopen. Dan pak ik de bus.",
+        "Journalist: Dat begrijp ik. Dank u wel, meneer.",
+        "Dialoog 2:",
+        "Journalist: Dag mevrouw. Mag ik u iets vragen?",
+        "Vrouw: Ja, natuurlijk.",
+        "Journalist: Hoe gaat u naar uw werk?",
+        "Vrouw:  Ik werk in Amsterdam, dus ik moet best lang reizen. Ik ga eerst met de fiets naar het",
+        "station. Daarna neem ik de trein naar Amsterdam. Tot slot moet ik nog een klein stukje",
+        "met de bus.",
+        "Journalist: Hoelang moet u dan in totaal reizen?",
+        "Vrouw:  Ongeveer een uurtje. Ik fiets tien minuten. Ik zit veertig minuten in de trein en daarna",
+        "moet ik nog tien minuten met de bus.",
+        "Journalist: Dank u wel.",
+        "Vrouw: Graag gedaan.",
+        "Dialoog 3:",
+        "Journalist: Goedendag, mag ik u wat vragen?",
+        "Man: Natuurlijk.",
+        "Journalist: Gaat u vaak met het openbaar vervoer?",
+        "Man: Nee, ik ga nooit met het openbaar vervoer.",
+        "Journalist: Waarom niet?",
+        "Man:  Ik vind het openbaar vervoer erg duur. En ik heb een auto van  het werk. Ik ga dus altijd",
+        "met de auto.",
+        "Journalist: Oké, dank u wel.",
+        "Dialoog 4:",
+        "Journalist: Hallo, mag ik u wat vragen?",
+        "Vrouw: Jazeker.",
+        "Journalist: Gaat u met het openbaar vervoer naar uw werk?",
+        "Vrouw:  Ja, ik ga altijd met het openbaar vervoer. Eerst pak ik de bus en daarna neem ik de trein.",
+        "Mijn werk is dicht bij het station, dus het openbaar vervoer is heel makkelijk voor mij.",
+        "Journalist: Dank u wel.",
+        "Dialoog 5:",
+        "Journalist: Hallo, mag ik jullie wat vragen? Hoe gaan jullie naar school?",
+        "Jongen: We gaan altijd samen op de fiets naar school.",
+        "Meisje: Ja, we fietsen altijd. Dat is altijd erg gezellig!",
+        "Journalist: Dus jullie gaan nooit met de bus?",
+        "Jongen: Nee, we pakken nooit de bus. Fietsen is gratis!",
+        "Journalist: Ja, dat is waar. Dank jullie wel!"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "id": "tb-12-auto-1",
+      "instruction": "Kies het juiste antwoord.",
+      "question": "Oefening bij hoofdstuk 12: Onderweg.",
+      "options": [
+        "Juist",
+        "Onjuist"
+      ],
+      "answerIndex": 0,
+      "explanation": ""
+    }
+  ],
+  "workbookExercises": [],
+  "grammar": [
+    {
+      "id": "ch12-vervoermiddelen",
+      "title": "Vervoermiddelen",
+      "paragraphs": [
+        "Ik ga met de auto."
+      ],
+      "examples": [
+        "de bus, de trein → het openbaar vervoer",
+        "de auto, de fiets",
+        "Ik kom met de auto.",
+        "Ik neem de trein.",
+        "Ik kom op de fiets.",
+        "Ik ga te voet."
+      ]
+    },
+    {
+      "id": "ch12-de-weg-vragen",
+      "title": "De weg vragen",
+      "paragraphs": [
+        "Ja, natuurlijk.",
+        "Sorry, mag ik iets vragen?",
+        "Daar. Ga eerst rechts en ga daarna rechtdoor.",
+        "Waar is de faculteit Bouwkunde?",
+        "Graag gedaan.",
+        "Oké, dank u wel.",
+        "Ja, natuurlijk.",
+        "Pardon, mag ik iets vragen?",
+        "Sorry, dat weet ik niet.",
+        "Waar is kamer 4.05?",
+        "Oké, toch bedankt."
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch12-imperatief-met-sequentiewoorden",
+      "title": "Imperatief met sequentiewoorden",
+      "paragraphs": [
+        "Hoofdzin met sequentiewoorden: inversie",
+        "rest",
+        "sequentiewoord",
+        "verbum",
+        "sequentiewoord verbum subject rest",
+        "rechtdoor."
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch12-ga",
+      "title": "Ga",
+      "paragraphs": [
+        "eerst",
+        "rechtdoor.",
+        "ga"
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch12-eerst",
+      "title": "Eerst",
+      "paragraphs": [
+        "naar links."
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch12-ga",
+      "title": "Ga",
+      "paragraphs": [
+        "naar links.",
+        "dan",
+        "je"
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch12-dan",
+      "title": "Dan",
+      "paragraphs": [
+        "ga",
+        "de eerste straat links.",
+        "daarna"
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch12-neem",
+      "title": "Neem",
+      "paragraphs": [
+        "de eerste straat links.",
+        "neem",
+        "je"
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch12-daarna",
+      "title": "Daarna",
+      "paragraphs": [
+        "de tweede straat rechts.",
+        "vervolgens"
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch12-neem",
+      "title": "Neem",
+      "paragraphs": [
+        "de tweede straat rechts.",
+        "neem",
+        "je"
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch12-vervolgens",
+      "title": "Vervolgens",
+      "paragraphs": [
+        "naar links.",
+        "ten slotte / tot slot"
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch12-ga",
+      "title": "Ga",
+      "paragraphs": [
+        "naar links."
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch12-ten-slotte-tot-slot-ga",
+      "title": "Ten slotte / tot slot ga",
+      "paragraphs": [
+        "je"
+      ],
+      "examples": []
+    }
+  ],
+  "number": 12,
+  "title": "Onderweg"
+}

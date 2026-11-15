@@ -1,0 +1,573 @@
+{
+  "number": 5,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "afgeven (ik geef … af )",
+          "english": "to hand in (I hand in, I am handing in)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "afrekenen (ik reken … af )",
+          "english": "to pay (I pay, I am paying)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "inloggen (ik log … in)",
+          "english": "to log in (I log in, I am logging in)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "passen",
+          "english": "to try on",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "retourneren",
+          "english": "to return",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "rondkijken (ik kijk … rond)",
+          "english": "to look around (I look around, I am looking around)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "terugbrengen (ik breng … terug)",
+          "english": "to return (I return, I am returning)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "terugsturen (ik stuur … terug)",
+          "english": "to send back (I send back, I am sending back)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uitdoen (ik doe … uit)",
+          "english": "to take off (I take off, I am taking off )",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uitprinten (ik print … uit)",
+          "english": "to print out (I print out, I am printing out)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de aanbieding (de aanbiedingen)",
+          "english": "special offer",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de betaling (de betalingen)",
+          "english": "payment",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bezorging (de bezorgingen)",
+          "english": "delivery",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bon (de bonnen)",
+          "english": "receipt; voucher",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kassabon (de kassabonnen)",
+          "english": "receipt",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de tegoedbon (de tegoedbonnen)",
+          "english": "credit note",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bloes (de bloezen)",
+          "english": "blouse",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de blouse (de blouses)",
+          "english": "blouse",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de dame (de dames)",
+          "english": "lady",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de heer (de heren)",
+          "english": "man",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kaart (de kaarten)",
+          "english": "card",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de klantenkaart (de klantenkaarten)",
+          "english": "loyalty card",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kleur (de kleuren)",
+          "english": "colour",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de maat (de maten)",
+          "english": "size",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de paskamer (de paskamers)",
+          "english": "fitting room",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de spijkerbroek (de spijkerbroeken)",
+          "english": "(pair of ) jeans",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de trui (de truien)",
+          "english": "sweater, jumper",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het etiket (de etiketten)",
+          "english": "label",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het pakket (de pakketten)",
+          "english": "package",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het postkantoor (de postkantoren)",
+          "english": "post office",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het winkelmandje (de winkelmandjes)",
+          "english": "shopping basket",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "afgeprijsd (afgeprijsde)",
+          "english": "reduced (in price)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "bruin (bruine)",
+          "english": "brown",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "eerlijk (eerlijke)",
+          "english": "honest",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "fel (felle)",
+          "english": "bright",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "geel (gele)",
+          "english": "yellow",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lelijk (lelijke)",
+          "english": "ugly",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "licht (lichte)",
+          "english": "light",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "prachtig (prachtige)",
+          "english": "beautiful",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "strak (strakke)",
+          "english": "tight",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uitverkocht (uitverkochte)",
+          "english": "sold out",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zwart (zwarte)",
+          "english": "black",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "eigenlijk",
+          "english": "actually",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "in de aanbieding",
+          "english": "on special offer",
+          "other": null,
+          "note": "De broek is in de aanbieding. The trousers are on special offer."
+        },
+        {
+          "dutch": "in de mode zijn",
+          "english": "to be fashionable",
+          "other": null,
+          "note": "De trui is in de mode. The sweater is fashionable."
+        },
+        {
+          "dutch": "naar keuze",
+          "english": "of one’s choice; here: any",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Gaat het zo mee?",
+          "english": "here: Would you like a bag?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ja, hoor.",
+          "english": "here: No, thanks.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Hoe staat de broek?",
+          "english": "How do the trousers look?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "De broek staat je goed.",
+          "english": "The trousers look good on you.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Hoe zit de broek?",
+          "english": "How do the trousers fit?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "De broek zit lekker.",
+          "english": "The trousers are comfortable.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Smaken verschillen.",
+          "english": "There’s no accounting for tastes. honderdnegenenzeventig 179",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 16,
+      "title": "Dialoog 1",
+      "lines": [
+        "V1: Leuke jas!",
+        "V2: Dank je.",
+        "V1: Die kleur staat je goed. Donkergroen. Mooi hoor.",
+        "V2: Bedankt.",
+        "Dialoog 2:",
+        "V1: Wil je mijn vakantiefoto’s zien?",
+        "V2: Natuurlijk. Oh, deze foto is mooi zeg. Is dit bij de zee?",
+        "V1: Ja.",
+        "V2: Je ziet er goed uit zeg! Vol zelfvertrouwen.",
+        "V1: Dank je!",
+        "V2: \u0007Leuk ook die rok met die witte schoenen. Die combinatie staat mij niet maar jou staat het",
+        "fantastisch!",
+        "Dialoog 3:",
+        "V1: Oh, wat ziet Rosa er lief uit!",
+        "V2: Ja hè.",
+        "V1: Ja, echt! En die jurk staat haar zo mooi.",
+        "V2: Ja, dat vind ik ook. Mijn moeder vindt de kleur niet mooi.",
+        "V1: \u0007Echt? De kleur is prachtig. Rood staat mooi bij haar lange, blonde haar. Je hebt een prachtige",
+        "dochter!",
+        "Dialoog 4:",
+        "M: Hoi.",
+        "V: Hoi. Felle kleur hoor.",
+        "M: Sorry?",
+        "V: Je T-shirt. Ik vind de kleur erg fel.",
+        "M: Vind je? Het is gewoon een blauw T-shirt. Ik vind het mooi.",
+        "V: Oh? Tja, smaken verschillen."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 17,
+      "title": null,
+      "lines": [
+        "Max: \u0007Oh, dit is een leuke winkel! Kom Adriana, dan gaan we hier naar binnen. Hier hebben ze",
+        "mooie kleding.",
+        "Adriana: Oké, goed, maar ik ken deze winkel helemaal niet.",
+        "Max: Echt niet? Je vindt hem vast leuk.",
+        "Verkoper: Goedemiddag, kan ik u helpen of wilt u even rondkijken?",
+        "Max: We kijken eerst even rond.",
+        "Verkoper: Natuurlijk. Geen probleem.",
+        "Max: Kom eens, Adriana. Wat vind je van deze trui?",
+        "Adriana: Wauw, dat is een felle kleur! Fel geel.",
+        "Max: Dat is in de mode.",
+        "Adriana: Mag ik eerlijk zijn?",
+        "Max: Natuurlijk!",
+        "Adriana: Ik vind hem lelijk.",
+        "Max: Lelijk?",
+        "Adriana: \u0007De kleur staat niet bij jouw blonde haar. Deze felle kleur staat beter bij bruin haar. Een",
+        "lichtgele trui staat je wel goed. Wat vind je van deze zwarte trui?",
+        "Max: Ik heb al veel zwarte truien. Ik wil eigenlijk een gele trui. Meneer?",
+        "Verkoper: Ja, meneer?",
+        "Max: Ik zoek een lichtgele trui.",
+        "Verkoper: Het spijt me, meneer. We hebben alleen felle, gele kleuren. Dat is in de mode.",
+        "Max: Ik weet het. Ik zoek even verder.",
+        "Max: Wat vind je van deze blouse?",
+        "Adriana: Eh, dat is een damesblouse, Max. Die staat je niet.",
+        "Max: \u0007Haha, heel grappig. Wat vind je van deze blouse voor jou? Hij staat misschien goed bij",
+        "jouw nieuwe spijkerbroek.",
+        "Adriana: \u0007Ja, dat denk ik ook. Ik vind hem mooi! Heel mooi! Oh, hij is afgeprijsd. Van 50 euro voor 40",
+        "euro. Nu vind ik hem nog leuker. Ik wil hem passen. Meneer?",
+        "Verkoper: Ja, mevrouw?",
+        "Adriana: Waar zijn de paskamers? Ik wil deze blouse graag passen.",
+        "Verkoper: De paskamers zijn daar mevrouw.",
+        "Adriana: Dank u.",
+        "Adriana: Oh nee!",
+        "Max: Wat is er aan de hand?",
+        "Adriana: De blouse past niet. Hij is te klein. Hij zit te strak.",
+        "Verkoper: Kan ik u misschien helpen, mevrouw?",
+        "Adriana: \u0007Ja, ik hoop het. Ik vind deze blouse heel leuk maar de maat is niet goed. Hebt u een grote-",
+        "re maat?",
+        "Verkoper: Welke maat hebt u normaal?",
+        "Adriana: Maat 38. En de blouse is ook maat 38.",
+        "Verkoper: Ik begrijp het al. Deze blouse valt klein.",
+        "Adriana: Wat bedoelt u?",
+        "Verkoper: \u0007Deze blouse is van het merk RosaRosa. Bij dit merk is maat 38 eigenlijk maat 36. U hebt",
+        "maat 38 en u kunt dus het beste maat 40 proberen.",
+        "Ik ga maat 40 even halen.",
+        "Verkoper: Kijkt u eens, alstublieft.",
+        "Adriana: Dank u. Ik doe hem meteen aan.",
+        "Max: En, hoe zit de blouse?",
+        "Adriana: Eh…goed hoor. Hij zit lekker. Hij zit een beetje strak maar hij staat wel mooi.",
+        "Max: Mag ik even kijken?",
+        "Adriana: Ja hoor.",
+        "Max: Hij zit inderdaad een beetje strak. Heb je misschien een grotere maat nodig?",
+        "Adriana: Nee joh! Hij zit een beetje strak maar ik vind hem prachtig. Ik neem hem!",
+        "Max: Echt?",
+        "Adriana: Ja! Ik doe hem nu uit en dan reken ik hem meteen af.",
+        "Verkoper: En, past de blouse? Hoe zit hij?",
+        "Adriana: Hij zit prima. Ik neem hem en wil graag afrekenen.",
+        "Verkoper: Dat kan. De kassa is deze kant op.",
+        "Verkoper: 40 euro alstublieft want hij is in de aanbieding.",
+        "Adriana: Ik weet het. Dat is extra leuk!",
+        "Verkoper: Hebt u een klantenkaart?",
+        "Adriana: Nee. Krijg ik korting met een klantenkaart?",
+        "Verkoper: Inderdaad, dan krijgt u 5% korting.",
+        "Adriana: Moet ik voor een klantenkaart betalen?",
+        "Verkoper: Nee, hij is gratis.",
+        "Adriana: Dan wil ik een klantenkaart.",
+        "Verkoper: \u0007Prima. Ik geef u de kaart nu en dan kunt u hem thuis online activeren. U krijgt de korting",
+        "nu meteen hoor.",
+        "Adriana: Dat is fijn.",
+        "Verkoper: Dat wordt dan 38 euro. Wilt u pinnen?",
+        "Adriana: Ja, graag!",
+        "Verkoper: \u0007Dan heb ik hier voor u de kassabon, alstublieft. Gaat de blouse zo mee? Een tasje kost bij",
+        "ons 20 cent.",
+        "Max: De blouse kan in mijn tas, Adriana. Geef hem maar.",
+        "Adriana: Bedankt!",
+        "Verkoper: Dan wens ik u veel plezier met de blouse.",
+        "Adriana: Dat gaat wel lukken! Tot ziens.",
+        "Verkoper: Tot ziens!",
+        "Adriana: Ik ben heel blij met de blouse. Hij zit een beetje strak maar hij staat me fantastisch!",
+        "Max: Hopelijk krijg je geen spijt.",
+        "Adriana: Natuurlijk niet! Kom dan gaan we…"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 18,
+      "title": null,
+      "lines": [
+        "Verkoper: \u0007Goedemiddag mevrouw, kan ik u helpen of wilt u even …. Hé, ik ken u! U bent hier giste-",
+        "ren ook geweest.",
+        "Adriana: \u0007Eh ja, dat klopt. Ik heb deze blouse hier gisteren gekocht maar ik heb hem thuis nog een",
+        "paar keer gepast en hij is eigenlijk te klein.",
+        "Verkoper: Oh, wat jammer.",
+        "Adriana: \u0007Ja, dat vind ik ook. Ik vind hem zo mooi. Kan ik de blouse misschien voor een grotere maat",
+        "ruilen?",
+        "Verkoper: Dat kan. Welke maat hebt u?",
+        "Adriana: Normaal maat 38. Maar dit is een maat 40. Moet ik dan echt maat 42 hebben?",
+        "Verkoper: U kunt het proberen.",
+        "Adriana: Ja, dat is waar.",
+        "Verkoper: Het spijt me, mevrouw, maar maat 42 is uitverkocht.",
+        "U kunt nog wel online in onze webwinkel kijken.",
+        "Adriana: Oh, dat zal ik thuis doen. Kan ik de blouse dan terugbrengen en mijn geld terugkrijgen?",
+        "Verkoper: \u0007Het spijt me mevrouw, artikelen met korting kunt u wel terugbrengen maar u krijgt geen",
+        "geld terug. U kunt wel een tegoedbon krijgen.",
+        "Adriana: Een tegoedbon?",
+        "Verkoper: \u0007Ja! De blouse kost 38 euro. U krijgt dan een tegoedbon van mij voor 38 euro. Met die te-",
+        "goedbon kunt u dan later in onze winkel kleding kopen. U kunt de tegoedbon ook online",
+        "inwisselen.",
+        "Adriana: Oké. Ik krijg liever geld terug maar geeft u mij de tegoedbon dan maar.",
+        "Verkoper: Natuurlijk mevrouw, ik ga het nu meteen voor u in orde maken."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 19,
+      "title": null,
+      "lines": [
+        "V: Goedemorgen. Kan ik u helpen of wilt u even rondkijken?",
+        "K: Ik kijk even rond.",
+        "K: Mevrouw? Mag ik iets vragen?",
+        "V: Natuurlijk, meneer.",
+        "K: Ik zoek een wit T-shirt.",
+        "V: De witte T-shirts liggen hier, meneer.",
+        "K: Dank u.",
+        "K: Mevrouw? Waar zijn de paskamers? Ik wil het T-shirt graag passen.",
+        "V: De paskamers zijn daar, meneer.",
+        "K: Ik zie ze. Dank u. Ik ga het T-shirt passen.",
+        "K: Mevrouw, ik vind het T-shirt heel mooi maar de maat is niet goed. Hebt u een kleinere maat?",
+        "V: Welke maat hebt u?",
+        "K: Ik heb altijd maat 48. Dit T-shirt is ook maat 48.",
+        "V: Ik ga een kleinere maat voor u halen.",
+        "V: Kijkt u eens, alstublieft.",
+        "K: Dank u. Ik ga dit T-shirt ook passen.",
+        "V: En, hoe zit het T-shirt? Past het?",
+        "K: Ja, het past. Het zit lekker. Ik neem het en wil graag afrekenen.",
+        "V: Dat kan, meneer. De kassa is deze kant op.",
+        "V: Dat is 20 euro alstublieft, want het T-shirt is in de aanbieding.",
+        "V: Hebt u een klantenkaart?",
+        "K: Nee, ik heb geen klantenkaart.",
+        "V: Wilt u een klantenkaart kopen?",
+        "K: Nee, dank u. Ik wil geen klantenkaart.",
+        "V: Wilt u pinnen?",
+        "K: Ja, graag!",
+        "V: Dan heb ik hier voor u de kassabon, alstublieft. Gaat het T-shirt zo mee?",
+        "K: Ja, ik heb een tas.",
+        "V: Veel plezier met uw T-shirt.",
+        "K: Bedankt, tot ziens!",
+        "V: Tot ziens, meneer."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 8,
+      "title": null,
+      "lines": [
+        "Verkoper: Kan ik u misschien helpen?",
+        "Klant: Ja, ik zoek een zwarte spijkerbroek.",
+        "Verkoper: Een zwarte spijkerbroek? Dat kan. De broeken hangen hier. Welke maat hebt u?",
+        "Klant: Ik heb maat 44.",
+        "Verkoper: Wat vindt u van deze broek?",
+        "Klant: Ik vind deze broek niet mooi.",
+        "Verkoper: En wat vindt u dan van deze broek? Deze is in de aanbieding.",
+        "Klant: Deze vind ik wel leuk. Wat kost hij?",
+        "Verkoper: Hij heeft €100,- gekost maar u krijgt nu 50% korting.",
+        "Klant: €50,- dus. Dat vind ik een mooie prijs. Ik wil deze broek graag passen.",
+        "Verkoper: De paskamers zijn daar.",
+        "Hoe zit de broek?",
+        "Klant: Heel lekker. Ik neem hem. Ik wil graag afrekenen.",
+        "Verkoper: Dat kan. Wilt u pinnen?",
+        "Klant: Ja, graag. Ik wil ook een tasje.",
+        "Verkoper: Dat kost 20 cent.",
+        "Klant: Dat is geen probleem.",
+        "Verkoper: €50,20 alstublieft. Hier hebt u de kassabon.",
+        "Klant: Bedankt. Tot ziens.",
+        "Verkoper: U ook tot ziens!"
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

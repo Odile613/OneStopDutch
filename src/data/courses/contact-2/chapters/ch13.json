@@ -1,0 +1,773 @@
+{
+  "number": 13,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "aanvragen (ik vraag … aan)",
+          "english": "to apply for (I apply for, I am applying for), to request (I request, I am requesting)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "doorgeven (ik geef … door)",
+          "english": "to pass on (I pass on, I am passing on)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lukken",
+          "english": "to succeed, to manage",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "mislukken",
+          "english": "to fail",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "printen",
+          "english": "to print",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ruilen",
+          "english": "to exchange",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "veranderen",
+          "english": "to change",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verbouwen",
+          "english": "to renovate",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verplaatsen",
+          "english": "to move",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verzetten",
+          "english": "to change, to move",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wijzigen",
+          "english": "to change",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zou, zouden (zullen)",
+          "english": "would, could (will)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de aanvraag (de aanvragen)",
+          "english": "application, request",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de afdeling (de afdelingen)",
+          "english": "department",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bijlage (de bijlagen/bijlages)",
+          "english": "attachment",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de foutmelding (de foutmeldingen)",
+          "english": "error message",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de mededeling (de mededelingen)",
+          "english": "notice, notification",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de onderzoeker (de onderzoekers)",
+          "english": "researcher",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de oplossing (de oplossingen)",
+          "english": "solution",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de storing (de storingen)",
+          "english": "breakdown, malfunction",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een technische storing (de technische storingen)",
+          "english": "technical malfunction",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de uitnodiging (de uitnodigingen)",
+          "english": "invitation",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het afscheid (-)",
+          "english": "farewell, goodbye",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gebouw (de gebouwen)",
+          "english": "building",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het kantoor (de kantoren)",
+          "english": "office",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het onderzoek (de onderzoeken)",
+          "english": "research",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het overleg (-)",
+          "english": "meeting",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het probleem (de problemen)",
+          "english": "problem",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het verzoek (de verzoeken)",
+          "english": "request",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "aanstaand (aanstaande)",
+          "english": "this",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "aanstaand weekend",
+          "english": "this weekend",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "aanstaande donderdag",
+          "english": "this Thursday",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "afgelopen (afgelopen)",
+          "english": "last",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "afgelopen woensdag",
+          "english": "last Wednesday",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de afgelopen twee weken",
+          "english": "the past two weeks",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "komend (komende)",
+          "english": "coming",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "mogelijk (mogelijke)",
+          "english": "possible",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wetenschappelijk (wetenschappelijke)",
+          "english": "scientific",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "eventueel (eventuele)",
+          "english": "possible",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vorig (vorige)",
+          "english": "last",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vorige week vrijdag",
+          "english": "last Friday",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "volgend (volgende)",
+          "english": "next",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "volgende week vrijdag",
+          "english": "next Friday honderddrieënnegentig 193",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "bijgaand",
+          "english": "attached",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "dadelijk",
+          "english": "immediately",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "eergisteren",
+          "english": "the day before yesterday",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "geleden",
+          "english": "ago",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "drie weken geleden",
+          "english": "three weeks ago",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "helaas",
+          "english": "unfortunately",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "net",
+          "english": "just (then)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "overmorgen",
+          "english": "the day after tomorrow",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "straks",
+          "english": "later",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "totdat",
+          "english": "until",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uiterlijk (uiterlijke)",
+          "english": "the latest",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zodat",
+          "english": "so (that)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "afkortingen",
+      "entries": [
+        {
+          "dutch": "a.s. (aanstaande)",
+          "english": "this",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "a.u.b. (alstublieft)",
+          "english": "please",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "a.j.b. (alsjeblieft)",
+          "english": "please",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "bijv. /bv. (bijvoorbeeld)",
+          "english": "e.g., for example",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "b.v.d. (bij voorbaat dank)",
+          "english": "thank you in advance",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "i.v.m. (in verband met)",
+          "english": "because of, in connection with",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "i.p.v. (in plaats van)",
+          "english": "instead of",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "m.u.v. (met uitzondering van)",
+          "english": "with the exception of",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "m.v.g. (Met vriendelijke groet)",
+          "english": "Kind regards",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "af hebben",
+          "english": "to have completed",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "af zijn",
+          "english": "to be completed",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "afscheid nemen van",
+          "english": "to say goodbye to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zon- en feestdagen",
+          "english": "Sundays and public holidays",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Alvast bedankt!",
+          "english": "Thanks in advance.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Bij voorbaat dank.",
+          "english": "Thank you in advance.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Onze excuses voor het ongemak.",
+          "english": "We apologize for the inconvenience.",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 68,
+      "title": null,
+      "lines": [
+        "1. De printer is defect.",
+        "2. De printer is kapot.",
+        "3. De printer doet het niet.",
+        "4. De printer werkt niet.",
+        "5. Er is een storing.",
+        "6. Ik krijg een foutmelding."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 69,
+      "title": null,
+      "lines": [
+        "1. Je moet de tekst uiterlijk aanstaande woensdag inleveren.",
+        "2. We ontvangen je sollicitatie graag voor 18 april.",
+        "3. Je hebt tot volgende week vrijdag de tijd om te reageren.",
+        "4. Kun je me binnen 3 dagen een reactie sturen?",
+        "5. De deadline is op 12 mei.",
+        "6. Jullie hebben twee uur de tijd om het examen te maken.",
+        "7. Jullie hebben tot twee uur de tijd om het examen te maken.",
+        "8. Ik moet mijn artikel overmorgen afhebben.",
+        "9. De tekst voor de website moest afgelopen maandag al af zijn.",
+        "10. Ik kan het artikel tot 30 april aanstaande indienen.",
+        "11. De verhuizing is vorige week niet doorgegaan."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 70,
+      "title": "Gesprek 1",
+      "lines": [
+        "Telefoniste: Goedemorgen, onderzoeksbureau MOZBU, met Debby de Kaag.",
+        "Machteld: Dag, met Machteld de Roof. Van de afdeling beleidsonderzoek.",
+        "Telefoniste: Ah, dag Machteld. Wat kan ik voor je doen?",
+        "Machteld: Zou je me kunnen doorverbinden met de IT-afdeling?",
+        "Telefoniste: Ja, natuurlijk. Eén momentje, dan verbind ik je door.",
+        "Machteld: Dank je.",
+        "IT: IT, met Sjaak.",
+        "Machteld: Ja, hallo, je spreekt met Machteld de Roof. Ik..."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 71,
+      "title": "Gesprek 2",
+      "lines": [
+        "Telefoniste: Goedemorgen, onderzoeksbureau MOZBU, met Debby de Kaag.",
+        "Machteld: Hoi, met Machteld de Roof.",
+        "Telefoniste: Dag Machteld. Jij hebt net toch ook gebeld, of niet?",
+        "Machteld: Ja, dat klopt. Maar nu bel ik voor iets anders.",
+        "Telefoniste: Ah, zeg het eens.",
+        "Machteld: Ik ben dringend op zoek naar mijn collega Mariëlle. Ze neemt haar mobiel niet op.",
+        "Weet je of ze op kantoor is?",
+        "Telefoniste: \u0007Ik heb haar nog niet gezien vandaag. Ik weet dat ze gisteravond tot laat heeft gewerkt.",
+        "Misschien heeft ze vanochtend vrij genomen. Heb je haar vaste nummer al geprobeerd?",
+        "Machteld: Ja, dat is steeds in gesprek.",
+        "Telefoniste: Ik kan je wel even doorverbinden met Mariëlles afdeling. Zal ik dat doen?",
+        "Machteld: Heel graag.",
+        "Telefoniste: Machteld?",
+        "Machteld: Ja?",
+        "Telefoniste: \u0007Het nummer van de afdeling is ook bezet. Kan ik iets doorgeven aan Mariëlle als ik haar",
+        "zie?",
+        "Machteld: Zou je dat willen doen, ja? Heel graag!",
+        "Zou je haar kunnen zeggen dat ik haar documenten niet kan printen?",
+        "Telefoniste: Als ik haar zie, zal ik het zeggen.",
+        "Machteld: Dank je wel alvast!",
+        "Telefoniste: Graag gedaan.",
+        "Machteld: Fijne dag nog.",
+        "Telefoniste: Ja, jij ook. Werk-ze!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 72,
+      "title": "Gesprek 3",
+      "lines": [
+        "Telefoniste: Goedemorgen, onderzoeksbureau MOZBU, met Debby de Kaag.",
+        "Machteld: Hoi, nog een keer met Machteld. Sorry dat ik alweer stoor.",
+        "Telefoniste: Dat geeft niet. Daar zijn we voor!",
+        "Machteld: Ik bel voor Sara, Sara de Bont. Is die er?",
+        "Telefoniste: Die zit de hele dag in overleg. Kan ik iets doorgeven?",
+        "Machteld: Nee hoor, dat hoeft niet. Het heeft geen haast. Ik stuur haar wel een mailtje.",
+        "Telefoniste: Prima. Fijne dag nog!",
+        "Machteld: Jij ook."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 73,
+      "title": "Gesprek 4",
+      "lines": [
+        "Telefoniste: Goedemorgen, onderzoeksbureau MOZBU, met Debby de Kaag.",
+        "Machteld: Ja, weer met Machteld. Sorry, dit is echt de laatste keer hoor!",
+        "Telefoniste: Je hebt het druk vandaag, of niet?",
+        "Machteld: Ja, zeg dat wel!",
+        "Telefoniste: Met wie mag ik je dit keer doorverbinden?",
+        "Machteld: Met Toon Kistemakers graag.",
+        "Telefoniste: Op welke afdeling werkt hij?",
+        "Machteld: Hij werkt bij gebouwenbeheer. Dat is de Technische Dienst, geloof ik.",
+        "Telefoniste: Toon Kistemakers, zei je hè? Goed, ik verbind je door. Een moment alsjeblieft.",
+        "Machteld: Ja, dank je wel.",
+        "Telefoniste: Machteld?",
+        "Machteld: Ja.",
+        "Telefoniste: \u0007Ik krijg Toon niet te pakken. Ik denk dat hij even van zijn plaats is. Hij zal dadelijk wel te-",
+        "rugkomen.",
+        "Machteld: O. Zou je hem kunnen vragen mij terug te bellen?",
+        "Telefoniste: Ja, doe ik. Heeft hij je nummer?",
+        "Machteld: Ik denk van wel.",
+        "Telefoniste: Geef het voor de zekerheid maar.",
+        "Machteld: Dat is 06 – 14735141.",
+        "Telefoniste: Oké, ik heb het genoteerd. Ik zal vragen of hij je terugbelt.",
+        "Machteld: Dank je wel! En ehh, sorry dat ik zo aandring, maar het heeft nogal haast.",
+        "Zou je hem kunnen vragen zo snel mogelijk terug te bellen?",
+        "Telefoniste: Zal ik doen!",
+        "Machteld: Dank je wel! Fijne dag nog.",
+        "Telefoniste: Ja, jij ook."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 74,
+      "title": "Gesprek 5",
+      "lines": [
+        "Telefonist: Goedemorgen, onderzoeksbureau MOZBU, met Elif Hassan.",
+        "Machteld: \u0007O, ehh, met Machteld spreek je. Ik, ehh, ik verwachtte Debby. Ik heb haar vanochtend al 4",
+        "keer aan de lijn gehad, namelijk.",
+        "Telefonist: Mijn collega Debby is even met pauze. Hoe kan ik u helpen?",
+        "Machteld: Je, eh, u spreekt met Machteld de Roof. Ik werk op de afdeling Beleidsonderzoek.",
+        "Telefonist: Oh, hallo. Ik ben nieuw hier, ik ken nog niet alle medewerkers.",
+        "Machteld: Dat snap ik. Zou je me kunnen doorverbinden met Kyra?",
+        "Telefonist: Natuurlijk. Een moment graag.",
+        "Telefonist: Machteld?",
+        "Machteld: Ja.",
+        "Telefonist: Kyra is in gesprek. Kan ik een boodschap aan haar doorgeven?",
+        "Machteld: Ehh, nee, dat hoeft niet. Ik probeer het straks zelf nog wel een keer.",
+        "Telefonist: Prima. Fijne dag nog!",
+        "Machteld: Jij ook. Tot ziens."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 75,
+      "title": null,
+      "lines": [
+        "Is Rianne er?",
+        "Ze neemt haar telefoon niet op.",
+        "Rianne? Die is in gesprek.",
+        "Ze zit de hele dag in overleg.",
+        "Ze is even van haar plaats.",
+        "Ze heeft even pauze.",
+        "Ze is even pauze aan het houden.",
+        "Ik denk dat ze zo wel terugkomt.",
+        "Zal ik haar vragen jou terug te bellen?",
+        "Ja, vraag haar dat maar.",
+        "Is Steven er?",
+        "Hij neemt zijn telefoon niet op.",
+        "Steven? Die is in gesprek.",
+        "Hij zit de hele dag in overleg.",
+        "Hij is even van zijn plaats.",
+        "Hij heeft even pauze.",
+        "Hij is even pauze aan het houden.",
+        "Ik denk dat hij zo wel terugkomt.",
+        "Zal ik hem vragen jou terug te bellen?",
+        "Ja, vraag hem dat maar."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 30,
+      "title": null,
+      "lines": [
+        "1. Bedankt voor je snelle reactie!",
+        "2. Zoals u wellicht weet, …",
+        "3. Hopelijk zie ik je de 14e!",
+        "4. Kun je me z.s.m. laten weten of je kunt?",
+        "5. Ik hoor graag uw reactie.",
+        "6. Bij voorbaat dank."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 31,
+      "title": null,
+      "lines": [
+        "formeel",
+        "1. Hartelijk dank voor uw snelle reactie.",
+        "2. Zoals u wellicht weet…",
+        "3. Ik hoop u te zien op 14 november.",
+        "4. Zou u zo snel mogelijk kunnen laten weten of u kunt?",
+        "5. Ik hoor graag uw reactie.",
+        "6. Bij voorbaat dank.",
+        "informeel",
+        "1. Bedankt voor je snelle reactie!",
+        "2. Zoals je misschien weet, …",
+        "3. Hopelijk zie ik je de 14e!",
+        "4. Kun je me z.s.m. laten weten of je kunt?",
+        "5. Ik hoor graag je reactie.",
+        "6. Alvast bedankt!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 32,
+      "title": null,
+      "lines": [
+        "1. Doet hij het?",
+        "2. Nee, hij doet het niet.",
+        "3. Ja, hij doet het weer!",
+        "4. Lukt het?",
+        "5. Nee, het lukt niet.",
+        "6. Ja, het lukt wel."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 33,
+      "title": null,
+      "lines": [
+        "Kun je me doorverbinden?",
+        "Kun je me doorverbinden met de IT-afdeling?",
+        "Zou je me kunnen doorverbinden?",
+        "Zou je me kunnen doorverbinden met de IT-afdeling?"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 34,
+      "title": null,
+      "lines": [
+        "Kun je me doorverbinden?",
+        "Kun je me doorverbinden met de IT-afdeling?",
+        "Zou je me kunnen doorverbinden?",
+        "Zou je me kunnen doorverbinden met de IT-afdeling?",
+        "Kun je iets doorgeven?",
+        "Kun je iets aan haar doorgeven?",
+        "Zou je iets kunnen doorgeven?",
+        "Zou je iets aan haar kunnen doorgeven?",
+        "Kun je haar vragen terug te bellen?",
+        "Kun je haar vragen me terug te bellen?",
+        "Zou je haar kunnen vragen terug te bellen?",
+        "Zou je haar kunnen vragen me terug te bellen?"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 35,
+      "title": null,
+      "lines": [
+        "T: 1. Ik verbind je door, een momentje.",
+        "A: Ja, dank je wel.",
+        "T: 2. Hij is er niet. Kan ik een boodschap doorgeven?",
+        "A: Nee hoor, dat hoeft niet.",
+        "T: 3. Ze is er niet. Kan ik een boodschap doorgeven?",
+        "A: Ja, graag.",
+        "T: 4. Ze is er niet. Zal ik haar vragen of ze je terug kan bellen?",
+        "A: Nee hoor, dat hoeft niet.",
+        "T: 5. Hij is er niet. Zal ik hem vragen of hij je terug kan bellen?",
+        "Heel graag. Dank je wel.",
+        "T: 6. Heeft ze je nummer?",
+        "A: Ik denk van wel.",
+        "T: 7. Heeft ze je nummer?",
+        "A: Ik denk van niet."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 36,
+      "title": null,
+      "lines": [
+        "1. Ik verbind je door, een momentje alsjeblieft.",
+        "2. Hij is er niet. Kan ik een boodschap doorgeven?",
+        "3. Hij is er niet. Zal ik hem vragen je terug te bellen?",
+        "4. Heeft hij je nummer?"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 37,
+      "title": null,
+      "lines": [
+        "Voorbeeld 1: - Ik ben op zoek naar meneer Klaassen. Is hij aanwezig?",
+        "- Ja, een moment graag. Ik verbind u door.",
+        "Voorbeeld 2: - Ik ben op zoek naar Jonathan. Is die er?",
+        "- Nee, die is er niet. Kan ik iets doorgeven?",
+        "1. Goedemorgen, ik ben op zoek naar mevrouw Kanters. Is zij aanwezig?",
+        "2. Kan ik een boodschap doorgeven?",
+        "3. Zal ik haar vragen of ze u terugbelt?",
+        "4. Heeft ze uw nummer?",
+        "5. Pardon, weet u misschien waar ik kan printen?",
+        "6. Bedankt voor je snelle reactie!",
+        "7. Kun je z.s.m. laten weten of je kunt?",
+        "8. Doet de printer het alweer?",
+        "9. Kan ik je helpen of lukt het je alleen?",
+        "10. Zou ik iets mogen vragen?"
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

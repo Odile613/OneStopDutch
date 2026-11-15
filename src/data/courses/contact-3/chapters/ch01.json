@@ -1,0 +1,743 @@
+{
+  "number": 1,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "bekennen",
+          "english": "to confess",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "bereiken",
+          "english": "to achieve",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "bevallen",
+          "english": "to please",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "functioneren",
+          "english": "to function",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "kennismaken met (ik maak … kennis met)",
+          "english": "to meet, to be introduced to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "onthouden",
+          "english": "to remember",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ontwikkelen",
+          "english": "to develop",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "opmerken",
+          "english": "to notice",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "presteren",
+          "english": "to achieve",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "samenwerken (ik werk … samen)",
+          "english": "to collaborate, to work together",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "spijten",
+          "english": "to be sorry",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "steunen",
+          "english": "to support",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "tegenvallen (het valt … tegen)",
+          "english": "to disappoint",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "teleurstellen (ik stel … teleur)",
+          "english": "to disappoint",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verdienen",
+          "english": "to deserve",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verwarren",
+          "english": "to confuse",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "voorstellen (ik stel … voor)",
+          "english": "to introduce",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de aandacht",
+          "english": "attention",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de belangstelling",
+          "english": "interest",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de carrière (de carrières)",
+          "english": "career",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de functie (de functies)",
+          "english": "position, job",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de gebruiker (de gebruikers)",
+          "english": "user",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de interesse (de interesses)",
+          "english": "interest",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kans (de kansen)",
+          "english": "opportunity",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de ontwikkeling (de ontwikkelingen)",
+          "english": "development",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de opmerking (de opmerkingen)",
+          "english": "remark",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de prestatie (de prestaties)",
+          "english": "achievement",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de samenwerking (de samenwerkingen)",
+          "english": "collaboration, cooperation",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de stap (de stappen )",
+          "english": "step",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de steun (-)",
+          "english": "support",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de taak (de taken)",
+          "english": "task, duty",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de teleurstelling (de teleurstellingen)",
+          "english": "disappointment",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verwarring (de verwarringen) de",
+          "english": "confusion",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "werkzaamheden (pl.)",
+          "english": "activities, duties",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het geduld (-)",
+          "english": "patience",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het geluk (-)",
+          "english": "(good) luck",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het humeur (-)",
+          "english": "mood",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het resultaat (de resultaten)",
+          "english": "result",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "dankbaar (dankbare)",
+          "english": "grateful",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "hartelijk (hartelijke)",
+          "english": "hearty; here: best",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "jaloers (jaloerse)",
+          "english": "jealous",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "onmogelijk (onmogelijke)",
+          "english": "impossible",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "overspannen (overspannen)",
+          "english": "overworked, overstrained",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "tevreden (tevreden)",
+          "english": "content",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vrolijk (vrolijke)",
+          "english": "cheerful honderdnegenentachtig 189",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "dankzij",
+          "english": "thanks to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "geregeld",
+          "english": "regularly, often",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nauwelijks",
+          "english": "hardly",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ontzettend",
+          "english": "terribly",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "tegenwoordig",
+          "english": "nowadays",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "toch",
+          "english": "± …, right? …, don’t you think?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "waarschijnlijk",
+          "english": "probably",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "belangstelling tonen voor iets/iemand",
+          "english": "to show interest in something/somebody",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de aandacht trekken van iemand",
+          "english": "to draw someone’s attention",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een aanbod doen",
+          "english": "to make an offer",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "groot gelijk hebben",
+          "english": "to be absolutely right",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het hebben over iets/iemand",
+          "english": "to talk about something/somebody",
+          "other": null,
+          "note": "Hij heeft het vaak over je. He often talks about you."
+        },
+        {
+          "dutch": "iets met beide handen aangrijpen",
+          "english": "to seize something with both hands",
+          "other": null,
+          "note": "Ik grijp de kans met beide handen aan. I am seizing the opportunity with both hands."
+        },
+        {
+          "dutch": "volgens mij",
+          "english": "in my opinion",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Balen!",
+          "english": "That’s too bad.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dat is waar.",
+          "english": "That’s true.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dat klopt (niet).",
+          "english": "That’s (not) correct.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dat meen je niet.",
+          "english": "You can’t be serious.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dat wist ik niet.",
+          "english": "I didn’t know that.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Echt waar?",
+          "english": "Really?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Hoe wist je dat?",
+          "english": "How did you know that?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Inderdaad.",
+          "english": "Exactly.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Nee, joh!",
+          "english": "Of course not!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Wat bijzonder.",
+          "english": "How interesting.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Wat leuk.",
+          "english": "How nice.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Wat jammer.",
+          "english": "What a pity.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Wat vervelend.",
+          "english": "How annoying.",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 1,
+      "title": null,
+      "lines": [
+        "1. Judith: Wat is het hier druk, hè?",
+        "Pim: Ja, inderdaad. Maar het is altijd druk op de feestjes van Anton.",
+        "Judith: Dat is waar. Volgens mij kennen wij elkaar nog niet.",
+        "Pim: Dat klopt. Ik ben Pim. Ik ben een goede vriend van Anton.",
+        "Judith: Ben jij Pim? Jij bent toch net een half jaar op reis geweest.",
+        "Pim: Inderdaad. Dat ben ik.",
+        "Judith: Je hebt toch door Zuid-Amerika gereisd?",
+        "Pim: Nee, ik ben in Australië geweest.",
+        "Judith: Oh, sorry. Het spijt me. Ik verwar je met iemand anders. Anton heeft inderdaad over je reis",
+        "naar Australië verteld. Ik heb het niet goed onthouden.",
+        "Pim: Dat geeft niets. Hoe wist je dat ik een half jaar weg ben geweest?",
+        "Judith: Anton heeft het vaak over je.",
+        "Pim: Echt waar? Wat leuk! Maarre, wie ben jij als ik vragen mag?",
+        "Judith: Oh sorry, ik zal me even voorstellen. Ik ben Judith, de buurvrouw.",
+        "Pim: Oh, ben jij Judith? Anton heeft ook over jou verteld.",
+        "Judith O, dat wist ik niet. Wat bijzonder.",
+        "Pim: Jij hebt toch als reisleider gewerkt? Anton vertelde dat je gestopt bent met je werk, klopt",
+        "dat?",
+        "Judith: Ja, dat klopt. Ik heb een burn-out gehad.",
+        "Pim: Oh, sorry. Wat vervelend voor je.",
+        "Judith: Inderdaad. Ik was nooit meer thuis en dat beviel me niet meer. Ik voelde me altijd moe en",
+        "overspannen. Het gaat nu weer beter hoor. Ik voel me weer een vrolijk en tevreden mens.",
+        "Binnenkort begin ik ook weer met werken.",
+        "Pim: Anton heeft wel eens gezegd dat hij jaloers is op jouw werk.",
+        "Judith: Jaloers? Anton? Dat meen je niet.",
+        "Pim: Ja, volgens mij vindt hij jouw werk leuk. Je hebt veel reizen gemaakt.",
+        "En Anton houdt erg van reizen. Net als ik.",
+        "Judith: Zie je Anton eigenlijk nog vaak?",
+        "Pim: Nee, jammer genoeg niet zo vaak. We hebben het allebei hartstikke druk met werken. We",
+        "gaan in het weekend wel eens samen sporten, maar de laatste tijd hebben we dat",
+        "nauwelijks meer gedaan.",
+        "Judith: Wat jammer!",
+        "Pim: Ja, balen!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 2,
+      "title": null,
+      "lines": [
+        "2. Tom: En dus beste collega’s, wensen we Elham heel veel succes bij deze mooie, volgende stap",
+        "in haar carrière! AppMax heeft veel geluk dat zij hun nieuwe senior app developer wordt.",
+        "En jij Elham, hebt groot gelijk dat je deze kans met beide handen aangrijpt. Wij gaan je",
+        "allemaal ontzettend missen hier bij Appfront! Op Elham!",
+        "Een vijftal collega’s: Op Elham!",
+        "Ahmed: Hartelijk gefeliciteerd met je nieuwe baan bij AppMax, Elham!",
+        "Elham: Dank je.",
+        "Ahmed: Senior App developer bij AppMax lijkt me een interessante en leuke functie. Je hebt echt",
+        "geluk gehad.",
+        "Tom: Elham heeft helemaal geen geluk gehad. Ze heeft ontzettend hard gewerkt om dit te",
+        "bereiken. En ze heeft deze baan verdiend.",
+        "De ontwikkeling van de nieuwe app is een hele prestatie geweest. Ik moet bekennen dat",
+        "ik in het begin dacht dat het een onmogelijke taak was. Maar dankzij Elhams harde werk is",
+        "het gelukt. Toch, Elham?",
+        "Elham: Nou, het was teamwork. Iedereen op de afdeling heeft me tijdens de ontwikkeling",
+        "gesteund. De samenwerking met alle collega’s was fantastisch. Iedereen heeft geregeld",
+        "belangstelling getoond. Soms vielen de werkzaamheden tegen en duurde de",
+        "ontwikkeling langer dan gepland. Jullie hebben veel geduld gehad. Het resultaat is in",
+        "ieder geval positief. We hebben een geweldige nieuwe app op de markt gebracht. Een",
+        "half miljoen gebruikers in de Benelux binnen een maand. Dat gebeurt tegenwoordig",
+        "bijna nooit meer. Dat heeft de aandacht van AppMax getrokken. Waarschijnlijk hebben ze",
+        "me daarom opgemerkt en een aanbod gedaan. Wat de reden ook is, ik ben erg dankbaar",
+        "voor deze kans.",
+        "Tom: Wij gaan je hier missen! Toch, Ahmed?",
+        "Ahmed: Inderdaad, dat klopt."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 3,
+      "title": null,
+      "lines": [
+        "1. de samenwerking - samenwerken",
+        "2. de ontwikkeling - ontwikkelen",
+        "3. de prestatie - presteren",
+        "4. de verwarring - verwarren",
+        "5. de teleurstelling - teleurstellen",
+        "6. de gebruiker - gebruiken",
+        "7. de opmerking - opmerken",
+        "8. de werkzaamheden - werken",
+        "9. de functie - functioneren",
+        "10. de steun - steunen"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 4,
+      "title": null,
+      "lines": [
+        "1. Ik heb een nieuwe baan. Ik werk nu bij Appmax. Mijn collega’s zijn erg aardig. Mijn taken",
+        "zijn interessant. Ik ben blij met mijn werk.",
+        "2. Mijn nieuwe functie is erg interessant. Ik mag samenwerken met aardige mensen en ik",
+        "moet vaak naar het buitenland reizen."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 5,
+      "title": null,
+      "lines": [
+        "1. Hoe wist je dat?",
+        "Dat wist ik niet.",
+        "Echt waar?",
+        "Dat meen je niet!",
+        "2. Nee, joh!",
+        "Dat klopt niet.",
+        "3. Dat klopt.",
+        "Inderdaad.",
+        "Dat is waar.",
+        "4. Wat vervelend!",
+        "Wat jammer!",
+        "Balen!",
+        "5. Wat leuk!",
+        "Wat bijzonder!",
+        "6. …, klopt dat?",
+        "…, toch?"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 6,
+      "title": null,
+      "lines": [
+        "Mijn ouders zijn vandaag 40 jaar getrouwd.",
+        "Jij doet een cursus Nederlands, toch?",
+        "In Nederland scheiden elk jaar bijna 33000 stellen.",
+        "Haar vriend heeft met een andere vrouw gezoend.",
+        "Wist je dat Diego al 49 is?",
+        "Lied Papa",
+        "Ik heb dezelfde ogen",
+        "En ik krijg jouw trekken om mijn mond",
+        "Vroeger was ik driftig",
+        "Vroeger was jij driftig",
+        "Maar we hebben onze rust gevonden",
+        "En we zitten naast elkaar",
+        "En we zeggen niet zoveel",
+        "Voor alles wat jij doet",
+        "Heb ik hetzelfde ritueel",
+        "Papa, ik lijk steeds meer op jou",
+        "Ik heb dezelfde handen",
+        "En ik krijg jouw rimpels in mijn huid",
+        "Jij hebt jouw idee",
+        "Ik heb mijn idee",
+        "En we zwerven in gedachten",
+        "Maar we komen altijd thuis",
+        "De waarheid die je zocht",
+        "En die je nooit hebt gevonden",
+        "Ik zoek haar ook",
+        "En tevergeefs",
+        "Zolang ik leef",
+        "Want papa, ik lijk steeds meer op jou",
+        "Vroeger kon je streng zijn",
+        "En God, ik heb je soms gehaat",
+        "Maar jouw woorden",
+        "Ze liggen op mijn lippen",
+        "En ik praat nu",
+        "Zoals jij vroeger praatte",
+        "Ik heb een goddeloos geloof",
+        "En ik hou van elke vrouw",
+        "En misschien ben ik geworden",
+        "Wat jij helemaal niet wou",
+        "Maar papa, ik lijk steeds meer op jou",
+        "En jij gelooft in God",
+        "Dus jij gaat naar de Hemel",
+        "En ik geloof in niks",
+        "Dus we komen elkaar na de dood",
+        "Na de dood nooit meer tegen",
+        "Maar papa,",
+        "Ik hou steeds meer van jou",
+        "Ik heb een goddeloos geloof",
+        "En ik hou van elke vrouw",
+        "En misschien ben ik geworden",
+        "Wat jij helemaal niet wou",
+        "Maar papa, ik lijk steeds meer op jou",
+        "Ooh papa, ik hou steeds meer van jou",
+        "Ooh papa, ik lijk steeds meer op jou"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 1,
+      "title": null,
+      "lines": [
+        "1. Ze heeft groot gelijk dat ze boos is op Daniël. Wat hij zei over haar was echt niet leuk.",
+        "Ik denk dat hij jaloers op haar is.",
+        "2. Heb je een tien voor je examen gehaald? Dat is een mooi resultaat.",
+        "3. Alice en Hung hadden het altijd druk. Ze hadden niet meer genoeg aandacht voor",
+        "elkaar. Nu gaan ze scheiden.",
+        "4. Olysha is heel erg mooi. Dat trekt altijd de aandacht van mannen.",
+        "5. Ik heb opgemerkt dat mijn zoon heel erg vaak op zijn mobieltje zit. Zijn",
+        "cijfers op school worden steeds slechter. Ik denk dat ik zijn mobieltje moet afpakken.",
+        "6. De voetbalclub vindt die trainster erg goed. De clubleiding doet haar een aanbod om",
+        "bij hun club te komen. Ze bieden veel geld dus ik denk dat de trainster wel",
+        "geïnteresseerd is"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 2,
+      "title": null,
+      "lines": [
+        "1. Spreker 1: Wist je dat Eva verliefd is op Martha?",
+        "Spreker 2: Echt waar?",
+        "2. Spreker 1: Mijn oma is vorig jaar overleden.",
+        "Spreker 2: O, dat wist ik niet. Wat erg.",
+        "3. Spreker 1: Jij was toch verliefd op de docent?",
+        "Spreker 2: Nee, joh!",
+        "4. Spreker 1: Wat een schitterende film was dat!",
+        "Spreker 2: Ja, inderdaad.",
+        "5. Spreker 1: Wat een lekker weertje vandaag!",
+        "Spreker 2: Dat is waar!",
+        "6. Spreker 1: Ik ben gezakt voor mijn rijexamen.",
+        "Spreker 2: Balen!",
+        "7. Spreker 1: Wat een saai feest.",
+        "Spreker 2: Inderdaad.",
+        "8. Spreker 1: Ik heb de baan niet gekregen.",
+        "Spreker 2: Wat jammer.",
+        "9. Spreker 1: Jij komt toch uit Syrië?",
+        "Spreker 2: Hoe wist je dat?",
+        "10. Spreker 1: Klopt het dat jij journalist bent?",
+        "Spreker 2: Nee, dat klopt niet."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 3,
+      "title": null,
+      "lines": [
+        "1. Spreker 1: Jij had vroeger toch een bril?",
+        "Spreker 2: Nee, joh!",
+        "2. Spreker 1: Ik kan vanavond helaas niet met jullie mee.",
+        "Spreker 2: Wat jammer.",
+        "3. Spreker 1: Jij bent toch de vriendin van Sonia?",
+        "Spreker 2: Inderdaad.",
+        "4. Spreker 1: Dus jij gaat morgen lekker op vakantie!",
+        "Spreker 2: Hoe wist je dat?",
+        "5. Spreker 1: Ik heb het examen weer niet gehaald.",
+        "Spreker 2: Balen!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 4,
+      "title": null,
+      "lines": [
+        "1. Ik heb mijn huiswerk voor vandaag niet gemaakt want ik had geen tijd.",
+        "2. Ik vind het leuk om met mijn buren te praten want ze helpen me met mijn Nederlands.",
+        "3. Gisteren heb ik kennisgemaakt met mijn nieuwe collega’s.",
+        "4. Helaas heb ik je naam niet onthouden. Het spijt me.",
+        "5. Het klopt dat ik een beetje jaloers ben op mijn broer. Hij heeft altijd geluk."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 5,
+      "title": null,
+      "lines": [
+        "1. Mag ik me even voorstellen?",
+        "2. Het valt me erg tegen.",
+        "3. Het spijt me ontzettend.",
+        "4. Dat wist ik niet.",
+        "5. Dat meen je niet.",
+        "6. Volgens mij klopt dat niet"
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

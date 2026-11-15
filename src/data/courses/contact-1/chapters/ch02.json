@@ -1,0 +1,746 @@
+{
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "controleren",
+          "english": "to check",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "krijgen",
+          "english": "to get, to receive",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "oefenen",
+          "english": "to practise",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "spellen",
+          "english": "to spell",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "studeren",
+          "english": "to study",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vertellen over",
+          "english": "to talk about",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vragen",
+          "english": "to ask",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "werken",
+          "english": "to work",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "doe je? (doen)",
+          "english": "do you do?",
+          "other": "(to do)",
+          "note": "Wat voor werk doe je? What kind of work do you do?"
+        },
+        {
+          "dutch": "ik ben getrouwd (getrouwd zijn)",
+          "english": "I am married",
+          "other": "(to be married)",
+          "note": null
+        },
+        {
+          "dutch": "hij heeft (hebben)",
+          "english": "he has",
+          "other": "(to have)",
+          "note": null
+        },
+        {
+          "dutch": "hij ziet (zien)",
+          "english": "he sees",
+          "other": "(to see)",
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "speciale verba",
+      "entries": [
+        {
+          "dutch": "Schrijf … op. (opschrijven)",
+          "english": "Write … down.",
+          "other": "(to write down)",
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de broer (de broers)",
+          "english": "brother (brothers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de collega (de collega’s)",
+          "english": "colleague (colleagues)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de cursus (de cursussen)",
+          "english": "course (courses)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de familie (de families)",
+          "english": "family (families) (relatives)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de huisgenoot (de huisgenoten)",
+          "english": "housemate (housemates)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de maand (de maanden)",
+          "english": "month (months)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de man (de mannen)",
+          "english": "man (men)",
+          "other": "husband (husbands)",
+          "note": null
+        },
+        {
+          "dutch": "de moeder (de moeders)",
+          "english": "mother (mothers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de ouder (de ouders)",
+          "english": "parent (parents)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de student (de studenten)",
+          "english": "student (students)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de studie (de studies)",
+          "english": "study (studies)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vader (de vaders)",
+          "english": "father (fathers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vriend (de vrienden)",
+          "english": "friend (friends) (m)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vriendin (de vriendinnen)",
+          "english": "friend (friends) (f)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vrouw (de vrouwen)",
+          "english": "woman (women)",
+          "other": "wife (wives)",
+          "note": null
+        },
+        {
+          "dutch": "de zoon (de zonen / de zoons)",
+          "english": "son (sons)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de zus (de zussen)",
+          "english": "sister (sisters)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het bedrijf (de bedrijven)",
+          "english": "company (companies)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gezin (de gezinnen)",
+          "english": "family (families) (parents and children)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het huis (de huizen)",
+          "english": "house (houses)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het kind (de kinderen)",
+          "english": "child (children)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het studentenhuis (de studentenhuizen)",
+          "english": "student house (student houses)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "groot (grote)",
+          "english": "big",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "half (halve)",
+          "english": "half",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een half jaar",
+          "english": "half a year",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "klein (kleine)",
+          "english": "little",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nieuw (nieuwe)",
+          "english": "new",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "al",
+          "english": "already",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "allebei",
+          "english": "both",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "alleen",
+          "english": "alone",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "daarna",
+          "english": "afterwards",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dit is …, Dat is … (zijn)",
+          "english": "This is …, That is …",
+          "other": "(to be)",
+          "note": null
+        },
+        {
+          "dutch": "Dit zijn …, Dat zijn … (zijn)",
+          "english": "These are …, Those are …",
+          "other": "(to be)",
+          "note": null
+        },
+        {
+          "dutch": "drie",
+          "english": "three",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "één",
+          "english": "one",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "geen",
+          "english": "no",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "hij",
+          "english": "he",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "hoe lang",
+          "english": "how long",
+          "other": null,
+          "note": "Hoe lang wonen jullie al in Nederland? How long have you lived in the Netherlands?"
+        },
+        {
+          "dutch": "hoeveel",
+          "english": "how many",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "iedereen",
+          "english": "everybody",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "jullie",
+          "english": "you (pl)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "meneer",
+          "english": "sir",
+          "other": "Mr",
+          "note": null
+        },
+        {
+          "dutch": "mevrouw",
+          "english": "Madam",
+          "other": "Mrs / Ms",
+          "note": null
+        },
+        {
+          "dutch": "pas",
+          "english": "only",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "samen",
+          "english": "together",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "sorry",
+          "english": "sorry",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "twee",
+          "english": "two",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "u",
+          "english": "you (formal)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uw",
+          "english": "your (formal)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vier",
+          "english": "four",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "we",
+          "english": "we (unstressed)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wij",
+          "english": "we (stressed)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ze",
+          "english": "they",
+          "other": "she (unstressed)",
+          "note": null
+        },
+        {
+          "dutch": "zij",
+          "english": "they",
+          "other": "she (stressed)",
+          "note": null
+        },
+        {
+          "dutch": "zijn",
+          "english": "his",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Let op!",
+          "english": "Note.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Wat kort!",
+          "english": "That’s short!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Wat lang!",
+          "english": "That’s long!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Zeg maar ‘jij’ , hoor!",
+          "english": "Please say ‘jij’ .",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Leer ook:",
+          "english": "Also learn:",
+          "other": null,
+          "note": "– de preposities (zie p. 28) – the prepositions (see p. 28)"
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 8,
+      "title": null,
+      "lines": [
+        "Voice-over:  Amir, Marc en Gino ontmoeten elkaar voor de les. Ze praten samen.",
+        "Gino: Hallo, mijn naam is Gino Rossi. Ik kom uit Italië. En hoe heet u?",
+        "Amir: Goedemorgen! Zeg maar ‘jij’ , hoor. Ik ben Amir Ebrahimi. Ik kom uit Iran.",
+        "Gino: Sorry, Ebrr…ehh… Hoe spel je dat?",
+        "Amir: E, B, R, A, H, I, M, I.",
+        "Gino: Ah, oké.",
+        "Gino: En hoe heet u, ehh, jij?",
+        "Marc: Marc Jones.",
+        "Gino: Mark met een K, of Marc met een C?",
+        "Marc: Met een C.",
+        "Gino: Kom je uit Engeland?",
+        "Marc: Nee, ik kom uit Australië.",
+        "Gino: Ben je hier alleen?",
+        "Marc: Nee, ik ben hier samen met mijn gezin. Ik ben getrouwd en ik heb 2 kinderen: 1 zoon en",
+        "1 dochter.",
+        "Kijk, ik heb een foto. Dit zijn mijn kinderen, Cody en Hannah. En dit is mijn vrouw, Lisa.",
+        "Gino: Leuke foto! […] Hoe lang wonen jullie al in Nederland?",
+        "Marc: We wonen hier pas 3 maanden.",
+        "En jullie?",
+        "Hoe lang wonen jullie al in Nederland?",
+        "Amir: Ik woon al 1 jaar in Nederland.",
+        "Marc: En jij, Gino?",
+        "Gino: Ik woon nu een ½ jaar in Nederland.",
+        "Marc: Wonen jullie alleen?",
+        "Gino: Nee, ik woon in een studentenhuis. Ik heb 3 huisgenoten.",
+        "Marc: Gezellig! En jij, Amir?",
+        "Amir: Ik ben hier met mijn familie: met mijn vader, moeder, broers en zussen.",
+        "Marc: Hoeveel broers en zussen heb je?",
+        "Amir: Ik heb 2 broers en 2 zussen.",
+        "Gino: Heb je een foto van je familie?",
+        "Amir: Ja, zeker! Kijk, dit is mijn broer Kamal. Hij is kok. Hij werkt in de keuken van een restaurant.",
+        "Marc: Wat leuk! En wie zijn dit?",
+        "Amir: Dit is mijn broer Farhad en dat is mijn zus Jasmin. Ze studeren allebei in Rotterdam.",
+        "Marc: En wie is dat?",
+        "Amir: Dat is mijn kleine zusje Maryam. Ze is 3.",
+        "Marc: Wat een schatje!",
+        "Amir:  Hebben jullie ook broers of zussen?",
+        "Gino: Ik heb 2 zussen. Ze wonen allebei in Milaan.",
+        "Ze werken daar ook. Ik heb geen broers.",
+        "Marc: Ik heb 1 broer en 1 zus. Ze wonen in Australië. Mijn broer heet Chris; hij woont en werkt in",
+        "Sydney. Mijn zus heet Jen; zij woont in Brisbane.",
+        "Gino: Heb je een foto?",
+        "Marc: Nee, niet hier, sorry.",
+        "Marc: Wat doe jij Gino, studeer je of werk je?",
+        "Gino: Ik studeer, ik ben student.",
+        "Amir: Wat studeer je?",
+        "Gino: Europese Studies. En wat doe jij?",
+        "Marc: Ik werk.",
+        "Amir: Wat voor werk doe je?",
+        "Marc: Ik ben IT’er. Ik werk bij een groot IT-bedrijf.",
+        "Amir: Werkt je vrouw ook?",
+        "Marc:  Ja, zij werkt ook. Ze is docent Engels. En jij, werk jij?",
+        "Amir: Nee, ik werk niet. Ik volg eerst de cursus Nederlands. Ik zoek daarna pas werk."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 9,
+      "title": null,
+      "lines": [
+        "Heb jij broers of zussen?",
+        "Ja, ik heb één broer en één zus.",
+        "En jij? Heb jij broers of zussen?",
+        "Ja, ik heb ook één broer, maar geen zus.",
+        "En jij? Heb jij broers of zussen?",
+        "Ja, ik heb twee zussen.",
+        "En jij? Heb jij broers of zussen?",
+        "Nee, ik heb geen broers of zussen."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 10,
+      "title": null,
+      "lines": [
+        "Heb jij broers of zussen?",
+        "Ja, ik heb één broer en één zus.",
+        "En jij? Heb jij broers of zussen?",
+        "Ja, ik heb ook één broer, maar geen zus.",
+        "En jij? Heb jij broers of zussen?",
+        "Ja, ik heb twee zussen.",
+        "En jij? Heb jij broers of zussen?",
+        "Nee, ik heb geen broers of zussen."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 11,
+      "title": null,
+      "lines": [
+        "a b c d e f g h i j k l m",
+        "n o p q r s t u v w x y z"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 12,
+      "title": null,
+      "lines": [
+        "1 A, H, K",
+        "2 B, C, D, E, G, J, P , T, V, W",
+        "3 F, L, M, N, R, S",
+        "4 O, Q, U, X, Y, Z"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 13,
+      "title": null,
+      "lines": [
+        "1 leuk",
+        "2 zijn",
+        "3 klein",
+        "4 vrouw",
+        "5 oud",
+        "6 kijk"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 10,
+      "title": null,
+      "lines": [
+        "Voorbeeld:  Je hoort: Mijn naam is Klaassen. K, L, A, A, S, S, E, N.",
+        "Je zegt: K, L, A, A, S, S, E, N.",
+        "1.  Mijn naam is Teklemariam. T, E, K, L, E, M, A, R, I, A, M.",
+        "2.  Ik heet Annemieke. A, N, N, E, M, I, E, K, E.",
+        "3.  Ik ben mevrouw Kanfori. K, A, N, F, O, R, I.",
+        "4.  Mijn achternaam is Krondlova. K, R, O, N, D, L, O, V, A.",
+        "5.  Mijn voornaam is Lilian. L, I, L, I, A, N."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 11,
+      "title": null,
+      "lines": [
+        "Voorbeeld:  Mijn naam is Klaassen. K, L, A, A, S, S, E, N.",
+        "1.  Mijn naam is Erik de Groot. Je spelt mijn achternaam zo: D, E --- G, R, O, O, T.",
+        "2. Ik heet Marnix. Je spelt dat zo: M, A, R, N, I, X.",
+        "3. Mijn voornaam is Samuel. Dat spel je zo: S, A, M, U, E, L.",
+        "4. Mijn broer heet Lukas. Dat is: L, U, K, A, S.",
+        "5. Hoe heet jouw broer? – Peter. – Hoe schrijf je dat? P , E, T, E, R.",
+        "6. Wie is jouw docent? Mijn docent is Saskia. – Kun je dat spellen?",
+        "– Ja, zeker! S, A , S, K, I, A.",
+        "7. Mijn naam is Irene Vredenhil. Je spelt dat zo: I, R, E, N, E --- V, R, E, D, E, N, H, I, L."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 12,
+      "title": null,
+      "lines": [
+        "1.  Ik kom uit Australië. Australië",
+        "2. Welke nationaliteit heb je?  Nationaliteit.",
+        "3. Wat is jouw achternaam? Jouw.",
+        "4. Mijn broer en ik nemen afscheid. Afscheid.",
+        "5. Nederlandse les is leuk. Leuk.",
+        "6. Hij is getrouwd met Ireen. Getrouwd.",
+        "7. Mevrouw, woont u in Groningen? Mevrouw.",
+        "8. Mijn ouders zijn Pools. Mijn. Zijn.",
+        "9. We drinken koffie in de keuken. Keuken."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 13,
+      "title": null,
+      "lines": [
+        "1.  Ik woon in Nederland. Woon",
+        "2. Waar woon jij? Waar. Woon.",
+        "3. Ik spreek Nederlands. Spreek.",
+        "4. Welke taal spreek jij? Taal. Spreek.",
+        "5. Ik kijk televisie. Kijk.",
+        "6. Kijk jij ook televisie? Kijk. Ook.",
+        "7. Wat lees je ? Lees.",
+        "8. Ik lees een Nederlands boek. Lees."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 14,
+      "title": null,
+      "lines": [
+        "1.  Dit is Ezra Abravanel. Hij is Canadees, maar hij woont nu in Groningen. Hij is student; hij studeert",
+        "Europese talen en culturen. Hij spreekt Frans en Engels.",
+        "2. Dit is Dorothea Kaiser. Ze komt uit Duitsland, maar ze woont nu in Nederland, in Leiden. Ze studeert",
+        "psychologie. Ze spreekt Duits, Engels en een beetje Nederlands.",
+        "3. Dit is Jin Shao. Ze heeft twee nationaliteiten. Ze is Chinees en Nederlands. Ze heeft ook twee",
+        "paspoorten. Ze woont in Den Haag. Ze is docent. Haar moedertaal is Chinees, maar ze spreekt ook",
+        "goed Nederlands, Engels en Duits.",
+        "4. Dit is Filip Jonson. Hij heeft de Zweedse nationaliteit. Hij woont nu jaar in Nederland. Hij is kok.",
+        "Hij werkt in een restaurant in Utrecht. Hij woont ook in Utrecht. Hij spreekt Zweeds en Engels."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 15,
+      "title": null,
+      "lines": [
+        "1.",
+        "Goedemorgen! We beginnen vandaag met de cursus Nederlands. Ik zal mezelf eerst even voorstellen:",
+        "mijn naam is Marlies de Jong. Mijn voornaam is Marlies en mijn achternaam is De Jong. En wie bent u?",
+        "2.",
+        "● Ik ben Bor Slinkar. Ik kom uit Slovenië.",
+        "■ Slinkar? Hoe spel je dat?",
+        "● S, L, I, N, K, A, R.",
+        "3.",
+        "■ O ja. En u? Wat is uw naam?",
+        "● Mijn naam is Fernández. Ik kom uit Spanje.",
+        "■ Is dat uw achternaam?",
+        "● Ja.",
+        "■ Kunt u dat spellen?",
+        "● F, E, R, N, A, N, D, E, Z. Met een accent op de A.",
+        "■ Sorry?",
+        "● De A is met een accent.",
+        "■ Ah. Oké. Bedankt.",
+        "4.",
+        "■ En hoe heet u?",
+        "● Zeg maar ‘jij’ hoor. Mijn naam is Adam le Grand.",
+        "■ Oké, Adam. Hoe spel je ‘Le Grand’?",
+        "● L, E G, R, A, N, D.",
+        "■ Welkom!"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "id": "tb-02-auto-1",
+      "instruction": "Kies het juiste antwoord.",
+      "question": "Oefening bij hoofdstuk 2: En dit is ....",
+      "options": [
+        "Juist",
+        "Onjuist"
+      ],
+      "answerIndex": 0,
+      "explanation": ""
+    }
+  ],
+  "workbookExercises": [],
+  "grammar": [
+    {
+      "id": "ch02-familie",
+      "title": "Familie",
+      "paragraphs": [
+        "Praten over familieleden. Andere personen voorstellen."
+      ],
+      "examples": [
+        "Dit is mijn broer.",
+        "Dat is mijn zus."
+      ]
+    },
+    {
+      "id": "ch02-werk-woonen",
+      "title": "Wonen en werken",
+      "paragraphs": [
+        "Vragen naar werk, woonplaats en persoonlijke gegevens."
+      ],
+      "examples": [
+        "Waar woon je?",
+        "Waar werk je?",
+        "Hoe heet je?"
+      ]
+    }
+  ],
+  "number": 2,
+  "title": "En dit is ..."
+}

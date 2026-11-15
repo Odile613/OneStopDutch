@@ -1,0 +1,388 @@
+{
+  "number": 16,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "kletsen",
+          "english": "to chat",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "scheuren",
+          "english": "to tear",
+          "other": null,
+          "note": "Mijn broer wil formule 1-coureur worden, zodat hij lekker kan scheuren in een racewagen. My brother wants to become a Formula 1 driver, so he can tear down the track in a race car."
+        },
+        {
+          "dutch": "schrikken",
+          "english": "to be scared, to be frightened",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "straffen",
+          "english": "to punish",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "tuinieren",
+          "english": "to garden",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de berm (de bermen)",
+          "english": "the shoulder",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de moeite (-)",
+          "english": "the trouble",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de roddel (de roddels)",
+          "english": "the gossip",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "pittig (pittige)",
+          "english": "tough",
+          "other": null,
+          "note": "Het was een pittig examen. Ik weet niet of ik ben geslaagd. It was a tough exam. I don’t know if I will pass."
+        },
+        {
+          "dutch": "prachtig (prachtige)",
+          "english": "splendid, magnificent",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "scheef (scheve)",
+          "english": "crooked",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "kennelijk",
+          "english": "evidently",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "geen kwaad kunnen",
+          "english": "to not do any harm",
+          "other": null,
+          "note": "Ik vind de regen niet zo erg. Een beetje regen kan geen kwaad. I don’t mind the rain. A little bit of rain won’t do any harm."
+        },
+        {
+          "dutch": "leuk en aardig zijn",
+          "english": "to be all fine and dandy",
+          "other": null,
+          "note": "Ervaring opdoen tijdens een stage is leuk en aardig, maar ik wil ook geld verdienen. Gaining experience during an internship is all fine and dandy, but I also want to make money."
+        },
+        {
+          "dutch": "op z’n minst",
+          "english": "at least",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "voor de boeg hebben",
+          "english": "to have ahead of one",
+          "other": null,
+          "note": "Ik ga vroeg naar bed, want ik heb een lange dag voor de boeg. I am going to bed early, because I have a long day ahead of me. tweehonderdertien 213"
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 47,
+      "title": null,
+      "lines": [
+        "Roy: … dus zondagochtend heb ik lekker lang uitgeslapen en de rest van de dag helemaal niks",
+        "meer gedaan.",
+        "Amber: Ja, snap ik. Na zo’n feest op zaterdag heb je je rust wel nodig.",
+        "Sven: Dat is waar, ja, zeker Roy.",
+        "Roy: Haha ja. Ik ben normaal niet zo’n feestbeest…",
+        "Sven: Maar mooi dat het verjaardagsfeest van je vrouw zo’n succes was! En hoe was jouw",
+        "weekend, Amber? Ook nog wat leuks gedaan?",
+        "Amber: Nee, niet echt. Nou ja, je weet wel. Gewoon een beetje thuis wat klussen: schoonmaken,",
+        "opruimen, een beetje tuinieren… Ik heb nog een hele tijd staan kletsen met m’n",
+        "buurman. Die houdt wel van praten en hij weet alles van de buurt! Hij vertelde dat onze",
+        "buurvrouw van nummer 23 de tuinkabouter van nummer 25 heeft gestolen, haha!",
+        "Sven: Echt waar?",
+        "Roy: Dat meen je niet! Waarom zou je zoiets doen?",
+        "Amber: Kennelijk was de buurvrouw van nummer 23 boos op de buren van nummer 25, vanwege",
+        "geluidsoverlast of zo. Dus ze wilde hen straffen.",
+        "Roy: Haha, wauw, het zal je buurvrouw maar zijn!",
+        "Amber: Haha! Gelukkig is ze tegen mij heel aardig. En Sven, heb jij een goed weekend gehad?",
+        "Sven: Nou, niet echt. Het begon goed, want ik had een nieuwe fiets gekocht zaterdagochtend.",
+        "Roy: Wat leuk!",
+        "Sven: Ja, maar nu komt het: ik was lekker een rondje aan het fietsen op m’n nieuwe fiets, toen er",
+        "ineens een motorrijder heel hard voorbij kwam scheuren. Ik schrok daar zo van, dat ik in",
+        "de berm kwam en van mijn fiets viel. En nu moet er een nieuw wiel in m’n fiets, want dat",
+        "stond helemaal scheef na de val.",
+        "Amber: O nee, wat erg!",
+        "Roy: Wat jammer van je fiets! En hoe gaat het met jou? Niks gebroken?",
+        "Sven: Nee, ik heb gelukkig niks.",
+        "Amber: Gelukkig maar!",
+        "Roy: Mooi zo."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 48,
+      "title": null,
+      "lines": [
+        "Guus: Pfff, dat college duurde lang zeg. Ik heb nu wel zin in een goeie lunchpauze.",
+        "Tasnem: Nou, inderdaad ja.",
+        "Kelly: O, nou, ik vond het wel interessant. Maar even pauze kan ook geen kwaad.",
+        "Tasnem: Haha, ja maar jij vindt altijd alles interessant, Kelly!",
+        "Kelly: Wat zijn trouwens jullie plannen voor volgend jaar? Ik weet nog niet of ik een extra vak ga",
+        "volgen, of dat ik stage ga lopen.",
+        "Tasnem: Ik denk dat ik stage ga lopen. Ik zou heel graag werkervaring willen opdoen bij een",
+        "internationaal bedrijf. En met een beetje geluk krijg ik er dan ook nog een",
+        "stagevergoeding voor!",
+        "Guus: Ja, dat vind ik eigenlijk het belangrijkste. Stage lopen is net als werken, vind ik. Als je daar",
+        "tijd en moeite in stopt, dan moet je er ook geld voor terugkrijgen.",
+        "Kelly: Echt? Het zou mooi zijn als je een stagevergoeding krijgt, maar ik denk niet dat je dat",
+        "altijd kan verwachten. Mijn zus heeft in Spanje gestudeerd en daar is het heel anders. Een",
+        "stagiair werkt daar alleen voor de ervaring.",
+        "Tasnem: Klopt, mijn nicht in Iran verdiende ook helemaal niks tijdens haar stage. Daar is het dus",
+        "net als bij Kelly’s zus in Spanje.",
+        "Guus: Nou, dan ben ik blij dat ik in Nederland studeer. Werkervaring opdoen als stagiair is leuk",
+        "en aardig, maar ik wil er ook graag iets voor terug krijgen. Ik wil op z’n minst een",
+        "stagevergoeding krijgen, maar liever een goed salaris natuurlijk.",
+        "Kelly: Hahaha, ja Guus, natúúrlijk wil je dat!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 49,
+      "title": null,
+      "lines": [
+        "Bericht 1",
+        "Beste reizigers, vanwege een object op het spoor is de trein in de richting van Apeldoorn, Deventer, Olst,",
+        "Wijhe en Zwolle vertraagd. De vertraging bedraagt ongeveer 40 minuten. Onze excuses voor het",
+        "ongemak. Herhaling: vanwege een object op het spoor is de trein in de richting van Apeldoorn, Deventer,",
+        "Olst, Wijhe en Zwolle vertraagd. De vertraging bedraagt ongeveer 40 minuten. Onze excuses voor het",
+        "ongemak.",
+        "Bericht 2",
+        "Beste reizigers, in verband met geplande werkzaamheden rijden er vanaf morgen tot en met zondag",
+        "geen treinen tussen Enschede en Deventer en tussen Enschede en Zutphen. Er zullen vervangende",
+        "bussen rijden. De extra reistijd bedraagt 30 tot 50 minuten. Herhaling: in verband met geplande",
+        "werkzaamheden rijden er vanaf morgen tot en met zondag geen treinen tussen Enschede en Deventer",
+        "en tussen Enschede en Zutphen. Er zullen vervangende bussen rijden. De extra reistijd bedraagt",
+        "ongeveer 30 tot 50 minuten.",
+        "Bericht 3",
+        "Beste reizigers, op dit moment zijn er veel reizigers die hier in de kou moeten wachten op een vertraagde",
+        "trein. Daarom wordt er op ieder perron gratis koffie en thee aangeboden bij de kiosk. Herhaling: op dit",
+        "moment zijn er veel reizigers die hier in de kou moeten wachten op een vertraagde trein. Daarom wordt",
+        "er op ieder perron gratis koffie en thee aangeboden bij de kiosk."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 50,
+      "title": null,
+      "lines": [
+        "Roy: Kunnen we vandaag langs het tankstation lopen? Ik wil een zak drop kopen. Daar heb ik al",
+        "de hele dag zin in!",
+        "Amber: Ja, goed hoor.",
+        "Sven: Prima, als wij ook een dropje mogen!",
+        "Roy: Haha, ja tuurlijk!",
+        "Amber: Ga jij trouwens nog wat leuks doen dit weekend, Roy?",
+        "Roy: Nou, we hebben morgen onze jaarlijkse familiedag. Dit jaar wilde mijn oude tante het",
+        "heel graag in een theehuis doen, dus het is Huize Bloem in Lieren geworden.",
+        "Amber: Oh wat leuk! Daar ben ik een paar jaar geleden met mijn moeder geweest. Prachtige plek!",
+        "Roy: Hm, de hele dag thee drinken en gebakjes eten… Ik weet niet of ik dat nou zo leuk moet",
+        "vinden.",
+        "Sven: Ach, kom op, Roy. Zo erg zal het vast niet zijn. Dat is sowieso een beter weekend dan wat",
+        "ik voor de boeg heb.",
+        "Roy: Wat dan?",
+        "Sven: Ik heb beloofd om mijn beste vriend Janis te helpen met verhuizen en hij verwacht dat we",
+        "er twee hele dagen mee bezig zullen zijn. Hij heeft dan ook wel erg veel spullen.",
+        "Amber: Poeh, dat klinkt pittig. Dat wordt hard werken dan!",
+        "Sven: Klopt! Maar gelukkig zorgt de man van Janis voor hapjes en drankjes op beide dagen.",
+        "Roy: O, wat fijn. Dan moet het wel goed komen. En Amber, wat ga jij dit weekend doen?",
+        "Sven: Ga je weer lekker lang kletsen met je buurman? Ik ben benieuwd of er nieuwe roddels in",
+        "jullie buurt zijn, haha!",
+        "Amber: Nou, wie weet! Morgen wil ik in ieder geval mijn nieuwe boekenkast in elkaar zetten. Voor",
+        "zondag heb ik nog geen plannen. Gewoon lekker relaxen, denk ik.",
+        "Sven: Klinkt goed!",
+        "Roy: Nou, inderdaad ja!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 60,
+      "title": null,
+      "lines": [
+        "1. deed",
+        "2. leeft",
+        "3. mist",
+        "4. streek",
+        "5. tik",
+        "6. gif",
+        "7. wig",
+        "8. beet",
+        "9. kweek",
+        "10. lik"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 61,
+      "title": null,
+      "lines": [
+        "1. leg",
+        "2. nep",
+        "3. mis",
+        "4. pel",
+        "5. zit",
+        "6. dip",
+        "7. lek",
+        "8. wet",
+        "9. til",
+        "10. strik"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 62,
+      "title": null,
+      "lines": [
+        "1. periode",
+        "2. gewoonte",
+        "3. koppelen",
+        "4. voorstellen",
+        "5. totdat",
+        "6. zodat",
+        "7. mooi",
+        "8. achtergrond",
+        "9. portie",
+        "10. voornemen"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 63,
+      "title": null,
+      "lines": [
+        "1. Mijn voornemen is om te stoppen met roken.",
+        "2. Ik heb gehoord dat Jos werkloos is geworden.",
+        "3. Ze krijgt haar reiskosten vergoed, totdat het niet meer nodig is.",
+        "4. Mooi zo!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 64,
+      "title": null,
+      "lines": [
+        "1. bevallen",
+        "2. smaken",
+        "3. haasten",
+        "4. gedrag",
+        "5. centrale",
+        "6. kans",
+        "7. afvallen",
+        "8. resultaat",
+        "9. tast",
+        "10. verslapen"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 65,
+      "title": null,
+      "lines": [
+        "1. Ik moet me haasten, want ik heb me verslapen.",
+        "2. Zijn gedrag verandert nooit.",
+        "3. Heb jij al belastingaangifte gedaan?",
+        "4. Ze heeft veel ervaring met samenwerken."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 66,
+      "title": null,
+      "lines": [
+        "1. kennelijk",
+        "2. hartelijk",
+        "3. vrolijk",
+        "4. onmogelijk",
+        "5. menselijk",
+        "6. duidelijk",
+        "7. verantwoordelijk",
+        "8. nauwelijks"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 67,
+      "title": "je leest: je hoort",
+      "lines": [
+        "1. Snap je het? · het · ’t",
+        "2. Ik snap het. · ik + het · ‘k · + ‘t",
+        "3. Ik snap het niet. ik + het · ‘k · + ‘t",
+        "4. Doet hij het? · hij + het · ‘ie · + ‘t",
+        "5. Hij doet het. · het · ‘t",
+        "6. Hij doet het niet. het · ‘t",
+        "7. Ik zoek mijn tas. Zie je hem? · ik + mijn + hem ‘k + m’n + ‘em",
+        "8. Ik zie hem niet. · ik + hem · ‘k + ‘em",
+        "9. Was dat het? · het · ‘t",
+        "10. Ja, dat was het. · het · ‘t"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 68,
+      "title": null,
+      "lines": [
+        "1. Is er een supermarkt in de straat? Nee, maar wel een café.",
+        "2. Is er een zwembad in de buurt? Nee, maar wel aan de andere kant van de stad.",
+        "3. Is er een middelbare school in het centrum? Jazeker, er zijn wel drie middelbare scholen in",
+        "het centrum.",
+        "4. Is er een gezondheidscentrum in deze wijk? Jazeker, er zit een gezondheidscentrum aan deze",
+        "kant van de wijk.",
+        "5. Is er een tuincentrum in de stad? Nee, maar wel net buiten de stad.",
+        "6. Is er een moskee in de stad? Jazeker, in het centrum naast het station."
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

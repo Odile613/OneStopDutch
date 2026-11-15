@@ -1,0 +1,370 @@
+{
+  "number": 7,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "bespreken met",
+          "english": "to discuss with",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "koppelen aan",
+          "english": "to connect to, to link to",
+          "other": null,
+          "note": "Hij koppelt mijn computer aan jouw computer. He links my computer to your computer."
+        },
+        {
+          "dutch": "langskomen (ik kom … langs)",
+          "english": "to pass by",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ophalen (ik haal … op)",
+          "english": "to fetch, to pick up",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "overnemen (ik neem … over)",
+          "english": "to take over",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uitleggen aan (ik leg … uit aan)",
+          "english": "to explain to",
+          "other": null,
+          "note": "De docent legt het uit aan de cursist. The teacher explains it to the student."
+        },
+        {
+          "dutch": "verwachten",
+          "english": "to expect",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de bijlage (de bijlages, de bijlagen)",
+          "english": "attachment",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de overdracht (de overdrachten)",
+          "english": "hand-over",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de periode (de periodes, perioden)",
+          "english": "period, time",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de werkzaamheden (pluralis)",
+          "english": "duties",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de zaak (de zaken)",
+          "english": "thing, matter",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het paar (-)",
+          "english": "pair, couple",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een paar",
+          "english": "a few, some",
+          "other": null,
+          "note": "Ik heb nog een paar vragen. I still have a few questions."
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "duidelijk",
+          "english": "clear",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "erg",
+          "english": "bad; very",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "praktisch",
+          "english": "practical",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verantwoordelijk",
+          "english": "responsible",
+          "other": null,
+          "note": "Zij is verantwoordelijk voor dit project. She is responsible for this project."
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "daarnaast",
+          "english": "in addition",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de jouwe",
+          "english": "yours",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de mijne",
+          "english": "mine",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "inderdaad",
+          "english": "indeed",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wat",
+          "english": "a few, some",
+          "other": null,
+          "note": "Ik heb nog wat vragen. I still have a few questions."
+        },
+        {
+          "dutch": "zoals (zoals / zoals)",
+          "english": "as",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "bijzinconjuncties",
+      "entries": [
+        {
+          "dutch": "hoewel",
+          "english": "although",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "voordat",
+          "english": "before",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zodra",
+          "english": "as soon as",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "contact opnemen met",
+          "english": "to get in touch with",
+          "other": null,
+          "note": "Ik neem contact op met meneer Kooistra. I will get in touch with Mr Kooistra."
+        },
+        {
+          "dutch": "op dit moment",
+          "english": "at the moment",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "op vakantie gaan naar",
+          "english": "to go on holiday to",
+          "other": null,
+          "note": "We gaan op vakantie naar Frankrijk. We are going on holiday to France."
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Als je nog vragen hebt, dan hoor ik het",
+          "english": "Please let me know if you have any",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "graag.",
+          "english": "questions.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Alvast bedankt.",
+          "english": "Thank you in advance.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Bedankt voor je mail.",
+          "english": "Thank you for your email.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Hoe moet dat?",
+          "english": "How does that work?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Hopelijk is alles duidelijk.",
+          "english": "I hope everything is clear.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ik hoor het graag van je.",
+          "english": "I am looking forward to your reply.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "In de bijlage vind je …",
+          "english": "Please find attached …",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Zoals je weet, …",
+          "english": "As you know, …",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "wb",
+      "track": 22,
+      "title": null,
+      "lines": [
+        "Sophie: Ha, Hugo! Goed dat ik je zie. Zullen we zo even een planning maken voor de",
+        "presentatie?",
+        "Hugo: Hee Sophie! Ja, prima. Ik heb nu direct wel even tijd. Zijn Malek en Tania ook in de",
+        "buurt?",
+        "Sophie: Nee, ik hoorde dat ze al naar huis zijn gegaan, dus we moeten maar met z’n tweeën een",
+        "begin maken.",
+        "Hugo: O, oké, ja, dat kan natuurlijk ook. Goed, wat moet er allemaal gebeuren?",
+        "Sophie: We moeten een schrijver kiezen, we moeten informatie over die schrijver zoeken, en",
+        "dan moeten we een presentatie met al die informatie maken. In de presentatie moeten",
+        "we in ieder geval een introductie hebben, en een stukje over het persoonlijke leven en",
+        "het professionele leven van de schrijver.",
+        "Hugo: Oké, zullen wij zo een paar schrijvers zoeken en die mailen naar Malek en Tania? Dan",
+        "mogen zij de definitieve keuze maken.",
+        "Sophie: Ja, goed plan. En hoe zullen we de taken verder verdelen? Misschien kan Tania de",
+        "introductie schrijven?",
+        "Hugo: Volgens mij is ze echt heel goed met computers, dus zij kan er wel een mooie",
+        "powerpointpresentatie van maken. Dan doe ik de introductie wel.",
+        "Sophie: O ja, dat is ook zo. Prima. En ik weet dat Malek echt veel weet over verschillende",
+        "boeken, dus als hij het deel over het werk van de schrijver doet, dan doe ik het stuk over",
+        "het privéleven.",
+        "Hugo: En we zijn helaas alle vier verantwoordelijk voor het geven van de presentatie.",
+        "Sophie: Ha ha, ja, maar dat komt ook wel goed!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 23,
+      "title": null,
+      "lines": [
+        "1. Ik zal een kaartje sturen!",
+        "2. Ik beloof dat ik je eeuwig trouw zal blijven.",
+        "3. Ik beloof trouw aan de grondwet.",
+        "4. Ik zal voortaan mijn gordel om doen."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 24,
+      "title": null,
+      "lines": [
+        "Eefje: Hoi Jennifer, kom binnen.",
+        "Jennifer: Hoi, sorry dat ik wat laat ben, ik had een lekke band. Is de rest er al?",
+        "Eefje: Ja, iedereen is al binnen. We zitten in de keuken. Kom er snel bij zitten!",
+        "Willem: Hoi Jennifer, goed dat je er ook bent. We dachten dat je de afspraak vergeten was!",
+        "Jennifer: Ja, sorry. Ik had een lekke band. Ik beloof dat ik de volgende keer wel op tijd kom!",
+        "Willem: Geeft niks joh. We zijn net begonnen. Zal ik even samenvatten wat we al hebben",
+        "besproken?",
+        "Jennifer: Ja, heel graag.",
+        "Willem: We hebben net even alle praktische gegevens op een rijtje gezet. Dus wanneer de",
+        "sportdagen zijn, hoe laat ze beginnen, hoeveel deelnemers er komen, et cetera.",
+        "Jennifer: Hoeveel deelnemers komen er dan?",
+        "Willem: Dat weten we niet precies. We verwachten dat we dit jaar ongeveer 1300 deelnemers",
+        "hebben.",
+        "Jennifer: Zoveel?",
+        "Eefje: Ja, veel hè?",
+        "Willem: En nu wilden we net beginnen om een plan de campagne te maken.",
+        "Jennifer: Oh ja.",
+        "Willem: Wie heeft er een idee?",
+        "Eefje: Ik stel voor dat we twee scenario’s maken: één voor goed weer en één voor slecht weer.",
+        "Want het blijft natuurlijk Nederland, je weet nooit wat voor weer het wordt.",
+        "Jennifer: Ja, het zal wel gaan regenen!",
+        "Marieke: Ja, inderdaad. Ik vind het een goed idee om twee scenario’s te maken.",
+        "Willem: Laten we in ieder geval alles opschrijven wat we bedenken. Wie wil er notuleren?",
+        "Eefje: Ik wil wel notuleren.",
+        "Marieke: Is dat wel handig? Notulen maken kost veel tijd. Is het wel zinvol?",
+        "Willem: Het is wel handig als we alle afspraken die we maken, op papier zetten.",
+        "Eefje: Dat is waar. Ik kan wel een afsprakenlijst maken in plaats van notulen.",
+        "Marieke: Dat is fijn, ja. Zullen we gewoon om de beurt de afsprakenlijst maken? Eefje doet het",
+        "dus deze keer. Ik zal het de volgende keer wel doen.",
+        "Willem: Goed.",
+        "Eefje: Zullen we eerst even een datum prikken voor de volgende bijeenkomst?",
+        "Marieke: Ja, wacht, dan pak ik mijn agenda even.",
+        "Eefje: Kunnen jullie allemaal altijd op vrijdagmiddag?",
+        "Jennifer: Ja, ik wel.",
+        "Willem: Ja, ik ook.",
+        "Marieke: Ja, ik ook.",
+        "Eefje: Zullen we de volgende bijeenkomst dan over twee weken op vrijdag plannen? Dus op",
+        "21 mei?",
+        "Willem: Goed, afgesproken!",
+        "Eefje: En zullen we nu dan eindelijk plannen gaan maken?",
+        "Jennifer: Laten we eerst gaan brainstormen. Als we nou eens al onze ideeën op losse briefjes",
+        "schrijven. Dan kunnen we ze daarna ordenen en vervolgens een actieplan maken.",
+        "Groep: Ja, goed idee!"
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

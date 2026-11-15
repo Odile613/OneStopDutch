@@ -1,0 +1,617 @@
+{
+  "number": 9,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "afkoelen (ik koel … af )",
+          "english": "to cool down (I cool down, I am cooling down)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "eindigen",
+          "english": "to finish",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "genieten",
+          "english": "to enjoy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "meedoen (ik doe … mee)",
+          "english": "to participate ( I participate, I am participating)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ophalen (ik haal … op)",
+          "english": "to pick up (I pick up, I am picking up)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "voorkomen",
+          "english": "to prevent",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "(voorkomen)",
+          "english": "(to happen)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de activiteit (de activiteiten)",
+          "english": "activity",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de basisschool (de basisscholen)",
+          "english": "elementary school",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bewoner (de bewoners)",
+          "english": "resident",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bezoeker (de bezoekers)",
+          "english": "visitor",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de brand (de branden)",
+          "english": "fire",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de brandweer (-)",
+          "english": "fire brigade",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de burgemeester (de burgemeesters)",
+          "english": "mayor",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de club (de clubs)",
+          "english": "club",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de conclusie (de conclusies)",
+          "english": "conclusion",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de deelnemer (de deelnemers)",
+          "english": "participant",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de hardloper (de hardlopers)",
+          "english": "runner",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de informatie (-)",
+          "english": "information",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verkeersinformatie (-)",
+          "english": "traffic information",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de journalist (de journalisten)",
+          "english": "journalist",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de koning (de koningen)",
+          "english": "king",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de leerling (de leerlingen)",
+          "english": "student, pupil",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de politie (-)",
+          "english": "police",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de rij (de rijen)",
+          "english": "queue",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de speler (de spelers)",
+          "english": "player",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de temperatuur (de temperaturen)",
+          "english": "temperature",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de tijd (de tijden)",
+          "english": "time",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de wachttijd (de wachttijden)",
+          "english": "waiting time",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de wedstrijd (de wedstrijden)",
+          "english": "competition",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de wind (de winden)",
+          "english": "wind",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het bericht (de berichten)",
+          "english": "report",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het nieuwsbericht (de nieuwsberichten)",
+          "english": "news report",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het weerbericht (de weerberichten)",
+          "english": "weather report",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het drankje (de drankjes)",
+          "english": "drink",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gebied (de gebieden)",
+          "english": "area",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gebouw (de gebouwen)",
+          "english": "building",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het koor (de koren)",
+          "english": "choir",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het liedje (de liedjes)",
+          "english": "song",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het programma (de programma’s)",
+          "english": "programme",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het uitje (de uitjes)",
+          "english": "outing",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "bekend (bekende)",
+          "english": "known; well-known",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "bijzonder (bijzondere)",
+          "english": "special",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "gevaarlijk (gevaarlijke)",
+          "english": "dangerous",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "jong (jonge)",
+          "english": "young",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "sportief (sportieve)",
+          "english": "sports",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "telefonisch (telefonische)",
+          "english": "by telephone",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "oud (oude)",
+          "english": "old",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vorig (vorige)",
+          "english": "previous, last",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "geleden",
+          "english": "ago",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "toen",
+          "english": "then",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "tussen",
+          "english": "between",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verboden",
+          "english": "prohibited",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vroeger",
+          "english": "before",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "een brand blussen",
+          "english": "to put out a fire",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "op afspraak werken",
+          "english": "to work by appointment",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "oud en nieuw",
+          "english": "New Year’s Eve",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vuurwerk afsteken",
+          "english": "to set off fireworks honderdzevenentachtig 187",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 31,
+      "title": null,
+      "lines": [
+        "V: \u0007En dan is het weer tijd voor het korte nieuws. Jacob, wat voor nieuws heb je vandaag voor onze",
+        "luisteraars?",
+        "M: Nou Hila, ik heb een paar berichten.",
+        "Koning Willem-Alexander viert koningsdag volgend jaar in Roermond!",
+        "\u0007Elk jaar op 27 april viert Nederland de verjaardag van de koning en elk jaar bezoekt de koning een",
+        "Nederlandse stad. Vorig jaar was de koning nog in Leiden. Volgend jaar komt de koning met zijn",
+        "familie naar Roermond. De burgemeester van Roermond heeft dit vandaag aan journalisten van RTL-",
+        "nieuws verteld.",
+        "Wat het programma van de dag wordt, is nog niet bekend.",
+        "\u0007De Canadese stad Calgary is officieel geen kandidaat meer voor de organisatie van de Olympische",
+        "Winterspelen van 2026. Er zijn nu nog maar twee kandidaten over: het Zweedse Stockholm en de",
+        "Italiaanse plaatsen Milaan en Cortina.",
+        "\u0007Calgary heeft in 1988 de Olympische winterspelen al georganiseerd. In juni vertelt het Olympisch",
+        "comité in welke stad de Olympische spelen van 2026 zullen plaatsvinden.",
+        "V: \u0007Jacob, ik weet dat je van voetbal houdt. Heb je vandaag ook nog wat voetbalnieuws voor ons?",
+        "M: Natuurlijk, Hila. Er is altijd nieuws over voetbal.",
+        "\u0007Gisteren eindigde het Champions League-seizoen voor voetbalclub PSV. De club uit Eindhoven",
+        "speelde een goede wedstrijd tegen Internazionale. Helaas eindigde de club als laatste in de groep.",
+        "Volgens trainer Mark van Bommel is de conclusie dan ook simpel: PSV was niet goed genoeg.",
+        "En nog ander voetbalnieuws.",
+        "\u0007Volgens veel sportjournalisten wil de Franse club Paris Saint Germain de 21-jarige voetballer Frenkie",
+        "de Jong voor 75 miljoen euro kopen. Gisteren reageerde de speler van Ajax zelf voor het eerst op deze",
+        "verhalen.",
+        "Frenkie vertelde dat hij dit seizoen gewoon bij Ajax blijft spelen.",
+        "\u0007En dan nog wat verkeersinformatie. Om 17:00 uur is er een ongeluk op de A28 gebeurd. De politie",
+        "heeft de weg helemaal afgesloten tussen Strand Nulde en Strand Horst. Door de afsluiting zijn er veel",
+        "files. Om 17:45 uur was de file al 17 kilometer lang. Door politieonderzoek blijft de weg nog tot 18.15",
+        "uur dicht.",
+        "Dat was het nieuws, Hila.",
+        "V: \u0007Dank je, Jacob. We spreken je weer over een uur. En dan gaan we nu luisteren naar …."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 32,
+      "title": "Fragment 1",
+      "lines": [
+        "Ik heb een artikel over een kerstmarkt in Meppel gelezen.",
+        "Het was een groot succes.",
+        "Er waren bijna vijfduizend bezoekers.",
+        "Zij genoten van eten en drinken.",
+        "Zij genoten ook van muziek.",
+        "Leerlingen van het BerensCollege zorgden de hele dag voor live muziek.",
+        "Ik ga er volgend jaar ook naartoe.",
+        "Fragment 2:",
+        "Ik heb een bericht over een voetballer gehoord.",
+        "Een voetbalclub uit Parijs wilde 75 miljoen euro voor een speler betalen.",
+        "Parijs is een mooie stad.",
+        "Ik ben er vorig jaar geweest.",
+        "Fragment 3:",
+        "Ik heb de verkeersinformatie gehoord.",
+        "De nieuwslezer vertelde over een ongeluk.",
+        "Dit ongeluk gebeurde op de A28.",
+        "Er stond een file van 17 kilometer.",
+        "Ik was niet blij met het nieuws.",
+        "Ik rijd er elke dag. Ik moet er vandaag ook zijn.",
+        "Fragment 4:",
+        "Ik heb een artikel over de Boskoopse parkloop gelezen.",
+        "Ik vond het artikel erg interessant.",
+        "Ik sportte vroeger heel vaak.",
+        "Ik hield van voetballen en hardlopen.",
+        "Ik voetbalde bij een club in Kiev.",
+        "Ken jij Kiev? Ik heb er 25 jaar gewoond.",
+        "Fragment 5:",
+        "Ik heb een verhaal over een brand in Boxtel gehoord.",
+        "Daar woont een vriend van mij.",
+        "Hij zag brand in het huis van zijn buurman.",
+        "Hij belde meteen de brandweer.",
+        "De brandweer kwam heel snel.",
+        "De brandweer bluste de brand en redde de bewoners.",
+        "Mijn vriend vond de situatie erg eng."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 33,
+      "title": null,
+      "lines": [
+        "Het Rijksmuseum Amsterdam",
+        "Het Rijksmuseum Amsterdam is één van de belangrijkste musea in Nederland.",
+        "Het museum staat in Amsterdam aan het Museumplein.",
+        "Nederlanders noemen het museum meestal Het Rijksmuseum.",
+        "Het Rijksmuseum heeft meer dan 200 zalen en gaat over de geschiedenis en kunst van Nederland.",
+        "Het Rijksmuseum heeft verschillende bijzondere stukken.",
+        "Dit zijn heel bekende kunstwerken.",
+        "Het allerbekendste schilderij in het Rijksmuseum is De Nachtwacht.",
+        "De Nederlandse schilder Rembrandt van Rijn maakte dit schilderij in 1642.",
+        "Sinds 1885 zit het Rijksmuseum in het gebouw aan de Museumstraat 1 in Amsterdam.",
+        "In 2003 startte men daar met een grote verbouwing.",
+        "De verbouwing duurde 10 jaar.",
+        "Dat was zes jaar langer dan iedereen dacht.",
+        "De verbouwing kostte 375 miljoen euro.",
+        "Wil je naar het Rijksmuseum? Dat kan.",
+        "Een kaartje voor volwassenen kost 19 euro. Als je jonger bent dan 18 jaar mag je gratis naar binnen."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 34,
+      "title": null,
+      "lines": [
+        "André Hazes",
+        "André Hazes werd geboren op 30 juni 1951 in Amsterdam.",
+        "André was een Nederlandse zanger.",
+        "Hij werd bekend in de jaren 70.",
+        "Hij is een van de meest succesvolle zangers van Nederland.",
+        "In België was hij ook heel bekend.",
+        "André Hazes onderscheidde zich van andere zangers door zijn bijzondere stem.",
+        "Veel liedjes van Hazes zijn erg bekend geworden.",
+        "Bijvoorbeeld Eenzame kerst uit 1976 en Een beetje verliefd uit 1981.",
+        "Andre Hazes heeft veel grote hits gehad.",
+        "André Hazes maakte meer dan 300 verschillende nummers.",
+        "André Hazes overleed op 23 september 2004.",
+        "Hij had een ernstig hartprobleem.",
+        "Er was een afscheidsshow op 27 september 2004 in een drukke Amsterdam Arena.",
+        "De show kwam ook op tv in Nederland en België. Zes miljoen kijkers keken naar de show.",
+        "Ook nu nog kun je live genieten van zijn muziek tijdens de Holland zingt Hazes concerten."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 35,
+      "title": null,
+      "lines": [
+        "Johan Cruijff",
+        "Johan Cruijff leefde van 1947 tot en met 2016.",
+        "Hij was een Nederlandse profvoetballer en voetbaltrainer.",
+        "Overal op de wereld vindt men dat Cruijff een van de beste voetballers is.",
+        "Sinds zijn zesde speelde Johan al mee met voetbalclub Ajax.",
+        "Vanaf zijn tiende werd hij officieel lid.",
+        "Op 15 november 1964 speelde hij zijn eerste wedstrijd bij het eerste team van Ajax.",
+        "Tussen 1964 en 1973 speelde hij bij Ajax.",
+        "Tussen 1973 en 1978 speelde hij voor FC Barcelona.",
+        "Hij heeft ook bij verschillende Amerikaanse voetbalclubs gespeeld.",
+        "Johan trouwde in 1968 met zijn vrouw Danny.",
+        "Samen kregen ze 3 kinderen.",
+        "Johan is ook trainer geweest van verschillende clubs.",
+        "Een grote hobby van hem was golf.",
+        "Hij speelde graag en veel.",
+        "Op 24 maart 2016 overleed Cruijff. Hij was al lange tijd ziek."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 18,
+      "title": "Nieuwsbericht 1",
+      "lines": [
+        "Dit jaar is er met oud en nieuw een verbod op vuurwerk in de Markerbuurt. Het verbod gaat in vanaf 30",
+        "december en duurt tot en met 1 januari. De politie zal extra goed controleren.",
+        "Nieuwsbericht 2:",
+        "Door het concert van Ed Sheeran in het Gelredome in Arnhem verwacht de politie veel files tussen",
+        "17.00 en 20.00 uur. Het concert begint officieel om 20.15 uur. Dan is eerst het voorprogramma met de",
+        "Nederlandse band Kensington. Ed Sheeran zelf begint rond 21.30 uur met zijn show.",
+        "Nieuwsbericht 3:",
+        "Er is een gevaarlijke situatie geweest in een woning aan de Rembrandtstraat in Zutphen. Bij het koken is",
+        "er brand ontstaan in de keuken. De bewoners konden op tijd uit het huis komen. De brandweer heeft de",
+        "brand geblust en de situatie is nu veilig. De politie heeft gezorgd dat er geen verkeer in de drukke straat",
+        "kon komen. Er zijn hierdoor korte tijd files in het centrum van Zutphen geweest."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 19,
+      "title": null,
+      "lines": [
+        "Een beetje verliefd van André Hazes"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 20,
+      "title": "Yian",
+      "lines": [
+        "Hoi. Ik had echt een vervelende ochtend.",
+        "Eerst werd ik te laat wakker.",
+        "Toen kwam de bus te laat.",
+        "De docente was boos omdat ik te laat in de les was.",
+        "Mijn boek lag nog thuis.",
+        "Ik begreep de grammatica niet.",
+        "En Zara was ook ziek.",
+        "Ik miste haar.",
+        "Wil je dat tegen haar zeggen?",
+        "Aiden:",
+        "Spreek jij Zara nog?",
+        "Ze heeft me gisteren een e-mail gestuurd.",
+        "Ik wilde haar antwoorden maar dat kon niet want mijn computer ging kapot.",
+        "Dat vond ik heel vervelend.",
+        "Ik zal haar vanavond een antwoord sturen.",
+        "Wil je dat tegen haar zeggen?",
+        "Svetlana:",
+        "Heb jij nog contact met Zara?",
+        "Zara en ik hebben vorige week samen een opdracht gemaakt.",
+        "Ik zag net ons resultaat.",
+        "De docent vond onze opdracht heel goed dus gaf ze ons een voldoende.",
+        "Kun je dat aan Zara vertellen?"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 21,
+      "title": null,
+      "lines": [
+        "1. Ben je gisteren naar de Efteling geweest? Wat leuk! Ik kwam er vroeger elk jaar.",
+        "2. Ik kom uit Venezuela maar ik ben er al heel lang niet geweest.",
+        "3. Naar welke bioscoop ga je vanavond? Naar Pathé? Oh, dit weekend ben ik er ook geweest.",
+        "4. Ga je naar de supermarkt of kom je er net vandaan?",
+        "5. Ga je naar de kerstmarkt? Het is er nu erg druk dus misschien kun je beter iets later gaan."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 22,
+      "title": null,
+      "lines": [
+        "Koning Willem-Alexander en zijn familie vieren Koningsdag vandaag in Zwolle. De burgemeester van",
+        "Zwolle verwacht veel bezoekers vanwege het interessante programma van deze dag. De koning en zijn",
+        "familie komen om 12 uur ’s middags aan en dan begint het feestprogramma. Het is erg druk op de weg in",
+        "heel Nederland. Er zijn korte files op de A12, A16 en A20. De vertraging daar is 15 minuten. Op de wegen in",
+        "de buurt van Zwolle is het natuurlijk extra druk. Op de A27 staat 5 kilometer file en op de A28 staat zelfs 12",
+        "kilometer file. Wil je naar Zwolle om mee te feesten, dan adviseren we je om met het openbaar vervoer te",
+        "komen. De NS zet extra treinen in richting Zwolle vanuit het hele land.",
+        "Dan nog het weer voor vandaag. Het lijkt erop alsof feestvierders vandaag nat zullen gaan worden. In",
+        "de ochtend blijft het tot 9 uur in heel Nederland droog maar vanaf ongeveer 9 uur komt er vanuit het",
+        "oosten veel regen aan. Ook kan er plaatselijk veel wind zijn, windkracht 3 tot 4. Vanaf ongeveer 15.00 uur",
+        "’s middags is de ergste regen voorbij en zal het weer droog worden. De temperatuur is fris voor de tijd van",
+        "het jaar, 7 graden."
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

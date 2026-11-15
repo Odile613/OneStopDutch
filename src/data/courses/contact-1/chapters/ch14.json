@@ -1,0 +1,591 @@
+{
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "verhuizen",
+          "english": "to move",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vertrekken",
+          "english": "to leave",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ik heb gekregen (krijgen)",
+          "english": "I have got (to get)",
+          "other": "I have had (to have)",
+          "note": null
+        },
+        {
+          "dutch": "het is verlopen (verlopen)",
+          "english": "it has expired",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "speciale verba",
+      "entries": [
+        {
+          "dutch": "aanvragen (ik vraag … aan)",
+          "english": "to apply for (I apply for)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "doorgeven (ik geef … door)",
+          "english": "to let (somebody) know (I let … know)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uitnodigen (ik nodig … uit)",
+          "english": "to invite (I invite)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de bruiloft (de bruiloften)",
+          "english": "wedding (weddings)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de dood (-)",
+          "english": "death",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de gemeente (de gemeenten/gemeentes)",
+          "english": "municipality (municipalities)",
+          "other": "local authorities",
+          "note": null
+        },
+        {
+          "dutch": "de id-kaart/identiteitskaart (de id-kaarten, de identiteitskaarten)",
+          "english": "ID card, identity card (ID cards, identity cards)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de uitnodiging (de uitnodigingen)",
+          "english": "invitation (invitations)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het document (de documenten)",
+          "english": "document (documents)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het reisdocument (de reisdocumenten)",
+          "english": "travel document (travel documents)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gemeentehuis (de gemeentehuizen)",
+          "english": "town hall (town halls)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het huwelijk (de huwelijken)",
+          "english": "marriage (marriages)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het loket (de loketten)",
+          "english": "counter (counters), window (windows)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het moment (de momenten)",
+          "english": "moment (moments)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het paspoort (de paspoorten)",
+          "english": "passport (passports)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het rijbewijs (de rijbewijzen)",
+          "english": "driving licence (driving licences)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "een feest geven",
+          "english": "to throw a party",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een kind krijgen",
+          "english": "to have a baby",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een uitnodiging sturen of krijgen",
+          "english": "to send or receive an invitation",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "op vakantie gaan",
+          "english": "to go on holiday",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "aardig (aardige)",
+          "english": "nice",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "geldig (geldige)",
+          "english": "valid",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "relevant (relevante)",
+          "english": "relevant",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "binnenkort",
+          "english": "soon",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "omdat",
+          "english": "because",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "terwijl",
+          "english": "while",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vooraf",
+          "english": "in advance",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Leer ook:",
+          "english": "Also learn:",
+          "other": null,
+          "note": "– de preposities (zie p. 144) – the prepositions (see p. 144)"
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 77,
+      "title": null,
+      "lines": [
+        "BM: Baliemedewerker; CS: Computerstem",
+        "Martin: Zo. Even kijken … Waar kan ik een nummertje trekken? Ah, hier!",
+        "CS: Alstublieft, uw nummer. U kunt in de wachtruimte zitten terwijl u op uw beurt wacht.",
+        "Martin: En waar is de wachtruimte dan?",
+        "Maryam: Recht voor je neus!",
+        "Martin: Oh ja.",
+        "Intercom: Nummer 36 is aan de beurt. Nummer 36, balie 5.",
+        "Martin: Ja, dat zijn wij. Kom.",
+        "BM: Goedemiddag, wat kan ik voor u doen?",
+        "Martin: Goedemiddag. Ik kom een nieuw paspoort aanvragen, omdat mijn oude paspoort bijna is",
+        "verlopen.",
+        "BM: Hebt u daarover een brief van ons gekregen?",
+        "Martin: Ja.",
+        "BM: En wat is uw referentienummer?",
+        "Martin: Waar kan ik het referentienummer vinden?",
+        "BM: Dat staat boven aan de brief.",
+        "Martin: O ja, ik zie het. Het nummer is P20180606.",
+        "BM: Hebt u ook uw oude paspoort bij u?",
+        "Martin: Dat heb jij meegenomen, toch, Maryam?",
+        "Maryam: Ja, hier, alstublieft.",
+        "BM: Dank u.",
+        "BM: Het nieuwe paspoort ligt volgende week donderdag 4 november voor u klaar. U kunt het",
+        "ophalen tussen één en kwart voor vijf ’s middags. Let op: we sluiten altijd precies om vijf",
+        "uur. We kunnen u helaas niet meer helpen als u later dan kwart voor vijf komt. Dus kom",
+        "op tijd.",
+        "Martin: Prima, dat zal ik doen.",
+        "BM: En dan tot slot nog de betaling. U moet hier altijd vooraf betalen. Eens kijken … Een",
+        "nieuw paspoort kost vijfenzestig euro en dertig cent.",
+        "Martin: O, eh, ik wil graag pinnen.",
+        "BM: Pinnen? Prima, dat kan."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 78,
+      "title": null,
+      "lines": [
+        "|f| familie, feest, fiets, afspraak, alsjeblieft",
+        "|v| vanavond, vraag, vriend, bijvoorbeeld, activiteit",
+        "|w| waarom, week, wonen, antwoord, trouwen, nieuw",
+        "|b| bakker, boek, gebruik, probleem, hebben, oktober"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 79,
+      "title": null,
+      "lines": [
+        "1. week. week",
+        "2. fel. wel",
+        "3. vind. wind",
+        "4. vaak. vaak",
+        "5. vier. bier",
+        "6. been. been",
+        "7. bak. vak",
+        "8. vis. vis",
+        "9. bang. bang",
+        "10. weer. beer",
+        "11. baard. baard",
+        "12. bord. word"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 76,
+      "title": null,
+      "lines": [
+        "Dialoog 1:",
+        "Marcin: Hé Bart! Hoe gaat het?",
+        "Bart: Niet zo goed. Mijn opa is gisteren overleden.",
+        "Marcin: O, wat erg voor je. Gecondoleerd.",
+        "Bart:  Dank je wel. Het is een moeilijke tijd. Mijn ouders zijn op vakantie; ze kunnen morgen pas",
+        "terugkomen. Dus ik moet nu alles regelen.",
+        "Marcin: Hm, dat is moeilijk, ja. Nou, veel sterkte! En als ik kan helpen, dan zeg je het maar!",
+        "Bart: Ja, bedankt.",
+        "Dialoog 2:",
+        "Vader: Nou, van harte gefeliciteerd, Lucia! Je mag nu echt autorijden!",
+        "Lucia:  Ja, dank je, pap! Ik ben er zo blij mee! Het rijexamen was best moeilijk, maar gelukkig ben",
+        "ik geslaagd.",
+        "Vader: Heb je je rijbewijs al bij de gemeente opgehaald?",
+        "Lucia: Ja, kijk, hier is mijn rijbewijs. Mooi hè?",
+        "Vader: Haha, ja prachtig! Kom, dan mag je meteen een stuk in onze auto rijden.",
+        "Dialoog 3:",
+        "Telefonist: Goedemorgen, gemeente Den Bosch, met Sjaak Witgens spreekt u.",
+        "Dieter: Ja, hallo, goedemorgen, met Dieter Weber.",
+        "Telefonist: Dag meneer Weber. Wat kan ik voor u doen?",
+        "Dieter: Nou, eh, mijn vriendin en ik gaan trouwen.",
+        "Telefonist: Gefeliciteerd!",
+        "Dieter: Dank u.",
+        "Telefonist:  Hebben jullie al een trouwdatum?",
+        "Dieter:  Daar bel ik over. We hebben een paar vragen. Bijvoorbeeld: wat moeten we eerst regelen?",
+        "Moeten we eerst zelf de datum prikken, of moeten we ons huwelijk eerst aan de",
+        "gemeente doorgeven?",
+        "Telefonist:  Eerst moeten jullie een trouwdatum kiezen. Dan moet je het huwelijk bij de gemeente",
+        "melden. Dat kan online, of hier op het gemeentehuis. Op de website van de gemeente",
+        "staat alle informatie, bijvoorbeeld welke documenten je moet meenemen.",
+        "Dieter:  Oké, dank u wel. Dan gaan mijn vriendin en ik nu eerst een datum kiezen voor ons",
+        "trouwfeest.",
+        "Telefonist:  Veel plezier! Oh, en nog één ding: jullie moeten het huwelijk minimaal twee weken voor",
+        "de trouwdatum aan ons doorgeven.",
+        "Dieter. Oké. Goed om te weten! Nogmaals bedankt.",
+        "Telefonist: Graag gedaan, hoor. Fijne dag nog!",
+        "Dieter: Fijne dag!",
+        "Dialoog 4:",
+        "George: Zo, en dat is de laatste doos.",
+        "Mark: Poeh, ja, het verhuizen is eindelijk klaar! En kijk toch eens wat een mooi huis.",
+        "George:  Ja, fantastisch hè. Ik ben ook echt blij met ons nieuwe huis. Zeg, hebben we eigenlijk ons",
+        "adres al veranderd bij de gemeente?",
+        "Mark: Ja, ja, geen zorgen. Dat heb ik vorige week al gedaan.",
+        "George: O, gelukkig maar!",
+        "Mark: Gefeliciteerd schat, met ons nieuwe huis!",
+        "George: Ja!",
+        "Dialoog 5:",
+        "Loes: Zeg Mayte, kun je me even helpen?",
+        "Mayte: Ja, wat is het probleem?",
+        "Loes: Ik wil een afspraak maken op het gemeentehuis, maar ik begrijp die website echt niet!",
+        "Mayte: Eens even kijken… Ah, kijk, je bent nu op de website van de gemeente, toch?",
+        "Loes: Ja…",
+        "Mayte:  Dan klik je op ‘Inwoners’ en dan kijk: hier kun je dingen online regelen. Je klikt nu op",
+        "‘Afspraak maken’ en vervolgens moet je het onderwerp kiezen. Kijk: verhuizen, trouwen,",
+        "geboorte, paspoort aanvragen …",
+        "Loes: Ah oké, bedankt!",
+        "Mayte: Graag gedaan!",
+        "Dialoog 6:",
+        "Telefonist: Goedemiddag, gemeente Emmen.",
+        "Franka: Goedemiddag, met Franka Velt.",
+        "Telefonist: Dag mevrouw Velt. Wat kan ik voor u doen?",
+        "Franka:  Ik, eh, ik bel met een vraag over, ehh. Ik, ehh. Ik bel omdat mijn man en ik willen",
+        "scheiden. We zijn al 12 jaar getrouwd, maar we hebben zoveel problemen in ons huwelijk.",
+        "Dat willen we niet meer, dus we gaan scheiden.",
+        "Telefonist: Oh, wat een moeilijke situatie voor jullie. Wat verdrietig!",
+        "Franka: Ja.",
+        "Telefonist: Bent u al bij een mediator of advocaat geweest?",
+        "Franka: Nee, nog niet. Moet dat?",
+        "Telefonist:  De eerste stap is om naar een mediator of advocaat te gaan. Die stuurt vervolgens alle",
+        "belangrijke documenten over de scheiding naar ons, naar de gemeente Emmen.",
+        "Franka: Oké, bedankt. Dan doen we dat.",
+        "Telefonist: Sterkte ermee.",
+        "Franka: Ja. Dag.",
+        "Telefonisch: Tot ziens.",
+        "Dialoog 7:",
+        "Baliemedewerker: Kan ik u misschien helpen?",
+        "Mario: Ja, ik wil aangifte doen van de geboorte van mijn zoontje.",
+        "Baliemedewerker: Gefeliciteerd meneer! Is alles goed met moeder en kind?",
+        "Mario: Ja, alles gaat prima. Dank u.",
+        "Baliemedewerker: Hoe heet uw zoontje?",
+        "Mario: Marco Rossi.",
+        "Baliemedewerker: En wanneer is hij geboren?",
+        "Mario: Op 2 december.",
+        "Dialoog 8:",
+        "Nina: Hé Edith! Ben je klaar voor je vakantie? Je vertrekt volgende week naar Brazilië, toch?",
+        "Edith: Hé Nina. Ja, dat klopt. Ik heb de hele reis al gepland.",
+        "Nina:  En heb je je nieuwe paspoort ook al? Je hebt toch een paspoort nodig om buiten Europa",
+        "te reizen?",
+        "Edith: Ja, ik kan mijn paspoort morgen ophalen bij de gemeente.",
+        "Nina: O, dat is mooi op tijd! Fijne vakantie alvast!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 77,
+      "title": null,
+      "lines": [
+        "1. Hij is het huis aan het opruimen, terwijl zijn vriendin slaapt.",
+        "2. Jack gaat naar de bioscoop, omdat hij heel erg van films houdt.",
+        "3. We maken nieuwe oefeningen, terwijl de docent ons huiswerk corrigeert.",
+        "4. Je kan een cursus volgen, als je een nieuwe taal wilt leren.",
+        "5. Ik bel de huisarts, omdat ik al een week last van mijn voet heb.",
+        "6. Eva drinkt een kopje koffie, terwijl ze haar e-mail checkt.",
+        "7. Ik ga alleen sporten, als ik zin heb. Anders blijf ik thuis!",
+        "8. Je leert sneller Nederlands, als je veel oefent."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 78,
+      "title": null,
+      "lines": [
+        "1. vers",
+        "2. wil",
+        "3. vier",
+        "4. voor",
+        "5. warm"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 79,
+      "title": null,
+      "lines": [
+        "1. wijn",
+        "2. beet",
+        "3. woord",
+        "4. bal",
+        "5. bed"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 80,
+      "title": null,
+      "lines": [
+        "1. weet",
+        "2. waar",
+        "3. vast",
+        "4. bil",
+        "5. vak",
+        "6. vier",
+        "7. wel",
+        "8. baas",
+        "9. voel",
+        "10. woord",
+        "11. bond",
+        "12. beek"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 81,
+      "title": null,
+      "lines": [
+        "Bericht 1",
+        "U kunt uw nieuwe rijbewijs ophalen vanaf donderdag 14 juni. We zijn open van negen uur ’s ochtends",
+        "tot vijf uur ’s middags. Vergeet niet om uw oude rijbewijs mee te nemen.",
+        "Bericht 2",
+        "U wilt een afspraak maken om een datum voor uw huwelijk te reserveren? Dat kan. Kunt u dinsdag 8",
+        "februari om elf uur? En neemt u uw partner ook mee? Wij bespreken alles het liefst met jullie samen.",
+        "Bericht 3",
+        "Van harte gefeliciteerd met de geboorte van uw dochter! U kunt morgen gewoon binnenlopen tussen",
+        "één en vier uur ’s middags. U moet een geldig identiteitsbewijs meenemen, bijvoorbeeld uw paspoort,",
+        "identiteitskaart of rijbewijs.",
+        "Bericht 4",
+        "Uw nieuwe paspoort ligt volgende week woensdag voor u klaar. U kunt het beste online een afspraak",
+        "maken voor het ophalen van uw paspoort. U kunt dan zelf de tijd kiezen. O ja, neem ook uw oude",
+        "paspoort mee naar de afspraak."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "id": "tb-14-auto-1",
+      "instruction": "Kies het juiste antwoord.",
+      "question": "Oefening bij hoofdstuk 14: Op het gemeentehuis.",
+      "options": [
+        "Juist",
+        "Onjuist"
+      ],
+      "answerIndex": 0,
+      "explanation": ""
+    }
+  ],
+  "workbookExercises": [],
+  "grammar": [
+    {
+      "id": "ch14-levensgebeurtenissen",
+      "title": "Levensgebeurtenissen",
+      "paragraphs": [
+        "substantief",
+        "voorbeeldzin",
+        "infinitief",
+        "perfectum",
+        "De baby is (woensdagochtend) geboren.",
+        "geboren worden geboren zijn",
+        "de geboorte",
+        "Ze zijn (al 30 jaar) getrouwd!",
+        "het huwelijk",
+        "getrouwd zijn",
+        "trouwen",
+        "Mijn opa is (in 2013) overleden.",
+        "overlijden",
+        "het overlijden",
+        "overleden zijn",
+        "Mijn zus is (pas) gescheiden.",
+        "scheiden",
+        "de scheiding",
+        "gescheiden zijn",
+        "Ik ben (naar Groningen) verhuisd.",
+        "verhuizen",
+        "verhuisd zijn",
+        "de verhuizing"
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch14-presens-versus-perfectum",
+      "title": "Presens versus perfectum",
+      "paragraphs": [
+        "perfectum",
+        "infinitief",
+        "presens 1 verbum",
+        "presens 2 verba"
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch14-ik-heb",
+      "title": "Ik heb",
+      "paragraphs": [
+        "- gekregen."
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch14-ik-krijg",
+      "title": "Ik krijg",
+      "paragraphs": [
+        "krijgen",
+        "krijgen."
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch14-ik-ben",
+      "title": "Ik ben",
+      "paragraphs": [
+        "- geweest.",
+        "-zijn."
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch14-ik-ben",
+      "title": "Ik ben",
+      "paragraphs": [
+        "zijn",
+        "getrouwd."
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch14-mijn-zus-gaat",
+      "title": "Mijn zus gaat",
+      "paragraphs": [
+        "-Lrouwenl",
+        "trouwen"
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch14-frequente-combinaties",
+      "title": "Frequente combinaties",
+      "paragraphs": [],
+      "examples": [
+        "een kind krijgen",
+        "de ID-kaart = de identiteitskaart",
+        "een nummertje trekken",
+        "een feest geven",
+        "het paspoort",
+        "een paspoort aanvragen",
+        "iemand voor een feest uitnodigen",
+        "een paspoort vernieuwen",
+        "het rijbewijs",
+        "een verhuizing doorgeven"
+      ]
+    }
+  ],
+  "number": 14,
+  "title": "Op het gemeentehuis"
+}

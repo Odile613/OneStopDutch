@@ -1,0 +1,539 @@
+{
+  "notice": "Audio missing for chapter 7. The source material does not include the chapter 7 recordings, so the transcript is shown on its own.",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "houden van",
+          "english": "to love, to like",
+          "other": null,
+          "note": "Ik hou(d) niet van kaas. I don’t like cheese."
+        },
+        {
+          "dutch": "kennen",
+          "english": "to know",
+          "other": null,
+          "note": "Welk typisch Nederlands eten ken je? Which typical Dutch food do you know?"
+        },
+        {
+          "dutch": "klinken",
+          "english": "to sound",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lusten",
+          "english": "to like",
+          "other": null,
+          "note": "Ik lust geen kaas. I don’t like cheese."
+        },
+        {
+          "dutch": "ontbijten",
+          "english": "to have breakfast",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "smaken",
+          "english": "to taste",
+          "other": null,
+          "note": "Het eten smaakt goed! The food tastes good!"
+        },
+        {
+          "dutch": "veranderen",
+          "english": "to change",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vergelijken (met)",
+          "english": "to compare (to)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verwijderen",
+          "english": "to remove",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de appel (de appels)",
+          "english": "apple (apples)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de honing (-)",
+          "english": "honey",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de jam (-)",
+          "english": "jam",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kaas (– / de kazen)",
+          "english": "cheese (cheeses)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de klank (de klanken)",
+          "english": "sound (sounds)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de koffie (-)",
+          "english": "coffee",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de lunch (de lunches)",
+          "english": "lunch (lunches)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de melk (-)",
+          "english": "milk",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de mening (de meningen)",
+          "english": "opinion (opinions)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de peper (-)",
+          "english": "pepper",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de smaak (de smaken)",
+          "english": "taste (tastes)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de spelling (-)",
+          "english": "spelling",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de suiker (-)",
+          "english": "sugar",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de thee (-)",
+          "english": "tea",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de uitleg (-)",
+          "english": "explanation",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de uitspraak (-)",
+          "english": "pronunciation",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het avondeten (-)",
+          "english": "dinner",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het ei (de eieren)",
+          "english": "egg (eggs)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het einde (de eindes)",
+          "english": "end (ends)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het hotel (de hotels)",
+          "english": "hotel (hotels)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het ontbijt (-)",
+          "english": "breakfast",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het product (de producten)",
+          "english": "product (products)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het zout (-)",
+          "english": "salt",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "een weekendje weg gaan/zijn",
+          "english": "to go / be away for a weekend",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "aan het einde van",
+          "english": "at the end of",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "bitter (bittere)",
+          "english": "bitter",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "fantastisch (fantastische)",
+          "english": "fantastic",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "geweldig (geweldige)",
+          "english": "great",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "koud (koude)",
+          "english": "cold",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "moeilijk (moeilijke)",
+          "english": "difficult",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "mooi (mooie)",
+          "english": "lovely",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "typisch (typische)",
+          "english": "typical",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vers (verse)",
+          "english": "fresh",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vies (vieze)",
+          "english": "nasty",
+          "other": "dirty",
+          "note": null
+        },
+        {
+          "dutch": "warm (warme)",
+          "english": "warm",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zacht (zachte)",
+          "english": "soft",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zoet (zoete)",
+          "english": "sweet",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zout (zoute)",
+          "english": "salty",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zuur (zure)",
+          "english": "sour",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "dan",
+          "english": "than",
+          "other": null,
+          "note": "Het boek is mooier dan de film. The book is nicer than the film."
+        },
+        {
+          "dutch": "deze",
+          "english": "this",
+          "other": "these",
+          "note": null
+        },
+        {
+          "dutch": "dezelfde",
+          "english": "the same",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "die",
+          "english": "that",
+          "other": "those",
+          "note": null
+        },
+        {
+          "dutch": "even … als",
+          "english": "as … as",
+          "other": null,
+          "note": "Mijn vriend is even groot als ik. My friend is as tall as I am."
+        },
+        {
+          "dutch": "eventueel",
+          "english": "possibly",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "liever",
+          "english": "rather",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "meer",
+          "english": "more",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "(het) meest",
+          "english": "(the) most",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "minder",
+          "english": "less",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "(het) minst",
+          "english": "(the) least",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "veel",
+          "english": "a lot",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "waarom?",
+          "english": "why?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "weinig",
+          "english": "little",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Dat is prima.",
+          "english": "That is fine.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Hè bah, dat is vies.",
+          "english": "Yuck, that’s nasty.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Hè, jammer.",
+          "english": "What a pity.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Wat lekker!",
+          "english": "That’s so good!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Leer ook:",
+          "english": "Also learn:",
+          "other": null,
+          "note": "– de preposities (zie p. 64) – the prepositions (see p. 64)"
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 42,
+      "title": null,
+      "lines": [
+        "Nico: Even kijken … Wat voor soort ontbijt hebben ze hier? Oh, het is een groot buffet.",
+        "Aida: Hè, jammer.",
+        "Nico: Waarom? Houd je niet van buffetten?",
+        "Aida: Nee.",
+        "Nico: Waarom niet?",
+        "Aida: Ik heb geen zin om te kiezen. Ik wil liever gewoon een broodje met kaas en een kopje",
+        "koffie.",
+        "Nico: Oh, ik vind een buffet fantastisch! Ik neem het liefst van alles een beetje.",
+        "Kijk, ze hebben vers fruit, brood, eitjes, vleeswaren, jam en kaas … . Wat lekker!",
+        "En ook nog croissantjes, Heerlijk!",
+        "Aida: Croissantjes? Waar?",
+        "Nico: Daar, naast die andere broodjes.",
+        "Aida: Oh, ja. Die vind ik ook lekker. Met veel boter …",
+        "Nico: Ja, of met jam of honing, dat is een beetje zoeter.",
+        "Aida: O nee, voor mij geen jam en honing. Ik houd niet van zoet. Ik heb liever hartig eten.",
+        "En ik heb nu zin in een zacht eitje met zout. En een broodje kaas. Wat neem jij?",
+        "Nico: Ik neem een warm croissantje met boter, een eitje … Oh, en ook cornflakes.",
+        "En ook nog een broodje hagelslag.",
+        "Aida: Haha, wauw, jij hebt honger, of niet?",
+        "Nico: Ja, het is ook al elf uur.",
+        "Aida: Dat is waar. En heb je ook dorst?",
+        "Nico: Ja.",
+        "Aida: Wat wil je drinken? Koffie? Thee? Of wil je een glas verse jus?",
+        "Nico: Hè bah, nee, geen jus d’orange. Dat vind ik te zuur. Dat is vies. Ik vind een glas koude",
+        "melk lekkerder.",
+        "En ik wil ook graag een kopje koffie.",
+        "Aida: Oh ja, goed idee. Ik neem ook een kopje koffie.",
+        "Nico: Wil je ook een glas melk?",
+        "Aida: Nee, ik lust geen melk. Ik vind melk vies.",
+        "Nico: Oh, oké.",
+        "Nico: Nou, eet smakelijk, hè.",
+        "Aida: Ja, eet smakelijk!",
+        "[…]",
+        "Aida: Dit eitje is heerlijk!",
+        "Nico: Mooi! En deze croissantjes zijn ook lekker. En hoe vind je de koffie?",
+        "Aida: De koffie is bitter. Vind je niet? Kun je me de melk en suiker even geven?",
+        "Nico: Ha ha, jij houdt toch niet van melk en zoet?",
+        "Aida: Nee, normaal niet, maar nu wel!",
+        "Nico: Hier, alsjeblieft.",
+        "Aida: Dank je wel. Kun je me ook dat lepeltje geven?",
+        "Nico: Natuurlijk! Alsjeblieft.",
+        "Aida: Dank je."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 38,
+      "title": null,
+      "lines": [
+        "Dialoog 1:",
+        "Job: Renée?",
+        "Renée: Ja, Job, wat is er?",
+        "Job: Ik wil vandaag niet naar de cursus. Het is zo koud buiten…",
+        "Renée: Je kunt beter wel naar de cursus gaan, want je wilt geen dingen missen!",
+        "Job: Maar ik heb echt geen zin om te fietsen! Hier binnen is het zo lekker warm. Ik heb zin om",
+        "te lezen in mijn nieuwe boek.",
+        "Renée: Ga nou maar gewoon naar de cursus. Dan gaan we daarna eten in je favoriete restaurant.",
+        "Job: Oké, dat doen we!",
+        "Dialoog 2:",
+        "Renée: Ha Job! Hoe was de cursus?",
+        "Job: Wel oké. Zullen we direct naar restaurant Het Seizoen gaan? Ik heb honger!",
+        "Renée:  Ja goed idee. Ik heb ook honger. Ik heb nu al zin in een groot bord pasta met tomaten-",
+        "saus!",
+        "Job: O nee, ik heb echt geen zin in pasta. Ik heb zin in die lekkere vis uit de oven.",
+        "Renée: O ja, dat is ook lekker. En als toetje een stuk appeltaart!",
+        "Job: Ja, lekker!"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "id": "tb-07-auto-1",
+      "instruction": "Kies het juiste antwoord.",
+      "question": "Oefening bij hoofdstuk 7: Aan de ontbijttafel.",
+      "options": [
+        "Juist",
+        "Onjuist"
+      ],
+      "answerIndex": 0,
+      "explanation": ""
+    }
+  ],
+  "workbookExercises": [],
+  "grammar": [
+    {
+      "id": "ch07-overzicht",
+      "title": "Overzicht hoofdstuk 7",
+      "paragraphs": [
+        "Hoofdstuk 7: Aan de ontbijttafel. Dit overzicht bevat de belangrijkste grammaticale punten en woordenschat van dit hoofdstuk."
+      ],
+      "examples": []
+    }
+  ],
+  "number": 7,
+  "title": "Aan de ontbijttafel"
+}

@@ -1,0 +1,490 @@
+{
+  "number": 12,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "aanleggen (ik leg … aan)",
+          "english": "to install",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "informeren bij",
+          "english": "to ask",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "inspreken (ik spreek … in)",
+          "english": "here: to leave",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "kiezen",
+          "english": "to press",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "oplossen (ik los … op)",
+          "english": "to solve",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "toetsen",
+          "english": "to press",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verbinden met",
+          "english": "to put through to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verbreken",
+          "english": "to disconnect",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich opgeven voor (ik geef me … op voor)",
+          "english": "to sign up for",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich voorstellen (ik stel me … voor)",
+          "english": "to imagine",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de aansluiting (de aansluitingen)",
+          "english": "connection",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kabel (de kabels)",
+          "english": "cable",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de lijn (de lijnen)",
+          "english": "line, phone",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de persoon (de personen)",
+          "english": "person",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de contactpersoon",
+          "english": "contact person",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verbinding (de verbindingen )",
+          "english": "connection",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het klantnummer (de klantnummers)",
+          "english": "customer number",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het maximum (de maxima)",
+          "english": "maximum",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het menu (de menu’s)",
+          "english": "call menu",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het keuzemenu",
+          "english": "call menu options",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "maximaal (maximale)",
+          "english": "maximum",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "overig (overige)",
+          "english": "other",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "supersnel (supersnelle)",
+          "english": "superfast",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "hoelang",
+          "english": "how long",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "rechtstreeks",
+          "english": "directly",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "terug",
+          "english": "ago",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een paar maanden terug",
+          "english": "a few months ago",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "bij de hand houden",
+          "english": "to have handy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kubieke meter (m³)",
+          "english": "cubic metre",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "iemand aan de lijn hebben/krijgen",
+          "english": "to get/have somebody on the phone",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "iemand verder helpen",
+          "english": "to help somebody",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ingeschreven staan bij",
+          "english": "to be registered with",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "in gesprek zijn",
+          "english": "here: to be on the phone",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "in verband met",
+          "english": "regarding, concerning",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "mobiele telefonie",
+          "english": "mobile telephony",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "te maken hebben met",
+          "english": "to deal with",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "van dienst zijn",
+          "english": "to help",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verbonden zijn met",
+          "english": "to be connected to",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Daar gaat het (me) niet om.",
+          "english": "That’s (not) the point.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dat is pech hebben.",
+          "english": "That’s a shame.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dat spreekt vanzelf.",
+          "english": "That goes without saying.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Een ogenblik geduld alstublieft.",
+          "english": "One moment, please.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Hebt u een momentje?",
+          "english": "Do you have a moment?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Hoe staat het ermee?",
+          "english": "What is the status?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ik ben zo benieuwd!",
+          "english": "I’m so curious!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ik heb … laten weten.",
+          "english": "I let (you) know",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Laten we het hopen.",
+          "english": "Let’s hope so.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "U krijgt nu eerst een keuzemenu te",
+          "english": "You will now hear the following menu",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "horen.",
+          "english": "options.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "U wordt zo spoedig mogelijk geholpen.",
+          "english": "We will be with you as soon as possible.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Voor alle overige zaken, blijft u aan de lijn.",
+          "english": "For all other questions, please hold.",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 29,
+      "title": null,
+      "lines": [
+        "A - Keuzemenu",
+        "Stem keuzemenu 1: \u0007Goedendag, u bent verbonden met huisartsenpraktijk ‘De Waard’. Voor een spoed-",
+        "geval: toets 1. Voor een herhaalrecept: toets 2. Wilt u een van de assistenten spreken:",
+        "toets 3.",
+        "Stem keuzemenu 1: \u0007Spreek voor een herhaalrecept duidelijk uw naam, uw geboortedatum, het genees-",
+        "middel en de naam van de apotheek in waar u staat ingeschreven. Het geneesmid-",
+        "del ligt daar binnen één werkdag voor u klaar.",
+        "B - Keuzemenu",
+        "Stem keuzemenu 2: \u0007Welkom bij uw gemeente. U krijgt nu eerst een keuzemenu te horen. Als u geen",
+        "keuze maakt, wordt de verbinding automatisch verbroken.",
+        "Voor het aanvragen of verlengen van een paspoort, identiteitskaart of rijbewijs: kies 1.",
+        "Voor vragen over of het aanvragen van vergunningen: kies 2.",
+        "Voor vragen over gft-, plastic-, restafval en overig afval kunt u rechtstreeks bellen",
+        "met het afvalbedrijf: 026 319 64 68.",
+        "Voor alle overige vragen: kies 3.",
+        "C - Keuzemenu",
+        "Stem keuzemenu 3: \u0007Goedendag, u bent verbonden met de servicedesk van Telplus. Om u sneller van",
+        "dienst te zijn laten we u nu eerst een keuzemenu horen. Voor het melden van een",
+        "storing: toets 1.",
+        "\u0007Voor een vraag over uw rekening: toets 2. Voor een vraag over mobiele telefonie:",
+        "toets 3.",
+        "Voor alle overige zaken: blijft u aan de lijn. U wordt zo spoedig mogelijk geholpen.",
+        "Stem keuzemenu 3: \u0007Al onze medewerkers zijn momenteel in gesprek. Een ogenblik geduld alstublieft.",
+        "U wordt zo spoedig mogelijk geholpen. Houd uw klantnummer bij de hand. U vindt",
+        "uw klantnummer op uw rekening of bij mijntelplus op onze website: telplus.com.",
+        "Stem keuzemenu 3: \u0007Wist u dat u het antwoord op veel van uw vragen ook op onze website kunt vinden?",
+        "Kijk op telplus.com."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 30,
+      "title": null,
+      "lines": [
+        "C – Gesprek met medewerker",
+        "Robert: Goedemorgen, servicedesk Telplus, met Robert Trip. Waarmee kan ik u helpen?",
+        "Lydia: Goedemorgen, met Lydia Bannink. Mag ik Pieter van Dalen spreken? Ik heb hem als",
+        "contactpersoon gekregen in verband met de aanleg van glasvezel in onze wijk. Hij zei dat",
+        "ik het beste naar hem kon vragen.",
+        "Robert: Die is er vandaag niet. Hij is er morgen wel. Kan ik hem een boodschap doorgeven?",
+        "Lydia: Nee, daar gaat het me niet om. Maar misschien kunt u me ook helpen? Ik heb jullie een",
+        "paar maanden terug laten weten dat ik graag glasvezel wil. Ik vind het heel fijn dat het",
+        "aangelegd wordt, maar ik heb al een hele tijd niets meer van jullie gehoord en ik wil graag",
+        "weten hoe het ermee staat. Weet u of de aansluiting van de kabel al gepland is? En weet",
+        "u misschien hoelang het nog gaat duren voordat ik mijn supersnelle internet kan gaan",
+        "gebruiken? Ik ben zo benieuwd!",
+        "Robert: Dat kan ik me voorstellen, mevrouw. Wat is uw postcode?",
+        "Lydia: 7411 ZN.",
+        "Robert: En uw klantnummer?",
+        "Lydia: 64372.",
+        "Robert: Ik zie hier dat u zich inderdaad hebt opgegeven voor het glasvezel- netwerk. Wat vreemd.",
+        "Dat is toch al wel een paar maanden geleden. Ik ga even informeren bij een collega hoe",
+        "het ermee staat. Hebt u een momentje?",
+        "Lydia: Jazeker.",
+        "Robert: Hallo mevrouw, bedankt voor het wachten. Tja. Dat is pech hebben. Ik ben bang dat het",
+        "nog even gaat duren. Ik hoor van mijn collega dat er een probleem in de centrale in uw",
+        "stad is. Het aansluiten van uw glasvezelkabel is uitgesteld, want het is nog niet bekend",
+        "wanneer het probleem in de centrale opgelost is.",
+        "Lydia: O, wat vervelend. Dus u kunt niet zeggen hoelang dit nog gaat duren? Robert: Nee",
+        "mevrouw, het spijt me.",
+        "Lydia: Dus ik krijg nog steeds geen supersnel internet en dat kan nog wel maanden duren?",
+        "Robert: We weten het niet mevrouw, het spijt me. Maar één ding is zeker. We gaan het oplossen,",
+        "mevrouw! Want dat doen we altijd.",
+        "Lydia: Nou, ik vraag me af of het wel gaat lukken. Maar ja, laten we het hopen…",
+        "Robert: We doen ons best, mevrouw. Hebt u nog andere vragen?",
+        "Lydia: Nee, dank u wel voor de informatie. Ik zou het fijn vinden als jullie me even laten weten",
+        "wanneer het probleem is opgelost.",
+        "Robert: Dat spreekt vanzelf, mevrouw. Maar als ik u was, zou ik ook af en toe zelf met ons bellen.",
+        "Dan weet u altijd hoever we met het oplossen van het probleem zijn.",
+        "Lydia: Fijn, dat doe ik. O ja, nog even dit. Met wie heb ik nu gesproken?",
+        "Robert: Met Robert Trip.",
+        "Lydia: Goed, dat noteer ik nog even. Het is fijn om te weten met wie je te maken hebt als klant.",
+        "En het is ook handig voor een volgende keer als ik met u wil bellen. Dank u wel voor uw",
+        "moeite.",
+        "Robert: Graag gedaan, mevrouw en nog een fijne dag verder.",
+        "Lydia: Dank u wel, u ook."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 35,
+      "title": null,
+      "lines": [
+        "1. Een ogenblik geduld alstublieft.",
+        "2. Een momentje graag.",
+        "3. Bedankt voor het wachten.",
+        "4. Waarmee kan ik u van dienst zijn?",
+        "5. Waarmee kan ik u helpen?",
+        "6. Die is er vandaag niet.",
+        "7. Zij is morgen weer aanwezig.",
+        "8. Kan ik een boodschap doorgeven?",
+        "9. De verbinding wordt automatisch verbroken.",
+        "10. Kijk op onze website voor meer informatie.",
+        "11. Een prettige dag nog.",
+        "12. Dank u wel en tot ziens."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 36,
+      "title": null,
+      "lines": [
+        "1. de verbinding",
+        "2. de centrale",
+        "3. de kabel",
+        "4. het netwerk",
+        "5. het abonnement",
+        "6. de datum",
+        "7. het bedrijf",
+        "8. de instelling",
+        "9. het probleem",
+        "10. de oplossing",
+        "11. de instantie",
+        "12. het programma",
+        "13. de telefonist",
+        "14. het keuzemenu",
+        "15. de keuze",
+        "16. het nummer"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 37,
+      "title": null,
+      "lines": [
+        "1. Ik zoek iemand die mij kan helpen bij mijn probleem.",
+        "2. Ik zoek iemand die bekend is met mijn situatie.",
+        "3. Ik heb u een paar weken geleden gemaild, maar ik heb nog geen antwoord van u",
+        "gekregen.",
+        "4. Ik heb mijn aanvraag twee maanden geleden gedaan, maar ik heb nog niets van u",
+        "gehoord.",
+        "5. Ik ben benieuwd hoe het ermee staat.",
+        "6. Ik wil graag weten wat de planning is.",
+        "7. Ik wil u vragen welke actie u gaat ondernemen.",
+        "8. Ik wil graag weten of u mijn aanvraag in behandeling neemt.",
+        "9. Kunt u mij vertellen wanneer u actie onderneemt?"
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

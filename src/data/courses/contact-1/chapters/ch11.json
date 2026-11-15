@@ -1,0 +1,830 @@
+{
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "ontmoeten",
+          "english": "to meet",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "organiseren",
+          "english": "to organize",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "hij is gescheiden (scheiden)",
+          "english": "he is divorced",
+          "other": "(to get a divorce)",
+          "note": null
+        },
+        {
+          "dutch": "hij is getrouwd (trouwen)",
+          "english": "he is married",
+          "other": "(to get married)",
+          "note": null
+        },
+        {
+          "dutch": "hij is overleden (overlijden)",
+          "english": "he passed away / died",
+          "other": "(to pass away / to die)",
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "speciale verba",
+      "entries": [
+        {
+          "dutch": "eruitzien (ik zie er … uit)",
+          "english": "to look (I look)",
+          "other": null,
+          "note": "Mijn opa ziet er jong uit. My grandfather looks young."
+        },
+        {
+          "dutch": "samenwonen (ik woon … samen)",
+          "english": "to live together (I live together)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verdergaan (ik ga … verder)",
+          "english": "to continue (I continue)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de baard (de baarden)",
+          "english": "beard (beards)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bril (de brillen)",
+          "english": "glasses (pairs of glasses)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de gast (de gasten)",
+          "english": "guest (guests)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de krul (de krullen)",
+          "english": "curl (curls)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de mens (de mensen)",
+          "english": "human being (people)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de neef",
+          "english": "cousin (m)",
+          "other": "nephew",
+          "note": null
+        },
+        {
+          "dutch": "het neefje",
+          "english": "cousin (m, young)",
+          "other": "nephew (young)",
+          "note": null
+        },
+        {
+          "dutch": "de nicht",
+          "english": "cousin (f)",
+          "other": "niece",
+          "note": null
+        },
+        {
+          "dutch": "het nichtje",
+          "english": "cousin (f, young)",
+          "other": "niece (young)",
+          "note": null
+        },
+        {
+          "dutch": "de oma (de oma’s)",
+          "english": "grandmother (grandmothers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de oom (de ooms)",
+          "english": "uncle (uncles)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de opa (de opa’s)",
+          "english": "grandfather (grandfathers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de relatie (de relaties)",
+          "english": "relation (relations)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de snor (de snorren)",
+          "english": "moustache (moustaches)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de taart (de taarten)",
+          "english": "cake (cakes)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de tante (de tantes)",
+          "english": "aunt (aunts)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verrassing (de verrassingen)",
+          "english": "surprise (surprises)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het haar (de haren)",
+          "english": "hair (hairs)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het kleinkind (de kleinkinderen)",
+          "english": "grandchild (grandchildren)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het oog (de ogen)",
+          "english": "eye (eyes)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "huiswerk maken",
+          "english": "to do homework",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "televisie kijken",
+          "english": "to watch TV",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "blauw (blauwe)",
+          "english": "blue",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "blond (blonde)",
+          "english": "blond, blonde",
+          "other": null,
+          "note": "Ze heeft blond haar. Ze is blond. She has blonde hair. She is blonde."
+        },
+        {
+          "dutch": "donker (donkere)",
+          "english": "dark",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "dun (dunne)",
+          "english": "thin",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "groen (groene)",
+          "english": "green",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "kaal (kale)",
+          "english": "bald",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lief (lieve)",
+          "english": "sweet, good",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "slank (slanke)",
+          "english": "slim",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "spannend (spannende)",
+          "english": "exciting, scary, suspenseful",
+          "other": null,
+          "note": "Ze vindt het spannend. She’s a little nervous."
+        },
+        {
+          "dutch": "steil (steile)",
+          "english": "straight",
+          "other": null,
+          "note": "Ze heeft steil haar. She has straight hair."
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "allerlei",
+          "english": "all kinds of",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "gelukkig",
+          "english": "fortunately",
+          "other": null,
+          "note": "Ze kent ons gelukkig al. Fortunately, she already knows us."
+        },
+        {
+          "dutch": "natuurlijk",
+          "english": "of course",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nog niet zo lang",
+          "english": "not that long",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "single (Eng.)",
+          "english": "single",
+          "other": null,
+          "note": "Hij is single. He is single."
+        },
+        {
+          "dutch": "straks",
+          "english": "later",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zo",
+          "english": "that",
+          "other": "so",
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Dat komt wel goed.",
+          "english": "It’ll turn out all right.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dat is waar.",
+          "english": "That’s true.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ik ben benieuwd.",
+          "english": "I am curious.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Succes met …!",
+          "english": "Good luck with …!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Leer ook:",
+          "english": "Also learn:",
+          "other": null,
+          "note": "– de preposities (zie p. 114) – the prepositions (see p. 114)"
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 61,
+      "title": null,
+      "lines": [
+        "Fabian: Hoi mam, met mij. Hoe gaat het?",
+        "Ina: Hé, Fabian. Ja, prima. Met jou ook?",
+        "Fabian: Zeker. Wat ben je aan het doen?",
+        "Ina: Ik heb het een beetje druk vandaag. Ik ben nu aan het schoonmaken en ik ben ook aan",
+        "het koken. Ik heb niet zo veel tijd, want  ik ga straks ook een kopje koffie drinken bij tante",
+        "Marga. En jij, wat ben jij nu aan het doen?",
+        "Fabian: O, niet veel. Ik ben een beetje aan het studeren en ik ben televisie aan het kijken. Ik ga",
+        "straks ook koken. Carlijn en ik gaan vanavond samen eten.",
+        "Ina: O, gezellig! Hoe is het met Carlijn?",
+        "Fabian: Met haar gaat het ook goed. Maar waarom ik bel… Carlijn wil volgende week ook graag",
+        "op je verjaardagsfeest komen. Vind je dat goed? We kennen elkaar nog niet zo lang maar",
+        "zo kan ze de rest van de familie ontmoeten.",
+        "Ina: Ja, natuurlijk is ze welkom. Leuk! Dan kun je haar inderdaad aan de familie voorstellen.",
+        "Iedereen wil graag je nieuwe vriendin ontmoeten!",
+        "Fabian: Mooi. Ze vindt het wel een beetje spannend, hoor.",
+        "Ina: O, waarom vindt ze het spannend?",
+        "Fabian: Ze kent nog niet veel mensen. Ze kent alleen jou, pap en Tom. Ze gaat dus veel nieuwe",
+        "mensen ontmoeten!",
+        "Ina: Ja, dat begrijp ik. Maar dat komt wel goed. Ze kent óns gelukkig al!",
+        "Fabian: Ja, dat is waar. Heb je al zin in je verjaardag?",
+        "Ina: Zeker. Wel een raar idee, hoor. 50 alweer.",
+        "Fabian: Een mooie leeftijd!",
+        "Ina: Ja, maar ik vind het wel oud.",
+        "Fabian: Ach ja. Wat gaan we eigenlijk op het feest doen?",
+        "Ina: We gaan heel veel doen! We hebben allerlei plannen! Eerst gaan we natuurlijk gezellig",
+        "samen eten. Daarna hebben we een verrassing voor jullie. Je ziet het volgende week wel!",
+        "Fabian: Ik ben benieuwd!",
+        "Ina: Fabian, ik ga weer verder, want ik heb echt weinig tijd. Ik spreek je morgen nog, oké?",
+        "Fabian: Prima.",
+        "Ina: Succes met studeren!",
+        "Fabian: Dank je. Jij succes met het organiseren van het feest!",
+        "Ina: Dank je. Doeg.",
+        "Fabian: Dag, mam."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 62,
+      "title": null,
+      "lines": [
+        "Wat ben je aan het doen? Ik ben aan het lezen.",
+        "Wat ben je aan het doen? Ik ben een boek aan het lezen.",
+        "Wat is hij aan het doen? Hij is aan het lopen.",
+        "Wat is hij aan het doen? Hij is de marathon aan het lopen.",
+        "Wat is ze aan het doen? Ze is aan het spelen.",
+        "Wat is ze aan het doen? Ze is een computerspel aan het spelen.",
+        "Wat zijn jullie aan het doen? We zijn aan het bellen.",
+        "Wat zijn jullie aan het doen? We zijn al uren aan het bellen.",
+        "Wat ga je doen? Ik ga straks koken.",
+        "Wat ga je doen? Ik ga straks sporten.",
+        "Wat gaat hij doen? Hij gaat viool spelen.",
+        "Wat gaat zij doen? Ze gaat een film kijken.",
+        "Wat gaan jullie doen? We gaan ons huiswerk maken.",
+        "Wát gaan jullie doen? We gaan ons huiswerk maken!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 63,
+      "title": null,
+      "lines": [
+        "Wat ben je aan het doen? Ik ben aan het lezen.",
+        "Wat ben je aan het doen? Ik ben een boek aan het lezen.",
+        "Wat is hij aan het doen? Hij is aan het lopen.",
+        "Wat is hij aan het doen? Hij is de marathon aan het lopen.",
+        "Wat is ze aan het doen? Ze is aan het spelen.",
+        "Wat is ze aan het doen? Ze is een computerspel aan het spelen.",
+        "Wat zijn jullie aan het doen? We zijn aan het bellen.",
+        "Wat zijn jullie aan het doen? We zijn al uren aan het bellen.",
+        "Wat ga je doen? Ik ga straks koken.",
+        "Wat ga je doen? Ik ga straks sporten.",
+        "Wat gaat hij doen? Hij gaat viool spelen.",
+        "Wat gaat zij doen? Ze gaat een film kijken.",
+        "Wat gaan jullie doen? We gaan ons huiswerk maken.",
+        "Wát gaan jullie doen? We gaan ons huiswerk maken!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 64,
+      "title": null,
+      "lines": [
+        "Carlijn: Tjonge jonge, wat veel mensen, zeg! Je laat me toch niet alleen, hè? Ik ken nog niemand!",
+        "Fabian: Nee, natuurlijk laat ik je niet alleen. Niet zo verlegen zijn.",
+        "Carlijn: Haha, ik ben niet verlegen, hoor! Het zijn gewoon veel nieuwe mensen.",
+        "Fabian: Ja, onze familie is best groot. Eens even kijken. Hm, Zie je hem daar? Die man met die snor",
+        "en baard? Dat is mijn vader Johan. En die vrouw met rood steil haar is mijn moeder Ina!",
+        "Carlijn: Ja, die ken ik al, grapjas! Haha. Wie is die man naast je vader?",
+        "Fabian: Die man met een bril en een zwart jasje? Dat is mijn opa Arend. Hij is alleen, want mijn",
+        "oma Marie is helaas overleden.",
+        "Carlijn: Oh, wat verdrietig. En hoe oud is je opa?",
+        "Fabian: Hij is al 88, maar hij ziet er nog jong uit, hè? Hij is nog heel actief en doet veel leuke",
+        "dingen met zijn kleinkinderen.",
+        "Carlijn: Ja, hij ziet er nog goed uit voor zijn leeftijd. En wie zijn die mensen daar bij de bar?",
+        "Fabian: Dat zijn mijn oom en tante. Die slanke vrouw met dat blauwe jasje is tante Marga en die",
+        "lange, kale man is haar man. Dat is oom Henk. En ze zijn echt heel leuk.",
+        "Carlijn: Ja, ze vinden het erg gezellig zo te zien, haha!",
+        "Fabian: Ze geven volgende maand een feest. Dan zijn ze 25 jaar getrouwd.",
+        "Carlijn: Wauw!",
+        "Fabian: En wie zien we nog meer? Hm. O, dat zijn hun kinderen. Die dunne jongen met blond haar",
+        "is mijn neef David en dat meisje met donker haar is mijn nicht Fleur.",
+        "Carlijn: En wie is dat?",
+        "Fabian: Die kleine man daar? Die een beetje dik is? Dat is mijn andere oom, Theo.",
+        "Carlijn: O, oké. Is hij hier alleen?",
+        "Fabian: Ja, hij is gescheiden. Hij is nu single. Hij heeft geen partner.",
+        "Carlijn: En die twee jonge vrouwen daar? Wie zijn dat?",
+        "Fabian: Dat is mijn andere nichtje, Stefanie, met haar vriendin Ilonka.",
+        "Carlijn: Zijn ze getrouwd?",
+        "Fabian: Volgens mij niet. Ze wonen wel samen, maar ze zijn niet getrouwd, geloof ik.",
+        "Carlijn: En wie is dat kleine kindje met die mooie krullen?",
+        "Fabian: Dat is Max, het zoontje van mijn broer Tom. Hij is mijn lieve, kleine neefje. Hij is pas drie.",
+        "Carlijn: Wat een leuk kindje! Hij heeft echt mooie groene ogen. Hij ziet er lief uit!",
+        "Fabian: Nou, hij is niet altijd zo lief, hoor. Haha.",
+        "Carlijn: En wie is dan…"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 65,
+      "title": null,
+      "lines": [
+        "boeken",
+        "Nederland",
+        "docent",
+        "vergadering",
+        "chocola",
+        "instituut",
+        "zaterdagochtend",
+        "introduceren"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 66,
+      "title": null,
+      "lines": [
+        "1. helaas",
+        "2. ontbijt",
+        "3. tante",
+        "4. vrienden",
+        "5. vriendin",
+        "6. boodschappen",
+        "7. familie",
+        "8. gezellig",
+        "9. huishouden",
+        "10. lettergreep",
+        "11. activiteit",
+        "12. biologie",
+        "13. psychologie",
+        "14. televisie",
+        "15. vanavond",
+        "16. familieleden",
+        "17. kleinkinderen",
+        "18. secretaresse",
+        "19. telefoongesprek",
+        "20. verjaardagsfeest"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 58,
+      "title": null,
+      "lines": [
+        "Ik heb een boek. Het is mijn boek.",
+        "Jij hebt een boek. Het is jouw boek.",
+        "U hebt een boek. Het is uw boek.",
+        "Hij heeft een boek. Het is zijn boek.",
+        "Zij heeft een boek. Het is haar boek.",
+        "Wij hebben een boek. Het is ons boek.",
+        "Wij hebben twéé boeken. Het zijn onze boeken.",
+        "Jullie hebben een boek. Het is jullie boek.",
+        "Zij hebben een boek. Het is hun boek."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 59,
+      "title": null,
+      "lines": [
+        "Dialoog 1:",
+        "Moeder: Michel! Je moet naar school. Kom je?",
+        "Michel: Hè mam, moet ik echt naar school?",
+        "Moeder: Ja jongen, het kan niet anders. Je hebt les.",
+        "Michel: Maar ik wil even televisiekijken.",
+        "Moeder: Dat is dan jammer. Televisiekijken kan straks ook nog.",
+        "Dialoog 2:",
+        "Sonja: Joost, ik ga nú koken!",
+        "Joost: Lekker!",
+        "Sonja: … ehh, schat?",
+        "Joost: Ja?",
+        "Sonja:  Waar zijn de boodschappen? Jij was toch Chef Boodschappen vandaag, en ik Chef",
+        "Keuken? Ik zie de tomaten nergens. En het vlees ook niet.",
+        "Joost:  Eh … Sorry schat, vergeten. Weet je wat, ik ga nú boodschappen doen en daarna zal ik",
+        "wel koken, oké?",
+        "Sonja: Oké.",
+        "Dialoog 3:",
+        "Maria: Pap, ik ga een ijsje kopen, want het is lekker weer.",
+        "Vader: Heb je daar geld voor dan?",
+        "Maria: Eh nee, maar jij geeft me dat toch wel, pap?",
+        "Vader:  Geven? Nee hoor. Ik heb een beter idee. Je kunt nu eerst mijn auto wassen en daarna mag",
+        "je van mij een ijsje kopen."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 60,
+      "title": null,
+      "lines": [
+        "maandag",
+        "juni",
+        "dinsdag",
+        "juli",
+        "woensdag",
+        "donderdag",
+        "vrijdag",
+        "zaterdag",
+        "zondag",
+        "april",
+        "augustus",
+        "september",
+        "oktober",
+        "november",
+        "december",
+        "januari",
+        "februari"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 61,
+      "title": null,
+      "lines": [
+        "avond",
+        "dochter",
+        "jarig",
+        "kleinkind",
+        "middag",
+        "morgen",
+        "niemand",
+        "ochtend",
+        "samen",
+        "spannend",
+        "vrienden",
+        "gesprek",
+        "getrouwd",
+        "meneer",
+        "mevrouw",
+        "misschien",
+        "ontbijt",
+        "student",
+        "vandaag",
+        "vriendin"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 62,
+      "title": null,
+      "lines": [
+        "kinderen",
+        "luisteren",
+        "opleiding",
+        "rekening",
+        "supermarkt",
+        "volgende",
+        "bijvoorbeeld",
+        "collega",
+        "Europa",
+        "familie",
+        "gezellig",
+        "relatie",
+        "vanavond",
+        "vanmiddag",
+        "vanochtend",
+        "allebei",
+        "verlegen",
+        "overleden",
+        "overleg",
+        "restaurant",
+        "telefoon"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 63,
+      "title": null,
+      "lines": [
+        "Interviewer:  Dag mevrouw Hendriks. Fijn dat u hier bent in ons programma. Vandaag praten we over",
+        "verschillende culturen in één gezin. En daarom bent u hier. Want u en uw man komen uit",
+        "verschillende culturen, toch?",
+        "Sarina  Dat klopt. Maar eh, zeg maar Sarina, hoor. Mevrouw vind ik zo formeel.",
+        "Interviewer:  Prima. Sarina, jij bent getrouwd met een Nederlander, hè, maar je bent zelf niet in",
+        "Nederland geboren. Dat klopt toch, hè?",
+        "Sarina:  Ja, dat klopt. Paul, mijn man, komt uit Nederland en ikzelf kom uit Indonesië.",
+        "Interviewer: En hoe kennen jullie elkaar?",
+        "Sarina:  Paul was op vakantie in mijn land en ja, …… hij was lang en heel knap. Ik was direct heel",
+        "verliefd.",
+        "Interviewer: Ik begrijp het al. En woon je al lang hier?",
+        "Sarina:  Vanaf 2008. In het begin was het moeilijk, maar gelukkig wonen mijn oom en tante met",
+        "mijn nichtje ook in Nederland.",
+        "Interviewer: O?",
+        "Sarina:  Ja, mijn oom is ook getrouwd met een Nederlandse en hun dochter is ongeveer even oud",
+        "als ik. Ze is heel lang en blond, net als mijn tante, maar toch ook een echte Indonesische,",
+        "want ze heeft de bruine ogen van haar vader.",
+        "Interviewer: En welke taal spreken jullie samen dan?",
+        "Sarina:  We spreken met z’n tweeën meestal Bahasa, maar als haar moeder erbij is, spreken we",
+        "Nederlands. Mijn nichtje en ik koken ook heel graag Indonesisch eten. Haar moeder houdt",
+        "niet zo van Indonesische gerechten, dus koken we altijd alleen voor mijn oom, en voor",
+        "onszelf natuurlijk.",
+        "Interviewer: En waar is de rest van je familie?",
+        "Sarina:  Mijn ouders wonen nog in Indonesië, op het eiland Sumatra. Mijn grootouders leven",
+        "helaas niet meer. Mijn zus woont op Bali, met haar man, want hij komt van dat eiland.",
+        "Interviewer:  Sorry, wie komt van Bali?",
+        "Sarina:  Mijn zwager, de man van mijn zus. Hij is daar geboren en wil er nooit meer weg! Dus",
+        "mijn zus woont nu ook op Bali. En mijn broers wonen in de hoofdstad: Jakarta. Met hun",
+        "vrouwen, mijn twee schoonzussen, heb ik een goed contact, maar ik zie ze nu natuurlijk",
+        "niet zo vaak.",
+        "Interviewer: Hoe vaak zie je ze dan?",
+        "Sarina:  Ik denk één keer per jaar… Ze komen nu wel meer dan vroeger.",
+        "Interviewer: En hoe komt dat?",
+        "Sarina:  Ik heb twee kleine kinderen en mijn schoonzussen zijn dol op hun nichtje en neefje!",
+        "Vooral die mooie krullen van hun neefje vinden ze prachtig! Mijn man, Paul, vindt het",
+        "trouwens ook gezellig als zijn verre schoonfamilie op bezoek komt hoor. Van hem mogen",
+        "ze nog vaker komen!",
+        "Interviewer:  Ik hoor het al, dat zit wel goed bij jullie. Bedankt voor je komst naar de studio, Sarina!",
+        "Sarina:  Graag gedaan."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 64,
+      "title": null,
+      "lines": [
+        "Dialoog 1:",
+        "● Dag, meneer. Mag ik u iets vragen?",
+        "■ Natuurlijk.",
+        "● Waar is het Centraal Station?",
+        "■  Dan moet je nog een klein stukje lopen. Ga hier eerst links. Ga daarna naar rechts. Na ongeveer hon-",
+        "derd meter zie je een supermarkt. Ga dan bij de supermarkt naar rechts. Loop rechtdoor en neem de",
+        "derde straat rechts. Neem tot slot de tweede straat links en dan zie je aan het einde van de straat het",
+        "station.",
+        "● Dank u wel.",
+        "Dialoog 2:",
+        "● Pardon, mevrouw. Mag ik u iets vragen?",
+        "■ Jazeker.",
+        "● Ik zoek de markt. Waar is de die? Weet u dat?",
+        "■  De markt? Dat is niet ver. Ziet u die bushalte daar? Daar moet u eerst naar links. Vervolgens moet u",
+        "rechts en daarna neemt u de eerste straat links. Dan loopt u helemaal tot het einde van de straat en",
+        "daar is de markt.",
+        "● Bedankt!",
+        "Dialoog 3:",
+        "● Hallo, meneer. Mag ik iets vragen?",
+        "■ Jazeker.",
+        "● Waar kan ik het sportcentrum vinden?",
+        "■  U bent een beetje verdwaald. Het sportcentrum is aan de andere kant van de stad. U kunt het beste",
+        "met de bus gaan, want het is ver lopen.",
+        "● O, en waar is hier een bushalte?",
+        "■  Eerst loopt u rechtdoor tot het einde van de straat. Daarna gaat u de eerste straat links. Daar is een",
+        "bushalte. U kunt het beste bus 83 nemen. Even denken. U moet dan de, ehh, vierde halte hebben.",
+        "● Dank u wel, meneer!"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "id": "tb-11-auto-1",
+      "instruction": "Kies het juiste antwoord.",
+      "question": "Oefening bij hoofdstuk 11: Een familiefeestje.",
+      "options": [
+        "Juist",
+        "Onjuist"
+      ],
+      "answerIndex": 0,
+      "explanation": ""
+    }
+  ],
+  "workbookExercises": [],
+  "grammar": [
+    {
+      "id": "ch11-preposities",
+      "title": "Preposities",
+      "paragraphs": [
+        "Ik ben nu aan het koken.",
+        "Ik ga straks sporten."
+      ],
+      "examples": [
+        "Wat ben je nu aan het doen?",
+        "Wat ben je aan het doen? Ik ben aan het bellen.",
+        "Wat ga je straks doen?",
+        "Ik bel met mijn moeder.",
+        "Ik ben op het feest."
+      ]
+    },
+    {
+      "id": "ch11-familieleden",
+      "title": "Familieleden",
+      "paragraphs": [
+        "de mannen",
+        "de vrouwen",
+        "de opa",
+        "de oma",
+        "de vader",
+        "de moeder",
+        "de oom",
+        "de tante",
+        "de broer",
+        "de zus",
+        "de neef",
+        "de nicht",
+        "de nicht/ het nichtje",
+        "de neef / het neefje",
+        "de zoon",
+        "de dochter"
+      ],
+      "examples": [
+        "Ik kom uit een groot gezin.",
+        "De moeder van Fabian is jarig.",
+        "De generatie boven mij is oud.",
+        "De generatie onder mij is jong."
+      ]
+    },
+    {
+      "id": "ch11-mensen-beschrijven",
+      "title": "Mensen beschrijven",
+      "paragraphs": [],
+      "examples": [
+        "Die man met die snor en baard?",
+        "Dat meisje met donker haar is Fleur.",
+        "Die vrouw met rood steil haar is mijn moeder Ina!",
+        "Die kleine man daar? Die een beetje dik is?",
+        "Die man met een bril en een zwart jasje?",
+        "Hij heeft echt mooie groene ogen.",
+        "Die lange, kale man is haar man.",
+        "En wie is dat kleine kindje met die mooie krullen?",
+        "Hii ziet er lief uit",
+        "Die dunne jongen met blond haar is David."
+      ]
+    },
+    {
+      "id": "ch11-het-possessief-pronomen",
+      "title": "Het possessief pronomen",
+      "paragraphs": [
+        "pronomen personale subject",
+        "possessief pronomen",
+        "singularis",
+        "mijn",
+        "je/jij",
+        "je/jouw"
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch11-uw",
+      "title": "UW",
+      "paragraphs": [
+        "hij",
+        "zijn",
+        "ze /zij",
+        "haar",
+        "het",
+        "zijn",
+        "pluralis",
+        "we/wij",
+        "ons, onze",
+        "jullie",
+        "jullie"
+      ],
+      "examples": []
+    }
+  ],
+  "number": 11,
+  "title": "Een familiefeestje"
+}

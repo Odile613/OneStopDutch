@@ -1,0 +1,649 @@
+{
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "bakken",
+          "english": "to fry",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "koken",
+          "english": "to cook",
+          "other": "to boil",
+          "note": null
+        },
+        {
+          "dutch": "kopen",
+          "english": "to buy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "pakken",
+          "english": "to take, to get",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "roeren",
+          "english": "to stir",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "serveren",
+          "english": "to serve",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "snijden",
+          "english": "to cut",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vinden",
+          "english": "to find",
+          "other": null,
+          "note": "Waar kan ik de melk vinden? Where can I find the milk?"
+        },
+        {
+          "dutch": "vinden + adjectief",
+          "english": "to find, to think",
+          "other": null,
+          "note": "Ik vind kaas lekker. I like cheese.\nIk vind drop vies. I don’t like liquorice."
+        },
+        {
+          "dutch": "wachten",
+          "english": "to wait",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "speciale verba",
+      "entries": [
+        {
+          "dutch": "voeg … toe (toevoegen)",
+          "english": "add",
+          "other": "(to add)",
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de boodschap (de boodschappen)",
+          "english": "purchase (groceries, shopping)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de helft (de helften)",
+          "english": "half (halves)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kassa (de kassa’s)",
+          "english": "cash register (cash registers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de korting (de kortingen)",
+          "english": "discount (discounts)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de markt (de markten)",
+          "english": "market (markets)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de pan (de pannen)",
+          "english": "pan (pans)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de prijs (de prijzen)",
+          "english": "price (prices)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de supermarkt (de supermarkten)",
+          "english": "supermarket (supermarkets)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de tomaat (de tomaten)",
+          "english": "tomato (tomatoes)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de ui (de uien)",
+          "english": "onion (onions)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de winkel (de winkels)",
+          "english": "shop (shops)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het bonnetje (de bonnetjes)",
+          "english": "receipt (receipts)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het feest (de feesten)",
+          "english": "party (parties)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het feestje (de feestjes)",
+          "english": "party (parties)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gesprek (de gesprekken)",
+          "english": "conversation (conversations)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het lijstje (de lijstjes)",
+          "english": "list (lists)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het boodschappenlijstje (de boodschappenlijstjes)",
+          "english": "shopping list (shopping lists)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het recept (de recepten)",
+          "english": "recipe (recipes)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het tasje (de tasjes)",
+          "english": "bag (bags)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het wagentje (de wagentjes)",
+          "english": "trolley (trolleys)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het water (-)",
+          "english": "water",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het winkelwagentje (de winkel-wagentjes)",
+          "english": "(shopping) trolley ((shopping) trolleys)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "boodschappen doen",
+          "english": "to do the (grocery) shopping",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een boodschappenlijstje maken",
+          "english": "to make a shopping list",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "in de aanbieding zijn",
+          "english": "to be on special offer",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "duur (dure)",
+          "english": "expensive",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "goedkoop (goedkope)",
+          "english": "cheap",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "normaal (normale)",
+          "english": "normal",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "perfect (perfecte)",
+          "english": "perfect",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "simpel (simpele)",
+          "english": "simple",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "snel (snelle)",
+          "english": "fast",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "10 cent",
+          "english": "10 cents",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "20 euro",
+          "english": "20 euros",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "500 gram",
+          "english": "500 grams",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "alles",
+          "english": "everything",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "gratis",
+          "english": "free",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "iets",
+          "english": "something",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "iets anders",
+          "english": "something else",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "online",
+          "english": "online",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "want",
+          "english": "because",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zo’n (= zo + een)",
+          "english": "such (a)",
+          "other": null,
+          "note": "Ik heb niet zo’n zin in groentesoep. I don’t really feel like (having) vegetable soup."
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Ja, graag.",
+          "english": "Yes, please.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Op is op.",
+          "english": "When it’s gone it’s gone.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Pardon, mag ik wat vragen?",
+          "english": "Excuse me, may I ask you something?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Twee voor de prijs van één!",
+          "english": "Two for the price of one!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Leer ook:",
+          "english": "Also learn:",
+          "other": null,
+          "note": "– de preposities (zie p. 82) – the prepositions (see p. 82)"
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 43,
+      "title": null,
+      "lines": [
+        "Frank: Het is weer vrijdag. Tijd voor boodschappen!",
+        "Karina: Ja! Wat zullen we vanavond eten? Heb jij een idee?",
+        "Frank: Hm, nee. We kunnen in de folder kijken. Misschien heeft de supermarkt een mooie",
+        "aanbieding.",
+        "Karina: Goed idee! Ik pak de folder even.",
+        "Frank: O kijk, de supermarkt heeft deze week veel acties. Kijk hier, twee voor de prijs van één!",
+        "Karina: Ja, ha ha, meer kopen, minder betalen! Daar houd ik wel van!",
+        "Kijk, de soepgroenten zijn in de aanbieding. Misschien kunnen we groentesoep maken?",
+        "Frank: Ja, dat kan, maar ik heb niet zo’n zin in groentesoep. Ik wil liever iets anders.",
+        "Karina: Heb je een beter idee? Misschien hebben ze meer aanbiedingen.",
+        "Frank: Eens even kijken. Het gehakt is ook niet duur, want je krijgt nu vijftig procent korting.",
+        "Zullen we pasta maken?",
+        "Karina: Dat vind ik ook prima, want dat is lekker en makkelijk! Wat hebben we nodig voor de",
+        "pasta?",
+        "Frank: Gehakt, pastasaus en natuurlijk pasta!",
+        "Karina: Oké, ik maak even een boodschappenlijstje. (hier korte pauze)[…] Gehakt, pastasaus,",
+        "pasta.",
+        "Hebben we nog meer dingen nodig?",
+        "Frank: Ja, kaas is ook lekker bij de pasta. En knoflook en tomaten.",
+        "Karina: Kaas en tomaten. Ik heb al knoflook, dus we hebben geen knoflook nodig.",
+        "Frank: We kunnen ook courgettes in de saus doen, want ik vind courgettes heel lekker. En het is",
+        "ook nog goedkoop, want de tweede courgette is gratis!",
+        "Karina: O ja, goed idee. Twee halen, één betalen! Ik schrijf het op.",
+        "Frank: En we moeten natuurlijk het toetje niet vergeten! Hier, kijk. De toetjes zijn in de",
+        "aanbieding. twee stuks voor maar één euro!",
+        "Karina: Lekker! Ik schrijf het op het lijstje.",
+        "Frank: En vergeet je de andere boodschappen niet? We moeten ook nog appels en melk hebben.",
+        "Karina: Appels en … wat nog meer?",
+        "Frank: Melk.",
+        "Karin: Oké, appels en melk. Hebben we nog meer nodig?",
+        "Frank: Ja, ook brood en eieren.",
+        "Karina: Nee, eieren hebben we nog meer dan genoeg. Die hoeven we niet te kopen. Het brood",
+        "schrijf ik wel op!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 44,
+      "title": null,
+      "lines": [
+        "Wat ga je maken? Taart. Ik ga taart maken.",
+        "Wat heb je nodig voor de taart? Ik heb melk nodig.",
+        "Wat heb je nodig voor de taart? Ik heb eieren nodig.",
+        "Wat heb je nog meer nodig? Ik heb ook nog suiker nodig.",
+        "Wat heb je nog meer nodig? Ik heb ook nog boter nodig.",
+        "Wat zullen we eten vanavond? Pasta!",
+        "Wat hebben we nodig? Spaghetti.",
+        "Wat hebben we nodig? Pastasaus.",
+        "Hebben we ook melk nodig? Nee, die hebben we nog.",
+        "Hebben we ook uien nodig? Nee, die hebben we nog.",
+        "Ik ga boodschappen doen. Hebben we nog iets nodig van de supermarkt?  Ja, melk!",
+        "Ik ga boodschappen doen. Hebben we nog iets nodig van de bakker? Ja, brood!",
+        "Ik ga boodschappen doen. Hebben we nog iets nodig van de groenteboer? Ja, sla!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 45,
+      "title": null,
+      "lines": [
+        "Frank: Nemen we een mandje of nemen we een winkelwagentje?",
+        "Karina:  Geen mandje. Doe maar een winkelwagentje, want we hebben veel dingen nodig. Pak",
+        "jij het winkelwagentje?",
+        "Frank: Ja, doe ik.",
+        "Karina: Oké, eerst het fruit en de groente. We moeten appels, bananen en courgettes hebben.",
+        "Pak jij even de courgettes?",
+        "Frank: Ja. O en kijk. De aardbeien zijn afgeprijsd met vijfendertig procent korting. Zullen we",
+        "aardbeien meenemen?",
+        "Karina: Ja, lekker. Voor bij het toetje!",
+        "Karina: We hebben nog eieren nodig, maar ik kan de eieren niet vinden.",
+        "Frank: Wacht maar. Ik vraag het even. Pardon, mag ik wat vragen?",
+        "Medewerker: Ja, natuurlijk. Hoe kan ik u helpen?",
+        "Frank: Waar kan ik de eieren vinden?",
+        "Medewerker: U kunt de eieren daar naast de koffie en de suiker vinden.",
+        "Frank: O, ik zie het al! Dank u wel.",
+        "Medewerker: Graag gedaan.",
+        "Frank: Nou, we hebben alles.",
+        "Karina: Ja, het winkelwagentje is helemaal vol! We gaan naar de kassa.",
+        "Caissière: Goedemiddag.",
+        "Frank en Karina: Hallo.",
+        "Karina: Mag ik ook een tasje?",
+        "Caissiere: Natuurlijk. Dat kost wel twintig cent extra. Dat is dan achtenveertig euro",
+        "vijfenzeventig, alstublieft.",
+        "Karina: Prima. Ik wil graag pinnen. […]",
+        "Caissiere: En spaart u zegeltjes voor het boodschappenpakket?",
+        "Karina: Een boodschappenpakket?",
+        "Caissiere: Ja, u kunt zegeltjes sparen. Bij iedere tien euro krijgt u een zegeltje.",
+        "Met vijftig zegeltjes krijgt u een gratis boodschappenpakket.",
+        "Karina: O, wat een leuke actie. Ja, doe maar!",
+        "Caissiere: En wilt u ook het bonnetje?",
+        "Karina: Ja, graag.",
+        "Caissiere: Alstublieft. En nog een fijne dag.",
+        "Karina: Dank u wel. U ook.",
+        "Frank: Tot ziens."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 46,
+      "title": null,
+      "lines": [
+        "Pardon, mag ik wat vragen? Ja, natuurlijk.",
+        "Pardon, mag ik wat vragen? Jazeker. Wat kan ik voor u doen?",
+        "Waar kan ik de kaas vinden? Daar, bij de boter en de melk.",
+        "Waar kan ik de eieren vinden? Hier, naast de suiker.",
+        "Mag ik een tasje? Ja, natuurlijk.",
+        "Mag ik een tasje? Ja, dat kost wel 20 cent extra."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 47,
+      "title": null,
+      "lines": [
+        "Goedemiddag. Hallo.",
+        "Goedemiddag. Goedemiddag.",
+        "Wilt u het bonnetje? Ja, graag.",
+        "Wilt u het bonnetje? Nee, dank u wel.",
+        "Spaart u zegeltjes? Ja, graag.",
+        "Spaart u zegeltjes? Nee, dank u wel.",
+        "Nog een fijne dag. Dank u wel. U ook.",
+        "Nog een fijne dag. Dank u wel. Tot ziens."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 48,
+      "title": null,
+      "lines": [
+        "1 |ee|. Be-zig. Sche-ma.",
+        "2 |è|. Denk. En. Met. Vers. Wel.",
+        "3 |sjwa|. Je. We. Ze. De. Te."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 49,
+      "title": null,
+      "lines": [
+        "1 bezig. schema.",
+        "2 denk. en. met. vers. wel.",
+        "3 je. we. ze. de. te."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 39,
+      "title": null,
+      "lines": [
+        "1. Wilt u pinnen?",
+        "2. Wilt u het bonnetje?",
+        "3. Spaart u ook zegeltjes?",
+        "4. Hebt u een spaarkaart?"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 40,
+      "title": null,
+      "lines": [
+        "1.  denk",
+        "2. twee",
+        "3. met",
+        "4. mee",
+        "5. ze",
+        "6. we",
+        "7. weet",
+        "8. zeg",
+        "9. je",
+        "10. leer"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 41,
+      "title": null,
+      "lines": [
+        "1.  lezen",
+        "2. spreken",
+        "3. eten",
+        "4. denken",
+        "5. lepel",
+        "6. welke",
+        "7. gerecht",
+        "8. werken",
+        "9. negen",
+        "10. bestek"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 42,
+      "title": null,
+      "lines": [
+        "Bert: Ik heb honger. Ik heb zin in iets lekkers.",
+        "Sandra: Wat wil je graag eten?",
+        "Bert: Ik weet het niet. Iets zoets. Hm.",
+        "Sandra: Zullen we dan een lekker toetje meenemen?",
+        "Bert: Ja, lekker. Ik ga even kijken. Kijk, de yoghurt is in de aanbieding.",
+        "Sandra: Oké, doe maar yoghurt. Lekker met aardbeien!",
+        "Bert: De aardbeien zijn een beetje duur. We kunnen ook honing nemen.",
+        "Sandra: Ja, dat is ook lekker. En honing is goedkoper.",
+        "[…]",
+        "Bert: We hebben ook geen fruit meer. Wat zullen we nemen?",
+        "Sandra: Doe maar meloen.",
+        "Bert: Nou, de meloenen zijn duur. Drie euro per stuk. We kunnen beter ander fruit nemen.",
+        "Sandra: Jammer. Eens even kijken.",
+        "Bert: Ik vind kiwi’s ook wel lekker. En de kiwi’s zijn nu voor de helft van de prijs.",
+        "Sandra: Oh, mooi! Dan nemen we kiwi’s.",
+        "[…]",
+        "Bert: Oké, nu hebben we fruit en een toetje. Maar wat eten we als avondeten?",
+        "Sandra: Ik kan spaghetti maken of ik kan groentesoep maken. Waar heb je zin in?",
+        "Bert: Ik heb niet zo’n zin in spaghetti of groentesoep. Ik heb een beter idee!",
+        "Sandra: Oh, wat dan? Wil je weer friet halen?",
+        "Bert: Haha, ja! Ik heb echt zin in friet.",
+        "Sandra: Nou, oké dan. Maar morgen gaan we weer normaal eten, hoor!",
+        "Bert: Oké."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "id": "tb-08-auto-1",
+      "instruction": "Kies het juiste antwoord.",
+      "question": "Oefening bij hoofdstuk 8: In de supermarkt.",
+      "options": [
+        "Juist",
+        "Onjuist"
+      ],
+      "answerIndex": 0,
+      "explanation": ""
+    }
+  ],
+  "workbookExercises": [],
+  "grammar": [
+    {
+      "id": "ch08-boodschappen",
+      "title": "In de supermarkt",
+      "paragraphs": [
+        "Boodschappen doen, vragen naar producten en prijzen."
+      ],
+      "examples": [
+        "Heeft u ...?",
+        "Hoeveel kost dit?",
+        "Ik zoek ..."
+      ]
+    },
+    {
+      "id": "ch08-hoeveel",
+      "title": "Hoeveel / Hoeveelheid",
+      "paragraphs": [
+        "Praten over hoeveelheden bij het winkelen."
+      ],
+      "examples": [
+        "Een kilo appels, alsjeblieft.",
+        "Hoeveel wilt u?"
+      ]
+    }
+  ],
+  "number": 8,
+  "title": "In de supermarkt"
+}

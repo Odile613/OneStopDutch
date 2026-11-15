@@ -1,0 +1,984 @@
+{
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "bewegen",
+          "english": "to move",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "brengen",
+          "english": "to bring",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "dragen",
+          "english": "to wear",
+          "other": "to carry",
+          "note": "De dokter draagt een witte doktersjas. The doctor is wearing a white doctor’s coat."
+        },
+        {
+          "dutch": "huilen",
+          "english": "to cry",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lachen",
+          "english": "to laugh",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "voelen (aan)",
+          "english": "to feel",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "De dokter voelt aan de knie van",
+          "english": "Jasper. The doctor feels Jasper’s knee.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ik ben gegaan (gaan)",
+          "english": "I went, I have gone",
+          "other": "(to go)",
+          "note": null
+        },
+        {
+          "dutch": "ik ben gevallen (vallen)",
+          "english": "I fell, I have fallen",
+          "other": "(to fall)",
+          "note": null
+        },
+        {
+          "dutch": "het is gebeurd (gebeuren)",
+          "english": "it happened, it has happened",
+          "other": "(to happen)",
+          "note": null
+        },
+        {
+          "dutch": "ik heb gedaan (doen)",
+          "english": "I did, I have done",
+          "other": "(to do)",
+          "note": null
+        },
+        {
+          "dutch": "ik heb gedronken (drinken)",
+          "english": "I drank, I have drunk",
+          "other": "(to drink)",
+          "note": null
+        },
+        {
+          "dutch": "ik heb gegeten (eten)",
+          "english": "I ate, I have eaten",
+          "other": "(to eat)",
+          "note": null
+        },
+        {
+          "dutch": "Ik heb gehad (hebben)",
+          "english": "I had, I have had",
+          "other": "(to have)",
+          "note": null
+        },
+        {
+          "dutch": "ik heb gemaakt (maken)",
+          "english": "I made, I have made",
+          "other": "(to make)",
+          "note": null
+        },
+        {
+          "dutch": "ik heb geslapen (slapen)",
+          "english": "I slept, I have slept",
+          "other": "(to sleep)",
+          "note": null
+        },
+        {
+          "dutch": "ik heb gewerkt (werken)",
+          "english": "I worked, I have worked",
+          "other": "(to work)",
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "speciale verba",
+      "entries": [
+        {
+          "dutch": "rust houden (ik houd … rust)",
+          "english": "to take some rest (I take some rest)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "terugkomen (ik kom … terug)",
+          "english": "to come back (I come back)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "terugvinden (ik vind … terug)",
+          "english": "to retrieve (I retrieve)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de arm (de armen)",
+          "english": "arm (arms)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de broek (de broeken)",
+          "english": "trousers (pairs of trousers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de buik (de buiken)",
+          "english": "stomach (stomachs)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de dokter (de dokters)",
+          "english": "doctor (doctors)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de assistent (de assistenten)",
+          "english": "assistant (assistants)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de doktersassistent (de dokters-assistenten)",
+          "english": "doctor’s assistant (doctor’s assistants)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de gegevens (pl)",
+          "english": "data",
+          "other": "details",
+          "note": null
+        },
+        {
+          "dutch": "de hand (de handen)",
+          "english": "hand (hands)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de huisarts (de huisartsen)",
+          "english": "family doctor (family doctors)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de keel (de kelen)",
+          "english": "throat (throats)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de klacht (de klachten)",
+          "english": "complaint (complaints)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de knie (de knieën)",
+          "english": "knee (knees)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de manier (de manieren)",
+          "english": "way (ways)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de mond (de monden)",
+          "english": "month (months)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de nek (de nekken)",
+          "english": "neck (necks)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de neus (de neuzen)",
+          "english": "nose (noses)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de patiënt (de patiënten)",
+          "english": "patient (patients)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de pijn (de pijnen)",
+          "english": "pain (pains)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de buikpijn",
+          "english": "stomach ache",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de hoofdpijn",
+          "english": "headache",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de keelpijn",
+          "english": "throat ache",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de spierpijn",
+          "english": "muscle ache",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de pijnstiller (de pijnstillers)",
+          "english": "painkiller (painkillers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de reden (de redenen)",
+          "english": "reason (reasons)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de rug (de ruggen)",
+          "english": "back (backs)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de schouder (de schouders)",
+          "english": "shoulder (shoulders)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de situatie (de situaties)",
+          "english": "situation (situations)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de alarmsituatie (de alarmsituaties)",
+          "english": "emergency (emergencies)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de teen (de tenen)",
+          "english": "toe (toes)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vinger (de vingers)",
+          "english": "finger (fingers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de voet (de voeten)",
+          "english": "foot (feet)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het bed (de bedden)",
+          "english": "bed (beds)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het been (de benen)",
+          "english": "leg (legs)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gezicht (de gezichten)",
+          "english": "face (faces)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het hoofd (de hoofden)",
+          "english": "head (heads)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het lichaam (de lichamen)",
+          "english": "body (bodies)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het medicijn (de medicijnen)",
+          "english": "medicine (medicines)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het oor (de oren)",
+          "english": "ear (ears)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het spreekuur (de spreekuren)",
+          "english": "consultation (consultations)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het ziekenhuis (de ziekenhuizen)",
+          "english": "hospital (hospitals)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "antwoord geven (op)",
+          "english": "to answer",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "griep/koorts/pijn hebben",
+          "english": "to have the flu / a fever",
+          "other": "to be in pain",
+          "note": null
+        },
+        {
+          "dutch": "last hebben (van)",
+          "english": "to be bothered (by)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nodig zijn",
+          "english": "to be necessary",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verkouden zijn",
+          "english": "to have a cold",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "dik (dikke)",
+          "english": "here: swollen",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "misselijk (misselijke)",
+          "english": "nauseous",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "moe (– / vermoeide)",
+          "english": "tired",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ziek (zieke)",
+          "english": "ill",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "gisteren",
+          "english": "yesterday",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "eergisteren",
+          "english": "the day before yesterday",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "hoelang",
+          "english": "how long",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "iemand anders",
+          "english": "somebody else",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "niet meer",
+          "english": "not anymore",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nog niet",
+          "english": "not yet",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nog nooit",
+          "english": "never",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een tijdje",
+          "english": "(for) a while",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Kom binnen.",
+          "english": "Come in.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ga zitten.",
+          "english": "Take a seat.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Waar gaat het over?",
+          "english": "What is it about?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Wat is er aan de hand?",
+          "english": "What is the matter?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Wat is er gebeurd?",
+          "english": "What happened?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Doet het pijn?",
+          "english": "Does it hurt?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Au! Dat doet pijn!",
+          "english": "Ouch! That hurts!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Leer ook:",
+          "english": "also learn:",
+          "other": null,
+          "note": "– de preposities (zie p. 134) – the prepositions (see p. 134)"
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 72,
+      "title": null,
+      "lines": [
+        "1.",
+        "Assistent: Met de assistente van dokter Laarmans, goedemorgen.",
+        "Pepijn: Goedemorgen, met Pepijn Donkers. Ik wil graag een afspraak maken voor het spreekuur.",
+        "Assistent: Dat kan. Mag ik uw geboortedatum, alstublieft?",
+        "Pepijn: Het is niet voor mijzelf. Het is voor mijn zoontje, Jasper.",
+        "Assistent: En wat is zijn geboortedatum?",
+        "Pepijn: Dat is 11 december 2013.",
+        "Assistent: Ehm, even kijken, ik zie hier staan Jasper Donkers, klopt dat?",
+        "Pepijn: Ja, dat is mijn zoon.",
+        "Assistent: En u wilt een afspraak maken voor het spreekuur?",
+        "Pepijn: Ja.",
+        "Assistent: Mag ik vragen waar het over gaat?",
+        "Pepijn: Ja, hoor. Jasper is gisteren van zijn fiets gevallen, en hij heeft veel last van zijn knie. Ik wil",
+        "graag dat de dokter even naar zijn knie kijkt.",
+        "Assistent: Ik snap het. Ik heb vanmiddag nog plaats, als u wilt. Om, eh, om kwart over 3. Kunnen",
+        "jullie dan?",
+        "Pepijn: Ja, heel fijn.",
+        "Assistent: Goed, dan zien we jullie vanmiddag om kwart over 3.",
+        "Pepijn: Ja, dank u wel. Tot vanmiddag.",
+        "Assistent: Tot vanmiddag.",
+        "2.",
+        "Assistent: Goedemorgen, met de assistente van dokter Laarmans.",
+        "Lex: Hallo met Lex Hermans. Ik wil graag een afspraak maken.",
+        "Assistent: Dat kan. Wat is uw geboortedatum?",
+        "Lex: Mijn geboortedatum is 23 mei 1981.",
+        "Assistent: Dank u. En waar gaat het over?",
+        "Lex: Ik heb erge hoofdpijn en het wordt niet beter. Ik heb deze week ook erg slecht geslapen.",
+        "Assistent: Hoelang hebt u al hoofdpijn?",
+        "Lex: Al een week.",
+        "Assistent: En hebt u verder nog klachten?",
+        "Lex: Ja, ik heb hoofdpijn en ik ben dus ook heel moe. Ik kan niks doen, alleen maar in bed",
+        "liggen. Ik heb geen idee wat het is. Ik ben wel naar mijn werk gegaan maar ik kan zo echt",
+        "niet werken.",
+        "Assistent: Hebt u deze hoofdpijn nog niet eerder gehad?",
+        "Lex: Nee.",
+        "Assistent: Oké. En hebt u al een pijnstiller genomen?",
+        "Lex: Ik heb elke dag een paar paracetamolletjes genomen. Dat helpt een beetje.",
+        "Assistent: Prima. Ik noteer even uw gegevens. U kunt vandaag nog komen. Om half vijf vanmiddag",
+        "hebben we nog plaats. Kan dat?",
+        "Lex: Vanmiddag om half 5. Ja, dat is prima.",
+        "Assistent. Prima, tot straks.",
+        "Lex: Dank u wel. Tot ziens.",
+        "3.",
+        "Assistent: Goedemorgen, met de assistente van dokter Laarmans. Kan ik u helpen?",
+        "Anita: Goedemorgen, met Anita de Boer. Ik bel even voor advies. Ik ben al een tijdje ziek. Ik heb",
+        "pijn en ik heb nu ook koorts. Het gaat nog steeds niet beter. Moet ik een afspraak maken",
+        "met de dokter, of niet? Wat denkt u?",
+        "Assistent: Waar hebt u precies pijn?",
+        "Anita: Eigenlijk overal. Ik heb spierpijn in mijn hele lichaam. En ik heb ook hoofdpijn.",
+        "Assistent: Hebt u ook nog andere klachten?",
+        "Anita: Ja, ik ben ook verkouden. Ik moet veel hoesten en ik heb last van mijn keel.",
+        "Assistent: En hoe lang hebt u deze klachten al?",
+        "Anita: Sinds een week ongeveer.",
+        "Assistent: En hebt u koorts? Hebt u de temperatuur al opgenomen?",
+        "Anita: Vanmorgen was het 39 graden.",
+        "Assistent: En hebt u vandaag al gegeten of gedronken?",
+        "Anita: Nee, ik heb nog niks gegeten. Ik heb alleen een beetje water",
+        "gedronken. Ik heb helemaal geen zin om te eten, want ik ben misselijk.",
+        "Assistent: Hmm, spierpijn, misselijk, keelpijn, hoofdpijn. Dat klinkt als de griep. Veel mensen hebben",
+        "op dit moment griep.",
+        "Anita: Moet ik een afspraak met de huisarts maken?",
+        "Assistent: Nee, dat is nu nog niet nodig. U kunt het beste rustig aan doen en in bed gaan liggen.",
+        "U moet verder veel water drinken. En hebt u al een paracetamol genomen?",
+        "Anita: Nee, nog niet. Hoe vaak mag ik een paracetamol nemen?",
+        "Assistent: U mag maximaal zes keer per dag paracetamol nemen. Als het over een week nog steeds",
+        "niet beter gaat, dan kunt u een afspraak maken met de huisarts.",
+        "Anita: Ja, prima. Dat zal ik doen.",
+        "Assistent: Dan wens ik u voor nu veel beterschap, mevrouw de Boer.",
+        "Anita: Bedankt. Tot ziens.",
+        "Assistent: Tot ziens."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 73,
+      "title": null,
+      "lines": [
+        "Wat is er aan de hand? Ik ben misselijk.",
+        "Wat is er aan de hand? Ik heb koorts.",
+        "Wat is er aan de hand? Ik heb griep.",
+        "Wat is er aan de hand? Ik heb hoofdpijn en buikpijn en keelpijn.",
+        "Waar heb je last van? Van mijn arm. Ik heb last van mijn arm.",
+        "Waar heb je last van? Van mijn buik. Ik heb last van mijn buik.",
+        "Waar hebt u last van? Van mijn schouder. Ik heb last van mijn schouder.",
+        "Waar heb je pijn? Aan mijn knie. Ik heb pijn aan mijn knie.",
+        "Waar hebt u pijn? Aan mijn voet. Ik heb pijn aan mijn voet.",
+        "Waar heb je pijn? In mijn rug. Ik heb pijn in mijn rug.",
+        "Waar hebt u pijn? In mijn buik. Ik heb buikpijn.",
+        "Hoelang hebt u deze klachten al? Al een week.",
+        "Hoelang hebt u deze klachten al? Sinds twee dagen.",
+        "Hoelang hebt u deze klachten al? Pas een dag."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 74,
+      "title": null,
+      "lines": [
+        "Huisarts: Hallo, meneer Donkers. Hallo, Jasper. Kom maar binnen en ga zitten.",
+        "Zo, Jasper. Wat is er aan de hand?",
+        "Jasper: Ik ben gevallen.",
+        "Huisarts: Dat is niet zo mooi. Heb je veel pijn?",
+        "Jasper: Ja.",
+        "Huisarts: Ik zie het. Je moet een beetje huilen hè. Dat snap ik. Waar heb je pijn?",
+        "Jasper: Aan mijn knie!",
+        "Huisarts: En heb je nog op andere plekken pijn?",
+        "Jasper: Nee.",
+        "Huisarts: Oké. Ik wil even kijken naar je knie. Vind je dat goed?",
+        "Jasper: Ja.",
+        "Huisarts:  Dan mag je even hier op het grote bed komen zitten. Leg je benen maar neer. Gelukkig, je",
+        "hebt een korte broek aan. Dat is makkelijk! Dan kan ik je knieën goed zien!",
+        "Jasper: Ja.",
+        "Huisarts: Welke is het?",
+        "Jasper: Die.",
+        "Huisarts: Rechts? Ja, ik zie het. Hij is een beetje dikker dan de andere knie, hè?",
+        "Jasper: Ja.",
+        "Huisarts: Mag ik even voelen aan je knie?",
+        "Jasper: Ja.",
+        "Huisarts: Doet dit pijn? Voel je dit?",
+        "Jasper: Au!",
+        "Huisarts: Ik ga je knie nu een beetje bewegen. Gaat dit goed?",
+        "Jasper: Mwa.",
+        "Huisarts: En dit?",
+        "Jasper: Au, dat doet pijn.",
+        "Huisarts: Sorry. Het moet even. Ik ben bijna klaar. Ik wil alleen nog dat je even gaat staan. Durf je",
+        "dat? Kun je staan? Doe maar voorzichtig. Lukt het? Goed zo. En kun je naar de deur lopen?",
+        "Goed zo. Kom maar weer terug. Je mag weer gaan zitten. Dat heb je heel goed gedaan,",
+        "hoor!",
+        "Huisarts: Zo, meneer Donkers. Uw zoon moet een paar dagen rust houden. Het is wel goed om de",
+        "knie te bewegen, maar hij kan  het beste niet te veel bewegen. Hij mag wel staan op het",
+        "been  en hij mag ook gewoon lopen. Maar alles heel rustig. Hij kan ook een paar",
+        "oefeningen doen. Ik zal u een lijstje met oefeningen geven. Over een week mag hij alles",
+        "weer doen.",
+        "Pepijn: En mag hij ook weer fietsen?",
+        "Huisarts: Liever niet. U kunt hem het beste deze week even met de auto naar school brengen.",
+        "Pepijn: Oké. En als de pijn over een week niet weg is? Of als de knie dik blijft?",
+        "Huisarts: Dan moet u even terugkomen op het spreekuur.",
+        "Pepijn: En mogen we hem pijnstillers geven?",
+        "Huisarts: Ja, hoor.",
+        "Pepijn: Hoeveel? Kinderen mogen toch minder pijnstillers per dag dan volwassenen?",
+        "Huisarts:  Ja, dat klopt. Op het doosje van de medicijnen staat precies hoeveel een kind per dag",
+        "mag hebben. Dus lees dat goed.",
+        "Pepijn: Oké.",
+        "Huisarts:  Zo, jongeman, ik heb goed nieuws. Je knie is niet gebroken! Je mag weer naar huis! Je",
+        "kunt het beste een beetje rust houden, dus niet rennen!",
+        "Jasper: Oké.",
+        "Huisarts: Goed zo. Gelukkig, je lacht weer!",
+        "Pepijn: Bedankt, dokter.",
+        "Huisarts: Graag gedaan.",
+        "Pepijn: Jasper, geef jij de dokter ook even een hand?",
+        "Jasper: Bedankt dokter.",
+        "Huisarts: Sterkte, jongen!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 75,
+      "title": null,
+      "lines": [
+        "|g| genoeg, begin, begroeten, school, lachen, dag",
+        "|h| hebben, horen, inhoud, herhaal",
+        "|ng| lang, zingen, Engels",
+        "|nk| bank, denken, drankje"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 76,
+      "title": null,
+      "lines": [
+        "1. hek, gek",
+        "2. gaan, gaan",
+        "3. houd, goud",
+        "4. geel, heel",
+        "5. horen, horen",
+        "6. haar, gaar",
+        "7. lach, lang",
+        "8. bang, bang",
+        "9. zich, zing",
+        "10. haring, harig",
+        "11. rug, rug",
+        "12. ring, ring",
+        "13. bank – bang",
+        "14. zong – zonk",
+        "15. eng – eng",
+        "16. drank – drang",
+        "17. dank – dank",
+        "18. slang – slank"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 69,
+      "title": null,
+      "lines": [
+        "Hoofd, schouders, knie en teen, knie en teen",
+        "Oren, ogen, puntje van je neus",
+        "Hoofd, schouders, knie en teen, knie en teen"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 70,
+      "title": null,
+      "lines": [
+        "1. Au!",
+        "2. Zeg eens aa!",
+        "3. Dat doet pijn!",
+        "4. Ik ben moe!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 71,
+      "title": null,
+      "lines": [
+        "1. hoed",
+        "2. geel",
+        "3. gaat",
+        "4. hoor",
+        "5. geld",
+        "6. hier",
+        "7. oor",
+        "8. hoog",
+        "9. huid",
+        "10. ik",
+        "11. huur",
+        "12. oud"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 72,
+      "title": null,
+      "lines": [
+        "1. ding",
+        "2. dank",
+        "3. meng",
+        "4. bank",
+        "5. denk",
+        "6. zing"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 73,
+      "title": null,
+      "lines": [
+        "1. hoofd. hoofd",
+        "2. oog. oog",
+        "3. oor. oor",
+        "4. klacht. klacht",
+        "5. heel. heel",
+        "6. half. half",
+        "7. dank. dank",
+        "8. gezicht. gezicht",
+        "9. schouder. schouder",
+        "10. lichaam. lichaam",
+        "11. huisarts. huisarts",
+        "12. gesprek. gesprek",
+        "13. bedankt. bedankt",
+        "14. beterschap. beterschap"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 74,
+      "title": null,
+      "lines": [
+        "Man:  Uchuchuch. O! Ik voel me helemaal niet lekker! Ik denk dat ik griep heb.",
+        "Vrouw:  Nou, griep. Volgens mij ben je gewoon heel erg verkouden.",
+        "Man: Nee, echt, ik denk dat ik griep heb hoor! Het is meer dan een gewone verkoudheid!",
+        "Vrouw:  Waar heb je dan last van?",
+        "Man: Van alles!",
+        "Vrouw:  Vertel!",
+        "Man:  Nou, ik heb pijn in mijn keel en ik heb een erge loopneus.",
+        "Vrouw:  En verder?",
+        "Man:  Verder?! Is dat niet genoeg dan? Ik voel me verschrikkelijk!",
+        "Vrouw:   Als je echt griep hebt, dan moet je ook koorts hebben. En hoofdpijn. En pijn in je hele",
+        "lichaam.",
+        "Man:   O. Nu je het zegt. Ik heb het wel een beetje warm … en mijn hoofd doet ook pijn … en",
+        "mijn rug ook wel een beetje. Ik weet het echt zeker hoor. Ik heb echt griep!",
+        "Vrouw:  Dan kunnen we maar één ding doen!",
+        "Man:  Ja?",
+        "Vrouw:  Snel de dokter bellen. Misschien dat hij iets voor je kan doen.",
+        "Man:   De dokter! Eh, nou, ja, eh, misschien moeten we nog even wachten. Zo erg is het nou",
+        "ook weer niet. Ik voel me vast beter als ik gewoon een dagje thuis blijf en ga slapen.",
+        "Ik ga morgen wel weer werken. Ik ga snel naar boven. Welterusen schat!",
+        "Vrouw:  Welterusten lieverd! En, beterschap hoor!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 75,
+      "title": null,
+      "lines": [
+        "Welkom. U bent verbonden met huisartsenpraktijk Van Zanten. Om u beter van dienst te kunnen zijn",
+        "volgt nu een keuzemenu. Alleen in het geval van spoed: toets 1. Voor een vraag of het maken van een",
+        "afspraak, alleen tussen acht en tien uur ‘s ochtends en twee en vijf uur ‘s middags: toets 2. Voor het inspre-",
+        "ken van herhaalrecepten: toets 3. Voor algemene vragen over de praktijk: toets 4."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "id": "tb-13-auto-1",
+      "instruction": "Kies het juiste antwoord.",
+      "question": "Oefening bij hoofdstuk 13: Bij de dokter.",
+      "options": [
+        "Juist",
+        "Onjuist"
+      ],
+      "answerIndex": 0,
+      "explanation": ""
+    }
+  ],
+  "workbookExercises": [],
+  "grammar": [
+    {
+      "id": "ch13-preposities",
+      "title": "Preposities",
+      "paragraphs": [],
+      "examples": [
+        "\"Goedemorgen, Huisartsenpraktijk Oost, met Saskia.\"",
+        "De assistent vraagt naar mijn klachten.",
+        "Ik wil graag een afspraak maken voor het spreekuur.",
+        "Ik vertel mijn klachten aan de assistent.",
+        "Ik heb pijn aan mijn been.",
+        "Pepijn belt voor zijn zoon Jasper.",
+        "Wat is er aan de hand?",
+        "Ik heb pijn in mijn buik.",
+        "Ik heb de klachten sinds twee dagen.",
+        "Ik heb last van mijn knie.",
+        "Jessica is gisteren van haar fiets gevallen.",
+        "Ik ga naar de huisarts."
+      ]
+    },
+    {
+      "id": "ch13-klachten-beschrijven",
+      "title": "Klachten beschrijven",
+      "paragraphs": [],
+      "examples": [
+        "Ik heb spierpijn.",
+        "Ik heb griep.",
+        "Ik heb last van mijn knie.",
+        "Ik ben misselijk.",
+        "Ik ben moe.",
+        "Ik heb pijn aan mijn been.",
+        "Ik ben verkouden.",
+        "Ik heb pijn in mijn rug.",
+        "Ik heb hoofdpijn.",
+        "Ik ben ziek."
+      ]
+    },
+    {
+      "id": "ch13-vraag-en-antwoord",
+      "title": "Vraag en antwoord",
+      "paragraphs": [
+        "Ik heb hoofdpijn en ik ben misselijk.",
+        "Ik heb een paracetamol genomen.",
+        "Nee, ik heb nog niks gegeten.",
+        "Alleen een beetje water.",
+        "Ik ben gevallen.",
+        "In mijn hele lichaam.",
+        "Nee, nog nooit.",
+        "39 graden."
+      ],
+      "examples": [
+        "Welke klachten hebt u?",
+        "Hebt u al een pijnstiller genomen?",
+        "Hebt u iets gegeten?",
+        "Hebt u iets gedronken?",
+        "Wat is er gebeurd?",
+        "Waar hebt u pijn?",
+        "Hebt u eerder deze klachten gehad?",
+        "Hebt u koorts? Wat is uw temperatuur?"
+      ]
+    },
+    {
+      "id": "ch13-advies-geven",
+      "title": "Advies geven",
+      "paragraphs": [],
+      "examples": [
+        "U kunt hem het beste deze week naar school brengen.",
+        "Je kunt het beste een beetje rust houden.",
+        "Hij kan het beste niet te veel bewegen."
+      ]
+    },
+    {
+      "id": "ch13-presens-versus-perfectum",
+      "title": "Presens versus perfectum",
+      "paragraphs": [
+        "presens 1 verbum",
+        "presens 2 verba",
+        "perfectum"
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch13-ik-kan",
+      "title": "Ik kan",
+      "paragraphs": [
+        "gaan"
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch13-ik-ga",
+      "title": "Ik ga",
+      "paragraphs": [
+        "gaan.",
+        "- gegaan.",
+        "drinken",
+        "drinken."
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch13-ik-heb",
+      "title": "Ik heb",
+      "paragraphs": [
+        "Ik drink —."
+      ],
+      "examples": []
+    }
+  ],
+  "number": 13,
+  "title": "Bij de dokter"
+}

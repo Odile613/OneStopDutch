@@ -1,0 +1,189 @@
+{
+  "number": 2,
+  "title": "",
+  "vocab": [],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 1,
+      "title": "Oefening 1 en 2 · fragment 1",
+      "lines": []
+    },
+    {
+      "book": "tb",
+      "track": 2,
+      "title": "Oefening 1 en 2 · fragment 2",
+      "lines": []
+    },
+    {
+      "book": "tb",
+      "track": 3,
+      "title": "Oefening 1 en 2 · fragment 3",
+      "lines": []
+    },
+    {
+      "book": "tb",
+      "track": 4,
+      "title": "Oefening 1 en 2 · fragment 4",
+      "lines": []
+    },
+    {
+      "book": "tb",
+      "track": 5,
+      "title": "Oefening 1 en 2 · fragment 5",
+      "lines": []
+    },
+    {
+      "book": "tb",
+      "track": 6,
+      "title": "Oefening 1 en 2",
+      "lines": [
+        "Rik de Man: Professor Barendsen, een paar vragen …",
+        "Professor Barendsen: Heel snel dan, want ik ben onderweg naar een vergadering …",
+        "Rik de Man: Voor welke ministerspost bent u gevraagd?",
+        "Professor Barendsen: Nou ik ben eh … nog helemaal niet officieel gevraagd.",
+        "Rik de Man: O, er wordt in de wandelgangen in politiek Den Haag druk gespeculeerd dat men u wel heeft",
+        "benaderd.",
+        "Professor Barendsen: Er wordt over heel veel gespeculeerd in Den Haag op dit moment, meneer De Man.",
+        "Rik de Man: U bent dus niet benaderd?",
+        "Professor Barendsen: Nee, ik ben ook niet benaderd.",
+        "Rik de Man: Maar uw naam wordt wel genoemd?",
+        "Professor Barendsen: Mijn naam wordt inderdaad genoemd, ja … Barendsen.",
+        "Rik de Man: Maar door wie bent u dan genoemd?",
+        "Professor Barendsen: Dat weet ik niet, want daar was ik natuurlijk zelf niet bij.",
+        "Rik de Man: Maar weet u of u vaak genoemd wordt?",
+        "Professor Barendsen: Ik weet alleen dat mijn naam eh … opgeworpen is.",
+        "Rik de Man: Vaker dan één keer?",
+        "Professor Barendsen: Ik geloof dat hij drie keer is genoemd.",
+        "Rik de Man: Maar hoe weet u dat?",
+        "Professor Barendsen: Ik heb van meerdere kanten gehoord, dat eh … mijn naam in verband wordt gebracht met een eh",
+        "… met een ministerspost ja.",
+        "Rik de Man: En welke ministerspost?",
+        "Professor Barendsen: Eh … dat kan ik eh … u helaas niet vertellen. Eh … ik kan u alleen zeggen dat er een verband werd",
+        "gelegd tussen mijn naam, Barendsen dus … en een ministerspost.",
+        "Rik de Man: Misschien justitie?",
+        "Professor Barendsen: Ik kan daar op dit moment nog niets over zeggen.",
+        "Rik de Man: Voor onderwijs dan misschien?",
+        "Professor Barendsen: Geen commentaar.",
+        "Rik de Man: U wacht dus rustig af?",
+        "Professor Barendsen: Ja, ik weet alleen dat ik word genoemd … Ik wacht rustig af, ja. U moet dus ook rustig afwachten.",
+        "Nu moet ik echt naar mijn vergadering …"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 7,
+      "title": "Oefening 5",
+      "lines": [
+        "1. buur - boer",
+        "2. buurt - beurt",
+        "3. muur - muur",
+        "4. deur - duur",
+        "5. vuur - voer",
+        "6. hoort - huurt",
+        "7. duurt - duurt",
+        "8. schuur - scheur",
+        "9. duwen - duwen",
+        "10. Guus - Goes"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 8,
+      "title": "Oefening 6",
+      "lines": [
+        "1. universiteit",
+        "2. Utrecht",
+        "3. datum",
+        "4. centrum",
+        "5. uiteraard",
+        "6. absoluut",
+        "7. avontuur",
+        "8. directeur",
+        "9. uitdrukken",
+        "10. waarschuwen"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 1,
+      "title": "Uitspraak · Woordaccent",
+      "lines": []
+    },
+    {
+      "book": "wb",
+      "track": 2,
+      "title": "Uitspraak · Zinsaccent fr1",
+      "lines": []
+    },
+    {
+      "book": "wb",
+      "track": 3,
+      "title": "Uitspraak · Zinsaccent fr2",
+      "lines": []
+    },
+    {
+      "book": "wb",
+      "track": 4,
+      "title": "Uitspraak · Zinsaccent fr3",
+      "lines": []
+    },
+    {
+      "book": "wb",
+      "track": 5,
+      "title": "Uitspraak · Zinsaccent fr4",
+      "lines": []
+    },
+    {
+      "book": "wb",
+      "track": 6,
+      "title": "Uitspraak · Zinsaccent",
+      "lines": []
+    },
+    {
+      "book": "wb",
+      "track": 7,
+      "title": "Uitspraak · Zinsaccent",
+      "lines": []
+    },
+    {
+      "book": "wb",
+      "track": 8,
+      "title": "Uitspraak · Intonatie",
+      "lines": []
+    },
+    {
+      "book": "wb",
+      "track": 9,
+      "title": "Uitspraak · Ritme",
+      "lines": []
+    },
+    {
+      "book": "wb",
+      "track": 10,
+      "title": "Grammatica · Passivum",
+      "lines": []
+    },
+    {
+      "book": "wb",
+      "track": 11,
+      "title": "Uitspraak · UU",
+      "lines": []
+    },
+    {
+      "book": "wb",
+      "track": 12,
+      "title": "Luisteren · Politiebericht",
+      "lines": []
+    },
+    {
+      "book": "wb",
+      "track": 13,
+      "title": "Luisteren · Radioreclame",
+      "lines": []
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

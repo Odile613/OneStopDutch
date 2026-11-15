@@ -1,0 +1,828 @@
+[
+  {
+    "book": "tb",
+    "chapter": 1,
+    "track": 1,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_01.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_01.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 1,
+    "track": 2,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_02.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_02.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 1,
+    "track": 3,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_03.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_03.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 1,
+    "track": 4,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_04.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_04.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 1,
+    "track": 5,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_05.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_05.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 1,
+    "track": 6,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_06.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_06.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 3,
+    "track": 7,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_07.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_07.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 3,
+    "track": 8,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_08.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_08.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 4,
+    "track": 9,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_09.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_09.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 4,
+    "track": 10,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_10.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_10.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 4,
+    "track": 11,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_11.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_11.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 4,
+    "track": 12,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_12.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_12.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 5,
+    "track": 13,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_13.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_13.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 5,
+    "track": 14,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_14.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_14.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 6,
+    "track": 15,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_15.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_15.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 6,
+    "track": 16,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_16.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_16.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 6,
+    "track": 17,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_17.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_17.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 6,
+    "track": 18,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_18.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_18.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 6,
+    "track": 19,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_19.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_19.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 8,
+    "track": 20,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_20.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_20.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 8,
+    "track": 21,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_21.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_21.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 8,
+    "track": 22,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_22.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_22.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 8,
+    "track": 23,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_23.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_23.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 8,
+    "track": 24,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_24.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_24.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 8,
+    "track": 25,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_25.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_25.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 8,
+    "track": 26,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_26.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_26.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 9,
+    "track": 27,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_27.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_27.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 9,
+    "track": 28,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_28.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_28.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 12,
+    "track": 29,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_29.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_29.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 12,
+    "track": 30,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_30.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_30.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 13,
+    "track": 31,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_31.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_31.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 13,
+    "track": 32,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_32.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_32.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 13,
+    "track": 33,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_33.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_33.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 13,
+    "track": 34,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_34.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_34.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 13,
+    "track": 35,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_35.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_35.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 13,
+    "track": 36,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_36.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_36.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 14,
+    "track": 37,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_37.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_37.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 14,
+    "track": 38,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_38.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_38.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 14,
+    "track": 39,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_39.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_39.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 14,
+    "track": 40,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_40.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_40.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 14,
+    "track": 41,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_41.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_41.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 14,
+    "track": 42,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_42.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_42.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 14,
+    "track": 43,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_43.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_43.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 14,
+    "track": 44,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_44.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_44.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 15,
+    "track": 45,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_45.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_45.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 15,
+    "track": 46,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_46.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_46.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 16,
+    "track": 47,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_47.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_47.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 16,
+    "track": 48,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_48.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_48.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 16,
+    "track": 49,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_49.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_49.mp3"
+  },
+  {
+    "book": "tb",
+    "chapter": 16,
+    "track": 50,
+    "file": "Audio/contact-3/textbook/Contact-nieuw_3_tb_Track_50.mp3",
+    "source": "audio/textbook/Contact-nieuw_3_tb_Track_50.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 1,
+    "track": 1,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_01.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_01.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 1,
+    "track": 2,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_02.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_02.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 1,
+    "track": 3,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_03.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_03.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 1,
+    "track": 4,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_04.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_04.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 1,
+    "track": 5,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_05.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_05.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 2,
+    "track": 6,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_06.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_06.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 2,
+    "track": 7,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_07.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_07.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 2,
+    "track": 8,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_08.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_08.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 2,
+    "track": 9,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_09.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_09.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 3,
+    "track": 10,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_10.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_10.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 4,
+    "track": 11,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_11.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_11.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 4,
+    "track": 12,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_12.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_12.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 4,
+    "track": 13,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_13.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_13.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 4,
+    "track": 14,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_14.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_14.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 5,
+    "track": 15,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_15.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_15.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 5,
+    "track": 16,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_16.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_16.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 5,
+    "track": 17,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_17.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_17.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 5,
+    "track": 18,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_18.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_18.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 5,
+    "track": 19,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_19.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_19.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 6,
+    "track": 20,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_20.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_20.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 6,
+    "track": 21,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_21.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_21.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 7,
+    "track": 22,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_22.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_22.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 7,
+    "track": 23,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_23.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_23.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 7,
+    "track": 24,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_24.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_24.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 8,
+    "track": 25,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_25.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_25.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 8,
+    "track": 26,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_26.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_26.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 9,
+    "track": 27,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_27.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_27.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 9,
+    "track": 28,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_28.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_28.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 9,
+    "track": 29,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_29.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_29.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 9,
+    "track": 30,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_30.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_30.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 9,
+    "track": 31,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_31.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_31.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 9,
+    "track": 32,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_32.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_32.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 11,
+    "track": 33,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_33.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_33.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 11,
+    "track": 34,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_34.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_34.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 12,
+    "track": 35,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_35.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_35.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 12,
+    "track": 36,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_36.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_36.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 12,
+    "track": 37,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_37.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_37.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 13,
+    "track": 38,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_38.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_38.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 13,
+    "track": 39,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_39.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_39.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 13,
+    "track": 40,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_40.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_40.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 13,
+    "track": 41,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_41.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_41.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 13,
+    "track": 42,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_42.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_42.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 13,
+    "track": 43,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_43.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_43.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 13,
+    "track": 44,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_44.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_44.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 13,
+    "track": 45,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_45.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_45.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 14,
+    "track": 46,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_46.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_46.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 14,
+    "track": 47,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_47.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_47.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 14,
+    "track": 48,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_48.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_48.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 14,
+    "track": 49,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_49.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_49.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 14,
+    "track": 50,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_50.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_50.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 14,
+    "track": 51,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_51.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_51.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 15,
+    "track": 52,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_52.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_52.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 15,
+    "track": 53,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_53.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_53.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 15,
+    "track": 54,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_54.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_54.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 15,
+    "track": 55,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_55.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_55.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 15,
+    "track": 56,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_56.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_56.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 15,
+    "track": 57,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_57.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_57.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 15,
+    "track": 58,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_58.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_58.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 15,
+    "track": 59,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_59.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_59.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 60,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_60.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_60.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 61,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_61.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_61.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 62,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_62.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_62.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 63,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_63.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_63.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 64,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_64.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_64.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 65,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_65.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_65.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 66,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_66.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_66.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 67,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_67.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_67.mp3"
+  },
+  {
+    "book": "wb",
+    "chapter": 16,
+    "track": 68,
+    "file": "Audio/contact-3/workbook/Contact-nieuw_3_wb_Track_68.mp3",
+    "source": "audio/workbook/Contact-nieuw_3_wb_Track_68.mp3"
+  }
+]

@@ -1,0 +1,886 @@
+{
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "delen",
+          "english": "to share",
+          "other": null,
+          "note": "Ze delen de rekening. They are sharing the bill."
+        },
+        {
+          "dutch": "kosten",
+          "english": "to cost",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "roepen",
+          "english": "to shout",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "staan",
+          "english": "to stand",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "sturen",
+          "english": "to send",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verkopen",
+          "english": "to sell",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "winnen",
+          "english": "to win",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "worden",
+          "english": "to become, to get",
+          "other": null,
+          "note": "Mijn dochter wordt snel groot. My daughter is growing up fast."
+        },
+        {
+          "dutch": "zitten",
+          "english": "to sit",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de bakker (de bakkers)",
+          "english": "baker (bakers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bezorger (de bezorgers)",
+          "english": "delivery man (delivery men)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de dochter (de dochters)",
+          "english": "daughter (daughters)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de fles (de flessen)",
+          "english": "bottle (bottles)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de informatie (-)",
+          "english": "information",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de jurk (de jurken)",
+          "english": "dress (dresses)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kleren (pl)",
+          "english": "clothes",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kinderkleren",
+          "english": "children’s clothes",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de liter (de liters)",
+          "english": "litre (litres)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de pinpas (de pinpassen)",
+          "english": "debit card (debit cards)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de schoen (de schoenen)",
+          "english": "shoe (shoes)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de slager (de slagers)",
+          "english": "butcher (butchers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de stoel (de stoelen)",
+          "english": "chair (chairs)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verkoper (de verkopers)",
+          "english": "salesman (salesmen)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kosten (pl)",
+          "english": "costs",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verzendkosten (pl)",
+          "english": "shipping costs",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het apparaat (de apparaten)",
+          "english": "device (devices)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het artikel (de artikelen/artikels)",
+          "english": "item (items)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het briefje van tien (de briefjes van tien)",
+          "english": "ten-euro note (ten-euro notes)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het geld (-)",
+          "english": "money",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het kleingeld",
+          "english": "small change",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het wisselgeld",
+          "english": "change",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het meisje (de meisjes)",
+          "english": "girl (girls)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het meubel (de meubels)",
+          "english": "piece of furniture (furniture)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het speelgoed (-)",
+          "english": "toys",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het T-shirt (de T-shirts)",
+          "english": "T-shirt (T-shirts)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "een gesprek voeren",
+          "english": "to have a conversation",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "te koop",
+          "english": "for sale",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het verschil tussen A en B",
+          "english": "the difference between A and B",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "van goede/slechte kwaliteit zijn",
+          "english": "to be of good / bad quality",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "ander (andere)",
+          "english": "other",
+          "other": null,
+          "note": "Ga je naar de supermarkt of naar een andere winkel? Do you go to the supermarket or to another shop?"
+        },
+        {
+          "dutch": "blij (blije)",
+          "english": "happy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "speciaal (speciale)",
+          "english": "special",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verschillend (verschillende)",
+          "english": "various, different",
+          "other": null,
+          "note": "Hoeveel verschillende producten koopt Daniël? How many different products does Daniel buy?"
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "exclusief",
+          "english": "not included",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "extra",
+          "english": "extra",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "heel + adjectief",
+          "english": "very + adjective",
+          "other": null,
+          "note": "Het is heel goed. It is very good."
+        },
+        {
+          "dutch": "maar",
+          "english": "but",
+          "other": "only (or no translation)",
+          "note": "Je wilt maar 1 stoel. You only want one chair."
+        },
+        {
+          "dutch": "meteen",
+          "english": "right away",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "per stuk",
+          "english": "per piece",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "precies",
+          "english": "exactly",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "te",
+          "english": "too",
+          "other": null,
+          "note": "De kleren zijn nu te klein. The clothes are too small now."
+        },
+        {
+          "dutch": "via",
+          "english": "via, by means of",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wel eens",
+          "english": "ever",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zelf",
+          "english": "self",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Hoeveel kost het?",
+          "english": "How much is it?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ga je gang.",
+          "english": "Go ahead. (informal)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Gaat uw gang.",
+          "english": "Go ahead. (formal)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Doe die maar.",
+          "english": "That one / Those ones, please. (informal)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Doet u die maar.",
+          "english": "That one / Those ones, please. (formal)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Geef maar.",
+          "english": "I’ll have … (informal)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Geeft u maar.",
+          "english": "I’ll have … (formal)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Laat maar zitten.",
+          "english": "Never mind.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Leer ook:",
+          "english": "Also learn:",
+          "other": null,
+          "note": "– de preposities (zie p. 92) – the prepositions (see p. 92)\n– eventueel: de woorden van het werkblad bij oefening 6.\n– optional: the words on the worksheet accompanying exercise 6."
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 50,
+      "title": null,
+      "lines": [
+        "Caissière: Goedemiddag.",
+        "Mw. Lucassen: Goedemiddag.",
+        "Caissière: U hebt één fles wijn, zie ik. Maar de wijn is deze week in de aanbieding: twee voor de",
+        "prijs van één. Wilt u nog een tweede fles wijn?",
+        "Mw. Lucassen: O, dank u. Ja, ik pak nog even snel een tweede fles. Momentje.",
+        "Mw. Lucassen: Alstublieft.",
+        "Caissière: Dank u wel.",
+        "Mw. Lucassen: Mag ik ook een tasje?",
+        "Caissière: Natuurlijk. Dat kost wel twintig cent extra.",
+        "Mw. Lucassen: Ja, dat is prima.",
+        "Caissière: Dat is dan zeventien euro dertig, alstublieft. U kunt bij deze kassa alleen pinnen.",
+        "Mw. Lucassen: Oké.",
+        "Mw. Lucassen: Hij doet het niet.",
+        "Caissière: Een momentje ... ja. Probeert u het nu nog eens?",
+        "Mw. Lucassen: Ja, nu doet hij het wel.",
+        "Caissière: Mooi. Spaart u zegeltjes?",
+        "Mw. Lucassen: Nee, dank u wel.",
+        "Caissière: En wilt u het bonnetje?",
+        "Mw. Lucassen: Ja, graag.",
+        "Caissière: Alstublieft. En nog een fijne dag.",
+        "Mw. Lucassen: Dank u wel. U ook."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 51,
+      "title": null,
+      "lines": [
+        "Groenteman: Wie kan ik dan helpen?",
+        "Daniël: Ja, mij graag.",
+        "Groenteman: Zegt u het maar, wat mag het zijn?",
+        "Daniël: Ik wil graag appels.",
+        "Groenteman: Welke wilt u? Deze Elstars hier, of die Jonagolds daar?",
+        "Daniël: Doe die maar, die daar liggen. Die vind ik het lekkerst.",
+        "Groenteman: Hoeveel mag het zijn?",
+        "Daniël: Doet u maar anderhalve kilo.",
+        "Groenteman: Anders nog iets?",
+        "Daniël: Ja, ook nog champignons alstublieft, 400 gram graag.",
+        "Groenteman: Kijkt u eens, 400 gram champignons. Anders nog iets?",
+        "Daniël: Ja, ook nog uien, zes stuks graag.",
+        "Groenteman: Grote of kleine?",
+        "Daniël: Doe maar grote.",
+        "Groenteman: Alstublieft, zes mooie, grote uien! Was het dat zo?",
+        "Daniël: Ja, dat was het. Hoeveel kost het?",
+        "Groenteman: Dat is dan vijf euro tachtig.",
+        "Daniël: Ik heb alleen een briefje van twintig. Hebt u terug van twintig euro?",
+        "Groenteman: Ja, dat lukt wel. Hebt u er misschien 80 cent bij?",
+        "Daniël: Nee, sorry.",
+        "Irene: Ik wel! Hier, alstublieft, 80 cent.",
+        "Groenteman: Bedankt. Kijk, hier is het wisselgeld, vijftien euro. Dank u wel hoor, en tot ziens.",
+        "Daniel: U ook bedankt en tot ziens."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 52,
+      "title": null,
+      "lines": [
+        "Harold: Goedenavond.",
+        "Bezorger: Goedenavond, uw pizza!",
+        "Harold: O, dat is snel! Wacht, ik pak even mijn portemonnee. Hoeveel is het?",
+        "Bezorger: Negen euro vijfennegentig.",
+        "Harold:  Negen vijfennegentig?! Maar een pizza Hawaï kost toch zeven vijfennegentig? Kijk maar,",
+        "dat staat hier op jullie website.",
+        "Bezorger: Ja, de pizza kost zeven vijfennegentig, maar met de bezorgkosten is dat twee euro extra.",
+        "Samen is het negen euro vijfennegentig.",
+        "Harold:  O jee, maar ik heb geen negen vijfennegentig aan kleingeld. Ik heb maar acht euro in huis.",
+        "Bezorger: O, maar u kúnt ook niet contant betalen. U mag alleen pinnen. Ik mag van mijn baas geen",
+        "contant geld bij me hebben. Dat is voor de veiligheid, weet u.",
+        "Harold:  Oké. Eh, ja, dan pak ik mijn pinpas even. Een moment.",
+        "Bezorger: Kijkt u eens, hier is het pinapparaat.",
+        "Harold: Bedankt.",
+        "Bezorger: Dank u wel en eet smakelijk!",
+        "Harold: Ja, bedankt. Fijne avond nog!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 53,
+      "title": null,
+      "lines": [
+        "Serveerster: Kan ik jullie nog iets te drinken brengen?",
+        "Hein: Nee, dank je. We gaan zo. We willen graag betalen.",
+        "Serveerster: Ik zal de rekening even brengen.",
+        "Hein: Ja, bedankt.",
+        "Paul:  Zullen we de rekening delen?",
+        "Laurens:  Nee joh. Ik heb veel meer genomen dan jullie. Ik heb iets gegeten, en jullie hebben alleen",
+        "iets gedronken, dus ik betaal alles wel.",
+        "Hein:  Weet je het zeker? We kunnen ook via de betaal-app even geld aan je overmaken.",
+        "Laurens:  Ben je gek! Ik trakteer!",
+        "Paul en Hein: Dank je wel, man. Bedankt.",
+        "Serveerster: Alsjeblieft, de rekening. Aan wie mag ik hem geven?",
+        "Laurens: Ja, aan mij. Even kijken … dertien vijfenveertig ... Ik heb niet genoeg kleingeld bij me. Kan",
+        "ik ook pinnen?",
+        "Serveerster:  Ja, natuurlijk. Dat kan binnen. Loop maar mee.",
+        "[…]",
+        "Laurens:  Maak er maar vijftien euro van.",
+        "Serveerster:  Dank je wel. Een moment, ik moet het bedrag nog even intypen….. . Ja, ga je gang.",
+        "[…]",
+        "Serveerster: Wil je het bonnetje?",
+        "Laurens: Nee hoor, bedankt.",
+        "Serveerster: Nou, dank je wel, en nog een fijne dag!",
+        "Laurens: Ja, jij ook!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 54,
+      "title": null,
+      "lines": [
+        "M.S.: medewerker snackbar",
+        "M.S.: Zo. Wie kan ik helpen?",
+        "Remi: Ja, ons.",
+        "M.S.: Wat mag het zijn?",
+        "Remi: Frietjes graag, een gezinszak, zonder mayonaise.",
+        "Kind 1: Papa, ik wil wel mayo!",
+        "Remi: We hebben thuis nog een pot mayo staan, schatje.",
+        "M.S.: Anders nog iets?",
+        "Remi: Ja, ook drie kroketten en een hamburger, graag.",
+        "Kind 2: En mama wil een loempia!",
+        "Remi: O ja, ook nog een loempia graag.",
+        "M.S.: Wilt u het meenemen of hier opeten?",
+        "Remi: Meenemen, graag.",
+        "M.S.: Prima. Dan wordt het samen elf euro vijftig alstublieft.",
+        "Remi: Sammie, geef jij het geld maar aan die meneer. Alsjeblieft.",
+        "Kind 2: Alstublieft meneer.",
+        "M.S.: Dank je wel!",
+        "M.S.: Eh, meneer, u geeft niet genoeg.",
+        "Remi: Echt waar?",
+        "M.S.: Ja, het spijt me. Het kost elf vijftig, en u geeft me elf twintig. Ik krijg dus nog 30 cent.",
+        "Remi: O, excuus, dan heb ik niet goed gekeken! Ehhm… even zoeken … o wat erg … ik heb niet",
+        "meer kleingeld bij me. En mijn pinpas ligt thuis. Ik kan wel even naar huis lopen om mijn",
+        "pinpas op te halen.",
+        "M.S.: Ach, nee hoor. Laat maar zitten die 30 cent. Het is goed zo.",
+        "Remi: Dank u. Echt, sorry!",
+        "M.S.: Kan gebeuren. Hier is uw bonnetje, met uw nummer.",
+        "Remi: Dank u.",
+        "Kind 1: Pap, kunnen we nu gaan? Ik heb honger!",
+        "Remi: Nee, schatje, het eten is nog niet klaar. Die meneer gaat de friet nu bakken. Je moet nog",
+        "heel even wachten.",
+        "Kind 2: Mogen we dan een ijsje?",
+        "Remi: Nee, we gaan zo eten. Geen ijsjes voor het eten.",
+        "M.S.: Nummer 17!",
+        "Remi: Ja, dat zijn wij.",
+        "M.S.: Alstublieft. Smakelijk!",
+        "Remi: Dank u wel. Fijne avond! Kom kinderen, we gaan!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 55,
+      "title": null,
+      "lines": [
+        "Dialoog 1",
+        "Verkoper: Wie is er aan de beurt?",
+        "Klant: Ik ben aan de beurt.",
+        "Verkoper: Wat mag het zijn?",
+        "Klant: Ik wil graag vijf hamburgers en anderhalve kilo gehakt, alstublieft.",
+        "Verkoper: Natuurlijk. Anders nog iets?",
+        "Klant: Nee, dank u. Hoeveel is het?",
+        "Verkoper: Negen euro veertig, alstublieft.",
+        "Dialoog 2",
+        "Verkoper: Wie kan ik helpen?",
+        "Klant: Mij. Mag ik vier croissantjes, alstublieft?",
+        "Verkoper: Vier croissantjes … Dat was het?",
+        "Klant: Nee, ik wil ook graag één bruin brood.",
+        "Verkoper: Kijk eens, alstublieft.",
+        "Klant: Dank u wel. Hoeveel kost het?",
+        "Verkoper: Het kost drie zeventig, alstublieft.",
+        "Dialoog 3",
+        "Verkoper: Zegt u het maar.",
+        "Klant: Ik wil graag twee pizza’s met salami, alstublieft. Hoe duur zijn de pizza’s eigenlijk?",
+        "Verkoper: Ze zijn in de aanbieding: vier vijfennegentig per pizza."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 56,
+      "title": null,
+      "lines": [
+        "Hebt u er misschien 80 cent bij?",
+        "Wilt u pinnen?",
+        "Het kost € 5,20",
+        "Het kost € 2,50 per kilo.",
+        "Wilt u een tasje?",
+        "Wie kan ik helpen?",
+        "Ik zal de rekening even brengen.",
+        "Ik breng het meteen!",
+        "U krijgt 40% korting.",
+        "Hebt u er misschien 40 cent bij?",
+        "Het kost 40 cent per 100 gram.",
+        "Dat is dan € 8,40",
+        "Anders nog iets?",
+        "Wilt u het bonnetje?",
+        "Wilt u het meenemen of hier opeten?",
+        "Ik kom zo bij u.",
+        "Wat mag het zijn?",
+        "Hoeveel mag het zijn?",
+        "Wilt u zegeltjes?",
+        "U kunt hier alleen pinnen.",
+        "Dat was het zo?",
+        "Bedankt en tot ziens.",
+        "Hier is uw wisselgeld.",
+        "Wie is er aan de beurt?",
+        "Dat is dan € 4,80.",
+        "U kunt bij deze kassa alleen pinnen.",
+        "Zegt u het maar.",
+        "Ze zijn in de aanbieding.",
+        "Dank u wel en tot ziens.",
+        "Hier is de rekening."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 57,
+      "title": null,
+      "lines": [
+        "bedankt",
+        "getal",
+        "natuurlijk",
+        "jarig",
+        "praten",
+        "boeken",
+        "code",
+        "tafel",
+        "bezem",
+        "jongen",
+        "vader",
+        "kopje",
+        "grote",
+        "groter"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 58,
+      "title": null,
+      "lines": [
+        "1. de.de.de. de – de – de - de – de",
+        "2. je.je.je. je – je – je – je – je",
+        "3. het.het.het. het – het – het – het – het",
+        "4. we.we.we. we – we – we – we –we",
+        "5. ze.ze.ze. ze – ze – ze – ze – ze",
+        "6. het bonnetje.  Wilt u het bonnetje?",
+        "7. Natuurlijk! Natuurlijk niet!",
+        "8. Zullen we een kopje koffie drinken?"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 43,
+      "title": null,
+      "lines": [
+        "1.",
+        "A: Hoeveel is het?",
+        "B: Dat is dan negen euro vijfennegentig.",
+        "2.",
+        "A: Wat kosten de kiwi’s?",
+        "B: 20 eurocent per stuk, mevrouw.",
+        "3.",
+        "A: Deze wijn kost vijfentwintig euro vijftig.",
+        "4.",
+        "A: Het gehakt is in de aanbieding en het kost nu zeven vijfenzeventig per kilo.",
+        "5.",
+        "A: Driehonderdzevenendertig euro is te duur voor een etentje voor vier personen.",
+        "6.",
+        "A: Een kopje koffie in een café kost twee euro vijftig.",
+        "7.",
+        "A: Deze auto is tien jaar oud en kost zevenentwintighonderd euro.",
+        "8.",
+        "A: Dat is dan vierenvijftig euro in totaal.",
+        "9.",
+        "A: Hoeveel moet ik betalen? Achttienhonderdvijfentachtig euro? Dat is te veel.",
+        "10.",
+        "A: Het is vijfennegentig euro. U kunt pinnen of contant betalen."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 44,
+      "title": null,
+      "lines": [
+        "Dialoog 1:",
+        "Groenteboer: Goedemiddag, mevrouw. Kan ik u helpen?",
+        "Klant: Ja, ik wil graag wat fruit kopen.",
+        "Groenteboer:  Ik heb vandaag lekkere peren. De peren zijn niet duur, een euro negenenveertig per kilo.",
+        "Klant:  Dan wil ik graag een kilo peren, alstublieft. En ik wil ook graag bananen.",
+        "Groenteboer:  Geen probleem. De bananen kosten een euro negenentachtig per kilo.",
+        "Klant: Een kilo bananen, graag. O, en hoeveel kosten die bessen?",
+        "Groenteboer:  Tweehonderdvijftig gram bessen kost twee euro negenennegentig. Hoeveel bessen wilt",
+        "u?",
+        "Klant: Doe maar tweehonderdvijftig gram.",
+        "Groenteboer: Dat was het?",
+        "Klant: Ja, dat was het. Kan ik pinnen?",
+        "Groenteboer: Ja, natuurlijk. Dat is dan € 6,37."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 45,
+      "title": null,
+      "lines": [
+        "Dialoog 2:",
+        "Klant: Hallo.",
+        "Bakker: Goedemiddag, meneer. Zegt u het maar.",
+        "Klant:  Eh, ik heb twee broden nodig. Hoeveel kosten de broden?",
+        "Bakker: De broden zijn vandaag in de aanbieding. U krijgt één brood voor maar negenennegentig",
+        "cent.",
+        "Klant: Oh, dat is niet duur. Doe er maar drie!",
+        "Bakker: En wilt u verder nog iets?",
+        "Klant: Ja, die croissantjes, graag. Lekker voor het ontbijt morgen!",
+        "Bakker: Ja, die zijn heel lekker. Vier croissantjes kosten één euro vijftig.",
+        "Klant: Vier croissantjes, graag.",
+        "Bakker: Dat was het?",
+        "Klant: Hoeveel kost die chocoladetaart?",
+        "Bakker: Die taart kost twaalf euro vijfennegentig.",
+        "Klant: Oh, dat is een beetje duur. Alleen de broden en de croissantjes, graag.",
+        "Bakker: Prima. Dat is dan vier euro zevenenveertig. Wilt u pinnen?",
+        "Klant: Ja, ik wil graag pinnen."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 46,
+      "title": null,
+      "lines": [
+        "Wie kan ik helpen? Ja, mij.",
+        "Wat mag het zijn? Een kilo sinaasappels, graag",
+        "Anders nog iets? Twee kilo appels, alstublieft.",
+        "Welke wilt u? Doe die groene maar.",
+        "Was dat het zo? Ja, dat was alles",
+        "Dat is dan 4 euro samen. Alstublieft, 4 euro.",
+        "Dank u wel. En nog een fijne dag! U ook!",
+        "Wie is er aan de beurt? Ik ben aan de beurt.",
+        "Zegt u het maar. Mag ik één volkoren brood, alstublieft?",
+        "Anders nog iets? Ja, ook vier croissantjes, alstublieft.",
+        "Was dat het zo? Ja, dat was het.",
+        "Dat is dan 6 euro samen. Alstublieft, 50 euro.",
+        "Hebt u niet kleiner? Nee, sorry.",
+        "Hebt u er misschien 80 cent bij? Ja, hier, alstublieft.",
+        "Oké. En hier is uw wisselgeld. Dank u wel.",
+        "Prettige dag nog! Ja, u ook!",
+        "Hoe duur zijn de T-shirts? 7 euro per stuk.",
+        "Hoeveel kost de broek? 25 euro.",
+        "Hoeveel is het samen? 32 euro, alles bij elkaar.",
+        "Kan ik hier pinnen? Nee, helaas, u kunt alleen contant betalen."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 47,
+      "title": null,
+      "lines": [
+        "1. makkelijk",
+        "2. duidelijk",
+        "3. belangrijk",
+        "4. moeilijk",
+        "5. Frankrijk",
+        "6. natuurlijk"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 48,
+      "title": null,
+      "lines": [
+        "1. anders",
+        "2. betaal",
+        "3. helaas",
+        "4. kleingeld",
+        "5. koper",
+        "6. pakket",
+        "7. samen",
+        "8. student"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 49,
+      "title": null,
+      "lines": [
+        "1.  “Vandaag in de aanbieding: onze heerlijke taarten, vers van de echte bakker! Twee halen, één",
+        "betalen!“",
+        "2.  “Dames en heren. Attentie! Tijdens de feestdagen hebben wij andere openingstijden dan",
+        "normaal. Morgen, op oudejaarsdag, zijn we alleen in de ochtend geopend, van 9 tot 12 uur.",
+        "En op nieuwjaarsdag zijn we de hele dag gesloten. ”",
+        "3. “Geachte klant, kassa 6 gaat voor u open. ”",
+        "4.  “Attentie, dames en heren. Willen de ouders van Tom zich melden bij de servicebalie? Tom wacht op",
+        "zijn ouders bij de servicebalie. “"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 50,
+      "title": null,
+      "lines": [
+        "1. Wilt u ook het bonnetje?",
+        "2. Wilt u pinnen of contant betalen?",
+        "3. Bij deze kassa kunt u alleen pinnen.",
+        "4. Hebt u misschien 50 cent erbij?",
+        "5. Alstublieft, hier is uw rekening.",
+        "6. Zullen we de rekening delen?",
+        "7. Zullen we het boek voor u bestellen?",
+        "8. Uw boek is binnen. Komt u het boek ophalen of zullen we het verzenden?"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 51,
+      "title": null,
+      "lines": [
+        "1. Wilt u ook het bonnetje?",
+        "– Ja, graag.",
+        "– Nee, dank u.",
+        "2. Wilt u pinnen of contant betalen?",
+        "– Pinnen graag.",
+        "– Contant betalen graag.",
+        "3. Bij deze kassa kunt u alleen pinnen.",
+        "– Ja, prima.",
+        "– Oh. Ik heb geen pinpas.",
+        "– En bij de andere kassa’s?",
+        "4. Hebt u misschien 50 cent erbij?",
+        "– Ja, alstublieft.",
+        "– Ik zal even kijken.",
+        "– Nee, sorry.",
+        "5. Alstublieft, hier is uw rekening.",
+        "– Dank u wel.",
+        "– Dank u wel. Kan ik hier pinnen?",
+        "6. Zullen we de rekening delen?",
+        "– Ja, dat is goed.",
+        "– Nee, ik trakteer!",
+        "7. Zullen we het boek voor u bestellen?",
+        "– Ja, graag.",
+        "– Nee, dank u.",
+        "– Nee, dank u, dat is niet nodig.",
+        "8. Uw boek is binnen. Zullen we het boek verzenden? Of komt u het boek ophalen?",
+        "– Verzenden graag.",
+        "– Ik kom het boek ophalen."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "id": "tb-09-auto-1",
+      "instruction": "Kies het juiste antwoord.",
+      "question": "Oefening bij hoofdstuk 9: Hoeveel kost het?.",
+      "options": [
+        "Juist",
+        "Onjuist"
+      ],
+      "answerIndex": 0,
+      "explanation": ""
+    }
+  ],
+  "workbookExercises": [],
+  "grammar": [
+    {
+      "id": "ch09-overzicht",
+      "title": "Overzicht hoofdstuk 9",
+      "paragraphs": [
+        "Hoofdstuk 9: Hoeveel kost het?. Dit overzicht bevat de belangrijkste grammaticale punten en woordenschat van dit hoofdstuk."
+      ],
+      "examples": []
+    }
+  ],
+  "number": 9,
+  "title": "Hoeveel kost het?"
+}

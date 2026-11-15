@@ -1,0 +1,573 @@
+{
+  "number": 7,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "aanbieden (ik bied … aan)",
+          "english": "to offer (I offer, I am offering)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "accepteren",
+          "english": "to accept",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "geloven",
+          "english": "to believe",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "helpen",
+          "english": "to help",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "kopiëren",
+          "english": "to copy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lenen",
+          "english": "to borrow",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lukken",
+          "english": "to succeed, to manage",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "maken",
+          "english": "to repair, to fix",
+          "other": null,
+          "note": "Mijn fiets is kapot. Kun jij hem maken? My bike is broken. Can you repair it?"
+        },
+        {
+          "dutch": "ophalen (ik haal … op)",
+          "english": "to pick up (I pick up, I am picking up)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ophangen (ik hang … op)",
+          "english": "to hang (I hang, I am hanging)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "repareren",
+          "english": "to repair",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "tillen",
+          "english": "to lift",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vervangen",
+          "english": "to replace",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verzorgen",
+          "english": "to take care of",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "voeren",
+          "english": "to feed",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "voorlezen (ik lees … voor)",
+          "english": "to read to sb (I read, I am reading)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "niet hoeven (+ te + infinitief)",
+          "english": "to not be necessary, to not need",
+          "other": null,
+          "note": "Je hoeft niet te helpen. You don’t need to help."
+        },
+        {
+          "dutch": "het is gelukt (lukken)",
+          "english": "I/we succeeded, I/we … have succeeded (to succeed)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ik heb gebroken (breken)",
+          "english": "I broke, I have broken (to break)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ik heb gezocht (zoeken)",
+          "english": "I looked for, I have looked for (to look for)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ik heb gevonden (vinden)",
+          "english": "I found, I have found (to find)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ik ben gevlucht (vluchten)",
+          "english": "I fled, I have fled (to flee)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de bak (de bakken)",
+          "english": "bin",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de afvalbak (de afvalbakken)",
+          "english": "rubbish bin, garbage can",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vuilnisbak (de vuilnisbakken)",
+          "english": "rubbish bin, garbage can",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de hulp (-)",
+          "english": "help",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de stoep (de stoepen)",
+          "english": "pavement",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de zak (de zakken)",
+          "english": "bag",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vuilniszak (de vuilniszakken)",
+          "english": "rubbish bag",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de/het vuilnis (-)",
+          "english": "rubbish",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het aanbod (- / de aanbiedingen)",
+          "english": "offer",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het afval (-)",
+          "english": "waste, rubbish",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gft-afval (-)",
+          "english": "organic waste",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gereedschap (de gereedschappen)",
+          "english": "tools (pl)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het klusje (de klusjes)",
+          "english": "odd job, chore",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het schilderij (de schilderijen)",
+          "english": "painting (paintings)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het stel (de stellen)",
+          "english": "couple (couples)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "erg (erge)",
+          "english": "bad, awful",
+          "other": null,
+          "note": "Dat is het ergste. That’s the worst."
+        },
+        {
+          "dutch": "grijs (grijze)",
+          "english": "grey",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lastig (lastige)",
+          "english": "tough, hard",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zwaar (zware)",
+          "english": "heavy",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "bijzinconjuncties",
+      "entries": [
+        {
+          "dutch": "dat",
+          "english": "that",
+          "other": null,
+          "note": "Ik denk dat hij veel pijn heeft. I think he is in a lot of pain."
+        },
+        {
+          "dutch": "of",
+          "english": "if, whether",
+          "other": null,
+          "note": "Ik weet niet of hij veel pijn heeft. I don’t know if he is in a lot of pain."
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "de ene …, de andere …",
+          "english": "one …, the next …",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de ene week …, de andere week …",
+          "english": "one week…, the next week…",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "namelijk",
+          "english": "you see …, the thing is …",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "toch",
+          "english": "after all, surely",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "de hond uitlaten",
+          "english": "to walk the dog",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "op de kinderen / de baby passen",
+          "english": "to look after the children / the baby",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "op de koffie komen",
+          "english": "to be invited for coffee",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "iemand een lift geven",
+          "english": "to give somebody a ride",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een praatje maken",
+          "english": "to have a chat",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de/het vuilnis buitenzetten / aan de straat zetten",
+          "english": "to put the rubbish outside",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Dat hoeft niet.",
+          "english": "That’s not necessary.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dat wist ik niet.",
+          "english": "I didn’t know that.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Echt niet?",
+          "english": "Are you sure?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Het is een kleine moeite.",
+          "english": "It’s not much effort.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Het lukt niet.",
+          "english": "It’s not working., I can’t do it.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Je bent geweldig!",
+          "english": "You are great!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Lekker weertje, hè?",
+          "english": "Nice weather, isn’t it?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Wat erg!",
+          "english": "That’s terrible!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Wat is er aan de hand?",
+          "english": "What’s going on?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Weet je het zeker?",
+          "english": "Are you sure? honderddrieëntachtig 183",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 24,
+      "title": null,
+      "lines": [
+        "Naresh: Hoi Mariska!",
+        "Mariska: Hé, Naresh! Lekker weertje, hè?",
+        "Naresh: Ja, heerlijk!",
+        "Mariska: Hoe is het met je?",
+        "Naresh: Goed, en met jou?",
+        "Mariska: Met mij gaat het prima, maar met Edwin gaat het niet zo goed.",
+        "Naresh: Och jee! Wat is er aan de hand?",
+        "Mariska: Hij heeft zijn arm gebroken.",
+        "Naresh: Hoe is dat gebeurd?",
+        "Mariska: Hij is van zijn fiets gevallen.",
+        "Naresh: Wat erg! Heeft hij veel pijn?",
+        "Mariska: \u0007Hij zegt dat hij niet veel pijn heeft. Maar ik denk dat hij wel pijn heeft. En hij kan niet veel",
+        "doen nu, dat is het ergste. Ik moet hem steeds naar zijn werk brengen, omdat hij nu niet",
+        "kan autorijden of fietsen. En hij kan niets in het huishouden doen. Ik moet bijvoorbeeld",
+        "alle boodschappen doen, omdat Edwin geen zware tassen kan tillen. En gisteren heeft hij",
+        "geprobeerd een lamp te vervangen. Maar dat lukt hem niet met één arm. En Edwin denkt",
+        "dat ik dat niet kan.",
+        "Naresh: \u0007Dat is lastig, ja. Kan ík misschien iets doen? Ik kan hem ook wel een keer een lift geven, als",
+        "je geen tijd hebt.",
+        "Mariska: Nee hoor, dat hoeft niet.",
+        "Naresh: Echt niet? Het is een kleine moeite.",
+        "Mariska: Weet je het zeker?",
+        "Naresh: Ja, natuurlijk! Ik help jullie graag.",
+        "Mariska: \u0007Wat aardig! Ik denk dat een beetje hulp toch wel handig is. Ik zal het straks even met",
+        "Edwin overleggen.",
+        "Naresh: Prima. App me maar als ik iets kan doen.",
+        "Mariska: Je bent geweldig! En je moet het ook zeggen, als wij jou een keer kunnen helpen!",
+        "Naresh: Ja, dat zal ik doen. Dank je wel!",
+        "Mariska: \u0007Trouwens, ik zie dat jij de grijze vuilniszak buitenzet. Maar vandaag is het toch de ophaal-",
+        "dag voor het gft-afval?",
+        "Naresh: Sorry?",
+        "Mariska: Het gft-afval, de groene bak.",
+        "Naresh: Ik snap niet wat je bedoelt.",
+        "Mariska: \u0007De ene week komen ze de grijze vuilniszakken ophalen, en de andere week de groene",
+        "containers. Volgens mij zijn deze week de groene containers aan de beurt.",
+        "Naresh: Echt waar? Dat wist ik niet.",
+        "Mariska: Heb je geen afvalkalender?",
+        "Naresh: Sorry, een ehh, afvalkalender? Ik weet niet wat dat is.",
+        "Mariska: Een afvalkalender. Op die kalender staat per week welk afval ze komen ophalen.",
+        "Naresh: Wat is afval?",
+        "Mariska: O, ken je dat woord niet? Sorry! Dat is hetzelfde als vuilnis.",
+        "Naresh: Ah, oké.",
+        "Mariska: Heb je die kalender niet gekregen? Meestal krijg je die aan het begin van het jaar.",
+        "Naresh: Nee, ik denk dat ik geen kalender heb.",
+        "Mariska: \u0007Wil je onze kalender kopiëren? Of nee, ik heb een beter plan! Kom vanavond gezellig bij",
+        "ons op de koffie. Dan laat ik je de website met de afvalkalender zien. De kalender staat",
+        "namelijk ook online. Zullen we dat doen?",
+        "Naresh: Ja, goed idee! Gezellig!",
+        "Mariska: Rond 8 uur?",
+        "Naresh: Prima.",
+        "Mariska: \u0007Tot vanavond! En vergeet niet dat je vandaag de groene container buiten moet zetten.",
+        "En de grijze zak moet je weer naar binnen brengen, helaas.",
+        "Naresh: Ja, dank voor de tip!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 25,
+      "title": null,
+      "lines": [
+        "1. Kan ik misschien iets doen?",
+        "2. Nee hoor, dat hoeft niet.",
+        "3. Echt niet?",
+        "4. Het is een kleine moeite.",
+        "5. Weet je het zeker?",
+        "6. Ja, natuurlijk!",
+        "7. Ik help jullie graag.",
+        "8. App me maar, als ik iets kan doen."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 10,
+      "title": null,
+      "lines": [
+        "1. Lekker weertje, hè?",
+        "2. Ja, heerlijk!",
+        "3. Wat een vies weer, he?",
+        "4. Ja, verschrikkelijk!",
+        "5. Och jee, wat erg!",
+        "6. Dat is lastig, ja.",
+        "7. Wat is er aan de hand?",
+        "8. Hoe is dat gebeurd?"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 11,
+      "title": null,
+      "lines": [
+        "1. Kan ik misschien iets doen? iets: i-e-t-s",
+        "2. Nee hoor, dat hoeft niet. hoeft: h-o-e-f-t",
+        "3. Echt niet? echt: e-c-h-t",
+        "4. Het is een kleine moeite. moeite: m-o-e-i-t-e",
+        "5. Weet je het zeker? het: h-e-t",
+        "6. Ja, natuurlijk! natuurlijk: n-a-t-u-u-r-l-i-j-k",
+        "7. Ik help jullie graag. jullie: j-u-l-l-i-e",
+        "8. App me maar, als ik iets kan doen. als: a-l-s"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 12,
+      "title": null,
+      "lines": [
+        "1. Lukt het? · Ja, het lukt wel.",
+        "2. Lukt het? · Nee, het lukt niet.",
+        "3. Heb je hulp nodig? · Nee hoor, het lukt wel.",
+        "4. Heb je hulp nodig? · Ja graag!",
+        "5. Zal ik je helpen? · Nee hoor, dat hoeft niet.",
+        "6. Zal ik je even helpen? · Heel graag! Dank je wel!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 13,
+      "title": null,
+      "lines": [
+        "1. Kan ik je misschien helpen?",
+        "2. Kan ik iets voor je doen?",
+        "3. Zal ik boodschappen voor je doen?",
+        "4. Zal ik voor je koken?",
+        "5. Zal ik de hond voor je uitlaten?",
+        "6. Zal ik de kattenbak voor je schoonmaken?",
+        "7. Zal ik de afvalcontainer voor je aan de straat zetten?",
+        "8. Zal ik het vuilnis voor je buitenzetten?",
+        "9. Zal ik de vuilniszak aan de straat zetten?",
+        "10. Zal ik die zware tassen voor je tillen?",
+        "11. Zal ik de deur voor je openhouden?"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 14,
+      "title": null,
+      "lines": [
+        "1. de buren · 7. de buurtbewoners",
+        "2. de buurt · 8. de klus",
+        "3. de hulp · 9. de klussen",
+        "4. de burenhulp · 10. het klusje",
+        "5. de buurvrouw · 11. de klusjes",
+        "6. de buurman · 12. lukken"
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

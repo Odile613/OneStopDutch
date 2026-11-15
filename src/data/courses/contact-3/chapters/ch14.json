@@ -1,0 +1,827 @@
+{
+  "number": 14,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "achten",
+          "english": "to consider",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "bekendmaken (ik maak … bekend)",
+          "english": "to announce",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "blijken uit",
+          "english": "to be shown in",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "inzetten (ik zet … in)",
+          "english": "to deploy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "leveren",
+          "english": "to deliver",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "melden",
+          "english": "to report",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "mislopen (ik loop … mis)",
+          "english": "to miss out on",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "onderscheppen",
+          "english": "to intercept",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "redden",
+          "english": "to save",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "schommelen tussen",
+          "english": "to fluctuate between",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "terugvragen (ik vraag … terug)",
+          "english": "to reclaim",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uitgroeien tot (ik groei uit … tot)",
+          "english": "to develop into",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verlengen",
+          "english": "to extend",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "veroordelen tot",
+          "english": "to sentence to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vrijspreken (ik spreek … vrij)",
+          "english": "to acquit",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "waaien",
+          "english": "to blow",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de beweging (de bewegingen)",
+          "english": "movement",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de brand (de branden)",
+          "english": "fire",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de woningbrand (de woningbranden)",
+          "english": "house fire",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de dader (de daders)",
+          "english": "perpetrator",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de deelname (de deelnames)",
+          "english": "participation",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de dode (de doden)",
+          "english": "dead person; fatality",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de explosie (de explosies)",
+          "english": "explosion",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de fraude (de fraudes)",
+          "english": "fraud",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de gebeurtenis (de gebeurtenissen)",
+          "english": "event",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de gewonde (de gewonden)",
+          "english": "injured person; casualty",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de hersenen/de hersens",
+          "english": "brain",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de hulpdienst (de hulpdiensten)",
+          "english": "emergency services",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de identiteit (de identiteiten)",
+          "english": "identity",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de inbraak (de inbraken)",
+          "english": "burglary",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de inbreker (de inbrekers)",
+          "english": "burglar",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kunstenaar (de kunstenaars)",
+          "english": "artist",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de luchthaven (de luchthavens)",
+          "english": "airport",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de medaille (de medailles)",
+          "english": "medal",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de media",
+          "english": "media tweehonderdnegen 209",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de mijn (de mijnen)",
+          "english": "mine",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kolenmijn",
+          "english": "coal mine",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de oceaan (de oceanen)",
+          "english": "ocean",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de ontploffing (de ontploffingen)",
+          "english": "explosion",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de operatie (de operaties)",
+          "english": "operation, surgery",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de orkaan (de orkanen)",
+          "english": "hurricane",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de pers",
+          "english": "press",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de rechtbank (de rechtbanken)",
+          "english": "court",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de rechter (de rechters)",
+          "english": "judge",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de regel (de regels)",
+          "english": "rule",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de specialist (de specialisten)",
+          "english": "specialist",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de straf (de straffen)",
+          "english": "punishment",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de celstraf (de celstraffen)",
+          "english": "imprisonment",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de traditie (de tradities)",
+          "english": "tradition",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de tumor (de tumoren)",
+          "english": "tumour",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verdachte (de verdachten)",
+          "english": "suspect",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vervalsing (de vervalsingen)",
+          "english": "forgery",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verwonding (de verwondingen)",
+          "english": "injury",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de werkelijkheid (de werkelijkheden)",
+          "english": "reality",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het alarm (de alarmen)",
+          "english": "alarm",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het document (de documenten)",
+          "english": "document",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het reisdocument",
+          "english": "travel document",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gerucht (de geruchten)",
+          "english": "rumour",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het misbruik",
+          "english": "abuse, misuse",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het puin (-)",
+          "english": "rubble",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het verslag (de verslagen)",
+          "english": "report",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het jaarverslag",
+          "english": "annual report",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "beroemd (beroemde)",
+          "english": "famous",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "binnenlands (binnenlandse)",
+          "english": "national, domestic",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "buitenlands (buitenlandse)",
+          "english": "foreign",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "crimineel (criminele)",
+          "english": "criminal",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "internationaal (internationale)",
+          "english": "international",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "jaarlijks (jaarlijkse)",
+          "english": "annual",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "koninklijk (koninklijke)",
+          "english": "royal",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "levend (levende)",
+          "english": "alive",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "schuldig (schuldige)",
+          "english": "guilty",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "traditioneel (traditionele)",
+          "english": "traditional",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vals (valse)",
+          "english": "forged",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vergelijkbaar (vergelijkbare)",
+          "english": "comparable",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vermist (vermiste)",
+          "english": "missing",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "daarna",
+          "english": "after(wards), after (that)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "daarvoor",
+          "english": "before (that)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "inmiddels",
+          "english": "by now",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "jarenlang",
+          "english": "for years",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "maar liefst",
+          "english": "no less than",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "tientallen",
+          "english": "here: dozens",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "bijzinconjuncties",
+      "entries": [
+        {
+          "dutch": "nadat",
+          "english": "after",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "preposities",
+      "entries": [
+        {
+          "dutch": "gedurende",
+          "english": "during",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "gewond raken",
+          "english": "to get injured",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "iemand/iets met rust laten",
+          "english": "to leave somebody / something alone",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "iemand schuldig achten aan",
+          "english": "to consider somebody guilty of",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "iets onder controle hebben",
+          "english": "to have something under control",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "in werkelijkheid",
+          "english": "in reality",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "misbruik maken van",
+          "english": "to abuse",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "onderweg zijn naar",
+          "english": "to be on one’s way to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "schade aanrichten aan",
+          "english": "to do damage to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ten onrechte",
+          "english": "wrongfully",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich aan de afspraak houden",
+          "english": "to stick to an agreement",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Er is een dode/gewonde gevallen.",
+          "english": "There was a fatality/casualty.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Het alarm gaat af.",
+          "english": "The alarm goes off.",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 37,
+      "title": null,
+      "lines": [
+        "Bericht 1",
+        "Bij een inbraak in het museum Singer Laren is vannacht een schilderij van de beroemde kunstenaar",
+        "Vincent van Gogh gestolen. Dat heeft het museum bekendgemaakt.",
+        "Het gaat om het werk Lentetuin uit 1884. Het Singer Laren museum heeft het werk van 25 bij",
+        "57 centimeter geleend van het Groninger Museum.",
+        "De inbrekers kwamen rond 03.15 uur binnen. Het inbraakalarm ging af, maar de daders waren al weg",
+        "toen de politie aankwam.",
+        "Het schilderij van Van Gogh zou het enige schilderij zijn geweest dat de dieven vannacht in Laren hebben",
+        "meegenomen."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 38,
+      "title": null,
+      "lines": [
+        "Bericht 2",
+        "Aan de Nederlandse grenzen zijn vorig jaar 1487 valse reisdocumenten onderschept. Bijna 80 procent",
+        "daarvan werd gevonden op luchthavens, de rest aan de grens met België en Duitsland of aan de",
+        "zeegrenzen. Het aantal valse documenten schommelt sinds 2009 tussen de 1163 en 1567. Afgelopen jaar",
+        "waren het er 49 meer dan het jaar ervoor.",
+        "Dat blijkt uit het jaarverslag van de Koninklijke Marechaussee over 2019. De vervalsingen worden steeds",
+        "beter. Daarom moet de marechaussee steeds meer specialisten inzetten."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 39,
+      "title": null,
+      "lines": [
+        "Bericht 3",
+        "Bij een woningbrand in Tilburg zijn gisteravond een dode en een gewonde gevallen, meldt de politie. Een",
+        "tweede slachtoffer van de brand in het rijtjeshuis aan de Damweg is met onbekende verwondingen naar",
+        "het ziekenhuis gebracht. De identiteit van de slachtoffers is nog onbekend.",
+        "De brandweer had de brand snel onder controle en kon beide slachtoffers nog wel uit het huis halen,",
+        "maar een van de twee was al overleden.",
+        "Volgens buren zouden er nog meer mensen in het huis aanwezig zijn geweest. Zij konden",
+        "waarschijnlijk op tijd vluchten. De oorzaak van de brand, die mogelijk is ontstaan op de zolder van het",
+        "huis, is nog onduidelijk."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 40,
+      "title": null,
+      "lines": [
+        "Bericht 4",
+        "Bij de rechtbank in Almelo zijn zes verdachten veroordeeld tot celstraffen tot vijfeneenhalf jaar voor hun",
+        "rol in een internationale btw-fraude. De rechter achtte vijf van hen schuldig aan belastingfraude en",
+        "deelname aan een criminele organisatie. De rechtbank zou een zesde verdachte hebben vrijgesproken.",
+        "De verdachten maakten misbruik van belastingregels tussen EU-lidstaten. Op papier verkochten ze voor",
+        "ongeveer een half miljard euro aan computerchips, mobiele telefoons en tablets in Europa.",
+        "In werkelijkheid leverden zij deze producten niet maar vroegen zij wel btw terug, ten onrechte. Jaarlijks",
+        "lopen EU-landen door dit soort fraude ongeveer 50 miljard euro aan btw mis."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 41,
+      "title": null,
+      "lines": [
+        "Bericht 5",
+        "In het Oostenrijkse Lech was vanochtend het jaarlijkse persmoment van de koninklijke familie op hun",
+        "wintersportvakantie. Koning Willem-Alexander, koningin Máxima en hun drie dochters verschenen rond",
+        "9.30 uur voor de tientallen cameramensen en fotografen.",
+        "Het moment voor de media tijdens de skivakantie is traditie. Na de traditionele fotosessie laat de pers de",
+        "koninklijke familie met rust gedurende de rest van hun skivakantie. Media die zich niet aan de afspraak",
+        "houden, worden niet meer uitgenodigd voor het jaarlijkse persmoment. RTL Boulevard was dit jaar niet",
+        "welkom."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 42,
+      "title": null,
+      "lines": [
+        "Bericht 1",
+        "Vanaf 1 juli 2021 is het zo ver. Er komt 15 eurocent statiegeld op alle plastic flesjes onder 1 liter. Op dit",
+        "moment is er alleen statiegeld op plastic flesjes van een liter of meer.",
+        "Consumenten betalen in de supermarkt of bij het tankstation iets meer voor een flesje cola of water maar",
+        "krijgen de extra betaalde 15 cent weer terug als men het flesje na gebruik weer inlevert. Met het",
+        "statiegeld op kleine plastic flesjes hoopt staatssecretaris Van Veldhoven de hoeveelheid zwerfafval te",
+        "verminderen.",
+        "Veel consumenten reageren positief op deze maatregel.",
+        "Uit een onderzoek van de Consumentenbond begin 2018 bleek dat 84 procent van de ondervraagde",
+        "consumenten voorstander was van het uitbreiden van statiegeld naar kleine plastic flesjes.",
+        "De verpakkingsindustrie is altijd tegen statiegeld op kleine plastic flesjes",
+        "geweest. Volgens een onderzoek dat is uitgevoerd in opdracht van de industrie kan het de industrie",
+        "154 miljoen euro gaan kosten."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 43,
+      "title": null,
+      "lines": [
+        "Bericht 2",
+        "Zo’n 300 Duitse brandweerlieden helpen vandaag bij het blussen van de natuurbrand in Nationaal Park",
+        "De Meinweg in Limburg in de buurt van het dorp Herkenbosch. De brandweermannen en -vrouwen",
+        "komen uit Düsseldorf,",
+        "Duisburg en andere steden en dorpen net over de grens.",
+        "De brandweerlieden helpen met het zoeken naar smeulende brandresten. Bij het zoeken maken ze",
+        "gebruik van opnames die een helikopter met een warmtebeeldcamera vanmorgen heeft gemaakt.",
+        "De brand werd gisteren onder controle gebracht, onder andere met blushelikopters.",
+        "De 4200 inwoners van het dorp Herkenbosch die dinsdag hun huis uit moesten, mochten vanochtend",
+        "weer naar huis."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 44,
+      "title": null,
+      "lines": [
+        "Bericht 3",
+        "Goed nieuws vanuit Ouwehands Dierenpark in Rhenen. Pandavrouwtje Wu Wen is waarschijnlijk in ver-",
+        "wachting. De panda’s die in 2017 uit China in de dierentuin van Rhenen aankwamen, hebben",
+        "afgelopen januari gepaard en nu lijkt Wu Wen, het pandavrouwtje, zich te installeren in de kraamkamer in",
+        "het pandaverblijf.",
+        "Zwangerschap bij reuzenpanda’s is erg bijzonder; vrouwtjes zijn maar eens per jaar twee dagen",
+        "vruchtbaar en het is maar afwachten of het mannetje in die korte periode met haar wil paren. Een panda",
+        "is maar kort zwanger, maximaal 5,5 maand. De buik van een zwanger vrouwtje groeit nauwelijks want het",
+        "jong wordt piepklein geboren. Het is dus moeilijk te zien of een panda zwanger is.",
+        "De rust in de dierentuin, die sinds begin maart gesloten is voor het publiek vanwege het coronavirus,",
+        "kan positief hebben gewerkt voor de zwangerschap, zegt pandaspecialist Kok. Het is bekend dat panda’s",
+        "gevoelig zijn voor geluid. In hun natuurlijke leefgebied in China, boven 1500 meter, is er ook niet zo veel",
+        "lawaai."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 46,
+      "title": null,
+      "lines": [
+        "Bericht 1",
+        "Orkaan Madeleine is over het land getrokken. In het zuiden van het land is de elektriciteit uitgevallen. Er",
+        "zijn geen doden of gewonden gevallen. De schade loopt in de miljoenen."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 47,
+      "title": null,
+      "lines": [
+        "Bericht 2",
+        "De beroemde Nederlandse zanger Willie W. zou vannacht door de politie zijn gearresteerd. Het",
+        "management van de bekende zanger wil niet ingaan op de zaak maar bronnen in de mediawereld zeggen",
+        "dat hij in het bezit van harddrugs zou zijn geweest."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 48,
+      "title": null,
+      "lines": [
+        "Bericht 3",
+        "De Nederlandse kunstenaar en milieuactivist Ruud Griep zou zijn vermist volgens zijn familie. Griep was",
+        "op reis in Midden-Amerika om aandacht te vragen voor het milieu maar keerde zaterdag niet in zijn hotel",
+        "terug. Griep verdwijnt wel eens vaker maar blijft normaalgesproken actief op sociale media. Dat is nu niet",
+        "het geval. Het ministerie van Buitenlandse zaken zou de zaak gaan onderzoeken."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 49,
+      "title": null,
+      "lines": [
+        "Bericht 4",
+        "Het Openbaar Ministerie zou een onderzoek zijn gestart naar het declaratiegedrag van burgemeester",
+        "Willemsen van de gemeente Lingewaard. In het verleden werd Willemsen al eens eerder beschuldigd van",
+        "fraude en gerommel met declaraties maar deze beschuldigingen werden nooit bewezen.",
+        "Nu zou hij opnieuw verdacht zijn van fraude."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 50,
+      "title": null,
+      "lines": [
+        "Bericht 1",
+        "Koning Willem-Alexander en koningin Máxima hebben hun staatsbezoek aan Duitsland vandaag in Berlijn",
+        "afgesloten met een diner met Angela Merkel.",
+        "Voordat het diner plaatsvond, hebben de staatshoofden genoten van een optreden van het Berliner",
+        "Philharmoniker, het wereldberoemde Duitse orkest dat maar liefst 128 leden telt.",
+        "Eerder op de dag bezocht het koningspaar ook het Holocaust Gedenkteken waar zij een krans hebben",
+        "gelegd.",
+        "Gisteren al hebben de koning en koningin gesproken met enkele Holocaustoverlevenden."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 51,
+      "title": null,
+      "lines": [
+        "Bericht 2",
+        "Zaterdagavond is in Harderwijk een autodief opgepakt. Voordat hij ‘s avonds werd gearresteerd had hij",
+        "eerder op de dag al een auto gestolen. De man is een bekende van de politie. Vijf jaar geleden heeft de",
+        "politie hem voor het eerst opgepakt. Hij is toen veroordeeld tot 2 jaar celstraf. Nadat hij uit de gevangenis",
+        "kwam, is hij naar Portugal verhuisd. Vorige maand keerde hij in Nederland terug en begon hij opnieuw",
+        "met stelen."
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

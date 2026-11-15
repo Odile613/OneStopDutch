@@ -1,0 +1,28 @@
+{
+  "name": "onestopdutch",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One-stop study site for the Contact! nieuw series — textbook, workbook, wordlist and grammar.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "sync:audio": "node scripts/sync-audio.mjs",
+    "import:contact-2": "node scripts/import-book.mjs contact-2",
+    "check:materials": "node scripts/check-materials.mjs",
+    "import:contact-3": "node scripts/import-book.mjs contact-3",
+    "import:contact-4": "node scripts/import-book.mjs contact-4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "@vitejs/plugin-react": "^4.4.1",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}

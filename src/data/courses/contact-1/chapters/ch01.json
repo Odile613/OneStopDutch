@@ -1,0 +1,1455 @@
+{
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "ik ben (zijn)",
+          "english": "I am",
+          "other": "(to be)",
+          "note": null
+        },
+        {
+          "dutch": "ik heet (heten)",
+          "english": "my name is",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ik kan (kunnen)",
+          "english": "I can, I am able to",
+          "other": "(to be able to)",
+          "note": null
+        },
+        {
+          "dutch": "ik kom uit (komen uit)",
+          "english": "I am / come from",
+          "other": "(to be / come from)",
+          "note": null
+        },
+        {
+          "dutch": "ik woon in (wonen in)",
+          "english": "I live in",
+          "other": "(to live in)",
+          "note": null
+        },
+        {
+          "dutch": "ben je? (zijn)",
+          "english": "are you?",
+          "other": "(to be)",
+          "note": null
+        },
+        {
+          "dutch": "heb je? (hebben)",
+          "english": "do you have?",
+          "other": "(to have)",
+          "note": null
+        },
+        {
+          "dutch": "Gebruik. (gebruiken)",
+          "english": "Use.",
+          "other": "(to use)",
+          "note": null
+        },
+        {
+          "dutch": "Maak. (maken)",
+          "english": "Make.",
+          "other": "(to make)",
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de naam (de namen)",
+          "english": "name (names)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de achternaam (de achternamen)",
+          "english": "last name (last names)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de roepnaam (de roepnamen)",
+          "english": "given name (given names)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de voornaam (de voornamen)",
+          "english": "first name (first names)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de nationaliteit (de nationaliteiten)",
+          "english": "nationality (nationalities)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het land (de landen)",
+          "english": "country (countries)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het land van herkomst",
+          "english": "country of origin",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de Nederlander (de Nederlanders)",
+          "english": "Dutchman (Dutchmen)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de stad (de steden)",
+          "english": "city (cities)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de taal (de talen)",
+          "english": "language (languages)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de moedertaal (de moedertalen)",
+          "english": "mother tongue (mother tongues)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de woonplaats (de woonplaatsen)",
+          "english": "place of residence (places of residence)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "(het) Nederlands",
+          "english": "Dutch",
+          "other": null,
+          "note": "Ik spreek Nederlands. I speak Dutch."
+        },
+        {
+          "dutch": "het voorbeeld (de voorbeelden)",
+          "english": "example (examples)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "goed (goede)",
+          "english": "good",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "leuk (leuke)",
+          "english": "nice",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Nederlands (Nederlandse)",
+          "english": "Dutch",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "alleen",
+          "english": "only",
+          "other": null,
+          "note": "Ik spreek alleen Italiaans. I only speak Italian."
+        },
+        {
+          "dutch": "de",
+          "english": "the",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "dus",
+          "english": "so",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een",
+          "english": "a, an",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een beetje",
+          "english": "a little",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "elkaar",
+          "english": "each other",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "en",
+          "english": "and",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het",
+          "english": "the",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "hoe",
+          "english": "how",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "iemand",
+          "english": "somebody",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ik",
+          "english": "I",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "je",
+          "english": "you (unstressed)",
+          "other": null,
+          "note": "Waar woon je? Where do you live?"
+        },
+        {
+          "dutch": "je",
+          "english": "your (unstressed)",
+          "other": null,
+          "note": "Wat is je voornaam? What is your first name?"
+        },
+        {
+          "dutch": "jij",
+          "english": "you (stressed)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "jouw",
+          "english": "your (stressed)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "maar",
+          "english": "but",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "mijn",
+          "english": "my",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "morgen",
+          "english": "tomorrow",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Nederland",
+          "english": "the Netherlands",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nog een keer",
+          "english": "again, once more",
+          "other": null,
+          "note": "Kijk nog een keer naar de tekst. Look at the text again."
+        },
+        {
+          "dutch": "nog meer",
+          "english": "(even) more",
+          "other": "here: other",
+          "note": "Welke talen spreek je nog meer? Which other languages do you speak?"
+        },
+        {
+          "dutch": "nu",
+          "english": "now",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "of",
+          "english": "or",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ook",
+          "english": "also, too",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "waar",
+          "english": "where",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "waar … vandaan?",
+          "english": "where … from?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wat",
+          "english": "what",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "welk (welke)",
+          "english": "which",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wie",
+          "english": "who",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Dag!",
+          "english": "Goodbye!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Doeg!",
+          "english": "Bye!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Doei!",
+          "english": "Bye!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Hallo!",
+          "english": "Hello!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Hoi!",
+          "english": "Hi!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Goedemorgen.",
+          "english": "Good morning.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Goedemiddag.",
+          "english": "Good afternoon.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Goedenavond.",
+          "english": "Good evening.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Tot ziens!",
+          "english": "See you later!",
+          "other": "Goodbye!",
+          "note": null
+        },
+        {
+          "dutch": "Wat leer je in dit hoodstuk?",
+          "english": "What will you learn in this chapter?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Klaar voor de start!",
+          "english": "Ready, steady, go!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dank je wel.",
+          "english": "Thank you.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Wat leuk!",
+          "english": "How nice!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Leer ook:",
+          "english": "Also learn:",
+          "other": null,
+          "note": "– de Nederlandse naam van: jouw moedertaal, jouw nationaliteit en jouw land van herkomst\n– the Dutch name for: your mother tongue, your nationality and your country of origin\n– de preposities (zie p. 20) – the prepositions (see p. 20)"
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 4,
+      "title": null,
+      "lines": [
+        "■ Goedemorgen! Ik ben Annemarie Rutten. Ik ben de docent. En jij?",
+        "■ Hoe heet jij?",
+        "● Ik ben Helen Moss. Ik kom uit Engeland, dus uit Groot-Brittannië. Mijn moedertaal is Engels. Ik spreek",
+        "ook een beetje Nederlands.",
+        "■ Waar woon je nu, Helen?",
+        "● Ik woon in Nijmegen.",
+        "■ En wie ben jij?",
+        "● Ik ben Aziz en ik kom uit Afghanistan. Ik spreek Pasjtoe en een beetje Engels.",
+        "■ Is Aziz je voornaam of je achternaam?",
+        "● Aziz is mijn voornaam. Kermani is mijn achternaam.",
+        "■ En waar woon je?",
+        "● Ik woon in Malden.",
+        "● Ik heet Pilar Mijn achternaam is Arenas. Ik kom uit Spanje, uit Toledo. Ik spreek Spaans en ik woon in",
+        "Nijmegen.",
+        "■ En jij? Wat is jouw naam?",
+        "● Mijn naam is Mario Ambrosini. Ik kom uit Italië, uit Rome. Mijn moedertaal is Italiaans.",
+        "■ Welke talen spreek je nog meer?",
+        "● Ik spreek alleen Italiaans.",
+        "■ En jij, hoe heet jij?",
+        "● Mijn naam is Helmut Bergmann. Ik ben Duitser. Ik kom uit Berlijn, maar ik woon nu in Groesbeek. Mijn",
+        "moedertaal is Duits. Ik spreek ook Engels en een beetje Spaans.",
+        "■ En wie ben jij?",
+        "● Ik heet Su Ling. Ik kom uit China. Ik spreek Chinees en Engels. Ik woon in Nijmegen.",
+        "■ Ik mis iemand. Wie is Mohammed Kandili?",
+        "● Ik heet Mohammed! Maar mijn roepnaam is Mo. Ik kom uit Syrië en ik spreek Arabisch, Engels en een",
+        "beetje Nederlands.",
+        "■ Welkom allemaal!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 5,
+      "title": null,
+      "lines": [
+        "●● Wie ben jij?",
+        "●● Hoe heet jij?",
+        "●● Wat is je naam?",
+        "●● Waar kom je vandaan?",
+        "●● Wat is je nationaliteit?",
+        "●● Wat is je moedertaal?",
+        "●● Welke talen spreek je?"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 6,
+      "title": null,
+      "lines": [
+        "1 Kim: Hallo, ik ben Kim en wie ben jij?",
+        "2 Tobias: Hoi, Kim. Ik ben Tobias.",
+        "3 Kim: Kom jij ook uit Nederland?",
+        "4 Tobias: Nee, ik woon nu twee jaar in Nederland, maar ik kom uit Berlijn, dus uit Duitsland.",
+        "5 Kim: Je spreekt goed Nederlands!",
+        "6 Tobias: Dank je wel!",
+        "7 Kim: Spreek je nog meer talen?",
+        "8 Tobias: Ik spreek ook Engels en een beetje Spaans. En jij?",
+        "9 Kim: Ik spreek alleen Engels.",
+        "10 Tobias: En Nederlands!",
+        "11 Kim: Ja, ook Nederlands, maar Nederlands is mijn moedertaal."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 7,
+      "title": null,
+      "lines": [
+        "1 goed",
+        "2 wie",
+        "3 schrijf",
+        "4 boek",
+        "5 uit",
+        "6 mijn",
+        "7 Duits",
+        "8 jij",
+        "9 heet",
+        "10 woon",
+        "11 beetje",
+        "12 naam",
+        "13 ook",
+        "14 taal",
+        "15 spreek",
+        "16 woord",
+        "17 maar"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 7,
+      "title": null,
+      "lines": [
+        "1.  Hallo, ik ben Ashwin.",
+        "2.  Ik spreek Engels en Hindi.",
+        "3.  Ik kom uit India.",
+        "4.  Ik ben in Nederland.",
+        "5.  Ik woon in Eindhoven."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 8,
+      "title": null,
+      "lines": [
+        "1.  mijn",
+        "2.  hoe",
+        "3.  niet",
+        "4.  woord",
+        "5.  luister",
+        "6.  spreek",
+        "7.  Italië",
+        "8.  naam",
+        "9.  vraag",
+        "10.  België"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 9,
+      "title": null,
+      "lines": [
+        "Dialoog 1:",
+        "Marike: Ik heet Marike en wie ben jij?",
+        "Alex: Ik heet Alex en ik kom uit Spanje. En jij? Uit welk land kom jij?",
+        "Marike: Ik kom uit Denemarken, uit Kopenhagen.",
+        "Dialoog 2:",
+        "Renzo: Ik ben Renzo Mantini en wat is jouw naam?",
+        "Vera: Mijn naam is Vera Achmatova. Ik kom uit Moskou.",
+        "Renzo: Ah, je komt uit Rusland.",
+        "Vera: Ja, dat is waar. En kom jij uit Italië? Je hebt een Italiaanse naam.",
+        "Renzo: Ja, ik kom uit Milaan."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "id": "tb-01-01-1",
+      "instruction": "Luister naar de dialoog. Omcirkel het juiste woord.",
+      "question": "_____! Ik ben Annemarie Rutten. Ik ben de docent. En jij?",
+      "options": [
+        "Goedemorgen",
+        "Hallo"
+      ],
+      "answerIndex": 0,
+      "explanation": "De dialoog begint met 'Goedemorgen!'"
+    },
+    {
+      "type": "choice",
+      "id": "tb-01-01-2",
+      "instruction": "Luister naar de dialoog. Omcirkel het juiste woord.",
+      "question": "_____ heet jij?",
+      "options": [
+        "Hoe",
+        "Wie"
+      ],
+      "answerIndex": 0,
+      "explanation": "Voor een naam vraag je met 'Hoe heet jij?'. 'Wie' gebruik je voor personen: 'Wie ben jij?'"
+    },
+    {
+      "type": "choice",
+      "id": "tb-01-01-3",
+      "instruction": "Luister naar de dialoog. Omcirkel het juiste woord.",
+      "question": "Ik _____ uit Spanje, uit Toledo.",
+      "options": [
+        "ben",
+        "kom"
+      ],
+      "answerIndex": 1,
+      "explanation": "'komen uit' = afkomstig zijn uit een land."
+    },
+    {
+      "type": "choice",
+      "id": "tb-01-01-4",
+      "instruction": "Luister naar de dialoog. Omcirkel het juiste woord.",
+      "question": "_____ is jouw naam?",
+      "options": [
+        "Wat",
+        "Wie"
+      ],
+      "answerIndex": 0,
+      "explanation": "Een naam is een ding/een woord, geen persoon: 'Wat is jouw naam?'"
+    },
+    {
+      "type": "choice",
+      "id": "tb-01-01-5",
+      "instruction": "Luister naar de dialoog. Omcirkel het juiste woord.",
+      "question": "Ik _____ uit Italië, uit Rome.",
+      "options": [
+        "ben",
+        "kom"
+      ],
+      "answerIndex": 1,
+      "explanation": "'komen uit' = afkomstig zijn uit een land."
+    },
+    {
+      "type": "choice",
+      "id": "tb-01-01-6",
+      "instruction": "Luister naar de dialoog. Omcirkel het juiste woord.",
+      "question": "En jij, hoe _____ jij?",
+      "options": [
+        "ben",
+        "heet"
+      ],
+      "answerIndex": 1,
+      "explanation": "'Hoe heet jij?' (vraag naar de naam)."
+    },
+    {
+      "type": "choice",
+      "id": "tb-01-01-7",
+      "instruction": "Luister naar de dialoog. Omcirkel het juiste woord.",
+      "question": "Ik mis iemand. _____ is Mohammed Kandili?",
+      "options": [
+        "Hoe",
+        "Wie"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mohammed Kandili is een persoon: 'Wie is Mohammed Kandili?'"
+    },
+    {
+      "type": "choice",
+      "id": "tb-01-02-1",
+      "instruction": "Lees de zinnen. Is de zin waar of niet waar?",
+      "question": "1. Helen Moss komt uit Engeland.",
+      "options": [
+        "waar",
+        "niet waar"
+      ],
+      "answerIndex": 0,
+      "explanation": "Helen Moss: 'Ik kom uit Engeland, dus uit Groot-Brittannië.'"
+    },
+    {
+      "type": "choice",
+      "id": "tb-01-02-2",
+      "instruction": "Lees de zinnen. Is de zin waar of niet waar?",
+      "question": "2. Mario Ambrosini spreekt Engels.",
+      "options": [
+        "waar",
+        "niet waar"
+      ],
+      "answerIndex": 1,
+      "explanation": "Mario zegt: 'Ik spreek alleen Italiaans.'"
+    },
+    {
+      "type": "choice",
+      "id": "tb-01-02-3",
+      "instruction": "Lees de zinnen. Is de zin waar of niet waar?",
+      "question": "3. Helmut Bergmann spreekt goed Spaans.",
+      "options": [
+        "waar",
+        "niet waar"
+      ],
+      "answerIndex": 1,
+      "explanation": "Helmut spreekt 'een beetje Spaans', niet goed Spaans."
+    },
+    {
+      "type": "choice",
+      "id": "tb-01-02-4",
+      "instruction": "Lees de zinnen. Is de zin waar of niet waar?",
+      "question": "4. Aziz is een voornaam.",
+      "options": [
+        "waar",
+        "niet waar"
+      ],
+      "answerIndex": 0,
+      "explanation": "'Aziz is mijn voornaam. Kermani is mijn achternaam.'"
+    },
+    {
+      "type": "choice",
+      "id": "tb-01-02-5",
+      "instruction": "Lees de zinnen. Is de zin waar of niet waar?",
+      "question": "5. Kermani is een roepnaam.",
+      "options": [
+        "waar",
+        "niet waar"
+      ],
+      "answerIndex": 1,
+      "explanation": "Kermani is de achternaam; de roepnaam van Mohammed is Mo."
+    },
+    {
+      "type": "choice",
+      "id": "tb-01-02-6",
+      "instruction": "Lees de zinnen. Is de zin waar of niet waar?",
+      "question": "6. Helmut woont nu in Berlijn.",
+      "options": [
+        "waar",
+        "niet waar"
+      ],
+      "answerIndex": 1,
+      "explanation": "Helmut komt uit Berlijn, maar woont nu in Groesbeek."
+    },
+    {
+      "type": "choice",
+      "id": "tb-01-02-7",
+      "instruction": "Lees de zinnen. Is de zin waar of niet waar?",
+      "question": "7. Mohammed komt uit Syrië.",
+      "options": [
+        "waar",
+        "niet waar"
+      ],
+      "answerIndex": 0,
+      "explanation": "'Ik ben [kom] uit Syrië.'"
+    },
+    {
+      "type": "choice",
+      "id": "tb-01-02-8",
+      "instruction": "Lees de zinnen. Is de zin waar of niet waar?",
+      "question": "8. Su Ling woont in Nijmegen.",
+      "options": [
+        "waar",
+        "niet waar"
+      ],
+      "answerIndex": 0,
+      "explanation": "Su Ling: 'Ik woon in Nijmegen.'"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-04c-1",
+      "instruction": "Vul in. Kies uit: achternaam – beetje – heet – is – kom – moedertaal – roepnaam – spreek – Waar – Wie.",
+      "question": "1. Mijn naam ___ Helmut Bergmann.",
+      "accepted": [
+        "is"
+      ],
+      "solution": "is"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-04c-2",
+      "instruction": "Vul in. Kies uit: achternaam – beetje – heet – is – kom – moedertaal – roepnaam – spreek – Waar – Wie.",
+      "question": "2. Ik ___ uit China.",
+      "accepted": [
+        "kom"
+      ],
+      "solution": "kom"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-04c-3",
+      "instruction": "Vul in. Kies uit: achternaam – beetje – heet – is – kom – moedertaal – roepnaam – spreek – Waar – Wie.",
+      "question": "3. Ik spreek een ___ Nederlands.",
+      "accepted": [
+        "beetje"
+      ],
+      "solution": "beetje"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-04c-4",
+      "instruction": "Vul in. Kies uit: achternaam – beetje – heet – is – kom – moedertaal – roepnaam – spreek – Waar – Wie.",
+      "question": "4. Aziz is mijn voornaam. Kermani is mijn ___.",
+      "accepted": [
+        "achternaam"
+      ],
+      "solution": "achternaam"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-04c-5",
+      "instruction": "Vul in. Kies uit: achternaam – beetje – heet – is – kom – moedertaal – roepnaam – spreek – Waar – Wie.",
+      "question": "5. Ik ___ goed Arabisch en Frans.",
+      "accepted": [
+        "spreek"
+      ],
+      "solution": "spreek"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-04c-6",
+      "instruction": "Vul in. Kies uit: achternaam – beetje – heet – is – kom – moedertaal – roepnaam – spreek – Waar – Wie.",
+      "question": "6. Ik kom uit Syrië. Mijn ___ is Arabisch.",
+      "accepted": [
+        "moedertaal"
+      ],
+      "solution": "moedertaal"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-04c-7",
+      "instruction": "Vul in. Kies uit: achternaam – beetje – heet – is – kom – moedertaal – roepnaam – spreek – Waar – Wie.",
+      "question": "7. Ik heet Mohammed, maar mijn ___ is Mo.",
+      "accepted": [
+        "roepnaam"
+      ],
+      "solution": "roepnaam"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-04c-8",
+      "instruction": "Vul in. Kies uit: achternaam – beetje – heet – is – kom – moedertaal – roepnaam – spreek – Waar – Wie.",
+      "question": "8. Hoe ___ jij? – Ik heet Helen Moss.",
+      "accepted": [
+        "heet"
+      ],
+      "solution": "heet"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-04c-9",
+      "instruction": "Vul in. Kies uit: achternaam – beetje – heet – is – kom – moedertaal – roepnaam – spreek – Waar – Wie.",
+      "question": "9. ___ ben jij? – Ik ben Annemarie.",
+      "accepted": [
+        "wie"
+      ],
+      "solution": "Wie"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-04c-10",
+      "instruction": "Vul in. Kies uit: achternaam – beetje – heet – is – kom – moedertaal – roepnaam – spreek – Waar – Wie.",
+      "question": "10. ___ kom je vandaan?",
+      "accepted": [
+        "waar"
+      ],
+      "solution": "Waar"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-08a-1",
+      "instruction": "Welk woord mist? Vul in. Kies uit: alleen – dus – en – maar – nog meer – nu – ook.",
+      "question": "1. Kim: Hallo, ik ben Kim, ___ wie ben jij?",
+      "accepted": [
+        "en"
+      ],
+      "solution": "en"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-08a-3",
+      "instruction": "Welk woord mist? Vul in. Kies uit: alleen – dus – en – maar – nog meer – nu – ook.",
+      "question": "3. Kim: Kom jij ___ uit Nederland?",
+      "accepted": [
+        "ook"
+      ],
+      "solution": "ook"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-08a-4a",
+      "instruction": "Welk woord mist? Vul in. Kies uit: alleen – dus – en – maar – nog meer – nu – ook.",
+      "question": "4. Tobias: Nee, ik woon ___ twee jaar in Nederland.",
+      "accepted": [
+        "nu"
+      ],
+      "solution": "nu"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-08a-4b",
+      "instruction": "Welk woord mist? Vul in. Kies uit: alleen – dus – en – maar – nog meer – nu – ook.",
+      "question": "4. Tobias: ik woon nu twee jaar in Nederland, ___ ik kom uit Berlijn.",
+      "accepted": [
+        "maar"
+      ],
+      "solution": "maar"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-08a-4c",
+      "instruction": "Welk woord mist? Vul in. Kies uit: alleen – dus – en – maar – nog meer – nu – ook.",
+      "question": "4. Tobias: ik kom uit Berlijn, ___ uit Duitsland.",
+      "accepted": [
+        "dus"
+      ],
+      "solution": "dus"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-08a-7",
+      "instruction": "Welk woord mist? Vul in. Kies uit: alleen – dus – en – maar – nog meer – nu – ook.",
+      "question": "7. Kim: Spreek je ___ talen?",
+      "accepted": [
+        "nog meer"
+      ],
+      "solution": "nog meer"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-08a-8",
+      "instruction": "Welk woord mist? Vul in. Kies uit: alleen – dus – en – maar – nog meer – nu – ook.",
+      "question": "8. Tobias: Ik spreek ___ Spaans. En jij?",
+      "accepted": [
+        "ook",
+        "en"
+      ],
+      "solution": "ook",
+      "explanation": "De oplossingen geven: 'ook, en'."
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-08a-9",
+      "instruction": "Welk woord mist? Vul in. Kies uit: alleen – dus – en – maar – nog meer – nu – ook.",
+      "question": "9. Kim: Ik spreek ___ Engels.",
+      "accepted": [
+        "alleen"
+      ],
+      "solution": "alleen"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-08a-10",
+      "instruction": "Welk woord mist? Vul in. Kies uit: alleen – dus – en – maar – nog meer – nu – ook.",
+      "question": "10. Tobias: Ik spreek Engels. ___ Nederlands!",
+      "accepted": [
+        "en"
+      ],
+      "solution": "En"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-08a-11",
+      "instruction": "Welk woord mist? Vul in. Kies uit: alleen – dus – en – maar – nog meer – nu – ook.",
+      "question": "11. Kim: Ja, ook Nederlands, ___ Nederlands is mijn moedertaal.",
+      "accepted": [
+        "maar"
+      ],
+      "solution": "maar"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-08c-1",
+      "instruction": "Lees de zin. Vul in. Kies uit: dus – en – maar – ook.",
+      "question": "1. Ik spreek Arabisch ___ Engels.",
+      "accepted": [
+        "en"
+      ],
+      "solution": "en"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-08c-2",
+      "instruction": "Lees de zin. Vul in. Kies uit: dus – en – maar – ook.",
+      "question": "2. Ik kom uit Brussel; ik kom ___ uit België.",
+      "accepted": [
+        "dus"
+      ],
+      "solution": "dus"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-08c-3",
+      "instruction": "Lees de zin. Vul in. Kies uit: dus – en – maar – ook.",
+      "question": "3. Woon jij in Rotterdam? Wat leuk! Ik woon ___ in Rotterdam!",
+      "accepted": [
+        "ook"
+      ],
+      "solution": "ook"
+    },
+    {
+      "type": "fill",
+      "id": "tb-01-08c-4",
+      "instruction": "Lees de zin. Vul in. Kies uit: dus – en – maar – ook.",
+      "question": "4. Ik woon in Nederland, ___ ik kom uit Syrië.",
+      "accepted": [
+        "maar"
+      ],
+      "solution": "maar"
+    }
+  ],
+  "workbookExercises": [
+    {
+      "type": "fill",
+      "id": "wb-01-02a-1",
+      "instruction": "Vul het juiste verbum in. Kies uit: heet – kom – spreek – woon.",
+      "question": "1. Ann zegt: Ik ___ Ann.",
+      "accepted": [
+        "heet"
+      ],
+      "solution": "heet"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-02a-2",
+      "instruction": "Vul het juiste verbum in. Kies uit: heet – kom – spreek – woon.",
+      "question": "2. Ann zegt: Ik ___ in Nijmegen.",
+      "accepted": [
+        "woon"
+      ],
+      "solution": "woon"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-02a-3",
+      "instruction": "Vul het juiste verbum in. Kies uit: heet – kom – spreek – woon.",
+      "question": "3. Ann zegt: Ik ___ Nederlands, Engels en Duits.",
+      "accepted": [
+        "spreek"
+      ],
+      "solution": "spreek"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-02a-4",
+      "instruction": "Vul het juiste verbum in. Kies uit: heet – kom – spreek – woon.",
+      "question": "4. Ann zegt: Ik ___ uit België.",
+      "accepted": [
+        "kom"
+      ],
+      "solution": "kom"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-02b-1",
+      "instruction": "Vul de juiste prepositie in. Kies uit: bij – in – met – naar – uit.",
+      "question": "1. Waar kom je vandaan? Ik kom ___ Frankrijk.",
+      "accepted": [
+        "uit"
+      ],
+      "solution": "uit"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-02b-2",
+      "instruction": "Vul de juiste prepositie in. Kies uit: bij – in – met – naar – uit.",
+      "question": "2. Luister ___ de dialoog.",
+      "accepted": [
+        "naar"
+      ],
+      "solution": "naar"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-02b-3",
+      "instruction": "Vul de juiste prepositie in. Kies uit: bij – in – met – naar – uit.",
+      "question": "3. Waar woon je? Ik woon ___ Amsterdam.",
+      "accepted": [
+        "in"
+      ],
+      "solution": "in"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-02b-4",
+      "instruction": "Vul de juiste prepositie in. Kies uit: bij – in – met – naar – uit.",
+      "question": "4. Schrijf het woord ___ het juiste plaatje.",
+      "accepted": [
+        "bij"
+      ],
+      "solution": "bij"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-02b-5",
+      "instruction": "Vul de juiste prepositie in. Kies uit: bij – in – met – naar – uit.",
+      "question": "5. We beginnen ___ de introductie.",
+      "accepted": [
+        "met"
+      ],
+      "solution": "met"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-02b-6",
+      "instruction": "Vul de juiste prepositie in. Kies uit: bij – in – met – naar – uit.",
+      "question": "6. Ik spreek ___ de docent.",
+      "accepted": [
+        "met"
+      ],
+      "solution": "met"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-06-1a",
+      "instruction": "Welke letters missen? Vul de juiste letters in. Kies uit: ee – ie – ij – oe – oo – ui.",
+      "question": "1. Ik kom u__t Duitsland.",
+      "accepted": [
+        "ij"
+      ],
+      "solution": "ij",
+      "explanation": "uit"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-06-1b",
+      "instruction": "Welke letters missen? Vul de juiste letters in. Kies uit: ee – ie – ij – oe – oo – ui.",
+      "question": "1. Ik kom uit D__tsland.",
+      "accepted": [
+        "ui"
+      ],
+      "solution": "ui",
+      "explanation": "Duitsland"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-06-2",
+      "instruction": "Welke letters missen? Vul de juiste letters in. Kies uit: ee – ie – ij – oe – oo – ui.",
+      "question": "2. Wie ben j__?",
+      "accepted": [
+        "ij"
+      ],
+      "solution": "ij",
+      "explanation": "jij"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-06-3",
+      "instruction": "Welke letters missen? Vul de juiste letters in. Kies uit: ee – ie – ij – oe – oo – ui.",
+      "question": "3. M__n naam is Helen.",
+      "accepted": [
+        "ij"
+      ],
+      "solution": "ij",
+      "explanation": "Mijn"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-06-4",
+      "instruction": "Welke letters missen? Vul de juiste letters in. Kies uit: ee – ie – ij – oe – oo – ui.",
+      "question": "4. H__ heet je?",
+      "accepted": [
+        "oe"
+      ],
+      "solution": "oe",
+      "explanation": "Hoe"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-06-5",
+      "instruction": "Welke letters missen? Vul de juiste letters in. Kies uit: ee – ie – ij – oe – oo – ui.",
+      "question": "5. L__ster naar de dialoog.",
+      "accepted": [
+        "ui"
+      ],
+      "solution": "ui",
+      "explanation": "Luister"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-06-7",
+      "instruction": "Welke letters missen? Vul de juiste letters in. Kies uit: ee – ie – ij – oe – oo – ui.",
+      "question": "7. Schr__f het woord.",
+      "accepted": [
+        "ij"
+      ],
+      "solution": "ij",
+      "explanation": "Schrijf"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-06-8",
+      "instruction": "Welke letters missen? Vul de juiste letters in. Kies uit: ee – ie – ij – oe – oo – ui.",
+      "question": "8. Kom je uit Gr__kenland?",
+      "accepted": [
+        "ee"
+      ],
+      "solution": "ee",
+      "explanation": "Griekenland"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-06-9",
+      "instruction": "Welke letters missen? Vul de juiste letters in. Kies uit: ee – ie – ij – oe – oo – ui.",
+      "question": "9. Welke talen spr__k je?",
+      "accepted": [
+        "ee"
+      ],
+      "solution": "ee",
+      "explanation": "spreek"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-06-10a",
+      "instruction": "Welke letters missen? Vul de juiste letters in. Kies uit: ee – ie – ij – oe – oo – ui.",
+      "question": "10. Ik w__n in Nijmegen.",
+      "accepted": [
+        "oo"
+      ],
+      "solution": "oo",
+      "explanation": "woon"
+    },
+    {
+      "type": "fill",
+      "id": "wb-01-06-10b",
+      "instruction": "Welke letters missen? Vul de juiste letters in. Kies uit: ee – ie – ij – oe – oo – ui.",
+      "question": "10. Ik woon in N__megen.",
+      "accepted": [
+        "ij"
+      ],
+      "solution": "ij",
+      "explanation": "Nijmegen"
+    },
+    {
+      "type": "open",
+      "id": "wb-01-07",
+      "instruction": "De hoofdletters en punten missen. Schrijf de tekst met hoofdletters en punten.",
+      "question": "mijn voornaam is bill en mijn achternaam is johnson ik kom uit de verenigde staten en ik woon nu in nijmegen mijn nationaliteit is amerikaans mijn moedertaal is engels en ik spreek ook een beetje nederlands",
+      "solution": "Mijn voornaam is Bill en mijn achternaam is Johnson. Ik kom uit de Verenigde Staten en ik woon nu in Nijmegen. Mijn nationaliteit is Amerikaans. Mijn moedertaal is Engels en ik spreek ook een beetje Nederlands."
+    },
+    {
+      "type": "open",
+      "id": "wb-01-09-1",
+      "instruction": "Anton praat met Miranda. Wat vraagt en zegt hij? Schrijf complete vragen en zinnen.",
+      "question": "1. Anton: ___ / Miranda: Hallo!",
+      "solution": "Hallo. / Goedemorgen. / Hoi.",
+      "accepted": [
+        "hallo",
+        "goedemorgen",
+        "hoi"
+      ],
+      "explanation": "Anton begroet Miranda."
+    },
+    {
+      "type": "open",
+      "id": "wb-01-09-2",
+      "instruction": "Anton praat met Miranda. Wat vraagt en zegt hij? Schrijf complete vragen en zinnen.",
+      "question": "2. Miranda zegt: 'Mijn naam is Miranda Espinoza Ramires.' Wat vraagt Anton?",
+      "solution": "Wat is je naam? / Wat is jouw naam? / Hoe heet je? / Hoe heet jij?",
+      "accepted": [
+        "wat is je naam",
+        "wat is jouw naam",
+        "hoe heet je",
+        "hoe heet jij"
+      ]
+    },
+    {
+      "type": "open",
+      "id": "wb-01-09-3",
+      "instruction": "Anton praat met Miranda. Wat vraagt en zegt hij? Schrijf complete vragen en zinnen.",
+      "question": "3. Miranda zegt: 'Espinoza Ramires is mijn achternaam en Miranda is mijn voornaam.' Wat vraagt Anton?",
+      "solution": "Wat is je voornaam en wat is je achternaam? (of: Wat is jouw voornaam en wat is jouw achternaam?)",
+      "accepted": [
+        "wat is je voornaam en wat is je achternaam",
+        "wat is jouw voornaam en wat is jouw achternaam"
+      ]
+    },
+    {
+      "type": "open",
+      "id": "wb-01-09-4",
+      "instruction": "Anton praat met Miranda. Wat vraagt en zegt hij? Schrijf complete vragen en zinnen.",
+      "question": "4. Miranda zegt: 'Ik kom uit Mexico.' Wat vraagt Anton?",
+      "solution": "Waar kom je vandaan? (of: Waar kom jij vandaan?)",
+      "accepted": [
+        "waar kom je vandaan",
+        "waar kom jij vandaan"
+      ]
+    },
+    {
+      "type": "open",
+      "id": "wb-01-09-5",
+      "instruction": "Anton praat met Miranda. Wat vraagt en zegt hij? Schrijf complete vragen en zinnen.",
+      "question": "5. Miranda zegt: 'Mijn moedertaal is Spaans, maar ik spreek ook Frans, Italiaans en Nederlands.' Wat vraagt Anton?",
+      "solution": "Wat is je moedertaal? / Welke talen spreek je? (met je/jouw)",
+      "accepted": [
+        "wat is je moedertaal",
+        "wat is jouw moedertaal",
+        "welke talen spreek je",
+        "welke talen spreek jij"
+      ]
+    },
+    {
+      "type": "open",
+      "id": "wb-01-09-6",
+      "instruction": "Anton praat met Miranda. Wat vraagt en zegt hij? Schrijf complete vragen en zinnen.",
+      "question": "6. Miranda zegt: 'Tot ziens!' Wat zegt Anton?",
+      "solution": "Tot ziens!",
+      "accepted": [
+        "tot ziens"
+      ]
+    },
+    {
+      "type": "choice",
+      "id": "wb-01-11b-1",
+      "instruction": "Lees de zinnen. Is de zin waar of niet waar?",
+      "question": "1. De moedertaal van Ivan is Russisch.",
+      "options": [
+        "waar",
+        "niet waar"
+      ],
+      "answerIndex": 1,
+      "explanation": "Ivans moedertaal is Pools; hij spreekt ook Russisch en Duits."
+    },
+    {
+      "type": "choice",
+      "id": "wb-01-11b-2",
+      "instruction": "Lees de zinnen. Is de zin waar of niet waar?",
+      "question": "2. Ivan spreekt 3 talen.",
+      "options": [
+        "waar",
+        "niet waar"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pools (moedertaal), Russisch en Duits."
+    },
+    {
+      "type": "choice",
+      "id": "wb-01-11b-3",
+      "instruction": "Lees de zinnen. Is de zin waar of niet waar?",
+      "question": "3. Akiko spreekt ook Duits.",
+      "options": [
+        "waar",
+        "niet waar"
+      ],
+      "answerIndex": 1,
+      "explanation": "Akiko spreekt alleen Japans (en een beetje Nederlands)."
+    },
+    {
+      "type": "choice",
+      "id": "wb-01-11b-4",
+      "instruction": "Lees de zinnen. Is de zin waar of niet waar?",
+      "question": "4. Akiko spreekt goed Nederlands.",
+      "options": [
+        "waar",
+        "niet waar"
+      ],
+      "answerIndex": 1,
+      "explanation": "Akiko spreekt maar 'een beetje Nederlands'."
+    }
+  ],
+  "grammar": [
+    {
+      "id": "ch01-personen",
+      "title": "Personen",
+      "paragraphs": [],
+      "examples": [
+        "Ik ben Nederlander.",
+        "Wie ben jüj?",
+        "Waar woon je?",
+        "Mijn achternaam is Rutten.",
+        "Wat is jouw naam?",
+        "Wat is je naam?"
+      ]
+    },
+    {
+      "id": "ch01-verba",
+      "title": "Verba",
+      "paragraphs": [],
+      "examples": [
+        "Hoe heet je?",
+        "Ik woon in Nijmegen.",
+        "Welke talen spreek je?",
+        "Mijn voornaam is Aziz.",
+        "Wie ben jij?"
+      ]
+    },
+    {
+      "id": "ch01-preposities",
+      "title": "Preposities",
+      "paragraphs": [],
+      "examples": [
+        "Ikwoon in Nijmegen.",
+        "Ik kom uit Nederland.",
+        "Luister naar de dialoog.",
+        "Kijk naar het plaatje.",
+        "Praat met 5 personen.",
+        "Schrijf het juiste woord bij het plaatje."
+      ]
+    },
+    {
+      "id": "ch01-vraagwoorden",
+      "title": "Vraagwoorden",
+      "paragraphs": [],
+      "examples": [
+        "Wat is je naam?",
+        "Wie ben jij?",
+        "Hoe heet jij?",
+        "Waar woon je?",
+        "Waar kom je vandaan?",
+        "Uit welk land kom je?"
+      ]
+    },
+    {
+      "id": "ch01-vragen-en-antwoorden",
+      "title": "Vragen en antwoorden",
+      "paragraphs": [
+        "Mijn naam is ...",
+        "Mijn voornaam is ...",
+        "Mijn achternaam is ...",
+        "Mijn roepnaam is ...",
+        "Ik woon in ...",
+        "Ik kom uit ....",
+        "Ik kom uit ...",
+        "Ik ben ...",
+        "Mijn moedertaal is ...",
+        "Ik spreek ..."
+      ],
+      "examples": [
+        "Wat is je naam?",
+        "Wat is je voornaam?",
+        "Wat is je achternaam?",
+        "Wat is je roepnaam?",
+        "Waar woon je?",
+        "Waar kom je vandaan?",
+        "Uit welk land kom je?",
+        "Welke nationaliteit heb je?",
+        "Wat is je moedertaal?",
+        "Welke talen spreek je?"
+      ]
+    },
+    {
+      "id": "ch01-klanken-en-spelling",
+      "title": "Klanken en spelling",
+      "paragraphs": [
+        "Ik kan nu:",
+        "nee U"
+      ],
+      "examples": [
+        "ie niet, wie",
+        "aa naam, taal, vraao",
+        "ië België, Italië, Syrië",
+        "ee heet, lees, spreek",
+        "00 hoor, ook, woon, woord",
+        "ij jij, mijn, schrijf",
+        "oe boek, goed, hoe",
+        "ui Duits, luister, uit"
+      ]
+    }
+  ],
+  "number": 1,
+  "title": "In de les"
+}

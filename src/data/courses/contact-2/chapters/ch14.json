@@ -1,0 +1,647 @@
+{
+  "number": 14,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "aanwijzen (ik wijs … aan)",
+          "english": "to indicate (I indicate, I am indicating)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "adviseren",
+          "english": "to advise",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "behandelen",
+          "english": "to treat",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "bijbetalen (ik betaal … bij)",
+          "english": "to make a co-payment ( I make/I am making a co-payment)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "buigen",
+          "english": "to bend",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "doorsturen (ik stuur … door)",
+          "english": "to forward (I forward, I am forwarding)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "doorverwijzen (ik verwijs … door)",
+          "english": "to refer (I refer, I am referring)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "innemen (ik neem … in)",
+          "english": "to take (I take, I am taking)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "(zich) omdraaien (ik draai me om /ik draai het boek om)",
+          "english": "to turn around/over (I turn around, I am turning around / I turn the book over, I am turning the book over)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "tandenpoetsen (ik poets mijn tanden)",
+          "english": "to brush your teeth (I brush my teeth, I am brushing my teeth))",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vergoeden",
+          "english": "to reimburse",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vullen",
+          "english": "to fill",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de allergie (de allergieën)",
+          "english": "allergy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de apotheek (de apotheken)",
+          "english": "pharmacy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de behandeling (de behandelingen)",
+          "english": "treatment",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bijsluiter (de bijsluiters)",
+          "english": "information leaflet",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bijwerking (de bijwerkingen)",
+          "english": "side-effect",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de controle (de controles)",
+          "english": "check-up",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de fysiotherapeut (de fysiotherapeuten)",
+          "english": "physiotherapist",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de fysiotherapie (de fysiotherapieën)",
+          "english": "physiotherapy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de hooikoorts (-)",
+          "english": "hay fever",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kies (de kiezen)",
+          "english": "tooth, molar",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de klacht (de klachten)",
+          "english": "complaint",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de pijnklacht (de pijnklachten)",
+          "english": "pain",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de tablet (de tabletten)",
+          "english": "tablet",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de tand (de tanden)",
+          "english": "tooth",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de tandarts (de tandartsen)",
+          "english": "dentist",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verwijsbrief (de verwijsbrieven)",
+          "english": "(doctor’s) referral (letter)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de zorgverzekering (de zorgverzekeringen)",
+          "english": "health insurance",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gaatje (de gaatjes)",
+          "english": "cavity",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het personeel (-)",
+          "english": "personnel",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het recept (de recepten)",
+          "english": "prescription",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "allergisch (allergische)",
+          "english": "allergic",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "erg (erge)",
+          "english": "bad, awful",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "gezond (gezonde)",
+          "english": "healthy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ongezond (ongezonde)",
+          "english": "unhealthy honderdvijfennegentig 195",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "best",
+          "english": "quite",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "erg",
+          "english": "very, awfully",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "heel",
+          "english": "very",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "heel erg",
+          "english": "very bad, extremely",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "naar links",
+          "english": "(to the) left",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "naar rechts",
+          "english": "(to the) right",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "rechtsboven",
+          "english": "top right",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "sinds",
+          "english": "since",
+          "other": null,
+          "note": "Ik heb geen medische klachten gehad, sinds ik in Nederland woon. I haven’t had any medical problems since I moved to the Netherlands."
+        },
+        {
+          "dutch": "vanzelf",
+          "english": "by itself, automatically",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "voorover",
+          "english": "forward",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "allergisch zijn voor iets",
+          "english": "to be allergic to something",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een gaatje vullen",
+          "english": "to fill a cavity",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Het gaat vanzelf over.",
+          "english": "It will pass by itself.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Het werkt snel.",
+          "english": "It works fast.",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 76,
+      "title": "Gesprek A",
+      "lines": [
+        "S1: \u0007Het is me duidelijk, meneer Carranza. U moet meer bewegen. U moet oefeningen doen om uw rugs-",
+        "pieren los te maken. U hebt fysiotherapie nodig.",
+        "S2: Fysiotherapie? Dat is best duur, denk ik. Vergoedt mijn zorgverzekering dat, dokter?",
+        "S1: Wat voor verzekering hebt u?",
+        "S2: Eh, dat weet ik niet precies.",
+        "S1: \u0007Ik adviseer u om dat thuis even rustig op te zoeken. Ik geef u in ieder geval een verwijsbrief. U kunt ook",
+        "zonder verwijsbrief naar een fysiotherapeut gaan maar met een verwijsbrief kan de fysiotherapeut de",
+        "behandeling snel starten."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 77,
+      "title": "Gesprek B",
+      "lines": [
+        "S3: \u0007Goedemiddag, mevrouw Hadi. Gaat u maar zitten. Ik doe de stoel naar achter. Ligt u goed zo?",
+        "S4: Ja, prima.",
+        "S3: Hoe gaat het met u? Hebt u pijnklachten?",
+        "S4: Ja, ik heb best veel last van een kies rechtsboven in mijn mond.",
+        "S3: Hoelang hebt u deze pijnklachten al?",
+        "S4: Sinds twee weken. Dat vind ik best lang. Daarom heb ik de afspraak gemaakt.",
+        "S3: Hoe erg is de pijn?",
+        "S4: Heel erg.",
+        "S3: Hoe vaak poetst u uw tanden?",
+        "S4: Een keer per dag.",
+        "S3: \u0007We zullen eens even kijken. Doet u uw mond maar open.",
+        "\u0007Hmhm, ja, ik zie het al. U hebt een gaatje. Wanneer was uw laatste controle door een tandarts?",
+        "S3: Ach, mijn excuses. Wat zei u?",
+        "S4: Dat is best lang geleden. Twee jaar. Toen ik nog in Eindhoven woonde.",
+        "S3: \u0007Dat is inderdaad best lang geleden. U hebt geluk. De patiënt na u is ziek en komt niet. Ik kan het gaatje",
+        "nu dus vullen. Wilt u uw mond een beetje verder opendoen? Dan begin ik meteen met de behande-",
+        "ling?"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 78,
+      "title": "Gesprek C",
+      "lines": [
+        "S1: Goedemiddag, meneer. Kan ik u helpen?",
+        "S2: \u0007Ja, ik ben net bij de huisarts geweest en zij heeft me een recept gegeven voor een medicijn tegen aller-",
+        "gie. Ik ben allergisch voor pollen.",
+        "S1: \u0007Oh, u hebt hooikoorts. Wat vervelend. Hebt u het recept nu bij u of heeft de huisarts het doorgestuurd?",
+        "S2: Ik heb het hier, alstublieft.",
+        "S1: Dank u. Een momentje, alstublieft.",
+        "S1: Ik zie in de computer dat u nog niet bij deze apotheek bent ingeschreven. Klopt dat?",
+        "S2: Ja, dat klopt. Ik ben vorige week naar deze stad verhuisd.",
+        "S1: \u0007Dan moet ik u eerst even inschrijven. Komt u maar even mee, meneer. Dat doen we in het kantoortje.",
+        "S1: \u0007Zo, nu u bent ingeschreven zal ik uw medicijnen voor u pakken. Hier zijn ze. Het zijn tabletten. U moet",
+        "twee keer per dag een halve tablet met water innemen. Het medicijn werkt snel. Het kan bijwerkingen",
+        "hebben. U kunt zich een beetje moe voelen en u kunt een droge mond krijgen. Ik adviseer u om de",
+        "bijsluiter thuis goed door te lezen. Uw zorgverzekering vergoedt het medicijn niet dus u moet het zelf",
+        "betalen. Het kost acht euro twintig."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 79,
+      "title": "Gesprek D",
+      "lines": [
+        "S3: Goedemorgen, meneer Carranza, kom binnen. Bram de Jong.",
+        "S2: Goedemorgen, Alberto Carranza.",
+        "S3: Hoe voelt u zich vandaag?",
+        "S2: Hm, het gaat wel.",
+        "S3: Waar hebt u last van?",
+        "S2: Mijn rug natuurlijk. Het is weer mijn rug.",
+        "S3: Weer uw rug? Hebt u deze klachten eerder gehad?",
+        "S2: \u0007Ja, toen ik nog in Colombia woonde. Ik heb toen ook fysiotherapie gehad. Daarna ging het veel",
+        "beter maar ik ben vorige week van mijn fiets gevallen en nu is de pijn terug. De huisarts heeft me",
+        "doorverwezen.",
+        "S3: Waar zit de pijn precies? Kunt u het aanwijzen?",
+        "S2: Ja, hier.",
+        "S3: Hier?",
+        "S2: Ja, au, ja, precies daar.",
+        "S3: Hoe erg is de pijn?",
+        "S2: Ik heb heel erg veel pijn. Het is veel erger dan de eerste keer in Colombia.",
+        "S3: Nou, we gaan eens even kijken. Doet u uw T-shirt maar even uit.",
+        "Dank u. Wilt u zich even omdraaien?",
+        "\u0007Goed zo. Wilt u even voorover buigen? Stopt u maar als het pijn doet. Ja. Wilt u naar links",
+        "buigen? Goed zo. En naar rechts? Prima. Wilt u uw been …"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 80,
+      "title": "Gesprek 1",
+      "lines": [
+        "B: Goedemorgen, meneer Toussani. Wat kan ik voor u doen?",
+        "P: Ik heb heel erg veel last van mijn rechtervoet.",
+        "B: Hoelang hebt u deze pijnklachten al?",
+        "P: Ongeveer een week.",
+        "B: Hoe erg is de pijn?",
+        "P: De pijn is heel erg. Ik kan bijna niet meer lopen.",
+        "B: Kunt u de pijn aanwijzen?",
+        "P: Ja, hier doet het pijn.",
+        "B: Kunt u uw voet naar links buigen?",
+        "P: Au. Nee, dat lukt niet."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 81,
+      "title": "Gesprek 2",
+      "lines": [
+        "P: Goedemiddag, ik kom medicijnen ophalen.",
+        "P: Mijn huisarts heeft een recept doorgestuurd.",
+        "P: Mijn naam is Emiel Falco.",
+        "B: Uw medicijnen liggen al klaar.",
+        "B: Alstublieft. Het zijn eenentwintig tabletten.",
+        "B: U moet de tabletten voor elke maaltijd met water innemen.",
+        "P: Heeft het medicijn bijwerkingen?",
+        "B: Soms krijgen mensen hoofdpijn als ze het medicijn gebruiken.",
+        "B: Uw zorgverzekering vergoedt dit medicijn niet.",
+        "B: U moet het zelf betalen.",
+        "B: Het kost €6,95."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 82,
+      "title": "Gesprek 3",
+      "lines": [
+        "P: Goedemorgen!",
+        "B: Goedemorgen, mevrouw Hanssen. Hoe gaat het met u?",
+        "P: Goed.",
+        "B: Fijn. Gaat u maar in de stoel liggen.",
+        "B: Hebt u nog pijnklachten?",
+        "P: Nee, ik heb nergens last van.",
+        "B: Doet u uw mond maar open.",
+        "B: Dan ga ik even kijken.",
+        "B: Dat ziet er goed uit.",
+        "B: U hebt geen gaatjes.",
+        "P: Dat is fijn. Ik poets mijn tanden ook erg goed."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 83,
+      "title": "Gesprek 4",
+      "lines": [
+        "P: Ik denk dat ik fysiotherapie nodig heb.",
+        "P: Kunt u me doorverwijzen?",
+        "B: Ik denk ook dat een fysiotherapeut u kan helpen.",
+        "B: U hebt geen verwijsbrief nodig om naar een fysiotherapeut te gaan.",
+        "B: \u0007Ik zal u wel een verwijsbrief geven want dan kan ik uw klacht aan de fysiotherapeut uitleggen.",
+        "P: Dank u.",
+        "P: Mijn zorgverzekering vergoedt acht behandelingen door een fysiotherapeut.",
+        "P: Is dat genoeg?",
+        "B: Dat kunt u het beste aan de fysiotherapeut vragen."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 84,
+      "title": null,
+      "lines": [
+        "B: Goedemiddag, meneer Mattis. Wat kan ik voor u doen?",
+        "P: Ik heb heel erg veel pijn aan mijn nek. Ik kan mijn nek niet goed bewegen.",
+        "B: Dat is vervelend voor u. Wat is er gebeurd?",
+        "P: Ik ben vanochtend van de trap gevallen. Daarna had ik pijn maar alleen aan mijn nek.",
+        "B: Kunt u de pijn aanwijzen?",
+        "P: Ja, hier doet het pijn.",
+        "B: Kunt u uw nek een beetje naar links en naar rechts buigen?",
+        "P: \u0007Au! Naar links gaat best goed maar naar rechts gaat niet goed. Kunt u me doorverwijzen naar een",
+        "fysiotherapeut?",
+        "B: \u0007U hoeft geen verwijsbrief van mij te hebben om naar de fysiotherapeut te gaan maar ik adviseer",
+        "u om nog even met fysiotherapie te wachten. U bent vanochtend pas gevallen. Wacht u toch een",
+        "paar dagen. Meestal gaat het vanzelf over.",
+        "P: Maar ik heb heel erg veel pijn, dokter. Wat moet ik dan doen?",
+        "B: \u0007U kunt het beste pijnstillers nemen. Paracetamol bijvoorbeeld. Probeer ook gewoon te bewegen.",
+        "Als de pijn over een week nog niet weg is, dan kunt u een nieuwe afspraak maken. Dan kan ik uw",
+        "nek nog even onderzoeken."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 85,
+      "title": null,
+      "lines": [
+        "Instructie",
+        "Je gaat 6 spreekopdrachten doen.",
+        "Je antwoorden bij de opdrachten moeten kort zijn.",
+        "Soms moet je een paar woorden zeggen.",
+        "Soms moet je één of twee zinnen zeggen.",
+        "Je hebt 20 seconden spreektijd.",
+        "Er staan plaatjes bij elke opdracht.",
+        "Deze plaatjes moet je in je antwoord gebruiken.",
+        "Je krijgt vijf seconden om het plaatje of de tekst te bekijken.",
+        "Je hoort een piep als je moet beginnen met spreken.",
+        "Je hoort een tweede piep als je moet stoppen met spreken."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 86,
+      "title": "Opdracht 1",
+      "lines": [
+        "Cliënt: Je bent bij de dokter. Je hebt een klacht. Kijk naar de plaatjes.",
+        "De dokter stelt vragen. Luister en reageer.",
+        "Huisarts: U hebt een klacht. Wat is uw klacht en hoelang hebt u de klacht al?"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 87,
+      "title": "Opdracht 2",
+      "lines": [
+        "Cliënt: Je gaat een medicijn bij de apotheek ophalen. Kijk naar het plaatje.",
+        "De medewerker van de apotheek stelt een vraag. Luister en reageer.",
+        "Huisarts: Voor wie is het medicijn?"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 88,
+      "title": "Opdracht 3",
+      "lines": [
+        "Cliënt: \u0007Je hebt vandaag om 11.45 uur een afspraak met je tandarts. Maar dit is er met je aan de",
+        "hand. Kijk naar het plaatje.",
+        "Je belt de tandarts. Je spreekt met zijn assistente. Luister en reageer.",
+        "Huisarts: Goedemorgen. U spreekt met de assistente van tandarts Leenders. Wat kan ik voor u doen?"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 89,
+      "title": "Opdracht 4",
+      "lines": [
+        "Cliënt: Je loopt op straat. Je ziet de volgende situatie. Kijk naar de plaatjes.",
+        "Je hebt 112 gebeld. Luister en reageer.",
+        "Huisarts: Meldkamer ambulancezorg. Wat is het adres van uw noodgeval?"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 90,
+      "title": "Opdracht 5",
+      "lines": [
+        "Cliënt: Je loopt op straat. Je ziet de volgende situatie. Kijk naar de plaatjes.",
+        "Je hebt 112 gebeld. Luister en reageer.",
+        "Huisarts: Wat is er precies gebeurd?"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 91,
+      "title": "Opdracht 6",
+      "lines": [
+        "Cliënt: Je bent met je zoon bij de tandarts. Kijk naar de plaatjes.",
+        "Luister naar de tandarts en reageer.",
+        "Huisarts: Hoe vaak poetst uw zoon zijn tanden en doet hij dat alleen?"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 38,
+      "title": "Gesprek A",
+      "lines": [
+        "1: Is alles goed met je?",
+        "2: Nee, ik heb heel erg veel last van mijn rug. Ik kan bijna niet lopen.",
+        "1: Wat vervelend voor je.",
+        "Gesprek B",
+        "1: Au!",
+        "2: Wat is er?",
+        "1: Ik pakte dat papier en toen sneed het in mijn vinger. Het bloedt heel erg.",
+        "Gesprek C",
+        "2: Wat ben je laat. Waar kom jij vandaan?",
+        "1: Ik ben net bij de fysiotherapeut geweest. Vorig jaar heb ik mijn arm gebroken, weet je dat nog?",
+        "2: Ja.",
+        "1: Nou, ik heb nog best veel last van mijn arm dus ik krijg weer fysiotherapie.",
+        "Gesprek D",
+        "1: Hoi. Wat kijk je boos. Is er iets?",
+        "2: · \u0007Ja, ik ben net bij de tandarts geweest. Ik heb een gaatje dus ik moet terugkomen. Ik heb een hekel aan",
+        "de tandarts dus ik ben even niet zo blij. Ik heb ook geen tandartsverzekering dus dit gaat me ook nog",
+        "geld kosten.",
+        "Gesprek E",
+        "2: Dat gaat heel goed. Kunt u nu uw vinger buigen?",
+        "1: Eh, au, nee, dat lukt niet.",
+        "2: Probeert u het nog eens. Stop maar als het pijn doet.",
+        "1: Oké, au, verder kan ik mijn vinger niet buigen.",
+        "Gesprek F",
+        "1: Hoe moet ik dit medicijn innemen?",
+        "2: · \u0007U moet het voor elke maaltijd, met een glas water, innemen. U mag maximaal drie tabletten per dag",
+        "innemen. Leest u de bijsluiter nog maar eens goed door.",
+        "1: Dat zal ik doen."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 39,
+      "title": "Instructie a",
+      "lines": [
+        "Oké, buig nu allemaal naar links. Goed zo! Hou dit drie seconden vast en terug naar het midden.",
+        "Instructie b:",
+        "Hé Marco, draai je eens om, dan maak ik een foto van je!",
+        "Instructie c:",
+        "Buigt u maar voorover, meneer Jansen. Stopt u maar als het pijn doet.",
+        "Instructie d:",
+        "Dus je hebt kiespijn, Joris. Wijs eens aan. Waar heb je pijn?"
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

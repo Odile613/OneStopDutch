@@ -1,0 +1,480 @@
+{
+  "number": 8,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "bedenken",
+          "english": "to think of",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "evalueren",
+          "english": "to evaluate",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "liegen",
+          "english": "to lie",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "missen",
+          "english": "to miss",
+          "other": null,
+          "note": "Ik heb de trein gemist. I missed the train."
+        },
+        {
+          "dutch": "roddelen",
+          "english": "to gossip",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "storen",
+          "english": "to disturb, to interrupt",
+          "other": null,
+          "note": "Je stoort me. You are disturbing me."
+        },
+        {
+          "dutch": "verstoren",
+          "english": "to disrupt",
+          "other": null,
+          "note": "Je verstoort de les. You are disrupting the class."
+        },
+        {
+          "dutch": "voorbereiden (ik bereid … voor)",
+          "english": "to prepare (I prepare, I am preparing)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de band (de banden)",
+          "english": "tyre",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de brug (de bruggen)",
+          "english": "bridge",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de consequentie (de consequenties)",
+          "english": "consequence",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de gebeurtenis (de gebeurtenissen)",
+          "english": "event",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de reden (de redenen)",
+          "english": "reason",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de mogelijkheid (de mogelijkheden)",
+          "english": "possibility",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de omleiding (de omleidingen)",
+          "english": "diversion",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de oplossing (de oplossingen)",
+          "english": "solution",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de pech (-)",
+          "english": "bad luck; breakdown",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de autopech (-)",
+          "english": "car trouble",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vertraging (de vertragingen)",
+          "english": "delay",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de wekker (de wekkers)",
+          "english": "alarm clock",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het smoesje (de smoesjes)",
+          "english": "excuse",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het vervoermiddel (de vervoermiddelen)",
+          "english": "means of transport",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "afwezig (afwezige)",
+          "english": "absent",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "kapot (kapotte)",
+          "english": "broken",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lek (lekke)",
+          "english": "punctured",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "rustig (rustige)",
+          "english": "calm",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "teleurgesteld (teleurgestelde)",
+          "english": "disappointed",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "bijzinconjuncties",
+      "entries": [
+        {
+          "dutch": "als",
+          "english": "if, when",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nadat",
+          "english": "after",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "terwijl",
+          "english": "while",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "allemaal",
+          "english": "all",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "hopelijk",
+          "english": "hopefully",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "onderweg",
+          "english": "on the way",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "in de file staan",
+          "english": "to be in a traffic-jam",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vertraging hebben",
+          "english": "to be delayed",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Dat geeft niks.",
+          "english": "It doesn’t matter.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dat hangt ervan af.",
+          "english": "It depends.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dat maakt niet uit.",
+          "english": "It doesn’t matter.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dat vind ik niet erg.",
+          "english": "I don’t mind.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dat vind ik vervelend.",
+          "english": "I think it’s a nuisance.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ik wil mijn excuses aanbieden.",
+          "english": "I want to offer my apologies.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Sorry dat ik te laat ben.",
+          "english": "I am sorry I am late.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Sorry dat ik zo laat ben.",
+          "english": "Sorry for being late.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Wat is er aan de hand?",
+          "english": "What’s going on?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Wat is er gebeurd?",
+          "english": "What happened? honderdvijfentachtig 185",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 26,
+      "title": null,
+      "lines": [
+        "Anne-Marie: Goedemorgen, fijn dat jullie er allemaal al zijn. Het is 9 uur, we gaan beginnen met de les.",
+        "Cursist 1: Sorry, Anne-Marie, maar niet iedereen is er.",
+        "Anne-Marie: \u0007Oh ja, ik zie het. Er zijn 3 cursisten nog niet, Artur, David en William. Heeft iemand iets van",
+        "hen gehoord?",
+        "Cursist 1: \u0007Ik heb niks van ze gehoord. David komt altijd met de trein, misschien heeft hij de trein",
+        "gemist.",
+        "Anne-Marie: Hmm, dat kan. Hopelijk is hij niet ziek. Hij is nog nooit te laat gekomen.",
+        "Cursist 1: David is altijd op tijd, ja. Maar William is heel vaak te laat. Hij heeft ook altijd smoesjes.",
+        "Cursist 2: \u0007Ja, dat klopt. De brug was open, mijn bus had vertraging, mijn wekker was kapot, er was",
+        "een omleiding, blablabla.",
+        "Anne-Marie: \u0007Jongens, laten we niet roddelen over mensen die niet aanwezig zijn. William komt nooit",
+        "met de bus, toch?",
+        "Cursist 1: Nee, hij komt op de fiets. Dan zegt hij natuurlijk straks: ‘Mijn band was lek’.",
+        "Anne-Marie: En Artur? Heeft iemand iets van Artur gehoord?",
+        "Cursisten: Nee.",
+        "Anne-Marie: Dat is gek. Artur is er altijd.",
+        "Cursist 1: \u0007Ja. En hij is nog nooit te laat geweest. Hij komt altijd met de auto. Misschien staat hij in de",
+        "file.",
+        "Anne-Marie: Dat kan. Laten we maar met de les beginnen. Misschien komen ze nog."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 27,
+      "title": null,
+      "lines": [
+        "William: \u0007Goedemorgen, Anne-Marie. Sorry, ik ben een beetje te laat. Het spijt me. Ik heb een klein",
+        "stukje gelopen. Er was werk aan de weg.",
+        "Anne-Marie: \u0007Ga maar snel zitten, William. Ik ben net al met de les begonnen. Het is vijf over negen. Kan",
+        "ik na de les even met je praten?",
+        "William: Natuurlijk.",
+        "Cursist 1: \u0007Sorry, Anne-Marie. Artur heeft mij een berichtje gestuurd. Hij is op de parkeerplaats.",
+        "Er was een omleiding, dus hij heeft een andere weg genomen. Hij komt zo.",
+        "Anne-Marie: Dank je wel voor het doorgeven. Fijn dat hij eraan komt.",
+        "Cursist 1: Ja, gelukkig.",
+        "Anne-Marie: \u0007Zullen we verdergaan met de les? We gaan vandaag dus praten over het verkeer. In de",
+        "vorige les hebben jullie een filmpje gekeken. Vandaag gaan we verder praten over het",
+        "filmpje. Jullie leren ….",
+        "Artur: Sorry, Anne-Marie, ik ben te laat.",
+        "Anne-Marie: Het geeft niets, Artur. Jij bent bijna altijd op tijd.",
+        "Artur: Ik kom altijd met de auto maar de snelweg is sinds vandaag afgesloten.",
+        "Anne-Marie: \u0007Ja, Antoinette heeft me net verteld dat er een omleiding was. Het was gisteren ook op het",
+        "nieuws. Die afsluiting gaat twee weken duren. Hoe ben je nu gekomen?",
+        "Artur: Ik heb een andere weg genomen. Het heeft tien minuten langer geduurd.",
+        "Anne-Marie: Fijn dat je er nu bent. Kun je de volgende les wel op tijd komen?",
+        "Artur: Ja, natuurlijk. Ik weet nu dat de snelweg afgesloten is.",
+        "Anne-Marie: Fijn, Artur. Dan gaan we nu verder met de les, hopelijk stoort er nu niemand meer…."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 28,
+      "title": null,
+      "lines": [
+        "1. Sorry, ik ben te laat. De brug was open.",
+        "2. Het spijt me, ik ben te laat. Ik heb de bus gemist.",
+        "3. Sorry dat ik te laat ben. Mijn bus had vertraging.",
+        "4. Sorry dat ik zo laat ben. Er waren veel files onderweg.",
+        "5. Sorry dat ik niet op tijd ben. Ik had een lekke band.",
+        "6. Sorry dat ik te laat ben. Mijn wekker was kapot."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 29,
+      "title": null,
+      "lines": [
+        "1. Het geeft niks. Ga maar snel zitten.",
+        "2. Je verstoort de vergadering.",
+        "3. Ik wil na de les met je praten!",
+        "4. Het is geen probleem, want jij bent altijd op tijd.",
+        "5. Dat is al de derde keer deze week.",
+        "6. Ik vind het vervelend dat je weer te laat bent.",
+        "7. Het maakt niet uit. Fijn dat je hebt gebeld."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 30,
+      "title": null,
+      "lines": [
+        "Telefoniste: Goedemorgen, taalschool Van Start, u spreekt met Heleen van Roozen.",
+        "Cursist: Hallo mevrouw, met ……………………………",
+        "Telefoniste: Pardon, wat zegt u?",
+        "Cursist: Ik heb een probleem. Ik ben onderweg naar school maar mijn trein rijdt niet.",
+        "Telefoniste: Kunt u nog wel naar school komen?",
+        "Cursist: Ja, de volgende trein rijdt over 30 minuten. Dus ik kom ongeveer 30 minuten later.",
+        "Telefoniste: Wie is uw docent?",
+        "Cursist: Mijn docent heet Anne-Marie.",
+        "Telefoniste: In welke groep zit u?",
+        "Cursist: Ik zit in groep 2C.",
+        "Telefoniste: Oké, ik zal het doorgeven aan de docent, maar ik heb uw naam niet goed verstaan.",
+        "Wilt u die nog een keer zeggen alstublieft?",
+        "Cursist: Ja, natuurlijk, mijn naam is David. David Rohan.",
+        "Telefoniste: Goed, meneer Rohan, ik geef het door. Fijn dat u even hebt gebeld.",
+        "Cursist: Graag gedaan.",
+        "Telefoniste: Tot ziens. En sterkte met de vertraging!",
+        "Cursist: Ja bedankt. Tot ziens."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 15,
+      "title": null,
+      "lines": [
+        "1. file",
+        "2. missen",
+        "3. fietser",
+        "4. storen",
+        "5. stoplicht",
+        "6. wekker",
+        "7. vertraging",
+        "8. omleiding",
+        "9. rotonde",
+        "10. onderweg"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 16,
+      "title": null,
+      "lines": [
+        "Docent: \u0007Ik wil graag even met je praten, Juraj. Je bent de laatste weken heel vaak te laat",
+        "gekomen in de les. Daar ben ik niet blij mee. Het verstoort mijn les.",
+        "Juraj: Ja, sorry, het spijt me.",
+        "Docent: \u0007Wat is de echte reden, Juraj? Je bent heel goed in smoesjes bedenken, maar ik wil",
+        "geen smoesjes meer horen.",
+        "Juraj: \u0007Ik heb ’s avonds een baan in een hotel en ik kom pas om 2 uur ’s nachts thuis. Gisteren",
+        "ben ik pas om 3 uur naar bed gegaan. Soms kan ik dan ‘s ochtends mijn bed niet uit.",
+        "Docent: \u0007Ja, ik snap dat vroeg opstaan moeilijk is, als je zo laat naar bed gaat. Wil je misschien",
+        "naar een andere groep? Er is ook een middaggroep.",
+        "Juraj: Hoe laat begint de les ’s middags?",
+        "Docent: Om 13 uur. Is dat een mogelijkheid?",
+        "Juraj: Ja, dat kan. Ik denk dat het beter is, maar ik vind het jammer. Deze groep is leuk.",
+        "Docent: \u0007Ja, het is heel jammer. Maar ik denk ook dat het beter voor je is. Zullen we het maar",
+        "doen?",
+        "Jurai: Ja, dat is goed.",
+        "Docent: \u0007Oké, ik zal het aan de administratie doorgeven. Je kunt morgen al starten in de",
+        "middaggroep, als je wilt.",
+        "Jurai: Ja, goed. Dank je wel.",
+        "Docent: Ik wens je veel succes in de andere groep."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 17,
+      "title": null,
+      "lines": [
+        "1. Beste reizigers, de trein van twaalf uur dertien naar Maastricht heeft een vertraging van tien minuten.",
+        "2. Attentie, de intercity van achttien uur zesendertig komt over vijf minuten binnen op spoor 7b.",
+        "3. \u0007Hier volgt een mededeling voor reizigers in de richting Den Bosch – Utrecht. De stoptrein van elf uur",
+        "eenenvijftig vertrekt vandaag vanaf spoor 3a. Herhaling. De stoptrein van elf uur eenenvijftig vertrekt",
+        "vandaag vanaf spoor 3a.",
+        "4. \u0007Wegens een technische storing rijden er geen treinen tussen Meppel en Groningen. De NS zet bussen",
+        "in. Onze excuses voor het ongemak.",
+        "5. \u0007Beste reizigers. Bent u van plan te reizen op eerste of tweede Kerstdag? Let dan goed op. De treinen",
+        "rijden dan volgens een aangepaste dienstregeling."
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

@@ -1,0 +1,734 @@
+{
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "drinken",
+          "english": "to drink",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "fietsen",
+          "english": "to cycle",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "gaan + infinitief",
+          "english": "to be going to + infinitive",
+          "other": null,
+          "note": "Ik ga morgen sporten. I am going to exercise tomorrow."
+        },
+        {
+          "dutch": "gaan naar",
+          "english": "to go to",
+          "other": null,
+          "note": "Ik ga naar het sportcentrum. I go to the sports centre."
+        },
+        {
+          "dutch": "lunchen",
+          "english": "to have lunch",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "sluiten",
+          "english": "to close",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "sporten",
+          "english": "to play a sport, to exercise",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zullen",
+          "english": "shall",
+          "other": "will",
+          "note": "Zullen we naar de film gaan? Shall we go to the cinema?"
+        }
+      ]
+    },
+    {
+      "group": "speciale verba",
+      "entries": [
+        {
+          "dutch": "ga je mee … + infinitief? (meegaan)",
+          "english": "Are you coming (along)…?",
+          "other": "(to come along)",
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de afspraak (de afspraken)",
+          "english": "appointment (appointments)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de agenda (de agenda’s)",
+          "english": "diary (diaries)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de avond (de avonden)",
+          "english": "evening (evenings)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de film (de films)",
+          "english": "film (films)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de medewerker (de medewerkers)",
+          "english": "employee (employees)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de baliemedewerker (de balie-medewerkers)",
+          "english": "desk clerk (desk clerks)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de middag (de middagen)",
+          "english": "afternoon (afternoons)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de ochtend (de ochtenden)",
+          "english": "morning (mornings)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de school (de scholen)",
+          "english": "school (schools)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de sportschool (de sportscholen)",
+          "english": "fitness centre (fitness centres)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de sport (de sporten)",
+          "english": "sport (sports)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de tijd (de tijden)",
+          "english": "time (times)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de week (de weken)",
+          "english": "week (weeks)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het café (de cafés)",
+          "english": "bar (bars), pub (pubs)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het centrum (de centra)",
+          "english": "centre (centres)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het sportcentrum (de sportcentra)",
+          "english": "sports centre (sports centres)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het deel (de delen)",
+          "english": "part (parts)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het dagdeel (de dagdelen)",
+          "english": "part of the day (parts of the day)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het ding (de dingen)",
+          "english": "thing (things)",
+          "other": null,
+          "note": "Je kan hier veel leuke dingen doen. You can do a lot of nice things here."
+        },
+        {
+          "dutch": "het huiswerk (-)",
+          "english": "homework",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het idee (de ideeën)",
+          "english": "idea (ideas)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het plan (de plannen)",
+          "english": "plan (plans)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het uur (de uren)",
+          "english": "hour (hours)",
+          "other": "here: o’clock",
+          "note": null
+        },
+        {
+          "dutch": "het weekend (de weekenden/weekends)",
+          "english": "weekend (weekends)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "afgelopen zijn",
+          "english": "to be finished",
+          "other": null,
+          "note": "De les is om half vijf afgelopen. The class will be finished at half past four."
+        },
+        {
+          "dutch": "gesloten zijn",
+          "english": "to be closed",
+          "other": null,
+          "note": "Het sportcentrum is op 1 januari gesloten. The sports centre is closed on 1 January."
+        },
+        {
+          "dutch": "dicht/open gaan om …",
+          "english": "to open / close at …",
+          "other": null,
+          "note": "Het restaurant gaat om 12 uur open. The restaurant opens at 12 o’clock."
+        },
+        {
+          "dutch": "dicht/open zijn van … tot …",
+          "english": "to be open / closed from … to",
+          "other": null,
+          "note": "Het restaurant is van 12 tot 23 uur open. The restaurant is open from noon to 11 p.m."
+        },
+        {
+          "dutch": "(geen) tijd hebben",
+          "english": "to (not) have time",
+          "other": null,
+          "note": "Ik heb geen tijd voor een hobby. I don’t have time for a hobby.\nIk heb geen tijd om dagelijks te sporten. I don’t have time to exercise daily."
+        },
+        {
+          "dutch": "(geen) zin hebben",
+          "english": "to (not) feel like, to (not) fancy",
+          "other": null,
+          "note": "Ik heb zin in koffie! I fancy a coffee.\nIk heb zin om naar de film te gaan. I feel like going to the cinema."
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "elk (elke)",
+          "english": "every",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "elke dag",
+          "english": "every day",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "gezellig (gezellige)",
+          "english": "enjoyable",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "heel (hele)",
+          "english": "whole",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de hele dag",
+          "english": "the whole day",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ieder (iedere)",
+          "english": "every",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "iedere dag",
+          "english": "every day",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "slecht (slechte)",
+          "english": "bad",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vast (vaste)",
+          "english": "fixed",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een vaste dag",
+          "english": "a fixed day",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "dagelijks",
+          "english": "daily",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "doordeweeks",
+          "english": "during the week",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "haar",
+          "english": "her",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "hier",
+          "english": "here",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "hoe laat …?",
+          "english": "what time …?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nog steeds",
+          "english": "still",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "op welke dagen … ?",
+          "english": "on which days …?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "’s avonds",
+          "english": "in the evening",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "’s middags",
+          "english": "in the afternoon",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "’s morgens",
+          "english": "in the morning",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "’s ochtends",
+          "english": "in the morning",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "t/m = tot en met",
+          "english": "up to and including",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vanavond",
+          "english": "tonight",
+          "other": "this evening",
+          "note": null
+        },
+        {
+          "dutch": "vanmiddag",
+          "english": "this afternoon",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vanmorgen",
+          "english": "this morning",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vannacht",
+          "english": "tonight",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vanochtend",
+          "english": "this morning",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "veel",
+          "english": "a lot",
+          "other": null,
+          "note": "Sport jij veel? Do you exercise a lot?"
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Hoe gaat het?",
+          "english": "How are you?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Goed, en met jou/u?",
+          "english": "I’m fine and you?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ook goed.",
+          "english": "I’m fine too.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Hoe laat is het?",
+          "english": "What time is it?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Het is … .",
+          "english": "It’s …",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Hoe laat begint het?",
+          "english": "At what time does it start?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Het begint om … .",
+          "english": "It starts at …",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dat weet ik niet.",
+          "english": "I don’t know.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Goed idee!",
+          "english": "Good idea!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Graag gedaan.",
+          "english": "You’re welcome.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Van ’s ochtends vroeg tot ’s avonds laat.",
+          "english": "From early in the morning until late in the evening.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Leer ook:",
+          "english": "Also learn:",
+          "other": null,
+          "note": "– de preposities (zie p. 44) – the prepositions (see p. 44)\n– de dagen, de dagdelen en de tijd (zie p. 44)\n– the days, parts of the day and the time (see p. 44)\n– Sport je? Leer dan ook het verbum van jouw sport,"
+        },
+        {
+          "dutch": "bijvoorbeeld ‘volleyballen’ .",
+          "english": "Do you play a sport? Then learn the verb describing your sport, for example: to play volleyball.",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 22,
+      "title": null,
+      "lines": [
+        "Nienke:  Hoi Jara!",
+        "Jara: Hé Nienke! Hoe gaat het met je?",
+        "Nienke: Het gaat prima. En met jou?",
+        "Jara: Met mij gaat het ook goed. Hoe is het met je broer?",
+        "Nienke: Heel goed. Hij woont nu samen met zijn vriendin in Haarlem.",
+        "Jara: Wat leuk! Haarlem is een gezellige stad, of niet?",
+        "Nienke: Ja. En je kan in Haarlem veel leuke dingen doen.",
+        "Jara: En sport je broer nog steeds zo veel?",
+        "Nienke: Ja, hij fietst en tennist veel. Ik wil dit jaar ook meer sporten.",
+        "Jara: Goed idee! Ik ga een nieuwe cursus op het sportcentrum doen. Zullen we samen",
+        "gaan? Misschien volleybal of squashen?",
+        "Nienke: Ja, leuk. Wanneer is volleybal?",
+        "Jara: Dat weet ik niet. Ga je mee naar de balie? Dan vragen we het direct.",
+        "…",
+        "Nienke: Goedemiddag, meneer.",
+        "Jara: Goedemiddag.",
+        "Ad Vos: Dag dames. Kan ik jullie helpen?",
+        "Jara: Ja, op welke dagen kunnen we volleyballen?",
+        "Ad Vos: Jullie kunnen op maandag en woensdag een cursus volleybal doen, en op",
+        "zaterdagmiddag is de competitie.",
+        "Nienke: En kunnen we hier ook squashen?",
+        "Baliemedewerker: Ja, squashen kan elke dag van ’s ochtends vroeg tot ’s avonds laat.",
+        "Nienke: En hoe laat is het sportcentrum open?",
+        "Ad Vos: We gaan doordeweeks iedere dag om half negen open. We sluiten om tien uur",
+        "’s avonds.",
+        "Nienke: En in het weekend?",
+        "Ad Vos: Op zaterdag zijn we open van negen tot zeven.",
+        "Op zondagmiddag zijn we dicht.",
+        "Jara: Oké, dank u wel, meneer.",
+        "Nienke: Ja, dank u wel!",
+        "Ad Vos: Graag gedaan en tot ziens!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 23,
+      "title": null,
+      "lines": [
+        "Man 1: Hé, hoe gaat het met je?",
+        "Man 2: Prima!",
+        "Man 2: En met jou?",
+        "Man 1: Ook goed."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 24,
+      "title": null,
+      "lines": [
+        "Dialoog 1",
+        "Persoon A: Hoe gaat het met je?",
+        "Persoon B: Heel goed! En met jou?",
+        "Persoon A: Ook goed.",
+        "Dialoog 2",
+        "Persoon A: Dag Kim, hoe is het met je?",
+        "Persoon B: Prima! En met u?",
+        "Persoon A: Geweldig!",
+        "Dialoog 3",
+        "Persoon A: Hallo, alles goed?",
+        "Persoon B: Het gaat wel.",
+        "Persoon A: En hoe gaat het met je vader?",
+        "Persoon B: Niet zo goed."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 25,
+      "title": null,
+      "lines": [
+        "1.  2. 3.",
+        "Hoe gaat het? Hoe gaat het? Hoe gaat het?",
+        "Goed! En met jou? Het gaat wel. En met jou? Geweldig! En met jou?",
+        "Ook goed! Gewoon. Prima."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 26,
+      "title": null,
+      "lines": [
+        "1 Ga je mee tennissen? Ja! Goed idee!",
+        "2 Ga je mee studeren? Nee sorry, ik kan niet.",
+        "3 Ga je mee naar de balie? Ja, goed.",
+        "4 Ga je mee naar het café? Nee sorry, ik heb geen tijd.",
+        "5 Zullen we naar Haarlem gaan? Gezellig!",
+        "6 Zullen we samen sporten? Nee sorry, ik heb geen zin.",
+        "Ik heb geen zin om te sporten."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 21,
+      "title": null,
+      "lines": [
+        "Dialoog 1:",
+        "Henk:  Hallo Sandra. Hoe is het met jou?",
+        "Sandra: Het gaat wel. En met jou?",
+        "Henk: Ja, goed hoor. Studeer je nog in Utrecht?",
+        "Sandra: Nee, ik studeer niet meer. Ik werk nu bij een supermarkt. Hoe is het met je ouders?",
+        "Henk: Met mijn vader is het uitstekend. Hij heeft ander werk. Met mijn moeder gaat het niet zo",
+        "goed. Ze kan geen werk vinden.",
+        "Dialoog 2:",
+        "Johan: Goedemorgen mevrouw De Boer. Hoe gaat het met u?",
+        "Mevr. De Boer: Heel goed Johan, en met jou?",
+        "Johan: Gaat wel, mevrouw De Boer. Ik heb vanmiddag een examen.",
+        "Mevr. De Boer: Nou, veel succes! En hoe is het met je vader?",
+        "Johan: Het gaat prima met mijn vader.",
+        "Mevr. De Boer: Doe je vader de groeten!",
+        "Johan: Doe ik! Doet u de groeten aan meneer De Boer?"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 22,
+      "title": null,
+      "lines": [
+        "Marcel:  Met Marcel.",
+        "Susan: Hoi Marcel, met Susan.",
+        "Marcel: Hé, Susan, wat leuk. Hoe is het met je?",
+        "Susan: Heel goed. En hoe is het met jou?",
+        "Marcel: Ook goed.",
+        "Susan: Zullen we snel iets afspreken?",
+        "Marcel: Ja, gezellig! Op vrijdag?",
+        "Susan: Nee, sorry, dan heb ik al een afspraak. Ik kan wel op zaterdagavond om acht uur.",
+        "Marcel: Dan kan ik ook.",
+        "Susan: Oké, en waar zullen we afspreken?",
+        "Marcel: In café Maas?",
+        "Susan: Dat is goed. Tot zaterdag.",
+        "Marcel: Oké. Tot dan."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 23,
+      "title": null,
+      "lines": [
+        "1. Het is drie uur.",
+        "2. Het is half twaalf.",
+        "3. Het is tien over twaalf.",
+        "4. Het is tien voor vijf.",
+        "5. Het is kwart over acht.",
+        "6. Het is acht over zes.",
+        "7. Het is vijf over tien.",
+        "8. Het is twintig over drie.",
+        "9. Het is kwart voor één."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 24,
+      "title": null,
+      "lines": [
+        "Nummer 1: Ik ben heel actief. Ik voetbal, ik zwem en ik tennis. Oh ja, en ik ga op maandag en woensdag",
+        "ook nog naar de sportschool.",
+        "Nummer 2: Ik vind films kijken erg leuk. Ik kijk meestal romantische films of comedy’s. Horrorfilms vind ik",
+        "niet leuk!",
+        "Nummer 3: Ik ga graag leuke dingen met mijn vrienden doen. We luisteren dan naar muziek en dansen",
+        "de hele avond!",
+        "Nummer 4: Ik vind eten heel gezellig. Ik kook graag voor bijvoorbeeld mijn vrienden of mijn familie. Ik",
+        "vind Nederlands eten heel lekker!",
+        "Nummer 5: Ik heb veel boeken want ik lees graag. Voor mijn studie moet ik ook veel lezen. Dat vind ik erg",
+        "interessant. Ik lees minimaal één boek per week!",
+        "Nummer 6: Ik fotografeer graag. Ik maak veel foto’s van de natuur maar ook van personen. Op mijn",
+        "website kunnen de mensen al mijn foto’s bekijken!"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "id": "tb-04-auto-1",
+      "instruction": "Kies het juiste antwoord.",
+      "question": "Oefening bij hoofdstuk 4: Bij het sportcentrum.",
+      "options": [
+        "Juist",
+        "Onjuist"
+      ],
+      "answerIndex": 0,
+      "explanation": ""
+    }
+  ],
+  "workbookExercises": [],
+  "grammar": [
+    {
+      "id": "ch04-sport",
+      "title": "Bij het sportcentrum",
+      "paragraphs": [
+        "Praten over sporten, vragen naar tijden en inschrijven."
+      ],
+      "examples": [
+        "Wil je meedoen?",
+        "Hoe laat begint de les?",
+        "Mag ik meedoen?"
+      ]
+    },
+    {
+      "id": "ch04-vragen",
+      "title": "Vragen stellen",
+      "paragraphs": [
+        "Vragen naar informatie en reageren."
+      ],
+      "examples": [
+        "Kunt u me helpen?",
+        "Hoeveel kost het?"
+      ]
+    }
+  ],
+  "number": 4,
+  "title": "Bij het sportcentrum"
+}

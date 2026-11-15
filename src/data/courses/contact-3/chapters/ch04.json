@@ -1,0 +1,655 @@
+{
+  "number": 4,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "aankomen (ik kom … aan)",
+          "english": "to gain",
+          "other": null,
+          "note": "Ik kwam 10 kilo aan. I gained 10 kilos."
+        },
+        {
+          "dutch": "drinken",
+          "english": "to drink",
+          "other": null,
+          "note": "Drinkt u veel? Do you drink a lot?"
+        },
+        {
+          "dutch": "mislukken",
+          "english": "to fail",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "snoepen",
+          "english": "to eat sweets",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vasten",
+          "english": "to fast",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vergelijken",
+          "english": "to compare",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich amuseren (ik amuseer me)",
+          "english": "to enjoy oneself",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich concentreren (ik concentreer me)",
+          "english": "to concentrate",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich gedragen (ik gedraag me)",
+          "english": "to behave",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich haasten (ik haast me)",
+          "english": "to hurry",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich herinneren (ik herinner me)",
+          "english": "to remember",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich schamen (ik schaam me)",
+          "english": "to feel embarrassed",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich scheren (ik scheer me)",
+          "english": "to shave",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich vergissen (ik vergis me)",
+          "english": "to be mistaken",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich verslapen (ik verslaap me)",
+          "english": "to oversleep",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich vervelen (ik verveel me)",
+          "english": "to be bored",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich voelen (ik voel me)",
+          "english": "to feel",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de concentratie (-)",
+          "english": "concentration",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de gewoonte (de gewoontes)",
+          "english": "habit",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de eet- en drinkgewoontes",
+          "english": "eating and drinking habits",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vaste gewoonte",
+          "english": "fixed habit",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de intake (de intakes)",
+          "english": "intake",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kaak (de kaken)",
+          "english": "jaw",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kin (de kinnen)",
+          "english": "chin",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de leefstijl (de leefstijlen)",
+          "english": "lifestyle",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de poging (de pogingen)",
+          "english": "attempt",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de ramadan (-)",
+          "english": "Ramadan",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de tong (de tongen)",
+          "english": "tongue",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verandering (de veranderingen)",
+          "english": "change",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verslaving (de verslavingen)",
+          "english": "addiction",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het dieet (de diëten)",
+          "english": "diet",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gedrag (- / de gedragingen)",
+          "english": "behaviour",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gezelschap (de gezelschappen)",
+          "english": "company",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "in gezelschap zijn (van)",
+          "english": "in the company of honderddrieënnegentig 193",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "fout (foute)",
+          "english": "incorrect, wrong",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "gemotiveerd (gemotiveerde)",
+          "english": "motivated",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "gestrest (gestreste)",
+          "english": "stressed",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "huidig (huidige)",
+          "english": "current",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ongelukkig (ongelukkige)",
+          "english": "unhappy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "onrustig (onrustige)",
+          "english": "restless",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "alleen",
+          "english": "alone",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "bijv.",
+          "english": "e.g.; for example",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "binnen",
+          "english": "within",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "binnen 30 minuten",
+          "english": "within 30 minutes",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ca.",
+          "english": "about",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "definitief",
+          "english": "permanently",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "gemiddeld",
+          "english": "on average",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "incidenteel",
+          "english": "occasionally",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "kg",
+          "english": "kilogram",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "meerdere",
+          "english": "several, multiple",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wekelijks",
+          "english": "weekly",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "bijzinconjuncties",
+      "entries": [
+        {
+          "dutch": "sinds",
+          "english": "since",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "bedoeld zijn om … te",
+          "english": "to be meant to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "boos worden (op)",
+          "english": "to get angry (with)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "concentratieproblemen hebben/krijgen",
+          "english": "to have/get concentration problems",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een goed/slecht humeur hebben/krijgen",
+          "english": "to be/get in a good/bad mood",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een idee hebben/krijgen van",
+          "english": "to have/get an idea of",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "iets/niets te doen hebben",
+          "english": "to have something/nothing to do",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "problemen krijgen met",
+          "english": "to get problems with",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "stoppen met",
+          "english": "to stop",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verslaafd zijn aan",
+          "english": "to be addicted to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wakker worden",
+          "english": "to wake up",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Oefening baart kunst.",
+          "english": "Practise makes perfect.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Vergissen is menselijk.",
+          "english": "To err is human.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "taal op formulieren",
+          "english": "language used on forms",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Anders, namelijk: …",
+          "english": "Other:",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ga verder naar vraag 6",
+          "english": "Go to question 6",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Meerdere antwoorden mogelijk",
+          "english": "Multiple answers are possible",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 9,
+      "title": null,
+      "lines": [
+        "Corné: Oké, Sjors, daar gaan we. Vraag 1. Hoe lang rookt u al?",
+        "Sjors: Dat weet ik echt niet meer, hoor.",
+        "Corné: Toen wij elkaar leerden kennen, rookte je al. Dus al zeker 20 jaar.",
+        "Sjors: Toen was ik net begonnen ja. Een paar maanden eerder.",
+        "Corné: Dan schrijf ik 21 jaar op, goed?",
+        "Sjors: Goed.",
+        "Corné: Vraag 2. Hoeveel rookt u gemiddeld per dag?",
+        "Sjors: Eh, anderhalf pakje, denk ik, ongeveer. Ja, zoiets.",
+        "Corné: En hoeveel sigaretten zitten er tegenwoordig in een pakje?",
+        "Sjors: 19, meen ik.",
+        "Corné: Dus dan rook je er een stuk of 30 op een dag?",
+        "Sjors: Jee, rook ik zo veel?! Dat had ik helemaal niet in de gaten. Maar het klopt wel ja, denk ik.",
+        "Corné: Dan vul ik 30 in, goed?",
+        "Sjors: Ja, doe maar.",
+        "Corné: Vraag 3. Hoe snel na het wakker worden steekt u uw eerste sigaret op?",
+        "Sjors: Eh, meteen hè?",
+        "Corné: Ha ha, ja, dat is het eerste wat je doet als je wakker bent!",
+        "Oké. Vraag 4. Tijdens welk dagdeel rookt u het meest?",
+        "Sjors: ’s Ochtends.",
+        "Corné: Ja, ’s ochtends, dat denk ik ook.",
+        "Sjors: Zijn het nog veel vragen? Dit kan uren gaan duren zo. Ik heb straks een afspraak en ik heb",
+        "geen zin om me te haasten.",
+        "Corné: Ik zal een beetje tempo maken. Vraag 5. In welke situaties rookt u? Ik noem een situatie,",
+        "en jij moet zeggen: nooit, soms, vaak of altijd. Goed?",
+        "Sjors: Ja, kom maar op!",
+        "Corné: Als je je verveelt.",
+        "Sjors: Ja, altijd.",
+        "Corné: Als je je ongelukkig voelt.",
+        "Sjors: Ik voel me bijna nooit ongelukkig.",
+        "Corné: Maar áls je je ongelukkig voelt?",
+        "Sjors: Ja, dan ga ik meestal wel roken, maar niet altijd.",
+        "Corné: Oké. Als je je goed amuseert.",
+        "Sjors: Soms.",
+        "Corné: Als je alleen bent.",
+        "Sjors: Vaak.",
+        "Corné: Als je in gezelschap bent.",
+        "Sjors: Eh, als we met z’n tweeën zijn, rook ik wel veel. Maar als er andere",
+        "mensen bij zijn, op feestjes of zo, dan eigenlijk nooit.",
+        "Corné: Zal ik dan soms invullen?",
+        "Sjors: Ja, doe maar.",
+        "Corné: We zijn bij vraag zes. Heb je al eerder geprobeerd om te stoppen met roken? Ja, hè?",
+        "Sjors: Ja.",
+        "Corné; Hoe vaak? Ik ben de tel kwijt.",
+        "Sjors: Vier keer, denk ik. Of vijf.",
+        "Corné: Alleen serieuze pogingen tellen mee, hoor.",
+        "Sjors: Doe dan maar vier.",
+        "Corné: Vraag 7. Waarom is het toen niet gelukt om definitief te stoppen?",
+        "Sjors: Dat weet jij ook. Ik werd altijd heel chagrijnig en was heel snel geïrriteerd. We hadden",
+        "continu ruzie.",
+        "Corné: Ja, dat herinner ik me nog wel ja. Dat was niet grappig. Je ging je echt irritant gedragen, ja.",
+        "Sjors: Ja, sorry. Ik schaam me nog steeds als ik eraan terugdenk.",
+        "Corné: Je had geen concentratieproblemen, toch?",
+        "Sjors: Nee, hoezo?",
+        "Corné: Die staat er ook bij als optie.",
+        "Sjors. Ah. Ik had wel problemen met m’n gewicht.",
+        "Corné: Oh ja! Je bent de laatste keer dat je stopte wel 5 kilo aangekomen, toch?",
+        "Sjors: Ja, zoiets. Vijf kilo, geloof ik ja.",
+        "Corné: Dan vul ik dat ook in. Nog iets?",
+        "Sjors: Nee, volgens mij niet.",
+        "Corné: We zijn er bijna, nog maar een paar vragen. Acht. Hoe gemotiveerd ben je nú om te",
+        "stoppen?",
+        "Sjors: Heel erg!",
+        "Corné: Mooi. […] Eh, even kijken, waar ben ik? Oh ja, hier, vraag 9. Hoe laat gaat u meestal naar",
+        "bed?",
+        "Sjors: Dat wisselt. Soms om 10 uur, soms pas om 1 uur.",
+        "Corné: Ik vul wel in ‘tussen 10 en 1’. Volgende vraag. Hoeveel uur slaap je",
+        "gemiddeld per nacht?",
+        "Sjors: Geen idee.",
+        "Corné: Dat kunnen we uitrekenen, toch? Je staat meestal om half acht op, dus als je om 1 uur",
+        "naar bed gaat, dan slaap je eh, even tellen, 6½ uur, maar als je om 10 uur naar bed gaat,",
+        "dan slaap je veel meer, dan is het iets van, eh, 9½ uur. Dus gemiddeld is dat, eh, 6½ plus",
+        "9½ is 16, gedeeld door 2, is 8. Acht uur.",
+        "Sjors: Ja, maar het verschilt per nacht.",
+        "Corné: Zal ik dan 6½ tot 9½ uur invullen?",
+        "Sjors: Ja, doe maar. Zijn we nu klaar? Ik moet zo weg en ik heb geen zin om me te haasten.",
+        "Corné: Nog heel even. Verslaap jij je vaak?",
+        "Sjors: Nee, nooit. Wat heeft dat nou weer te maken met roken?",
+        "Corné: Dat weet ik ook niet. Concentreer je nou even, dan zijn we sneller klaar. Snoep je vaak?",
+        "Sjors: Nee, niet vaak, af en toe.",
+        "Corné: Drink je?",
+        "Sjors: Ja, maar niet zo veel.",
+        "Corné: Alleen nog in het weekend, toch?",
+        "Sjors: Ja, meestal alleen op vrijdagavond en zaterdagavond een paar wijntjes.",
+        "Corné: Hoeveel? Vijf, zes?",
+        "Sjors: Doe maar zes.",
+        "Corné: Vraag 14. Sport je? Die vraag kan ik wel voor je beantwoorden, ha ha. Nee. En de laatste",
+        "vraag: Heb je hobby’s?",
+        "Sjors: Serieus?! Vragen ze dat?",
+        "Corné: Nee, ha ha ha, dat verzin ik erbij! We zijn klaar.",
+        "Sjors: Gelukkig. Hoe laat is het nu? Ah nee, nou moet ik me toch nog haasten!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 10,
+      "title": null,
+      "lines": [
+        "1. Ik verslaap me vaak.",
+        "2. Verslaap jij je vaak?",
+        "3. Verslaapt u zich nooit?",
+        "4. Hij verslaapt zich soms.",
+        "5. Ze verslaapt zich dagelijks.",
+        "6. We verslapen ons wel eens.",
+        "7. Jullie verslapen je te vaak!",
+        "8. Ze verslapen zich altijd."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 11,
+      "title": null,
+      "lines": [
+        "1. wit",
+        "2. deed",
+        "3. geel",
+        "4. lig",
+        "5. in",
+        "6. leek"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 12,
+      "title": null,
+      "lines": [
+        "Ik kan me niet goed concentreren",
+        "ik weet niets meer",
+        "ik vergeet zo veel",
+        "ik vergis me steeds",
+        "ik herinner me niet eens",
+        "wat ik deze week deed",
+        "Heb jij dat ook?",
+        "dat je steeds vergeet",
+        "wat je gisteren deed",
+        "en niet meer weet",
+        "hoe je heet …",
+        "Of zei ik dat al?"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 11,
+      "title": null,
+      "lines": [
+        "Voorbeeld: Ik heb de afgelopen drie maanden niet gesport. afgelopen",
+        "1. Mijn zus drinkt gemiddeld 4 kopjes koffie per dag. · gemiddeld",
+        "2. Ik ga echt incidenteel met de auto naar mijn werk; meestal pak ik de fiets. · incidenteel",
+        "3. De kinderen zijn dagelijks aan het gamen, ik ben bang dat ze verslaafd zijn. · dagelijks",
+        "4. We doen wekelijks boodschappen, meestal op zaterdag. · wekelijks",
+        "5. In zijn vorige baan had hij heel andere taken dan in zijn huidige baan. · huidige",
+        "6. Vroeger woonde mijn hele familie in een klein dorp, maar nu woont bijna iedereen",
+        "in de stad. · vroeger",
+        "7. Op bijna alle scholen hebben ze tegenwoordig computers; dat was in mijn tijd nog",
+        "niet zo. · tegenwoordig",
+        "8. De buren gaan binnenkort verhuizen; de precieze datum weet ik nog niet. · binnenkort",
+        "9. Wanneer ben jij voor het laatst naar de film geweest? · wanneer",
+        "10. Mijn man zegt dat hij definitief is gestopt met roken. · definitief"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 12,
+      "title": null,
+      "lines": [
+        "1. zich haasten · 5. zich voelen · 9. zich herinneren",
+        "2. zich schamen · 6. zich scheren · 10. zich vergissen",
+        "3. zich gedragen · 7. zich amuseren",
+        "4. zich verslapen · 8. zich concentreren"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 13,
+      "title": null,
+      "lines": [
+        "1. weet",
+        "2. dit",
+        "3. veel",
+        "4. reed",
+        "5. min",
+        "6. gil",
+        "7. weeg",
+        "8. lip",
+        "9. heet",
+        "10. keek"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 14,
+      "title": null,
+      "lines": [
+        "1. makkelijk · 3. natuurlijk · 5. dagelijks · 7. maandelijks",
+        "2. moeilijk · 4. namelijk · 6. wekelijks · 8. jaarlijks"
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

@@ -1,0 +1,728 @@
+{
+  "number": 10,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "ademen",
+          "english": "to breathe",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "antwoorden",
+          "english": "to answer",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "beschrijven",
+          "english": "to describe",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "bloeden",
+          "english": "to bleed",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "doorverbinden (ik verbind … door)",
+          "english": "to put … through (I put … through, I am putting …through)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "geruststellen (ik stel … gerust)",
+          "english": "to reassure (I reassure, I am reassuring)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "klaarleggen (ik leg … klaar)",
+          "english": "to set out (I set out, I am setting out)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "opendoen (ik doe … open)",
+          "english": "to open (I open, I am opening)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ophangen (ik hang … op)",
+          "english": "to hang up (I hang up, I am hanging up)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "opletten (ik let … op)",
+          "english": "to pay attention (I pay attention, I am paying attention)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "oppassen (ik pas … op)",
+          "english": "to look out (I look out, I am looking out), to be careful (I am careful, I am being careful)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "opsluiten (ik sluit … op)",
+          "english": "to lock up (I lock up, I am locking up)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "stelen",
+          "english": "to steal",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "terugbellen (ik bel … terug)",
+          "english": "to call back (I call back, I am calling back)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uitkijken (ik kijk … uit)",
+          "english": "to watch out (I watch out, I am watching out)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vermelden",
+          "english": "to mention",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "waarschuwen",
+          "english": "to warn",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de alarmcentrale (de alarmcentrales)",
+          "english": "emergency centre",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de ambulance (de ambulances)",
+          "english": "ambulance",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de dief (de dieven)",
+          "english": "thief",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de eis (de eisen)",
+          "english": "requirement, demand",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de hulpverlener (de hulpverleners)",
+          "english": "paramedic; emergency staff (pl)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de instructie (de instructies)",
+          "english": "instruction",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kat (de katten)",
+          "english": "cat",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de laptop (de laptops)",
+          "english": "laptop",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de lift (de liften)",
+          "english": "lift",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de oorzaak (de oorzaken)",
+          "english": "cause",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de opdracht (de opdrachten)",
+          "english": "assignment",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de richtlijn (de richtlijnen)",
+          "english": "guideline, directions (pl)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de spoed (-)",
+          "english": "speed, haste",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de USB-stick (de USB-sticks)",
+          "english": "USB stick",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de veiligheid (-)",
+          "english": "safety",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de voordeur (de voordeuren)",
+          "english": "front door",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de wond (de wonden)",
+          "english": "wound, injury",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het alarmnummer (de alarmnummers)",
+          "english": "emergency number",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het been (de benen)",
+          "english": "leg",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het bloed (-)",
+          "english": "blood",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het huisdier (de huisdieren)",
+          "english": "pet",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het huisnummer (de huisnummers)",
+          "english": "house number",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het incident (de incidenten)",
+          "english": "incident",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het leven (de levens)",
+          "english": "life",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het noodgeval (de noodgevallen)",
+          "english": "emergency",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het ongeluk (de ongelukken)",
+          "english": "accident",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het ongeval (de ongevallen)",
+          "english": "accident",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het slachtoffer (de slachtoffers)",
+          "english": "victim",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het verleden (-)",
+          "english": "past",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "gewond (gewonde)",
+          "english": "injured",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "medisch (medische)",
+          "english": "medical",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "spoedeisend (spoedeisende)",
+          "english": "urgent",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wakker (wakkere)",
+          "english": "awake, alert",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zwaargewond (zwaargewonde)",
+          "english": "seriously injured",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "bijzinconjuncties",
+      "entries": [
+        {
+          "dutch": "toen",
+          "english": "when",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "gebruikmaken van",
+          "english": "to use",
+          "other": null,
+          "note": "Maak geen gebruik van de lift. Do not use the lift."
+        },
+        {
+          "dutch": "in gevaar zijn",
+          "english": "to be in danger",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nodig hebben",
+          "english": "to need",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Blijf aan de lijn.",
+          "english": "Hold the line.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Doe voorzichtig!",
+          "english": "Be careful! honderdnegenentachtig 189",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 36,
+      "title": null,
+      "lines": [
+        "Sam: Nou Mounir, we zijn bijna klaar!",
+        "Mounir: Ja, gelukkig. Ik vond de opdracht best ingewikkeld.",
+        "Sam: Ik ga boven even een USB-stick halen. Ik vind het fijn om een extra kopie te hebben.",
+        "Mounir: Oké. Oh, Sam, kijk uit voor mijn schoenen. Ik heb ze op de trap gezet.",
+        "Nee, kat, ga van mijn laptop af! Kssss.",
+        "Sam: Wat zei je? Ik verstond je niet.",
+        "Mounir: Doe maar rustig en doe voorzichtig want mijn schoenen staan op de trap!",
+        "Sam: Ik heb hem gevonden. Ik kom eraan!",
+        "Mounir: Let op voor mijn schoenen want die …",
+        "Sam: Au, au, au.",
+        "Mounir: Sam, wat is er gebeurd?",
+        "Sam: Je schoenen….. Ik ben gevallen…au, mijn rug.",
+        "Mounir: Oh nee, het spijt me, Sam. Ik waarschuwde nog. Sorry, man.",
+        "Kun je opstaan?",
+        "Sam: \u0007Ik denk het. Kun je me helpen? Au! Nee, het lukt niet. Au, mijn rug…en mijn been. Ik heb",
+        "zo’n pijn. Ik kan me niet bewegen, Mounir. Help me, alsjeblieft!",
+        "Mounir: Natuurlijk!",
+        "Hallo? Is er nog iemand in huis? Ik heb hulp nodig! Hallo?",
+        "Sam: Er is niemand thuis. We zijn met zijn tweeën. Kun je 112 bellen?",
+        "Mounir: Natuurlijk!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 37,
+      "title": null,
+      "lines": [
+        "C1: 112 alarmcentrale. Wie wilt u spreken? Politie, brandweer of ambulance?",
+        "Mounir: Eh, ambulance. Ik heb een ambulance nodig.",
+        "C1: Blijf aan de lijn dan verbind ik u door.",
+        "Mounir: Oké, oké.",
+        "C2: Meldkamer Ambulancezorg. Wat is het adres van uw noodgeval?",
+        "Mounir: Eh, Kampweg, eh, eh, huisnummer 17! In Wageningen!",
+        "C2: Blijft u rustig, meneer! Kunt u het adres nog een keer herhalen?",
+        "Mounir: Kampweg 17 in Wageningen.",
+        "C2: En op welk telefoonnummer kan ik u terugbellen?",
+        "Mounir: 06-45789012.",
+        "C2: Kunt u dat nog een keer herhalen?",
+        "Mounir: Ja, 06-45789012."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 38,
+      "title": null,
+      "lines": [
+        "politie",
+        "brandweer",
+        "ambulance",
+        "politie",
+        "brandweer",
+        "ambulance"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 39,
+      "title": null,
+      "lines": [
+        "politie",
+        "politie",
+        "politie"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 40,
+      "title": null,
+      "lines": [
+        "brandweer",
+        "brandweer",
+        "brandweer"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 41,
+      "title": null,
+      "lines": [
+        "ambulance",
+        "ambulance",
+        "ambulance"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 42,
+      "title": null,
+      "lines": [
+        "nul",
+        "één",
+        "twee",
+        "drie",
+        "vier",
+        "vijf",
+        "zes",
+        "zeven",
+        "acht",
+        "negen",
+        "tien"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 43,
+      "title": null,
+      "lines": [
+        "elf",
+        "twaalf",
+        "dertien",
+        "veertien",
+        "vijftien",
+        "zestien",
+        "zeventien",
+        "achttien",
+        "negentien",
+        "twintig"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 44,
+      "title": null,
+      "lines": [
+        "tien",
+        "twintig",
+        "dertig",
+        "veertig",
+        "vijftig",
+        "zestig",
+        "zeventig",
+        "tachtig",
+        "negentig",
+        "honderd"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 45,
+      "title": null,
+      "lines": [
+        "honderd",
+        "tweehonderd",
+        "driehonderd",
+        "vierhonderd",
+        "vijfhonderd",
+        "zeshonderd",
+        "zevenhonderd",
+        "achthonderd",
+        "negenhonderd",
+        "duizend"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 46,
+      "title": null,
+      "lines": [
+        "veertien",
+        "veertig",
+        "vijftien",
+        "vijftig",
+        "zestien",
+        "zestig",
+        "zeventien",
+        "zeventig",
+        "achttien",
+        "tachtig",
+        "negentien",
+        "negentig"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 47,
+      "title": null,
+      "lines": [
+        "C2: Wat is er precies gebeurd, meneer?",
+        "Mounir: \u0007Mijn vriend Sam is van de trap gevallen.",
+        "\u0007We werkten samen in zijn huis aan een opdracht. Hij ging boven een USB-stick halen. Hij",
+        "lette niet goed op toen hij naar beneden kwam. Daarom zag hij mijn schoenen niet. Die",
+        "stonden op de trap. Toen viel hij naar beneden.",
+        "\u0007Hij wilde opstaan maar dat lukte hem niet. Hij had te veel pijn. Hij kon zich niet bewegen.",
+        "Ik moest 112 van hem bellen.",
+        "C2: Heel goed! Wij gaan u helpen, meneer. Bent u bij hem?",
+        "Mounir: Ja, ik zit bij hem. Hij ligt op de grond.",
+        "C2: Hoe oud is uw vriend?",
+        "Mounir: 21, net als ik.",
+        "C2: Ademt hij?",
+        "Mounir: Ja, hij ademt.",
+        "C2: Is hij wakker?",
+        "Mounir: Ja.",
+        "C2: Wanneer is het gebeurd?",
+        "Mounir: Vijf minuten geleden.",
+        "C2: Van hoe hoog is hij gevallen?",
+        "Mounir: Vanaf ongeveer anderhalve meter.",
+        "C2: Wat is de oorzaak van de val?",
+        "Mounir: Ik had mijn schoenen op de trap gezet. Hij zag ze niet en toen viel hij.",
+        "C2: Heeft hij een wond? Bloedt hij?",
+        "Mounir: Ik denk het niet. Ik zie geen bloed.",
+        "C2: Ik stuur u nu een ambulance om te helpen.",
+        "Blijf aan de lijn. Ik zal precies zeggen wat u moet doen.",
+        "Mounir: Oké, dank u.",
+        "C2: Beweeg hem niet!",
+        "Mounir: Oké.",
+        "C2: Stel hem gerust!",
+        "Mounir: Ja, dat zal ik doen.",
+        "C2: Geef hem geen eten of drinken want hij kan misselijk worden.",
+        "Mounir: Ja, goed. Geen eten of drinken.",
+        "C2: Wacht tot de hulpverleners zijn gearriveerd. Zijn er huisdieren in huis?",
+        "Mounir: Ja, een kat.",
+        "C2: Wilt u de kat opsluiten? Dan hebben de hulpverleners geen last van de kat.",
+        "Mounir: Oké.",
+        "C2: Gebruikt uw vriend medicijnen?",
+        "Mounir: Dat weet ik niet. Sam, Sam, gebruik jij medicijnen?",
+        "Sam: Ja, voor een allergie. Ze liggen op tafel.",
+        "Mounir: Ja, hij gebruikt medicijnen.",
+        "C2: Oké, wilt u deze medicijnen klaarleggen, alstublieft?",
+        "Mounir: Ja, dat doe ik.",
+        "C2: Wilt u de voordeur opendoen en zorgen dat de hulpverleners naar binnen kunnen?",
+        "Mounir: Ja, dat doe ik. Hé, ik hoor de ambulance al.",
+        "C2: Dat kan, meneer.",
+        "Gaat u maar naar buiten. Dan kunnen mijn collega’s u zien en snel helpen.",
+        "Mounir: Ja, ik ga nu naar buiten. Ik zie ze.",
+        "C2: Dan ga ik nu ophangen, meneer. Dag hoor.",
+        "Mounir: Ja, dag en bedankt.",
+        "Hallo, hier moet u zijn! Mijn vriend heeft hulp nodig! Hij is van de..."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 48,
+      "title": null,
+      "lines": [
+        "Vorige week heb ik een voetbalwedstrijd gekeken.",
+        "Ik was met vijf vrienden.",
+        "Het was heel gezellig."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 49,
+      "title": null,
+      "lines": [
+        "Gisteren ben ik naar een film geweest.",
+        "De film heette Noodgeval.",
+        "Het was een spannende film.",
+        "Hij duurde twee uur.",
+        "Ik vond de film heel leuk."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 50,
+      "title": null,
+      "lines": [
+        "Gisteren zag ik een enge situatie.",
+        "Ik reed op straat.",
+        "Ik zag een fietser.",
+        "Hij reed tegen een auto.",
+        "De fietser was gewond.",
+        "Hij bloedde heel erg.",
+        "Ik heb 112 gebeld.",
+        "De medewerker van 112 stuurde een ambulance.",
+        "De fietser moest naar het ziekenhuis.",
+        "Ik vond de situatie erg eng."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 51,
+      "title": null,
+      "lines": [
+        "Gisteren ben ik van de trap gevallen.",
+        "Ik had veel pijn.",
+        "Ik kon zelf opstaan."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 52,
+      "title": null,
+      "lines": [
+        "Vorige week heb ik met mijn kinderen een museum bezocht.",
+        "Het was een museum in Utrecht.",
+        "In het museum stonden allemaal oude treinen.",
+        "Ik vond het museum erg interessant.",
+        "Mijn kinderen vonden het museum saai."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 53,
+      "title": null,
+      "lines": [
+        "Met oud en nieuw heb ik een enge situatie gezien.",
+        "Ik was op het feest van een vriend.",
+        "Hij ging vuurwerk afsteken.",
+        "Hij deed dat niet goed.",
+        "Hij kreeg een ongeluk.",
+        "Hij bloedde heel erg.",
+        "Hij had veel pijn.",
+        "Ik heb 112 gebeld.",
+        "112 heeft een ambulance en de politie gestuurd.",
+        "Mijn vriend moest naar het ziekenhuis.",
+        "Ik vond de situatie heel eng."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 23,
+      "title": null,
+      "lines": [
+        "1. oorzaak · 1. oorzaak",
+        "2. veiligheid · 2. veiligheid",
+        "3. waarschuwen · 3. waarschuwen",
+        "4. uitkijken · 4. uitkijken",
+        "5. beschrijven · 5. beschrijven",
+        "6. gewond · 6. gewond",
+        "7. medisch · 7. medisch",
+        "8. gevaar · 8. gevaar",
+        "9. bloeden · 9. bloeden",
+        "10. ademen · 10. ademen"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 24,
+      "title": null,
+      "lines": [
+        "Wat moet je bij brand doen?",
+        "Stap 1. Waarschuw en help andere bewoners.",
+        "Stap 2. · \u0007Gebruik een veilige vluchtroute. Is er geen vluchtroute? Ga dan voor een raam staan. Zorg dat",
+        "de brandweer je goed kan zien.",
+        "Stap 3. Blijf laag bij de grond.",
+        "Stap 4. Gebruik nooit een lift. Kun je niet goed lopen? Vraag hulp aan anderen.",
+        "Stap 5. Sluit alle deuren achter je.",
+        "Stap 6. Bel 112 en waarschuw de buren."
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

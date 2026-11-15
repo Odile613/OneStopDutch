@@ -1,0 +1,722 @@
+{
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "blijven",
+          "english": "to stay",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "hopen op",
+          "english": "to hope for",
+          "other": null,
+          "note": "Ik hoop op mooi weer. I am hoping for nice weather."
+        },
+        {
+          "dutch": "iets vieren",
+          "english": "to celebrate something",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "laten weten",
+          "english": "to let (somebody) know",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "regenen",
+          "english": "to rain",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ruilen",
+          "english": "to exchange",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wensen",
+          "english": "to wish",
+          "other": null,
+          "note": "Ik wens je succes! Good luck!"
+        },
+        {
+          "dutch": "worden",
+          "english": "to become",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zorgen voor",
+          "english": "to take care of",
+          "other": null,
+          "note": "Ik zorg voor hapjes en drankjes! I will take care of snacks and drinks!"
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de baan (de banen)",
+          "english": "job (jobs)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de baby (de baby ’s)",
+          "english": "baby (babies)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kleding (-)",
+          "english": "clothes",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de periode (de periodes)",
+          "english": "period (periods)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de riem (de riemen)",
+          "english": "belt (belts)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de ring (de ringen)",
+          "english": "ring (rings)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de rok (de rokken)",
+          "english": "skirt (skirts)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het rokje (de rokjes)",
+          "english": "skirt (skirts)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de tuin (de tuinen)",
+          "english": "garden (gardens)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het bericht (de berichten)",
+          "english": "message (messages)",
+          "other": "report (reports)",
+          "note": null
+        },
+        {
+          "dutch": "het weerbericht (de weerberichten)",
+          "english": "weather report (weather reports)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het cadeau (de cadeaus) (Fr.)",
+          "english": "present (presents)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het cadeautje (de cadeautjes)",
+          "english": "present (presents)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het diploma (de diploma’s)",
+          "english": "diploma (diplomas)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het sieraad (de sieraden)",
+          "english": "piece of jewellery (pieces of jewellery)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het weer (-)",
+          "english": "weather",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "bij elkaar komen",
+          "english": "to get together",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "binnen/buiten blijven",
+          "english": "to stay inside / outside",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "naar binnen/buiten gaan",
+          "english": "to go inside / outside",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een appje sturen",
+          "english": "to send a text / WhatsApp message",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "feest/een verjaardag vieren",
+          "english": "to celebrate / to celebrate a birthday",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "bewolkt (bewolkte)",
+          "english": "cloudy",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "eng (enge)",
+          "english": "scary",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "enthousiast (enthousiaste)",
+          "english": "enthusiastic",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lekker (lekkere)",
+          "english": "nice",
+          "other": null,
+          "note": "Het is lekker weer. The weather is nice."
+        },
+        {
+          "dutch": "rustig (rustige)",
+          "english": "quiet",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verdrietig (verdrietige)",
+          "english": "sad",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zonnig (zonnige)",
+          "english": "sunny",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "binnen",
+          "english": "inside",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "buiten",
+          "english": "outside",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ergens",
+          "english": "somewhere",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "hopelijk",
+          "english": "hopefully",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "inderdaad",
+          "english": "indeed",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nergens",
+          "english": "nowhere",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "net",
+          "english": "just",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "niemand",
+          "english": "nobody",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "niets",
+          "english": "nothing",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nog",
+          "english": "still",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "trouwens",
+          "english": "by the way, actually",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "volgens mij",
+          "english": "I think",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Beterschap.",
+          "english": "Get well soon.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Gecondoleerd.",
+          "english": "My condolences.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Gefeliciteerd.",
+          "english": "Congratulations.",
+          "other": "Happy birthday!",
+          "note": null
+        },
+        {
+          "dutch": "Proost.",
+          "english": "Cheers.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Sterkte.",
+          "english": "Take care.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Welkom.",
+          "english": "Welcome.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dat klopt.",
+          "english": "That’s right.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Je hebt gelijk.",
+          "english": "You are right.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Laat even weten of je komt.",
+          "english": "Let me know if you are coming.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Leer ook:",
+          "english": "Also learn:",
+          "other": null,
+          "note": "– de preposities (zie p. 154) – the prepositions (see p. 154)"
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 80,
+      "title": null,
+      "lines": [
+        "A B C",
+        "Zullen we samen een cadeautje kopen? Goed idee! Ja, inderdaad!",
+        "Zullen we vanavond samenkomen? Goed idee! Ja, inderdaad!",
+        "Wat vindt ze leuk? Volgens mij vindt ze boeken leuk. Ja, dat klopt!",
+        "Wat vindt ze mooi? Volgens mij vindt ze sieraden mooi. Ja, dat klopt!",
+        "Waar houdt ze van? Volgens mij houdt ze van lezen. Ja, dat klopt!",
+        "Vindt ze lezen leuk? Volgens mij wel. Je hebt gelijk!",
+        "Vindt ze sieraden mooi? Volgens mij wel. Je hebt gelijk!",
+        "Houdt ze van films? Volgens mij niet. Je hebt gelijk!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 81,
+      "title": null,
+      "lines": [
+        "Sabia: Zullen we nu het cadeautje geven?",
+        "Groep: Ja, goed.",
+        "Nique: Wil jij dan ook iets zeggen namens ons allemaal?",
+        "Sabia: Ik?! Oh, dat vind ik eng!",
+        "Nique: Saab, dat kun jij!",
+        "Groep: Speech! Speech! Speech!",
+        "Sabia: Oké dan. Eva, wil je even komen? We willen je een cadeautje geven.",
+        "Eva:  Oeh, spannend!",
+        "Groep: Ssst! Even stil! Sabia gaat iets zeggen. Precies.",
+        "Sabia: Lieve Eef, eerst natuurlijk gefeliciteerd met je verjaardag!",
+        "Groep: Gefeliciteerd!",
+        "Sabia: We vinden het superleuk dat jij onze vriendin bent. En we willen nog heel vaak samen",
+        "feest met je vieren. We hebben met de hele vriendengroep samen een cadeautje voor je",
+        "gekocht. Ik hoop dat je het leuk vindt. Alsjeblieft! Namens ons allemaal!",
+        "Eva: Oh, zo leuk, een cadeautje! Lief van jullie!",
+        "Sabia: Oh, en als je het al hebt, of als je het niet mooi vindt, dan kunnen we het ruilen. Ik heb het",
+        "bonnetje nog.",
+        "Eva: Wauw! Wat mooi! Dank jullie wel! Echt fantastisch!",
+        "Sabia: Graag gedaan, lieve schat.",
+        "Robert: Nog een toost, Saab!",
+        "Sabia: Oh ja, ik wil graag een toost uitbrengen. Hebben jullie allemaal een gevuld glas? Ja?",
+        "Lieve Eef, Gefeliciteerd namens ons allemaal, en nog heel veel mooie jaren! Proost!",
+        "Groep: Proost!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 82,
+      "title": null,
+      "lines": [
+        "Gefeliciteerd!",
+        "Gefeliciteerd met je verjaardag!",
+        "Gefeliciteerd met je diploma!",
+        "Gefeliciteerd met je nieuwe huis!",
+        "Gefeliciteerd met je nieuwe baan!",
+        "Gefeliciteerd met jullie huwelijk!",
+        "Gefeliciteerd met jullie zoon!",
+        "Gefeliciteerd met jullie dochter!",
+        "Gecondoleerd met het overlijden van je moeder.",
+        "Gecondoleerd met het overlijden van je vader.",
+        "Veel succes!",
+        "Beterschap!",
+        "Sterkte!",
+        "Fijne vakantie!",
+        "Proost!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 82,
+      "title": null,
+      "lines": [
+        "Dialoog 1:",
+        "● Pffoe, het is vandaag een spannende dag.",
+        "■ Waarom is het een spannende dag?",
+        "● Nou, ik heb vandaag het examen en ik vind de theorie erg moeilijk.",
+        "■ Het komt vast wel goed. Heel veel succes met je examen vandaag!",
+        "Dialoog 2:",
+        "● Hé, hoe gaat het? Je kijkt een beetje verdrietig.",
+        "■ Het gaat wel.",
+        "● O, wat is er aan de hand?",
+        "■ Mijn opa is gisteren overleden.",
+        "● Ach, wat naar.",
+        "■ Ja, dat is niet zo leuk.",
+        "●  Zeker niet. Gecondoleerd en ik wens je heel veel sterkte. Als ik iets voor je kan doen, laat het dan maar",
+        "weten.",
+        "■ Dank je.",
+        "Dialoog 3:",
+        "● Hoe is het? Waarom lig je op de bank? Je bent toch jarig vandaag?",
+        "■ Ja, maar ik ben ziek.",
+        "● O, wat een slechte timing!",
+        "■ Ja, hoe kan het, hè? Ik ben ziek op mijn eigen verjaardag.",
+        "● Nou, toch gefeliciteerd en ik wens je heel veel beterschap.",
+        "■ Dank je wel.",
+        "● Als je weer beter bent gaan we snel een feestje vieren!",
+        "■ Dat gaan we zeker doen!",
+        "Dialoog 4:",
+        "● Hé Jan, alles goed?",
+        "■ Ja, goed. Héél goed zelfs!",
+        "● Vertel! Waarom ben je zo blij?",
+        "■ Ik heb mijn diploma gehaald. Ik ben dus eindelijk klaar met studeren!",
+        "● O, wat goed van je! Gefeliciteerd! Dus we hebben binnenkort een groot feest?",
+        "■ Haha, jazeker! Je krijgt de uitnodiging nog wel!",
+        "Dialoog 5:",
+        "● Jee, Sas, wat is er gebeurd?",
+        "■ Ik ben gisteren gevallen. Ik heb mijn arm gebroken.",
+        "● Och jee. Nou, beterschap hoor!",
+        "■ Dank je."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 83,
+      "title": null,
+      "lines": [
+        "1. cadeau",
+        "2. cadeautje",
+        "3. diploma",
+        "4. feest",
+        "5. feestje",
+        "6. jarig",
+        "7. uitnodiging",
+        "8. verjaardag",
+        "9. beterschap",
+        "10. fijne vakantie",
+        "11. gecondoleerd",
+        "12. gefeliciteerd",
+        "13. proost",
+        "14. sterkte",
+        "15. succes",
+        "16. veel plezier!",
+        "17. bewolkt",
+        "18. graden",
+        "19. koud",
+        "20. regenen",
+        "21. warm",
+        "22. zonnig"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 84,
+      "title": null,
+      "lines": [
+        "1.  Ik ben gisteren afgestudeerd. Gefeliciteerd!",
+        "2.  Ik ben vandaag jarig. Gefeliciteerd!",
+        "3.  Ik ben ziek. Beterschap!",
+        "4. Ik ga morgen op vakantie. Fijne vakantie!",
+        "5.  Ik ga volgende maand trouwen. Gefeliciteerd!",
+        "6.  Ik heb een baby gekregen, het is een jongen. Gefeliciteerd!",
+        "7.  Ik heb ander werk. Ik begin volgende week. Gefeliciteerd!",
+        "8.  Ik heb straks examen. Succes!",
+        "9.  Ik moet straks naar de dokter. Dat vind ik eng. Sterkte.",
+        "10.  Mijn oma is gisteren overleden. Gecondoleerd.",
+        "11.  Zullen we een toost uitbrengen? Ja, proost!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 85,
+      "title": null,
+      "lines": [
+        "1.  Ik heb griep. Beterschap!",
+        "2.  Ik heb vanmiddag spreekexamen. Veel succes!",
+        "3.  Ik ga volgende week trouwen. Gefeliciteerd met je huwelijk!",
+        "4.  Mijn opa is vorige week overleden. Gecondoleerd met het overlijden van je opa.",
+        "5.  Ik heb een baby gekregen, het is een meisje. Gefeliciteerd met je dochter!",
+        "6. Mijn partner en ik gaan scheiden. Wat verdrietig. Sterkte!",
+        "7. Ik ga verhuizen. Ik heb de sleutels net gekregen! Gefeliciteerd met je nieuwe huis!",
+        "8. Ik ben vorige week afgestudeerd.  Gefeliciteerd met je diploma!",
+        "9.  Ik was gisteren jarig. Gefeliciteerd met je verjaardag!",
+        "10. Ik heb drie weken vrij. Ik ga naar Spanje. Fijne vakantie!",
+        "11.  Zullen we een toost uitbrengen? Ja, proost!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 86,
+      "title": null,
+      "lines": [
+        "Johan:  Ik vind het echt moeilijk. Wat moeten we Eva voor haar verjaardag geven?",
+        "Nique:  Ja, moeilijk. Sabia, weet jij niks? Wat vinden vrouwen leuk om cadeau te krijgen?",
+        "Sabia:  Tsja, dat is voor iedereen anders. Ik vind bloemen leuk, maar volgens mij houdt Eva",
+        "helemaal niet van bloemen. Misschien iets van sieraden?",
+        "Johan:  Bloemen vindt ze inderdaad niet leuk, dat weet ik. Volgens mij houdt ze wel van sieraden.",
+        "Sabia: Ja, misschien kunnen we een ring kopen. Of oorbellen?",
+        "Johan:  Maar volgens Robert was dat geen goed idee. Kijk maar in de groepsapp. Volgens hem",
+        "moet haar vriendje maar sieraden voor haar kopen!",
+        "Nique:  Ja, dat is waar. Ik vind het ook moeilijk om te kiezen, want we kennen haar smaak niet",
+        "precies.",
+        "Sabia:  We kunnen misschien ook iets van kleding voor haar kopen? Volgens mij heeft ze nog niet",
+        "zo veel kleding voor de zomer. Misschien een leuk rokje of een jurkje?",
+        "Johan:   Maar dan hebben we toch hetzelfde probleem? We kennen haar smaak niet!",
+        "Sabia:  En nieuwe schoenen dan? Voor het hardlopen? Volgens Celia doet Eva nu heel veel aan",
+        "hardlopen.",
+        "Nique:  Ja, dat klopt, maar we weten haar maat toch ook niet! Nee, kleding of schoenen voor Eva",
+        "kopen vind ik geen goed idee.",
+        "Sabia: Dat is waar. Johan, wat vind jij?",
+        "Johan:  Ik vind iets voor haar nieuwe kamer ook wel een leuk idee. Ze is net verhuisd.",
+        "Nique: Inderdaad. Maar wat kunnen we dan voor haar kamer kopen?",
+        "Sabia:  Volgens mij heeft ze nog wat meubels nodig. Misschien een leuk tafeltje? Of een stoel?",
+        "Een bank heeft ze al, toch?",
+        "Nique:  Ja, ze heeft al een bank. En een tafel en stoelen heeft ze trouwens ook al.",
+        "Misschien kunnen we haar een mooie lamp geven? Of een kastje?",
+        "Sabia:  Ja, een lamp of een kastje is ook leuk. We kunnen op internet even zoeken.",
+        "Johan:  Inderdaad. Laten we zo eens kijken. Als we niks op internet kunnen vinden, kunnen we",
+        "altijd nog een cadeaubon geven.",
+        "Sabia:  Ja, dat is ook een goed idee. Met een cadeaubon kan ze zelf iets kiezen. Dan kan ze altijd",
+        "zelf nog sieraden of kleding kopen. Maar we kijken eerst even op internet. Misschien",
+        "vinden we wel iets heel leuks voor Eva’s kamer!",
+        "Johan: En zullen we dan tien euro per persoon doen?",
+        "Sabia:  Ja, een tientje pp lijkt me prima. Dan kunnen we vast iets moois kopen! Nique, wat vind",
+        "jij?",
+        "Nique: Ja, goed! En volgens mij vindt de rest van de groep dat ook prima!",
+        "Sabia:  Oké. Ik ga even de laptop pakken. Dan kunnen we op internet even zoeken."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "id": "tb-15-auto-1",
+      "instruction": "Kies het juiste antwoord.",
+      "question": "Oefening bij hoofdstuk 15: Feestje!.",
+      "options": [
+        "Juist",
+        "Onjuist"
+      ],
+      "answerIndex": 0,
+      "explanation": ""
+    }
+  ],
+  "workbookExercises": [],
+  "grammar": [
+    {
+      "id": "ch15-het-weer",
+      "title": "Het weer",
+      "paragraphs": [
+        "morgen/straks",
+        "vandaag/nu",
+        "gisteren/net",
+        "Het wordt warm.",
+        "Het is warm.",
+        "Het was warm.",
+        "Het is koud.",
+        "Het wordt koud."
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch15-het-wordt-zonnig",
+      "title": "Het wordt zonnig",
+      "paragraphs": [
+        "Het was zonnig."
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch15-het-is-zonnig",
+      "title": "Het is zonnig",
+      "paragraphs": [
+        "Het is bewolkt.",
+        "Het wordt bewolkt.",
+        "Het was bewolkt.",
+        "Het gaat regenen.",
+        "Het regent.",
+        "Het heeft geregend."
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch15-positief-reageren",
+      "title": "Positief reageren",
+      "paragraphs": [
+        "Volgens mij vindt ze boeken leuk.",
+        "Hij vindt films leuk.",
+        "Ze houdt van lezen.",
+        "Een mooi boek.",
+        "lemand feliciteren, condoleren of iets wensen",
+        "(met het overlijden van ...)"
+      ],
+      "examples": [
+        "Je hebt gelijk",
+        "Wat vindt ze mooi?",
+        "Ja, dat klopt!",
+        "Wat vindt hij leuk?",
+        "Ja, inderdaad",
+        "Waar houdt ze van?",
+        "Goed idee!",
+        "Wat zullen we haar geven?",
+        "Fijne vakantie! |fij-na vaa-kan-tsiel",
+        "Sterkte! |stèr(rak)-ta",
+        "Gefeliciteerd (met ...)! |ga-fee-li-si-teert|",
+        "Proost! |proost|",
+        "Veel succes! veel suuk-sès",
+        "Gecondoleerd |ga-kon-doo-leert|",
+        "Beterschap! |bee-ter-sgapl"
+      ]
+    },
+    {
+      "id": "ch15-vaste-combinaties",
+      "title": "Vaste combinaties",
+      "paragraphs": [],
+      "examples": [
+        "op vakantie gaan/zijn",
+        "een toost uitbrengen",
+        "een cadeau geven of krijgen",
+        "geld uitgeven aan",
+        "iemand iets cadeau doen",
+        "een feest geven",
+        "iemand een plezier doen met",
+        "een speech houden",
+        "iets cadeau krijgen",
+        "een verjaardag vieren"
+      ]
+    },
+    {
+      "id": "ch15-preposities",
+      "title": "Preposities",
+      "paragraphs": [],
+      "examples": [
+        "Ik heb een idee voor een cadeau.",
+        "Ik wil mijn verjaardag graag met jullie vieren.",
+        "Eva krijgt een cadeautje van haar vrienden.",
+        "Ik ben op vakantie.",
+        "Sabia geeft het cadeautje aan Eva.",
+        "Het feest van Eva is in de tuin."
+      ]
+    }
+  ],
+  "number": 15,
+  "title": "Feestje!"
+}

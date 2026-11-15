@@ -1,0 +1,601 @@
+{
+  "number": 5,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "aansluiten op (het sluit … aan op)",
+          "english": "to fit",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "afhangen van (het hangt … af van)",
+          "english": "to depend on",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "afronden met",
+          "english": "to finalize with",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "afstuderen (ik studeer … af )",
+          "english": "to graduate",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "omgaan met (ik ga … om met)",
+          "english": "to handle",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "opvallen (ik val … op)",
+          "english": "to stand out",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "overkomen (ik kom … over )",
+          "english": "to come across",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "overtuigen",
+          "english": "to convince",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "solliciteren naar/op",
+          "english": "to apply for",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "voldoen aan",
+          "english": "to meet (the job requirements)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich voorbereiden op (ik bereid me … voor op)",
+          "english": "to prepare for",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de afstand (de afstanden)",
+          "english": "distance",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de begeleider (de begeleiders)",
+          "english": "supervisor, coach",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de stagebegeleider",
+          "english": "trainee supervisor",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de belasting (de belastingen )",
+          "english": "tax",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de beroepsgroep (de beroepsgroepen)",
+          "english": "professional group",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de functie-eis (de functie-eisen)",
+          "english": "job requirement",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de indruk (de indrukken)",
+          "english": "impression",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de inzet",
+          "english": "commitment",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de organisatie (de organisaties)",
+          "english": "organization",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de overeenkomst (de overeenkomsten)",
+          "english": "agreement",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de stageovereenkomst",
+          "english": "placement contract",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de reiskosten (pl.)",
+          "english": "travel costs",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de sollicitatie (de sollicitaties)",
+          "english": "job application",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de sollicitatiebrief (de sollicitatiebrieven)",
+          "english": "letter of application",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de stage (de stages)",
+          "english": "work placement, internship, traineeship",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de afstudeerstage",
+          "english": "graduation internship",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de meeloopstage",
+          "english": "job shadowing",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de stageplaats (de stageplaatsen)",
+          "english": "work placement",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de stagiair (de stagiairs)",
+          "english": "intern, trainee",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de stagiaire (de stagiaires)",
+          "english": "intern, trainee (female)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vacature (de vacatures)",
+          "english": "job opening",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vergoeding (de vergoedingen)",
+          "english": "allowance; fee",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de reiskostenvergoeding",
+          "english": "travelling allowance",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de stagevergoeding",
+          "english": "internship allowance",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de werkgever (de werkgevers)",
+          "english": "employer",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het cv (de cv’s)",
+          "english": "CV",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het dienstverband (de dienstverbanden)",
+          "english": "(terms of ) employment",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het doorzettingsvermogen (-)",
+          "english": "perseverance",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het filter (de filters)",
+          "english": "filter",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het leerdoel (de leerdoelen)",
+          "english": "learning objective",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het opleidingsniveau (de opleidingsniveaus)",
+          "english": "level of education",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het salaris (de salarissen)",
+          "english": "salary",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het sollicitatiegesprek (de sollicitatiegesprekken)",
+          "english": "job interview",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het stageverslag (de stageverslagen)",
+          "english": "work placement report honderdvijfennegentig 195",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "actueel (actuele)",
+          "english": "current",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "beschikbaar (beschikbare)",
+          "english": "available",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "direct",
+          "english": "direct",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "enthousiast (enthousiaste)",
+          "english": "enthusiastic",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "erkend (erkende)",
+          "english": "certified, accredited",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "financieel (financiële)",
+          "english": "financial",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "leerzaam (leerzame)",
+          "english": "instructive",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "optimaal (optimale)",
+          "english": "in the best possible way",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "professioneel (professionele)",
+          "english": "professional",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "recreatief (recreatieve)",
+          "english": "recreational",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "technisch (technische)",
+          "english": "technical",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uitdagend (uitdagende)",
+          "english": "challenging",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wettelijk (wettelijke)",
+          "english": "legal; legally",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "binnenkort",
+          "english": "soon",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "bijzinconjuncties",
+      "entries": [
+        {
+          "dutch": "totdat",
+          "english": "until",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zodat",
+          "english": "(so as) to",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "aan de slag gaan",
+          "english": "to start",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "benieuwd zijn naar",
+          "english": "to be curious about",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "beschikbaar zijn",
+          "english": "to be available",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de interesse wekken van",
+          "english": "to arouse (somebody’s) interest",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "geschikt zijn",
+          "english": "to be suitable",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "indruk maken op",
+          "english": "to make an impression",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "naar keuze",
+          "english": "of your choice",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "op gesprek komen",
+          "english": "to go for an interview",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "stage lopen",
+          "english": "to do a work placement",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verantwoordelijk zijn voor",
+          "english": "to be responsible for",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "werkervaring opdoen",
+          "english": "to gain job experience",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Wat heb je eraan?",
+          "english": "What’s the use of it?",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 13,
+      "title": null,
+      "lines": [
+        "Fragment 1",
+        "Goedemorgen, u spreekt met Kim Chong.",
+        "Ik zag uw vacature en ik heb een paar vragen.",
+        "Kan ik een stage van 16 weken doen?",
+        "Fragment 2",
+        "Goedemorgen, u spreekt met Kim Chong.",
+        "Ik zag uw vacature en ik heb een paar vragen.",
+        "In de vacature lees ik dat een stage maximaal 14 weken kan duren.",
+        "Kunt u me vertellen of ik ook een stage van 16 weken kan doen?"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 14,
+      "title": null,
+      "lines": [
+        "1. In de vacature staat dat een werkweek 32 tot 40 uur is.",
+        "Kunt u me vertellen of ik ook 20 uur per week stage kan lopen?",
+        "Ik moet namelijk ook nog lessen volgen.",
+        "2. In de vacature lees ik dat er een animatieprogramma voor tieners is.",
+        "Weet u misschien of er ook een animatieprogramma voor kinderen tot 5 jaar is?",
+        "3. In de vacature staat dat het vakantiepark in de buurt van Nijmegen is.",
+        "Mag ik vragen waar het vakantiepark precies is?",
+        "4. In de vacature staat dat je in een team werkt.",
+        "Kunt u me vertellen hoeveel personen in een team werken?",
+        "5. In de vacature lees ik dat je een begeleider vanuit TOF recreatie krijgt.",
+        "Mag ik vragen wat de functie van de begeleider in het recreatieteam is?"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 15,
+      "title": null,
+      "lines": [
+        "1. Ik ben heel enthousiast over mijn stage. Ik leer ontzettend veel.",
+        "2. Tijdens het stagegesprek kon ik het bedrijf overtuigen om mij een stage plaats te geven.",
+        "3. Mijn stagebegeleider vond mijn gedrag heel professioneel.",
+        "4. Ik vind mijn stage zeer uitdagend en interessant.",
+        "5. Tijdens mijn sollicitatiegesprek heb ik een goede indruk gemaakt.",
+        "6. Ik ben verantwoordelijk voor het ontvangen van alle gasten op mijn stageplaats.",
+        "7. Ik voldeed helaas niet aan de functie-eisen en ik ben dus niet aangenomen.",
+        "8. Ik ben stagiair op de technische afdeling van dit bedrijf.",
+        "9. Ik loop hier stage tot het eind van deze maand.",
+        "10. Een van mijn positieve eigenschappen is dat ik veel doorzettingsvermogen heb."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 16,
+      "title": null,
+      "lines": [
+        "1. enthousiast",
+        "2. overtuigen",
+        "3. professioneel",
+        "4. uitdagend",
+        "5. sollicitatiegesprek",
+        "6. verantwoordelijk",
+        "7. functie-eisen",
+        "8. stagiair",
+        "9. stage",
+        "10. doorzettingsvermogen"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 17,
+      "title": null,
+      "lines": [
+        "1. Ik wil graag solliciteren op de functie van animatiemedewerker.",
+        "2. Zullen we volgende week samen je stageverslag bespreken?",
+        "3. Je kunt in dit bedrijf alleen fulltime stage lopen. Het is niet mogelijk om parttime stage",
+        "te lopen.",
+        "4. Wij moeten een half uur voor de opening van het vakantiepark aanwezig zijn. Dat is",
+        "verplicht omdat we dan met het team de planning van de dag bespreken.",
+        "5. Mag ik u iets vragen? Weet u of dit bedrijf nog nieuwe medewerkers zoekt?"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 18,
+      "title": null,
+      "lines": [
+        "1. Kunt u me vertellen wanneer de vergadering begint?",
+        "2. Mag ik vragen of er een wc op deze verdieping is?",
+        "3. Weet u misschien op welke dagen mevrouw Klein aanwezig is?",
+        "4. Kunt u me vertellen hoeveel stagiairs er in dit bedrijf werken?",
+        "5. Mag ik vragen of het bedrijf tussen 25 december en 1 januari is gesloten?"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 19,
+      "title": null,
+      "lines": [
+        "Hoi, ik ben Rahmi. Ik kom oorspronkelijk uit Syrië. Ik woon al 6 jaar in Nederland. Ik ben 4 jaar geleden",
+        "geslaagd voor Staatsexamen NT2 programma II. Toen ik goed Nederlands sprak, wilde ik gaan studeren. Ik",
+        "heb gekozen voor de",
+        "mbo-opleiding Dienstverlening Helpende Zorg en Welzijn. Tijdens deze opleiding leer ik om anderen",
+        "te helpen bij het huishouden of om hen te verzorgen. Verder leer ik sociale, creatieve en sportieve",
+        "activiteiten te begeleiden.",
+        "Ik vind de opleiding heel leuk. Ik wil graag vrijwilligerswerk doen om meer werkervaring te krijgen en",
+        "omdat ik andere mensen een plezier wil doen.",
+        "Mijn school is in Nijmegen dus ik vind het fijn als het vrijwilligerswerk ook in Nijmegen is. Dan kan ik",
+        "na mijn lessen direct door naar het vrijwilligerswerk. Ik ben beschikbaar op maandag, woensdag en",
+        "donderdag na 14.00 uur ’s middags. Op dinsdag ga ik altijd sporten dus dan kan ik niet. Ik vind het geen",
+        "probleem als ik geen reiskosten- of vrijwilligersvergoeding krijg omdat ik in het weekend al betaald werk",
+        "bij een sportschool heb.",
+        "Ik ben een sociale jongen en ik help andere mensen graag. Ik werk graag met mijn handen. Ik ben creatief.",
+        "Ik heb veel respect voor oudere mensen. Ik werk graag met hen maar ik kan ook goed met kinderen of",
+        "volwassenen werken."
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

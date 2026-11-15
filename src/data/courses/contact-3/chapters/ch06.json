@@ -1,0 +1,648 @@
+{
+  "number": 6,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "activeren",
+          "english": "to activate",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "scannen",
+          "english": "to scan",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verkopen",
+          "english": "to sell",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verschillen",
+          "english": "to vary",
+          "other": null,
+          "note": "De prijzen verschillen nogal. The prices vary quite a bit."
+        },
+        {
+          "dutch": "verwerken",
+          "english": "to process",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "waarmaken (ik maak … waar)",
+          "english": "to live up to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "werven",
+          "english": "to recruit",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de achtergrond (de achtergronden)",
+          "english": "background",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bak (de bakken)",
+          "english": "bin, tray",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bestelling (de bestellingen)",
+          "english": "order",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de centrale (de centrales)",
+          "english": "centre",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de fabriek (de fabrieken)",
+          "english": "factory",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de gebruikersnaam (de gebruikersnamen)",
+          "english": "user name",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de inkoopprijs (de inkoopprijzen)",
+          "english": "purchase price",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de komst (-)",
+          "english": "arrival",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de manager (de managers)",
+          "english": "manager",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de accountmanager",
+          "english": "account manager",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de medewerker (de medewerkers)",
+          "english": "employee",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de inkoopmedewerker",
+          "english": "purchasing agent, buyer",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de order (de orders)",
+          "english": "order",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de pas (de passen)",
+          "english": "pass, badge",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bezoekerspas",
+          "english": "visitor badge",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de rondleiding (de rondleidingen)",
+          "english": "tour",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de sensor (de sensoren)",
+          "english": "sensor",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de steekproef (de steekproeven)",
+          "english": "spot check",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de storing (de storingen)",
+          "english": "malfunction, glitch",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de netwerkstoring",
+          "english": "network failure",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de werkplek (de werkplekken)",
+          "english": "work station",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het bedrijf (de bedrijven)",
+          "english": "company",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het centrum (de centra, de centrums)",
+          "english": "centre",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het distributiecentrum",
+          "english": "distribution centre",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gesprek (de gesprekken)",
+          "english": "conversation; interview",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het kantoor (de kantoren)",
+          "english": "office",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het motto (de motto's)",
+          "english": "motto",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het netwerk (de netwerken)",
+          "english": "network",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het schap (de schappen)",
+          "english": "shelf",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het wachtwoord (de wachtwoorden)",
+          "english": "password",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "divers (diverse)",
+          "english": "several",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ongeduldig (ongeduldige)",
+          "english": "impatient",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "automatisch",
+          "english": "automatically",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "contactloos",
+          "english": "contactless",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "echt",
+          "english": "really",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "regelmatig",
+          "english": "regularly",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "bijzinconjuncties",
+      "entries": [
+        {
+          "dutch": "zoals",
+          "english": "as honderdzevenennegentig 197",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "aan het werk zetten",
+          "english": "to put to work",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de deur uit gaan",
+          "english": "to go out",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de moeite waard zijn",
+          "english": "to be worthwhile",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een broodje gezond",
+          "english": "salad sandwich",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het doorhebben",
+          "english": "to get it, to understand",
+          "other": null,
+          "note": "Ik heb het door. I get it."
+        },
+        {
+          "dutch": "met elkaar te maken hebben / krijgen",
+          "english": "to interact with each other",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "met rust laten",
+          "english": "to leave alone",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "op pad gaan",
+          "english": "to get going",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "De boel ligt plat.",
+          "english": "The system is down.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Doet-ie 't?",
+          "english": "Is it working?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Doet-ie ’t niet?",
+          "english": "Is it not working?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Even kijken, …",
+          "english": "Let’s see, …",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Het is zonde om …",
+          "english": "It would be a shame to …",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Hij doet 't.",
+          "english": "It’s working.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Hij doet ’t niet.",
+          "english": "It’s not working.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Hoe werkt dat?",
+          "english": "How does that work?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Je weet hoe het is met…",
+          "english": "You know what it’s like with …",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 15,
+      "title": null,
+      "lines": [
+        "Sandra: Goedemorgen, Bob. Ik ben blij dat ik je zie. Welkom bij ons. Zullen we meteen maar",
+        "beginnen met de rondleiding? Het zal denk ik niet zo lang duren. Na de rondleiding zal ik",
+        "je naar je werkplek brengen.",
+        "Bob: Goedemorgen, Sandra. Ja, ik vind het ook fijn om te beginnen. Zullen we dan inderdaad",
+        "meteen maar op pad gaan?",
+        "Sandra: Ja, kom maar mee.",
+        "Kijk, hier is de balie. Alle bezoekers die hier komen, moeten zich hier melden. Iedereen",
+        "krijgt een bezoekerspas, zoals je weet.",
+        "Bob: Ja, dat klopt. Ik kreeg ‘m ook bij mijn sollicitatiegesprek.",
+        "Sandra: En dit zijn onze inkoopmedewerkers.",
+        "Bob: Inkoop? We verkopen producten, toch? Dus wat bedoel je precies?",
+        "Sandra: De inkopers hier speuren het internet af om de producten zo gunstig mogelijk in te",
+        "kopen.",
+        "Bob: O? Dus die prijzen verschillen heel veel?",
+        "Sandra: Ja, per fabrikant kan de inkoopprijs erg verschillen, dus het is de moeite waard om goed",
+        "te zoeken.",
+        "Bob: Dat snap ik.",
+        "Sandra: Hier is onze ordercentrale. Alle bestellingen en de retouren worden hier verwerkt.",
+        "Je kijkt een beetje moeilijk, Bob. Begrijp je ‘t nog?",
+        "Bob: Eh… nee, ik weet niet zeker of ik het helemaal begrijp, maar dat komt misschien door",
+        "mijn Amerikaanse achtergrond. Wat betekent dat: retouren?",
+        "Sandra: O, sorry, mijn fout. Ik praat vaktaal zonder het woord goed uit te",
+        "leggen. De bestellingen die terugkomen noemen we retouren.",
+        "Bob: Waarom komen die bestellingen terug?",
+        "Sandra: Je vraagt waarom die bestellingen terugkomen? Nou, er kan iets mis zijn met het product.",
+        "Of de klant heeft de bestelling toch niet nodig. Dan krijgen we de producten terug. Ik zal",
+        "je zo dadelijk wel even voorstellen aan de manager, Judy Anderson. Jullie zullen",
+        "waarschijnlijk veel met elkaar te maken krijgen, want deze afdeling gaat uitbreiden. Judy",
+        "zal wel blij zijn met je komst, want ze zoekt meer orderopnemers. Ze is een Engelse, dus",
+        "jullie zullen elkaar wel goed begrijpen.",
+        "Bob: Dus Judy zoekt orderopnemers? Dat zijn zeker de mensen die de bestellingen verwerken.",
+        "Klopt dat?",
+        "Sandra: Jazeker. We hebben er veel nodig en daar kun jij Judy mooi bij helpen.",
+        "Sandra: Dan gaan we nu nog even kijken bij het distributiecentrum: daar waar de producten de",
+        "deur uit gaan naar de klanten. We gaan naar boven, dan kunnen we mooi zien hoe de",
+        "orders verzorgd worden.",
+        "Bob: Wat is dat voor een groot ding?",
+        "Sandra: De orders worden automatisch uit de schappen gehaald. Dat doet dat apparaat.",
+        "Bob: O, hoe heet dat apparaat?",
+        "Sandra: Dat heet een ordersorteerder. Veel gaat automatisch, maar onze medewerkers",
+        "controleren regelmatig de bestellingen nog wel, via steekproeven. Ze scannen de",
+        "ordercode, ze zien dan wat de klant heeft besteld en vergelijken dat met de producten in",
+        "de bak van de sorteerder.",
+        "Bob: Begrijp ik nu goed dat we niet elke bestelling controleren?",
+        "Sandra: Inderdaad, dat doen we niet. Dat kost echt te veel tijd en personeel, en onze klanten",
+        "worden dan ongeduldig. Ons motto is: vandaag besteld, morgen in huis. En als je dat zegt,",
+        "moet je ‘t waarmaken.",
+        "Bob: Ja, dat is zo. Ik snap ‘t.",
+        "Sandra: Zo, en dan is hier je werkplek op kantoor. Nou ja, jouw werkplek… Diverse medewerkers",
+        "staan of zitten hier te werken aan de bureaus en achter de computers. Eigenlijk heeft",
+        "niemand hier een vaste werkplek, dus jij ook niet. Een aantal medewerkers werkt soms",
+        "vanuit huis en dat zal voor jou ook wel gelden. Verder zijn de accountmanagers vaak",
+        "onderweg, dus het is zonde om voor iedereen die met een computer werkt een vaste",
+        "werkplek in te richten.",
+        "Nou Bob, zullen we je dan maar aan het werk zetten? Kies maar een computer uit en kijk",
+        "of-ie ‘t doet.",
+        "Bob: O, dus ze doen ‘t niet altijd goed?",
+        "Sandra: Ach, je weet hoe ‘t is met computers, hè? Soms is er een netwerkstoring en dan ligt de",
+        "boel plat.",
+        "Bob: O ja, dat ken ik. […] Nou, deze dan maar. Even kijken, hoe werkt dat? Hoe log ik in?",
+        "Sandra: Als alles klopt, heb je een gebruikersnaam en wachtwoord van onze ict-medewerkers",
+        "gekregen.",
+        "Je moet eerst je gebruikersnaam intikken, dan je wachtwoord.",
+        "Bob: Ja, hm. Ik weet niet zeker of ik dat mailtje gekregen heb. Even in mijn mail kijken. […]",
+        "O, hier heb ik ‘t! Hm, hij doet ‘t niet. Of… o, kijk, nu doet-ie ‘t toch. Nou, ik geloof dat ik",
+        "‘t door heb.",
+        "Sandra: Mooi zo. Ik laat je nu even met rust, want ik moet je reiskostenvergoe- ding nog regelen.",
+        "Je zult wel een beetje tollen van alle informatie. Ik weet zeker dat je nu wel een kop koffie",
+        "lust en daarna kun je beginnen aan de advertentie voor orderopnemers. Heb je al een",
+        "afspraak met Judy gemaakt?",
+        "Bob: Nog niet, maar dat zal ik meteen doen.",
+        "Sandra: Prima. Veel plezier verder op deze eerste dag en met je nieuwe werk!",
+        "Bob: Dank je wel, Sandra."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 16,
+      "title": null,
+      "lines": [
+        "Gina: Kijk, deze computer kun je gebruiken.",
+        "Tedros: O, mooi. Hoe werkt dat?",
+        "Gina: Je moet inloggen met je gebruikersnaam, dat is je account. Je moet eerst je account",
+        "activeren. Daarna moet je een wachtwoord aanmaken. Wacht dan een kwartiertje. Daarna",
+        "kun je je account gebruiken.",
+        "Tedros: Dus ik moet eerst mijn account activeren en daarna een wachtwoord aanmaken? Oké, ik",
+        "snap het.",
+        "Gina: En dit is de printer. Hij werkt op je medewerkerspas.",
+        "Tedros: Hoe gaat dat precies?",
+        "Gina: Houd je medewerkerspas aan de voorkant van het apparaat. Daar zit een sensor. Die leest",
+        "jouw pas.",
+        "Je hoort een piepje en dan kun je beginnen met printen. Maar je kunt met dit apparaat",
+        "ook kopiëren en scannen. […]",
+        "Hier is het bedrijfsrestaurant. Meestal kopen we wat te eten en dan gaan we",
+        "lunchwandelen met de collega’s.",
+        "Tedros: Lunchwandelen? Wat is dat?",
+        "Gina: Dan gaan we buiten wandelen terwijl we onze lunch opeten.",
+        "Tedros: Ah, gezellig! En nog gezond ook. Klopt het dat de lunch niet gratis is?",
+        "Gina: Inderdaad, maar het is hier niet echt duur. Gebruik je pinpas of je telefoon om contactloos",
+        "te betalen.",
+        "Tedros: Mooi. Ik neem straks een broodje gezond."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 17,
+      "title": null,
+      "lines": [
+        "1. Hoe werkt dit apparaat?",
+        "2. Dus ik moet eerst dit doen. Klopt dat?",
+        "3. Dus ik moet éérst dit doen en daarna moet ik dat doen? Of niet?",
+        "4. Klopt het dat ik eerst dit moet doen en dan dat?",
+        "5. Ja, dat klopt."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 18,
+      "title": null,
+      "lines": [
+        "1. Snap je ‘t?",
+        "2. Ik snap ‘t.",
+        "3. Ik snap ‘t niet.",
+        "4. Begrijp je ‘t niet?",
+        "5. Ik begrijp ‘t wel.",
+        "6. Ik begrijp ‘t niet.",
+        "7. Kijk, ‘n mooie vogel. Zie je ‘m?",
+        "8. Ik zie ‘m.",
+        "9. Ik zie ‘m niet.",
+        "10. Wat ‘n mooi geluid. Hoor je ‘t?",
+        "11. Ik hoor ‘t.",
+        "12. Ik hoor ‘t niet.",
+        "13. Heb je ‘t door?",
+        "14. Ik heb ‘t door.",
+        "15. Ik heb ‘t niet door.",
+        "16. Doet ie het niet?",
+        "17. Hij doet ‘t wel.",
+        "18. Hij doet ‘t inderdaad niet."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 19,
+      "title": null,
+      "lines": [
+        "1a. · Als het koud is, moet je je jas aandoen.",
+        "1b. · Je moet je jas aandoen, als het koud is.",
+        "1c. · Als het koud is, je moet je jas aandoen.",
+        "2a. · Je kunt je diploma halen, als je heel hard werkt.",
+        "2b. · Als je heel hard werkt, je kunt je diploma halen.",
+        "2c. · Als je heel hard werkt, kun je je diploma halen.",
+        "3a. · Als alles klopt, je hebt een gebruikersnaam en wachtwoord gekregen.",
+        "3b. · Als alles klopt, heb je een gebruikersnaam en wachtwoord gekregen.",
+        "3c. · Je hebt een gebruikersnaam en wachtwoord gekregen, als alles klopt.",
+        "4a. · Als ik mijn bril opzet, ik kan alles goed lezen.",
+        "4b. · Als ik mijn bril opzet, kan ik alles goed lezen.",
+        "4c. · Ik kan alles goed lezen, als ik mijn bril opzet."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 20,
+      "title": null,
+      "lines": [
+        "1. leg – lig · 5. wit – wet",
+        "2. zit – zet · 6. wen – win",
+        "3. heb – wil · 7. til – tel",
+        "4. bed – bid · 8. bil – bel"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 21,
+      "title": null,
+      "lines": [
+        "1. Op de site carrièretijger.nl kun je veel tips krijgen over allerlei vormen van communicatie, zowel mondeling",
+        "als schriftelijk. Deze tekst gaat over de kunst van het doorvragen. Stel, je wilt iemand interviewen, dan is",
+        "het belangrijk dat je de ander goed begrijpt en samenvat. Doorvragen is nodig voor precieze informatie.",
+        "Het doorvragen is de d in lsd. Deze afkorting staat niet voor de bekende drug, maar voor luisteren,",
+        "samenvatten en doorvragen.",
+        "2. Je hebt twee typen vragen: open vragen en gesloten vragen. Laten we met deze laatste beginnen:",
+        "een gesloten vraag. Wat is dat precies? Nou, het is een vraag die je alleen met ja, nee of misschien kunt",
+        "beantwoorden. Bijvoorbeeld: ga je vanmiddag winkelen? Het antwoord zal ongeveer als volgt zijn:",
+        "- Ja, dat is het plan.",
+        "- Nee, ik heb geen zin en geen tijd om te winkelen.",
+        "- Misschien, ik weet het nog niet.",
+        "Er zijn eigenlijk geen andere mogelijkheden dan deze drie. De conclusie is: een gesloten vraag leidt niet",
+        "tot uitgebreide antwoorden en nodigt zeker niet uit tot meer informatie geven.",
+        "3. Dus als je meer informatie nodig hebt en als je mensen aan het praten wilt krijgen, dan stel je open",
+        "vragen. Wat is een open vraag? Dat is een vraag die met een vraagwoord begint: wie, wat, waar, wanneer,",
+        "waarom, hoe? Dit soort vragen nodigt mensen uit tot het geven van meer informatie. Doorvragen is",
+        "daarbij onmisbaar om duidelijkheid te krijgen over wat de ander precies bedoelt. Het is een speciale vorm",
+        "van open vragen stellen. Je bereikt er veel mee in een gesprek. Je kunt bijvoorbeeld onduidelijkheden",
+        "zichtbaar maken, je kunt hoofd- en bijzaken laten zien in het antwoord van je gesprekspartner en je kunt",
+        "in de antwoorden van de ander dingen laten zien die niet met elkaar kloppen.",
+        "4. Na een goede open vraag krijg je een uitgebreid antwoord. Je kunt bijvoorbeeld in een marktonderzoek",
+        "vragen: wat eet u graag? In het antwoord zitten dan vaak meerdere onderdelen (“ik houd van kaas, van",
+        "pasta, van groente en nog wel meer dingen...”). Dat laatste is wel wat onduidelijk. En dat is ook zo als de",
+        "ander bijvoorbeeld antwoordt: (“nou, varkensvlees eet ik niet zo heel vaak”). Dan wordt het tijd om door te",
+        "vragen.",
+        "5. Soms weet de ander het antwoord op een vraag niet precies of heeft hij wat meer tijd nodig om na te",
+        "denken. Hij gaat misschien zenuwachtig aan zijn ring draaien. Een goede vragensteller ziet dit en reageert",
+        "op dit gedrag. Hij of zij vat samen wat de ander gezegd heeft en hij vraagt om het antwoord duidelijker te",
+        "maken. Hij vraagt dan bijvoorbeeld:",
+        "“Wat bedoel je precies met: ‘ik houd van nog wel meer dingen’?”",
+        "“Je zegt dat je varkensvlees niet zo heel vaak eet. Waarom is dat?”",
+        "“Je houdt veel van groente. Wat vind je daar zo lekker aan?” De gesprekspartner krijgt zo de tijd om na te",
+        "denken en hij krijgt de mogelijkheid om zijn antwoord preciezer te maken.",
+        "6. Stel, je wilt weten wat de ander het lekkerste eten vindt. De ander antwoordt dan soms met heel veel",
+        "dingen tegelijk op je vraag. Dan is het nodig om de ander te laten kiezen, bijvoorbeeld zo: “Je noemt",
+        "spaghetti met tomatensaus, kaasfondue, risotto en gebraden kip. Wat eet je nu het liefst?”",
+        "7. Soms heb je een lang gesprek. De kans is dan groot dat de ander dingen zegt die niet met elkaar kloppen.",
+        "Dat is ook een goed moment om door te vragen.",
+        "Je vat beide uitspraken samen en dan vraag je vervolgens naar de precieze mening van de ander. Bij een",
+        "gesprek met een nieuwe medewerker kun je bijvoorbeeld zeggen: “Aan het begin van het gesprek zei je",
+        "dat je collega je goed heeft ingewerkt. Nu zeg je dat zijn instructies niet duidelijk waren. Wat moet ik nu",
+        "denken van de hulp die je van je collega hebt gehad?”",
+        "8. Als je doorvraagt, mag je alleen doorvragen op wat de ander al gezegd heeft. Stel dat de ander",
+        "heeft gezegd: “Volgens mij ging het al een tijdje niet zo goed met dit bedrijf.” Zo’n antwoord mag je",
+        "bijvoorbeeld niet samenvatten met: dus het bedrijf bestaat niet meer? Dan ga je voor je gesprekspartner",
+        "denken. Dat moet je niet doen. Je kunt bijvoorbeeld wel vragen: wat is er met dat bedrijf gebeurd?",
+        "9. Je moet de antwoorden ook neutraal samenvatten. Als je je leidinggevende hebt gevraagd naar je kansen",
+        "op een goede carrière en hij antwoordt daar onduidelijk over, dan moet je zijn woorden niet samenvatten",
+        "met: “Dus je denkt dat ik hier weinig mogelijkheden heb?” Vraag liever: “Wat kun je me",
+        "aanraden als ik in dit bedrijf verder wil komen?” Dat is neutraler en vooral ook veel positiever.",
+        "10. Wat komt er in een gesprek na doorvragen? Als je het idee hebt dat je genoeg informatie hebt, is het tijd",
+        "om het hele gesprek samen te vatten. Je herhaalt nog eens de belangrijkste punten zodat je er een verslag",
+        "van kunt maken.",
+        "Als je een goede interviewer bent, dan gebruik je lsd op een goede manier!"
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

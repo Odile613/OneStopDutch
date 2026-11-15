@@ -1,0 +1,674 @@
+{
+  "number": 9,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "beschadigen",
+          "english": "to damage",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "bestaan",
+          "english": "to exist",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "bevallen",
+          "english": "to please, to suit",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "herbouwen",
+          "english": "to rebuild",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "herstellen",
+          "english": "to repair",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "leven",
+          "english": "to live",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ontstaan",
+          "english": "to come into being, to originate",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vernielen",
+          "english": "to destroy, to ruin",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verwoesten",
+          "english": "to devastate, to wreck",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vormen",
+          "english": "to make up",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "winkelen",
+          "english": "to shop",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de bevolking (de bevolkingen)",
+          "english": "population",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bezienswaardigheid (de bezienswaardigheden)",
+          "english": "sight",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de boetiek (de boetieks/de boetieken)",
+          "english": "boutique",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bril (de brillen)",
+          "english": "glasses",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de zonnebril",
+          "english": "sunglasses",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de drogisterij (de drogisterijen)",
+          "english": "chemist",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de eeuw (de eeuwen)",
+          "english": "century",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de geschiedenis (de geschiedenissen)",
+          "english": "history",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de gracht (de grachten)",
+          "english": "canal",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de handel (-)",
+          "english": "trade",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de haven (de havens)",
+          "english": "port",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de inwoner (de inwoners)",
+          "english": "inhabitant",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kathedraal (de kathedralen)",
+          "english": "cathedral",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kerk (de kerken)",
+          "english": "church",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de keten (de ketens)",
+          "english": "chain",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de winkelketen",
+          "english": "chain of shops",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de lens (de lenzen)",
+          "english": "lens",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de contactlens",
+          "english": "contact lens",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de oorlog (de oorlogen)",
+          "english": "war",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de opticien (de opticiens)",
+          "english": "optician",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de overeenkomst (de overeenkomsten)",
+          "english": "similarity",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de rivier (de rivieren)",
+          "english": "river",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de schade (de schades)",
+          "english": "damage",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de stad (de steden)",
+          "english": "city",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de binnenstad",
+          "english": "city centre",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de stijl (de stijlen)",
+          "english": "style",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de straat (de straten)",
+          "english": "street",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de winkelstraat",
+          "english": "shopping street",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de toerist (de toeristen)",
+          "english": "tourist tweehonderdeen 201",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het centrum (de centra/de centrums)",
+          "english": "centre",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het stadscentrum",
+          "english": "city centre",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het midden (-)",
+          "english": "middle",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het museum (de musea)",
+          "english": "museum",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het noorden",
+          "english": "north",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het oosten",
+          "english": "east",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het plein (de pleinen)",
+          "english": "square",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het symbool (de symbolen)",
+          "english": "symbol",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het terras (de terrassen)",
+          "english": "terrace",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het terrasje (de terrasjes)",
+          "english": "outdoor cafe, terrace",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het theater (de theaters)",
+          "english": "theatre",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het transport (de transporten)",
+          "english": "transport",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het westen",
+          "english": "west",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het zuiden",
+          "english": "south",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "cultureel (culturele)",
+          "english": "cultural",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "gek (gekke)",
+          "english": "strange, odd",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "historisch (historische)",
+          "english": "historical, ancient",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "modern (moderne)",
+          "english": "modern",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "rechthoekig (rechthoekige)",
+          "english": "rectangular",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "stedelijk (stedelijke)",
+          "english": "urban",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uniek (unieke)",
+          "english": "unique",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "behalve",
+          "english": "except",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "bovendien",
+          "english": "moreover",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "dergelijk (dergelijke)",
+          "english": "such",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nog een",
+          "english": "another",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "overigens",
+          "english": "by the way, incidentally",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ruim",
+          "english": "more than",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ruim 8 miljoen inwoners",
+          "english": "more than 8 million inhabitants",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "aangesloten zijn bij",
+          "english": "to be a part of, to belong to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "beschadigd zijn",
+          "english": "to be damaged",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de helft van de/het",
+          "english": "half the",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de Tweede Wereldoorlog",
+          "english": "the Second World War",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "herbouwd worden",
+          "english": "to be rebuilt",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "niet alleen…, maar ook…",
+          "english": "not only …, but also",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vernield zijn",
+          "english": "to be destroyed",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "verwoest zijn",
+          "english": "to be devastated",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "als twee druppels water",
+          "english": "as like as two peas in a pod",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ze lijken als twee druppels water op elkaar.",
+          "english": "They are as like as two peas in a pod.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dat komt door …",
+          "english": "That’s because of …",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Het bevalt me.",
+          "english": "I like it.",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "afkortingen",
+      "entries": [
+        {
+          "dutch": "e.d. (en dergelijke)",
+          "english": "and the like",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 27,
+      "title": null,
+      "lines": [
+        "Miriam: Ben je weleens in Maastricht geweest?",
+        "Petra: Jazeker. Ik vind het een heel mooie, oude stad.",
+        "Miriam: Mooier dan Eindhoven?",
+        "Petra: Veel mooier. En ik vind Maastricht ook veel gezelliger dan Eindhoven.",
+        "Miriam: Waarom?",
+        "Petra: Nou, Maastricht is natuurlijk een veel oudere stad dan Eindhoven. Je kunt fijn winkelen en",
+        "uitgaan in die leuke, oude straatjes. Maastricht is sfeervoller dan Eindhoven.",
+        "Miriam: Nou, ik vind die straatjes helemaal niet zo leuk. Ik vind ze een beetje te smal. Ik heb liever",
+        "wat meer ruimte om te winkelen. En in Eindhoven zijn de straten modern en breed. Dat",
+        "vind ik veel fijner.",
+        "Petra: Nou, dan ga ik liever naar Rotterdam, want dat is de modernste stad van het land en",
+        "Rotterdam heeft veel mooiere winkels dan Eindhoven. En wat er allemaal te zien en te",
+        "doen is! De Erasmusbrug, de Oude Maashaven, museum De Kunsthal…",
+        "Miriam: Ja, dat is wel waar. Zullen we daar dan binnenkort weer eens naartoe gaan?",
+        "Petra: Dat lijkt me een heel goed idee. Dan ga ik meteen een nieuwe bril uitzoeken bij een",
+        "opticien. En misschien ook een zonnebril. Ik draag nu contactlenzen, maar die bevallen",
+        "me niet.",
+        "Miriam: Afgesproken!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 28,
+      "title": null,
+      "lines": [
+        "1. Ik vind terrasjes leuk.",
+        "2. Ik vind contactlenzen fijn.",
+        "3. Ik vind dit museum mooi.",
+        "4. Ik vind oude havens prachtig.",
+        "5. Ik vind terrasjes gezelliger dan school.",
+        "6. Ik vind lenzen fijner dan een bril.",
+        "7. Ik vind oude steegjes leuker dan brede winkelstraten.",
+        "8. Ik vind oude havens mooier dan moderne havens.",
+        "9. Ik vind wandelen het leukst.",
+        "10. Ik vind boetiekjes het gezelligst.",
+        "11. Ik vind kleine boekhandels het prettigst.",
+        "12. Ik vind winkelen net zo leuk als lezen.",
+        "13. Ik vind geschiedenis net zo saai als rekenen.",
+        "14. Ik vind grote winkels niet zo prettig als kleine.",
+        "15. Ik vind een zonnebril niet zo fijn.",
+        "16. Ik draag het liefste helemaal geen bril."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 27,
+      "title": null,
+      "lines": [
+        "1. Ik kan me heel goed voorstellen dat je niet goed weet wat je wilt kopen. Er zijn hier ook",
+        "zoveel winkeltjes en boetiekjes!",
+        "2. Toen ik nog heel jong was, heb ik de musical The Sound of Music gezien. Ik heb meteen",
+        "de plaat gekocht en ik kon na een paar dagen elk liedje woord voor woord meezingen.",
+        "Later heb ik een paar acteurs uit de musical een keer live gezien. Dat was echt een",
+        "unieke kans!",
+        "3. Als je in de binnenstad woont, echt in het hart van de stad, heb je veel meer risico dat",
+        "iemand je fiets steelt, dan wanneer je in een buitenwijk of in een dorp woont.",
+        "4. Laten we morgen naar het museum voor moderne kunst gaan. Er is een mooie",
+        "tentoonstelling.",
+        "5. De kathedralen in Noord-Frankrijk lijken veel op elkaar; ze hebben veel meer",
+        "overeenkomsten dan verschillen.",
+        "6. Wist je dat Nijmegen een van de oudste steden van Nederland is? De stad is zo’n 2000",
+        "jaar geleden ontstaan en heette toen Noviomagus. Dat betekent nieuw veld.",
+        "7. Laten we een stadswandeling in Utrecht maken en als laatste alle trappen van de",
+        "Domtoren beklimmen. Daarna gaan we uitrusten op een terrasje, met een lekker fris",
+        "drankje. Dat is geen gek idee, hè?",
+        "8. Zullen we zaterdag naar het theater gaan? Daar speelt dit weekend De koop man van",
+        "Venetië van Shakespeare.",
+        "9. Nederland verdient zijn geld niet alleen in het transport , maar ook in de handel.",
+        "10. Aan het einde van de Tweede Wereldoorlog was er veel honger, vooral in het westen",
+        "van Nederland. Daar, in het westen, had de bevolking nog minder te eten dan in andere",
+        "delen van Nederland."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 28,
+      "title": null,
+      "lines": [
+        "1. Is er een bioscoop in de buurt? Nee, maar wel een museum.",
+        "2. Is er een apotheek in de straat? Nee, maar wel bij de markt.",
+        "3. Is er een opticien in het centrum? Jazeker, er zijn wel drie brillenwinkels in het centrum.",
+        "4. Is er een winkelcentrum in deze wijk? Jazeker, er zit een winkelcentrum aan de andere",
+        "kant van de wijk.",
+        "5. Is er een universiteit in de stad? Nee, maar wel een hogeschool.",
+        "6. Is er een kathedraal in de stad? Jazeker, in het centrum op het plein."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 29,
+      "title": null,
+      "lines": [
+        "1. Is er een bioscoop in de buurt? Nee, maar wel een museum.",
+        "2. Is er een apotheek in de straat? Nee, maar wel bij de markt.",
+        "3. Is er een opticien in het centrum? Jazeker, er zijn wel drie brillenwinkels in het centrum.",
+        "4. Is er een winkelcentrum in deze wijk? Jazeker, er zit een winkelcentrum aan de andere",
+        "kant van de wijk.",
+        "5. Is er een universiteit in de stad? Nee, maar wel een hogeschool.",
+        "6. Is er een kathedraal in de stad? Jazeker, in het centrum op het plein."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 30,
+      "title": null,
+      "lines": [
+        "1. staat – stad · 6. vaak – vak",
+        "2. rand – rand · 7. dat – daad",
+        "3. maat – mat · 8. gaan – gaan",
+        "4. was – waas · 9. wat – wat",
+        "5. vaak – vaak · 10. zag – zaag"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 31,
+      "title": null,
+      "lines": [
+        "1. dam · 6. water · 11. Maastricht",
+        "2. gracht · 7. grachten · 12. Amsterdam",
+        "3. daar · 8. stadjes · 13. Vlaardingen",
+        "4. stad · 9. centra · 14. Assen",
+        "5. baas · 10. theater · 15. Haarlem"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 32,
+      "title": null,
+      "lines": [
+        "1. ontstaan · 6 overeenkomst · 11. terrasje",
+        "2. stadscentra · 7. winkelketen · 12. museum",
+        "3. centra · 8. aansluiten · 13. toerist",
+        "4. kathedraal · 9. contactlens · 14. transport",
+        "5. Amsterdam · 10. rivier · 15. symbool"
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

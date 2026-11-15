@@ -1,0 +1,397 @@
+{
+  "number": 3,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "bekijken",
+          "english": "to look at, to watch",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "beluisteren",
+          "english": "to listen to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "eruitzien (het ziet er … uit)",
+          "english": "to look",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "horen",
+          "english": "to hear",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "kijken naar",
+          "english": "to look at, to watch",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "klinken",
+          "english": "to sound",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "luisteren naar",
+          "english": "to listen to",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "proeven",
+          "english": "to taste",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "rijpen",
+          "english": "to ripen",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ruiken",
+          "english": "to smell",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "smaken",
+          "english": "to taste",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "stinken",
+          "english": "to stink; to smell bad",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "voelen",
+          "english": "to feel",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zien",
+          "english": "to see",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de geur (de geuren)",
+          "english": "smell",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de inspiratie (-)",
+          "english": "inspiration",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de klank (de klanken)",
+          "english": "sound",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de portie (de porties)",
+          "english": "portion, serving",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de reuk (-)",
+          "english": "smell",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de smaak (de smaken)",
+          "english": "taste",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de specerij (de specerijen)",
+          "english": "spice",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de stank (-)",
+          "english": "bad smell",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de tast (-)",
+          "english": "touch",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het gehoor (-)",
+          "english": "hearing",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het geluid (de geluiden)",
+          "english": "sound",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het kruid (de kruiden)",
+          "english": "herb",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het stuk (de stukken)",
+          "english": "piece",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het stukje (de stukjes)",
+          "english": "little piece",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het zicht (-)",
+          "english": "sight",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "fantastisch (fantastische)",
+          "english": "fantastic",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lekker (lekkere)",
+          "english": "tasty, nice, good, well",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "leuk (leuke)",
+          "english": "nice, fun",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "mooi (mooie)",
+          "english": "nice, pretty, beautiful",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "rijp (rijpe)",
+          "english": "ripe",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vies (vieze)",
+          "english": "nasty, foul",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "iets/iemand in de gaten hebben",
+          "english": "to be aware of something/someone",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "iets/iemand in de gaten houden",
+          "english": "to keep an eye on something/someone",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lekker ding",
+          "english": "hot thing",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lekker zitten",
+          "english": "to feel comfortable",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de schoenen zitten niet lekker",
+          "english": "the shoes don’t feel comfortable",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zich (niet) lekker voelen",
+          "english": "to (not) feel well",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ik voel me niet lekker",
+          "english": "I don’t feel well",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Wat fantastisch!",
+          "english": "Fantastic!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Wat lekker!",
+          "english": "Yummy!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Wat mooi!",
+          "english": "Beautiful!",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 7,
+      "title": null,
+      "lines": [
+        "Hallo allemaal! Wat leuk dat jullie weer kijken naar m’n nieuwste vlog. Ik sta nu in de keuken te praten,",
+        "want ik ga weer wat lekkers maken. Dit keer heb ik mijn inspiratie gehaald uit Indonesië. Of nou ja,",
+        "eigenlijk was ik in Deventer, haha!",
+        "Ik was gisteren op de markt in Deventer en daar rook ik iets heel lekkers. Die heerlijke geur kwam van",
+        "’t kraampje met Indonesisch eten. Dat had ik eerst niet in de gaten, maar ik hoefde alleen maar mijn neus",
+        "volgen, haha! En mensen, dat Indonesische eten rook echt fantastisch, dus ik moest [nadruk op moest]",
+        "daar natuurlijk eten halen. Ik heb toen een grote portie gadogado besteld. Zo lekker! Ik zat daar echt te",
+        "genieten. Er is niets beters dan verse gadogado. Dat ga ik nu dus voor jullie maken: gadogado.",
+        "Je kan veel extra kruiden en specerijen aan dit gerecht toevoegen, maar ik maak er iets simpels van. Ik",
+        "heb vanochtend de boodschappen gedaan. De ingrediënten zitten nog in m’n tas. Kijk, dit hebben we",
+        "nodig voor gadogado: vier eieren, wortels, sperziebonen, komkommer, pindasaus en kroepoek. Je ziet",
+        "het: we hebben een lekkere combinatie van smaken: zoet, zuur en zout. Heerlijk! En kijk, met deze",
+        "ingrediënten hebben we ook veel mooie verschillende kleuren: iets oranjes, iets groens, …",
+        "We hebben nog één ding nodig, want ík vind gadogado heel lekker met wat stukjes tomaat. Gelukkig",
+        "heb ik altijd een paar tomaten in huis. Kijk hier voor ’t raam, ze liggen lekker in de zon te rijpen. Even",
+        "kijken, is deze tomaat rijp? Je kan makkelijk voelen of je de tomaten al kan eten. Is de tomaat een klein",
+        "beetje zacht? Dan kun je hem eten. Ja, deze tomaten voelen goed: niet te hard en ook niet te zacht. Weet",
+        "je wat? Ik snijd alvast een stukje tomaat, dan kan ik proeven. Dat is heel belangrijk, hè? Je moet altijd de",
+        "ingrediënten even proeven, haha. [hap-/eetgeluid tussen ‘haha’ en ‘heerlijk’ ]",
+        "Heerlijk! Ja, deze tomaten smaken lekker zoet. Mmm. Horen jullie dat? Dat is het geluid van lekker eten,",
+        "hahaha!",
+        "Oké, volgens mij kunnen we nu echt beginnen met koken. Eerst kook je de eieren, … [fade out]"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 8,
+      "title": null,
+      "lines": [
+        "Wil je een stuk taart? · Ja, lekker!",
+        "Ik ga morgen op vakantie. · Wat lekker!",
+        "Ik heb tijdens m’n vakantie helemaal niks gedaan. · Wat lekker!",
+        "Ik heb vers brood bij de bakker gekocht. · Wat lekker!",
+        "Zullen we vanavond naar de bioscoop gaan? · Ja, leuk!",
+        "Ik ga morgen op vakantie. · Wat leuk!",
+        "Ik ben naar ’t museum geweest. · Wat leuk!",
+        "Kijk, dit is een foto van m’n kat. · Wat leuk!",
+        "Dit is m’n nieuwe jas. · Wat mooi!",
+        "Kijk, dit schilderij heeft m’n zus gemaakt. · Wat mooi!",
+        "Ik ben geslaagd voor m’n rijexamen! · Wat fantastisch!",
+        "Ik ben vader geworden! · Wat fantastisch!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 10,
+      "title": null,
+      "lines": [
+        "Welkom bij deel 2 van het driedelige hoorcollege over de zintuigen. Vorige week hebben we een start",
+        "gemaakt met dit onderwerp. Ik heb u toen verteld dat er vijf zintuigen zijn: de tast, de smaak, het gehoor,",
+        "het zicht – of het zien, en de reuk.",
+        "Tijdens de les van afgelopen week heb ik u alles verteld over horen en zien. Vandaag staan de smaak en de",
+        "reuk op het programma. En volgende week zullen we ten slotte spreken over de tast.",
+        "Goed, ik zal eerst nog even jullie geheugen opfrissen. Een korte samenvatting van de stof van vorige week",
+        "dus, zodat iedereen weer weet waar we het ook alweer over hadden.",
+        "Om te kunnen horen, gebruiken we onze oren, en om te kunnen zien onze ogen. Ik heb u verteld hoe onze",
+        "oren en ogen functioneren. U weet nu dus hoe we geluiden en beelden kunnen waarnemen.",
+        "Ik heb vorige week geen vragen gehoord. Ik raad u aan vooral ook nog paragraaf 3 van hoofdstuk 7 te",
+        "bestuderen. Daarin kunt u alles nog eens nalezen.",
+        "Zoals gezegd, ga ik vandaag vertellen over de smaak en de geur. Hoe proef je je eten? Hoe ruik je of er een",
+        "gaslucht hangt? En waarom proef je veel minder als je verkouden bent?",
+        "Het lichaamsdeel dat alles met proeven te maken heeft, is de tong. Kijk maar eens in de spiegel naar je",
+        "tong. Er zitten allemaal kleine spikkeltjes op, die we de smaakpapillen noemen.",
+        "De smaakpapillen zien er allemaal hetzelfde uit, maar met elke smaakpapil kan je maar één van de vier",
+        "verschillende basissmaken proeven. Met de smaakpapillen op het puntje van je tong kun je bijvoorbeeld",
+        "alleen maar zoet proeven. Aan de zijkanten van je tong bevinden zich de smaakpapillen voor zout en zuur.",
+        "De papillen om zout te kunnen proeven, zitten voor aan je tong, aan de linkerkant en aan de rechterkant.",
+        "Zuur proef je met de papillen die links en rechts achterin zitten. En om iets bitters te proeven, gebruik je",
+        "de papillen achter op je tong.",
+        "De papillen nemen de smaken waar, en geven die informatie door aan de hersenen. De hersenen zorgen",
+        "ervoor dat we weten wat we proeven. Met je tong kun je alleen waarnemen of iets zoet, zout, zuur of bitter",
+        "is. Andere smaken proef je alleen als je ze ruikt. Als je iets eet, terwijl je je neus dichtknijpt, proef je niets.",
+        "Feitelijk proef je die smaak dus niet, maar je ruikt hem.",
+        "Ruiken doe je met je neus. Maar hoe gaat dat eigenlijk, dat ruiken?",
+        "In de lucht zweven een heleboel kleine deeltjes. Als je die kleine deeltjes inademt, komen ze in je neus.",
+        "In je neus zitten heel veel kleine haartjes. Die haartjes heten reukhaartjes. Als de deeltjes in je neus zijn,",
+        "vangen cellen met reukhaartjes ze op. Die cellen geven dan weer signalen door aan je hersenen.",
+        "Je hersenen weten dan dat je een geurtje ruikt.",
+        "Je reukorgaan, je neus dus, is heel belangrijk. Geuren waarschuwen je bijvoorbeeld voor gevaarlijke",
+        "stoffen of bedorven voedsel.",
+        "De smaak en de geur werken dus sterk samen. Dat is zelfs zo sterk, dat als je iets lekkers ruikt, je de smaak",
+        "al bijna proeft in je mond. Als ik bijvoorbeeld de geur van verse koffie ruik, krijg ik al zin om een kop koffie",
+        "te drinken. En als ik over koffie praat, krijg ik nog meer zin! Dus laten we even een kwartiertje koffiepauze",
+        "houden."
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

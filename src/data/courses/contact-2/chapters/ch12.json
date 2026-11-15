@@ -1,0 +1,526 @@
+{
+  "number": 12,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "bedanken",
+          "english": "to thank",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "bepalen",
+          "english": "to determine",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "bevestigen",
+          "english": "to confirm",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "eruitzien (ik zie er … uit)",
+          "english": "to look (I look …)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de baas (de bazen)",
+          "english": "boss",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bankrekening (de bankrekeningen)",
+          "english": "bank account",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de beschrijving (de beschrijvingen)",
+          "english": "description",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de bevestiging (de bevestigingen)",
+          "english": "confirmation",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de contributie (de contributies)",
+          "english": "contribution",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de paraplu (de paraplu’s)",
+          "english": "umbrella",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de reservering (de reserveringen)",
+          "english": "reservation",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verhuizing (de verhuizingen)",
+          "english": "move",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het bedrag (de bedragen)",
+          "english": "amount",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het lid (de leden)",
+          "english": "member",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het plezier (-)",
+          "english": "fun",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het pretpark (de pretparken)",
+          "english": "amusement park",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het rapport (de rapporten)",
+          "english": "report (card)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het voorwerp (de voorwerpen)",
+          "english": "object",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "knap (knappe)",
+          "english": "good-looking",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "kwaad (kwade)",
+          "english": "angry",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "mager (magere)",
+          "english": "skinny",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nieuwsgierig (nieuwsgierige)",
+          "english": "curious",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ontspannend (ontspannende)",
+          "english": "relaxing",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "paars (paarse)",
+          "english": "purple",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "romantisch (romantische)",
+          "english": "romantic",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "schitterend (schitterende)",
+          "english": "magnificent",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "slim (slimme)",
+          "english": "smart",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "streng (strenge)",
+          "english": "strict",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "trots (trotse)",
+          "english": "proud",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vreemd (vreemde)",
+          "english": "strange",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vreselijk (vreselijke)",
+          "english": "terrible",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "bijzinconjuncties",
+      "entries": [
+        {
+          "dutch": "hoewel",
+          "english": "although",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "klaar",
+          "english": "finished",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "omhoog",
+          "english": "up",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "omlaag",
+          "english": "down",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "voorbij",
+          "english": "over, finished",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "het gaat over …",
+          "english": "it’s about …",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "je mening geven over",
+          "english": "to give your opinion on/about",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "lid worden van",
+          "english": "to become a member of",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 57,
+      "title": "Gesprek 1",
+      "lines": [
+        "S1: Hé Jonathan, wat zag ik? Heb jij alweer een andere auto?",
+        "S2: \u0007Wauw, jij ziet ook alles. Maar het antwoord is nee. Mijn auto is kapot en staat bij de gara-",
+        "ge. Dit is een leenauto. Ik mag deze gebruiken van de garage terwijl ze mijn auto repare-",
+        "ren.",
+        "S1: \u0007Ik vond het al vreemd. Je had een schitterende, grote auto en dit is een klein, oud, lelijk,",
+        "grijs ding.",
+        "S2: \u0007Ja, inderdaad. Ik vind hem ook vreselijk. Gelukkig is mijn eigen auto morgen klaar. Dan",
+        "kan ik deze auto terugbrengen en dan hoef ik me niet meer te schamen."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 58,
+      "title": "Gesprek 2",
+      "lines": [
+        "S3: Hé Simone, ik dacht dat jij al naar huis was?",
+        "S4: \u0007Ja, dat klopt, ik was onderweg maar ik heb mijn paraplu vergeten. En het regent. Heel",
+        "hard. Dus ik moest terug. Heb jij mijn paraplu gezien?",
+        "S3: Hoe ziet hij eruit?",
+        "S4: Hij is groot en paars.",
+        "S3: Nee, sorry. Ik heb geen grote, paarse paraplu gezien.",
+        "S1: Ik wel. Hij ligt achter je bureau.",
+        "S4: Oh, ik zie hem. Bedankt! Hé, ik ga snel weer. Groetjes!",
+        "S1 en S3: Groetjes!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 59,
+      "title": "Gesprek 3",
+      "lines": [
+        "S1: \u0007Nou nou, dat was niet echt een leuke vergadering. De nieuwe baas is wel streng. We",
+        "moeten hem zelfs ‘meneer’ Willemsen noemen. Dat heb ik nog nooit meegemaakt!",
+        "S3: \u0007Ja, zeg dat wel. Hij praatte zo hard en hij keek zo kwaad. Ik denk niet dat ‘meneer’",
+        "Willemsen veel geduld heeft.",
+        "S1: Ik mis onze oude baas nu al.",
+        "S3: \u0007Ik ook. Met ‘meneer’ Lamers kon je altijd lachen. Helaas heeft Max een andere baan.",
+        "Misschien moet ik ook maar op zoek gaan.",
+        "S1: Stil! Daar komt hij!",
+        "S1 en S3: Goedemorgen, meneer Willemsen."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 60,
+      "title": "Gesprek 4",
+      "lines": [
+        "S4: Wat ben jij laat!",
+        "S2: Ja, sorry. Heeft Willemsen gezien dat ik niet op tijd was?",
+        "S4: Nee! Je hebt geluk gehad. Wat is er aan de hand?",
+        "S2: Wat ben jij nieuwsgierig.",
+        "S4: Oh, sorry hoor.",
+        "S2: Nee, geeft niks. Ik voel me gewoon rot. Mijn relatie is voorbij.",
+        "S4: Wat? Oh nee, Jonathan. Wat erg.",
+        "S2: \u0007Ja, dit weekend is het geknald. Ik voel me heel somber, verdrietig, boos, kwaad, in de war.",
+        "S4: Ja, dat snap ik toch. Zullen we in de pauze even gaan wandelen? Even praten?",
+        "S2: Is goed. Maar nu moet ik echt aan het werk.",
+        "S4: Sterkte!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 61,
+      "title": "Gesprek 5",
+      "lines": [
+        "S4: Heb je een leuk weekend gehad?",
+        "S1: Ja!",
+        "S4: Zo, jij klinkt enthousiast.",
+        "S1: Zeker! Ik heb alleen maar leuke, ontspannende dingen gedaan.",
+        "S4: Vertel.",
+        "S1: \u0007Vrijdag heb ik een fantastische band gezien. Ik kende ze niet maar ze waren echt gewel-",
+        "dig. Ik kan zo genieten van mensen met passie, die leven voor muziek. En zondag ben ik",
+        "met Hanna en de kinderen naar een pretpark geweest.",
+        "S4: Welk pretpark?",
+        "S1: \u0007De Efteling. Timo en Stine hadden zo’n plezier. Op een gegeven moment zaten ze in een",
+        "spannende attractie en gingen ze elke keer omhoog en omlaag. En maar lachen. Ze waren",
+        "ook helemaal niet bang. Andere kinderen moesten huilen, maarre niet mijn kinderen.",
+        "S4: Ik hoor het al, hier spreekt een trotse papa.",
+        "S1: Zeker weten."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 62,
+      "title": null,
+      "lines": [
+        "S3: Ik heb een nieuwe vriend.",
+        "S2: Hoe ziet hij eruit?",
+        "S3: Hij is heel lang. Hij heeft donker haar en een baard. Hij ziet er goed uit. Hij is knap.",
+        "S2: Hoe is hij?",
+        "S3: Hij is heel lief en slim."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 63,
+      "title": null,
+      "lines": [
+        "S1: Ik heb een nieuwe baas.",
+        "S4: Hoe is hij?",
+        "S1: Zij is erg streng. Ze is niet aardig en ze praat heel hard.",
+        "S4: Hoe ziet ze eruit?",
+        "S1: Ze is lang en mager en ze ziet er altijd boos uit."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 64,
+      "title": null,
+      "lines": [
+        "S2: Mijn eigen auto is kapot. De garage heeft me een andere auto gegeven.",
+        "S4: Hoe ziet hij eruit?",
+        "S2: Hij is oud en klein en paars. Hij is lelijk.",
+        "S4: Hoe vind je hem?",
+        "S2: Ik vind de auto niet handig. Hij is te klein."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 65,
+      "title": null,
+      "lines": [
+        "S1: Goedemiddag. Kan ik u helpen?",
+        "S2: Ja, mijn broek past niet goed. Ik zoek een ding om mijn broek omhoog te houden.",
+        "S1: Bedoelt u een riem?",
+        "S2: Ja! Verkoopt u riemen?",
+        "S1: Ja, ik heb hier een mooie, zwarte riem. Die past goed bij uw broek en uw blouse."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 66,
+      "title": null,
+      "lines": [
+        "S3: Ik heb gisteren een boek gelezen.",
+        "S4: Waar ging het boek over?",
+        "S3: Het ging over twee mensen. Ze zijn verliefd maar hun relatie gaat voorbij.",
+        "S4: Wat vond je van het boek?",
+        "S3: \u0007Ik vond het een leuk, spannend en romantisch boek hoewel het eerste hoofdstuk een",
+        "beetje saai was.",
+        "S3: \u0007Ik heb dit weekend aan een hardloopwedstrijd meegedaan.",
+        "\u0007De wedstrijd was in Utrecht. Hij begon om half een. Om drie uur was ik klaar. Er deden 600",
+        "hardlopers mee en ik ben tachtigste geworden.",
+        "S1: Wat vond je van de wedstrijd?",
+        "S3: \u0007Nou, de winnaar was veel beter dan de rest. Ik vond de wedstrijd niet zo spannend hoewel",
+        "ik wel mijn best heb gedaan. Er waren ook te veel hardlopers. Het was te druk. Ik vond het",
+        "niet echt leuk.",
+        "S2: Ik ben dit weekend verhuisd.",
+        "\u0007Mijn twee beste vrienden hebben geholpen. Op zaterdag hebben we eerst al mijn",
+        "spullen ingepakt. Op zondag hebben we al mijn spullen naar mijn nieuwe huis in Den",
+        "Haag gebracht.",
+        "S4: Hoe was de verhuizing?",
+        "S2: \u0007De verhuizing was spannend omdat ik in Den Haag ging wonen en omdat ik die stad niet",
+        "goed ken. Ik was heel zenuwachtig. Ik en mijn twee vrienden hebben ook hard gewerkt.",
+        "De verhuizing was niet makkelijk hoewel het met mijn vrienden heel gezellig was."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 67,
+      "title": "Voorbeeldverhaal 1",
+      "lines": [
+        "Ik ga iets over mijn buurman vertellen.",
+        "Mijn buurman heet Hans.",
+        "Hans is 56.",
+        "Hij is getrouwd met Marieke en ze hebben 2 kinderen.",
+        "Hans is een fantastische man want hij helpt mij en mijn familie heel vaak.",
+        "Na onze verhuizing kwam Hans op bezoek.",
+        "Hij had een lekkere taart meegenomen omdat hij wilde dat wij ons fijn voelden",
+        "in de buurt.",
+        "Hans stelde ons voor aan de andere buren.",
+        "Toen ik nog geen auto had, bracht hij mij en mijn vrouw soms naar het",
+        "gemeentehuis.",
+        "Hij bracht ons ook naar IKEA om nieuwe meubels voor ons huis te kopen.",
+        "Hij helpt onze zoon met zijn huiswerk.",
+        "En mij helpt hij soms ook met mijn huiswerk.",
+        "Hans is de beste buurman van de wereld.",
+        "Dat was mijn verhaal.",
+        "Hebben jullie vragen?",
+        "Voorbeeldverhaal 2:",
+        "Mijn verhaal gaat over mijn studentenhuis.",
+        "Het adres van mijn studentenhuis is Valklaan 23.",
+        "Mijn studentenhuis is een groot, oud gebouw.",
+        "Het is gebouwd in 1902.",
+        "Er wonen zes studenten in het huis. Ik ben één van de zes studenten.",
+        "Er wonen drie meisjes en drie jongens in het huis.",
+        "Vijf studenten zijn Nederlands.",
+        "Alleen ik kom uit het buitenland.",
+        "Eerst sprak ik Engels met de andere studenten maar ik probeer steeds vaker",
+        "Nederlands te spreken.",
+        "We hebben allemaal een grote kamer.",
+        "Er is ook een grote keuken van 20 m2.",
+        "Er zijn twee badkamers en twee wc’s.",
+        "Dat is fijn als je met zes personen in een huis woont.",
+        "Het is erg gezellig in ons studentenhuis.",
+        "We koken en eten drie keer in de week samen.",
+        "Elke maand is er een huisfeest.",
+        "Dan komen al onze vrienden op bezoek.",
+        "Ik ben klaar met mijn verhaal.",
+        "Hebben jullie nog vragen?"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 27,
+      "title": null,
+      "lines": [
+        "1. Mijn nieuwe collega ziet er oud uit. Ik denk dat hij 57 is.",
+        "2. Mijn dochter van 18 is een mooi en lief meisje.",
+        "3. \u0007Ik heb een paarse paraplu gekocht. Hij is heel groot. Hij kan goed tegen harde wind. Hij was niet",
+        "goedkoop. Hij kostte 80 euro.",
+        "4. \u0007Ik vind dat gebouw heel erg mooi. Het is gebouwd in 1902. Het heeft 9 verdiepingen. Op de eerste 4",
+        "verdiepingen is een museum. In de rest van het gebouw zijn kantoren.",
+        "5. \u0007Mijn bank is de ASN bank. Op mijn bankrekening staat 1231 euro. Het nummer van mijn rekening is",
+        "NL21 ASNB0716556124."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 28,
+      "title": null,
+      "lines": [
+        "1. Het nieuwe T-shirt van mijn vriend is paars en geel. Ik vind deze combinatie niet zo mooi.",
+        "2. \u0007Ik was trots op het rapport van mijn zoon. Hij had allemaal goede cijfers gehaald. Hij had ook erg hard",
+        "gewerkt.",
+        "3. \u0007Moet ik mijn vriendin beschrijven? Zij ziet er altijd leuk uit. Ze draagt mooie kleren. Haar haar is lang en",
+        "donker. Ze heeft groene ogen. Ik vind haar een lieve vrouw. Ze is ook erg slim en nieuwsgierig.",
+        "4. \u0007Ik heb een groot probleem. Ik kan de contributie van de voetbalclub niet betalen want hij is veel te",
+        "hoog.",
+        "5. \u0007Ik ben gisteren in het Kröller-Möller museum geweest. Ik vind het een schitterend museum. Ik hou van",
+        "kunst en van natuur. Dat vind je daar allebei. Mijn vriend vond de kunst niet zo interessant. Hij vond de",
+        "natuur wel fantastisch."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 29,
+      "title": null,
+      "lines": [
+        "1. reservering · 6. bepalen",
+        "2. bevestiging · 7. beschrijven",
+        "3. bedanken · 8. ontvangen",
+        "4. vreemde · 9. voorbij",
+        "5. slimme · 10. paraplu"
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}

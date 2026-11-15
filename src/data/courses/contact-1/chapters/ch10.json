@@ -1,0 +1,697 @@
+{
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "bedoelen",
+          "english": "to mean",
+          "other": null,
+          "note": "Wat bedoel je? What do you mean?"
+        },
+        {
+          "dutch": "gaan over",
+          "english": "to be about",
+          "other": null,
+          "note": "De tekst gaat over het leven van Jolien. The text is about Jolien’s life."
+        },
+        {
+          "dutch": "lopen",
+          "english": "to walk",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "noemen",
+          "english": "to name",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "openen",
+          "english": "to open",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "spelen",
+          "english": "to play",
+          "other": null,
+          "note": "Ik speel piano. I play the piano."
+        }
+      ]
+    },
+    {
+      "group": "speciale verba",
+      "entries": [
+        {
+          "dutch": "meenemen (ik neem … mee)",
+          "english": "to take along (I take along)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "opstaan (ik sta … op)",
+          "english": "to get up (I get up)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "schoonmaken (ik maak … schoon)",
+          "english": "to clean (I clean)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de bioscoop (de bioscopen)",
+          "english": "cinema (cinemas)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de buur (de buren)",
+          "english": "neighbour (neighbours)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de buurman (de buurmannen)",
+          "english": "neighbour (neighbours) (m)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de buurvrouw (de buurvrouwen)",
+          "english": "neighbour (neighbours) (f)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de fiets (de fietsen)",
+          "english": "bicycle (bicycles)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de groep (de groepen)",
+          "english": "group (groups)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het groepje (de groepjes)",
+          "english": "small group (small groups)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de hobby (de hobby’s)",
+          "english": "hobby (hobbies)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de kantine (de kantines)",
+          "english": "canteen (canteens)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de krant (de kranten)",
+          "english": "newspaper (newspapers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de muziek (-)",
+          "english": "music",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de pauze (de pauzes)",
+          "english": "break (breaks)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het concert (de concerten)",
+          "english": "concert (concerts)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het kantoor (de kantoren)",
+          "english": "office (offices)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het kwartier (de kwartieren)",
+          "english": "quarter of an hour (quarters of an hour)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het kwartiertje (de kwartiertjes)",
+          "english": "(about) a quarter of an hour (quarters of an hour)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het nieuws (-)",
+          "english": "news",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het verhaal (de verhalen)",
+          "english": "story (stories)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het werk (-)",
+          "english": "work",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "aan het begin van",
+          "english": "at the beginning of",
+          "other": null,
+          "note": "Aan het begin van de middag loop ik naar de bakker. In the early afternoon I walk to the bakery."
+        },
+        {
+          "dutch": "naar huis gaan",
+          "english": "to go home",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het huishouden doen",
+          "english": "to do the housekeeping",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het ontbijt maken",
+          "english": "to prepare breakfast",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de rest van",
+          "english": "the rest of",
+          "other": null,
+          "note": "De rest van de dag doe ik weinig. I don’t do much the rest of the day."
+        },
+        {
+          "dutch": "naar de stad gaan",
+          "english": "to go into town",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "in de stad zijn",
+          "english": "to be in town",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "thuis zijn",
+          "english": "to be home",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "tijd kosten",
+          "english": "to take time",
+          "other": null,
+          "note": "Dat kost veel tijd. That takes a lot of time."
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "belangrijk (belangrijke)",
+          "english": "important",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "laat (late)",
+          "english": "late",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "saai (saaie)",
+          "english": "boring",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "volgend (volgende)",
+          "english": "next",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "volgend jaar, volgende week",
+          "english": "next year, next week",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vrij (vrije)",
+          "english": "free",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vrije tijd",
+          "english": "time off",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "al jaren",
+          "english": "for years",
+          "other": null,
+          "note": "Dat is al jaren een hobby van me. That has been a hobby of mine for years."
+        },
+        {
+          "dutch": "als",
+          "english": "when",
+          "other": "if",
+          "note": "Wat doe je als je thuiskomt? What do you do when you come home?"
+        },
+        {
+          "dutch": "altijd",
+          "english": "always",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "dan",
+          "english": "then",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "eerder",
+          "english": "earlier",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "eerst",
+          "english": "first",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "meestal",
+          "english": "usually",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "minimaal",
+          "english": "at least",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nooit",
+          "english": "never",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ongeveer",
+          "english": "approximately",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "soms",
+          "english": "sometimes",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ten slotte",
+          "english": "finally",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vaak",
+          "english": "often",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "vervolgens",
+          "english": "then, next",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "weer",
+          "english": "again",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Leer ook:",
+          "english": "Also learn:",
+          "other": null,
+          "note": "– de preposities (zie p. 102) – the prepositions (see p. 102)"
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 59,
+      "title": null,
+      "lines": [
+        "Hoi! Mijn naam is Ruud. Ik ben student aan de Radboud Universiteit in Nijmegen. Ik studeer",
+        "geneeskunde. Ik zal iets vertellen over mijn dag.",
+        "Doordeweeks sta ik meestal om acht uur op. Eerst douche ik en daarna ga ik ontbijten. Ik eet het liefst",
+        "yoghurt met honing of een broodje met kaas.",
+        "Dan is het tijd voor mijn studie. Ik moet altijd om negen uur beginnen. Ik ga vaak met de fiets naar de",
+        "universiteit, maar soms pak ik de bus.",
+        "Ik haal een kopje koffie in de kantine en vervolgens ga ik naar de les. Ik heb les op maandag, dinsdag,",
+        "donderdag en vrijdag. Op woensdag ga ik niet naar de universiteit, maar dan studeer ik thuis. Ik moet",
+        "veel boeken lezen en ik moet essays schrijven.",
+        "’s Middags ga ik naar huis. Dan doe ik boodschappen en daarna ga ik koken. Ik woon in een",
+        "studentenhuis, dus we koken vaak samen. Dat is heel gezellig! Ik doe nooit boodschappen voor de hele",
+        "week. Ik doe liever elke dag snel even de boodschappen voor die dag, want ik weet nooit wat mijn",
+        "plannen voor de rest van de week zijn.",
+        "Ten slotte ga ik om elf uur naar bed. Ik ga niet zo laat naar bed, want ik moet de volgende dag al om",
+        "acht uur opstaan.",
+        "In het weekend is mijn dag heel anders. Ik heb het doordeweeks heel druk met mijn studie, maar",
+        "gelukkig heb ik in het weekend genoeg vrije tijd.",
+        "In mijn vrije tijd doe ik graag leuke dingen met mijn vrienden. Ik houd van films, dus in het weekend",
+        "gaan we soms naar de bioscoop. Ik houd ook van muziek. Ik luister graag naar klassieke muziek en ik kan",
+        "heel goed piano spelen. Ik heb veel hobby’s, maar mijn grootste hobby is slapen. Ik wil het liefst de hele",
+        "zondag slapen!"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 60,
+      "title": null,
+      "lines": [
+        "bedrijf",
+        "bedankt",
+        "begin",
+        "beroep",
+        "betaal",
+        "gesprek",
+        "getal",
+        "getrouwd",
+        "gewicht",
+        "gezin",
+        "goede",
+        "kleine",
+        "oude",
+        "groente",
+        "code",
+        "appel",
+        "cirkel",
+        "dubbel",
+        "lepel",
+        "tafel",
+        "bakker",
+        "jammer",
+        "moeder",
+        "nummer",
+        "vader",
+        "biertje",
+        "broodje",
+        "groepje",
+        "kopje",
+        "plaatje"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 52,
+      "title": null,
+      "lines": [
+        "Dialoog 1:",
+        "Journalist: Dag mevrouw, mag ik u iets vragen?",
+        "Vrouw: Natuurlijk.",
+        "Journalist:  Ik schrijf een artikel over de culturele verschillen in eetgewoontes.",
+        "Vrouw: Ah, interessant.",
+        "Journalist: Wat eet en drinkt u meestal op een dag?",
+        "Vrouw:  Ik begin ’s morgens met een goed ontbijt. Ik neem altijd twee boterhammen, één met",
+        "kaas en één met jam. En een kopje thee. En dan natuurlijk ook nog een kop koffie. In het",
+        "weekend eet ik soms croissantjes en soms drink ik dan ook een glas verse jus d’orange.",
+        "Journalist: Juist ja. En tussen de middag?",
+        "Vrouw:  De lunch. Tja, dat is niet altijd hetzelfde. Op mijn werk eet ik altijd een broodje en een kom",
+        "soep in de kantine. Thuis eet ik meestal twee boterhammen met vlees of kaas. Ik drink",
+        "vaak een glas melk bij de lunch. O ja, en soms bak ik een ei.",
+        "Journalist: Dus u eet nooit warm tussen de middag?",
+        "Vrouw:  Nee, dat doe ik ’s avonds. Ik kook meestal iets makkelijks. Vlees, aardappelen en groente.",
+        "Toetjes eet ik heel soms, eigenlijk alleen in het weekend. Het liefst chocolademousse.",
+        "Ik ben dol op chocolademousse!",
+        "Journalist: Hartelijk dank, mevrouw.",
+        "Vrouw: Graag gedaan en succes met uw artikel!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 53,
+      "title": null,
+      "lines": [
+        "Dialoog 2:",
+        "Journalist: Dag meneer, mag ik u wat vragen?",
+        "Man: Waar gaat het over?",
+        "Journalist: Ik schrijf een artikel over eetgewoontes.",
+        "Man: O, maar ik kom niet uit Nederland, ik kom uit Italië.",
+        "Journalist: Ja, maar ik schrijf juist over de culturele verschillen in eetgewoontes.",
+        "Man: Oké. Nou, vraagt u maar, dan.",
+        "Journalist: Wat eet en drinkt u meestal op een dag?",
+        "Man:  Nou, ik drink altijd koffie met melk. Soms eet ik nog een zoet broodje of wat koekjes. Maar",
+        "ik ontbijt niet zoals de Nederlanders, want ik eet nooit brood met kaas bij het ontbijt!",
+        "Journalist: En met de lunch?",
+        "Man:  Ah, lunchen. Dat is de beste maaltijd van de dag. Ik eet altijd een gerecht met pasta.",
+        "En meestal eet ik daarna vlees of vis met groente. Ik drink ook altijd een glas wijn bij de",
+        "lunch. Soms eet ik daarna nog vers fruit. Dat is doordeweeks. In het weekend is de lunch",
+        "nog veel groter.",
+        "Journalist: U eet dus warm tussen de middag?",
+        "Man: Ja, en ’s avonds ook. Ik eet dus twee keer warm.",
+        "Journalist: Dank u wel, meneer.",
+        "Man: Graag gedaan!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 54,
+      "title": null,
+      "lines": [
+        "1. andere",
+        "2. donderdag",
+        "3. drinken",
+        "4. kopje",
+        "5. volgende",
+        "6. zaterdag",
+        "7. zullen"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 55,
+      "title": null,
+      "lines": [
+        "Zullen we …?",
+        "Zullen we donderdag …",
+        "Zullen we donderdag een … ?",
+        "Zullen we donderdag een kopje koffie …?",
+        "Zullen we donderdag een kopje koffie drinken?",
+        "Heb je …?",
+        "Heb je volgende week … ?",
+        "Heb je volgende week zaterdag … ?",
+        "Heb je volgende week zaterdag iets te …?",
+        "Heb je volgende week zaterdag iets te doen?",
+        "Dan kan ik niet. Een …",
+        "Dan kan ik niet. Een andere …",
+        "Dan kan ik niet. Een andere keer misschien."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 56,
+      "title": null,
+      "lines": [
+        "Opzij, opzij (lied van Herman van Veen)"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 57,
+      "title": null,
+      "lines": [
+        "Ik en mijn gitaar (lied van Jan Smit)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choice",
+      "id": "tb-10-auto-1",
+      "instruction": "Kies het juiste antwoord.",
+      "question": "Oefening bij hoofdstuk 10: Een dag uit het leven van ....",
+      "options": [
+        "Juist",
+        "Onjuist"
+      ],
+      "answerIndex": 0,
+      "explanation": ""
+    }
+  ],
+  "workbookExercises": [],
+  "grammar": [
+    {
+      "id": "ch10-frequentiewoorden",
+      "title": "Frequentiewoorden",
+      "paragraphs": [],
+      "examples": [
+        "Hij lust geen koffie, dus hij drinkt nooit koffie.",
+        "Mijn zus eet bijna iedere dag een appel, maar soms eet ze een peer.",
+        "Ik houd van live muziek, dus ik ga vaak naar een concert.",
+        "Ik sta meestal vroeg op. Alleen op zondag slaap ik uit.",
+        "Ik heb geen auto, dus ik ga altijd met de bus."
+      ]
+    },
+    {
+      "id": "ch10-sequentiewoorden",
+      "title": "Sequentiewoorden",
+      "paragraphs": [],
+      "examples": [
+        "Ik doe eerst mijn computer aan.",
+        "Ik maak dan koffie en thee.",
+        "Ik eet daarna een broodje en wat salade.",
+        "Ik zit vervolgens de rest van de middag achter de balie.",
+        "Ik controleer tot slot / ten slotte de agenda's van de managers."
+      ]
+    },
+    {
+      "id": "ch10-preposities",
+      "title": "Preposities",
+      "paragraphs": [],
+      "examples": [
+        "Ik doe aan fitness.",
+        "Ik sport samen met mijn buurvrouw.",
+        "Ik help de student met zijn huiswerk.",
+        "Het interview staat in de nieuwsbrief.",
+        "Het interview staat op internet.",
+        "Ik let goed op de aanbiedingen.",
+        "Ik heb geen tijd om boodschappen te doen.",
+        "Het artikel gaat over het leven van Jolien.",
+        "Ik ga graag naar de bioscoop.",
+        "Dat is een hobby van me.",
+        "Aan het begin van de middag neem ik pauze.",
+        "De rest van de middag zit ik achter de balie."
+      ]
+    },
+    {
+      "id": "ch10-vrije-tijd",
+      "title": "Vrije tijd",
+      "paragraphs": [
+        "doen aan + sport",
+        "spelen + muziekinstrument",
+        "bij de meeste sporten, sport = verbum",
+        "Woordvolgorde: hoofdzin met inversie",
+        "adverbium (tijd)",
+        "verbum",
+        "rest",
+        "subject"
+      ],
+      "examples": [
+        "Ik doe aan fitness.",
+        "Ik speel piano.",
+        "Ik voetbal, ik tennis."
+      ]
+    },
+    {
+      "id": "ch10-eerst",
+      "title": "Eerst",
+      "paragraphs": [
+        "doe",
+        "mijn computer aan."
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch10-dan",
+      "title": "Dan",
+      "paragraphs": [
+        "koffie en thee.",
+        "maak"
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch10-daarna",
+      "title": "Daarna",
+      "paragraphs": [
+        "eet",
+        "een broodje en wat salade."
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch10-zit",
+      "title": "Zit",
+      "paragraphs": [
+        "ik",
+        "de rest van de middag achter de balie."
+      ],
+      "examples": []
+    },
+    {
+      "id": "ch10-ten-slotte-tot-slot",
+      "title": "Ten slotte / Tot slot",
+      "paragraphs": [
+        "controleer",
+        "de agenda's van de managers.",
+        "Klanken, spelling en uitspraak",
+        "bedankt, getrouwd",
+        "goede, appel, bakker, biertje."
+      ],
+      "examples": [
+        "De klemtoon is het accent in een woord. De klemtoon valt op één syllabe.",
+        "Op de sjwa valt nooit de klemtoon.",
+        "Voorbeelden van sjwa in 1º syllabe (en de klemtoon dus op de 2* syllabe):",
+        "Voorbeelden van sjwa in 2e syllabe (en de klemtoon dus op de 1ª syllabe):"
+      ]
+    }
+  ],
+  "number": 10,
+  "title": "Een dag uit het leven van ..."
+}

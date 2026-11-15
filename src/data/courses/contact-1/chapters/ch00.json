@@ -1,0 +1,574 @@
+{
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "Herhaal. (herhalen)",
+          "english": "Repeat.",
+          "other": "(to repeat)",
+          "note": null
+        },
+        {
+          "dutch": "Hoor. (horen)",
+          "english": "Hear.",
+          "other": "(to hear)",
+          "note": null
+        },
+        {
+          "dutch": "Kijk. (kijken naar)",
+          "english": "Look.",
+          "other": "(to look at)",
+          "note": null
+        },
+        {
+          "dutch": "Kies. (kiezen)",
+          "english": "Choose.",
+          "other": "(to choose)",
+          "note": null
+        },
+        {
+          "dutch": "Lees. (lezen)",
+          "english": "Read.",
+          "other": "(to read)",
+          "note": null
+        },
+        {
+          "dutch": "Luister. (luisteren naar)",
+          "english": "Listen.",
+          "other": "(to listen to)",
+          "note": null
+        },
+        {
+          "dutch": "Praat. (praten met, over)",
+          "english": "Talk.",
+          "other": "(to talk to, about)",
+          "note": null
+        },
+        {
+          "dutch": "Schrijf. (schrijven)",
+          "english": "Write.",
+          "other": "(to write)",
+          "note": null
+        },
+        {
+          "dutch": "Spreek. (spreken met, over)",
+          "english": "Speak.",
+          "other": "(to speak with, about)",
+          "note": null
+        },
+        {
+          "dutch": "Typ. (typen)",
+          "english": "Type.",
+          "other": "(to type)",
+          "note": null
+        },
+        {
+          "dutch": "Zeg. (zeggen)",
+          "english": "Say.",
+          "other": "(to say)",
+          "note": null
+        },
+        {
+          "dutch": "Zoek. (zoeken)",
+          "english": "Find.",
+          "other": "(to find)",
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de bladzijde (de bladzijden/de bladzijdes)",
+          "english": "page (pages)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de cursist (de cursisten)",
+          "english": "student (students)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de docent (de docenten)",
+          "english": "teacher (teachers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de dubbele punt (de dubbele punten)",
+          "english": "colon (colons)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de komma (de komma’s)",
+          "english": "comma (commas)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de les (de lessen)",
+          "english": "class (classes)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de oefening (de oefeningen)",
+          "english": "exercise (exercises)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de pagina (de pagina’s)",
+          "english": "page (pages)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de punt (de punten)",
+          "english": "full stop (full stops)",
+          "other": "dot (dots)",
+          "note": null
+        },
+        {
+          "dutch": "de taal (de talen)",
+          "english": "language (languages)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de tekst (de teksten)",
+          "english": "text (texts)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de vraag (de vragen)",
+          "english": "question (questions)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de zin (de zinnen)",
+          "english": "sentence (sentences)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het antwoord (de antwoorden)",
+          "english": "answer (answers)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het boek (de boeken)",
+          "english": "book (books)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het bord (de borden)",
+          "english": "(black)board ((black)boards)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het hoofdstuk (de hoofdstukken)",
+          "english": "chapter (chapters)",
+          "other": "unit (units)",
+          "note": null
+        },
+        {
+          "dutch": "het plaatje (de plaatjes)",
+          "english": "picture (pictures)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het uitroepteken (de uitroeptekens)",
+          "english": "exclamation mark (exclamation marks)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het vraagteken (de vraagtekens)",
+          "english": "question mark (question marks)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het woord (de woorden)",
+          "english": "word (words)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "correct",
+          "english": "correct",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "fout",
+          "english": "wrong",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "goed",
+          "english": "right",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ja",
+          "english": "yes",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "juist",
+          "english": "correct",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "nee",
+          "english": "no",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "niet",
+          "english": "not",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "niet",
+          "english": "correct incorrect",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "niet waar",
+          "english": "false",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "onjuist",
+          "english": "incorrect",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "waar",
+          "english": "true",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wel",
+          "english": "yes",
+          "other": "– (opposite of not)",
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "zinnen en vragen",
+      "entries": [
+        {
+          "dutch": "Wat betekent … ?",
+          "english": "What does … mean?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dat betekent …",
+          "english": "It means …",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Wat is … in het Nederlands?",
+          "english": "What is … in Dutch?",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Dat is …",
+          "english": "That’s …",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ik begrijp het!",
+          "english": "I understand!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ik begrijp het niet.",
+          "english": "I don’t understand.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ik ben klaar!",
+          "english": "I am finished!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ik heb een vraag.",
+          "english": "I have a question.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ik snap het!",
+          "english": "I understand!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ik snap het niet.",
+          "english": "I don’t understand.",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ik weet het!",
+          "english": "I know!",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "Ik weet het niet.",
+          "english": "I don’t know.",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 1,
+      "title": "De instructies",
+      "lines": [
+        "Herhaal. Herhalen. Herhaal de oefening.",
+        "Hoor. Horen. Welk woord hoor je?",
+        "Kies. Kiezen. Kies het juiste woord.",
+        "Kijk. Kijken naar. Kijk naar de foto.",
+        "Kruis aan. Aankruisen. Kruis het juiste woord aan.",
+        "Lees. Lezen. Lees de tekst.",
+        "Luister. Luisteren naar. Luister naar de dialoog.",
+        "Omcirkel. Omcirkelen. Omcirkel het juiste woord.",
+        "Praat. Praten met, over. Praat met cursist A over het weekend.",
+        "Schrijf. Schrijven. Schrijf een e-mail.",
+        "Spreek. Spreken met, over. Spreek met cursist A over het weekend.",
+        "Trek een lijn. Een lijn trekken van … naar. Trek een lijn van A naar B.",
+        "Typ. Typen. Typ de woorden.",
+        "Vul in. Invullen. Vul het formulier in.",
+        "Zeg. Zeggen. Zeg de getallen.",
+        "Zeg na. Nazeggen. Je hoort: ‘boek’ . Zeg na. Zeg ook: ‘boek’ .",
+        "Zoek. Zoeken. Zoek de verba in de tekst."
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 2,
+      "title": "De woorden",
+      "lines": [
+        "het boek",
+        "het hoofdstuk",
+        "de tekst",
+        "de oefening. Oefening 1.",
+        "de pagina",
+        "de bladzijde",
+        "de zin",
+        "het woord",
+        "de vraag",
+        "het antwoord",
+        "het plaatje",
+        "de les",
+        "het bord",
+        "de cursist",
+        "de docent",
+        "De taal",
+        "Wat betekent ‘het plaatje’? Dat betekent ‘the picture’ .",
+        "Wat betekent ‘de oefening’? Dat betekent ‘the exercise ’ .",
+        "Wat is ‘an example’ in het Nederlands? Dat is ‘een voorbeeld’ .",
+        "Wat is ‘chapter’ in het Nederlands? Dat is ‘hoofdstuk’ .",
+        "Ik heb een vraag.",
+        "Ik begrijp het niet.",
+        "Ik weet het niet.",
+        "Ik begrijp het!",
+        "Ik weet het!",
+        "Ik ben klaar!",
+        "ja",
+        "nee",
+        "wel",
+        "niet",
+        "goed",
+        "fout",
+        "juist",
+        "onjuist",
+        "waar",
+        "niet waar",
+        "de punt",
+        "de komma",
+        "het vraagteken",
+        "het uitroepteken",
+        "de dubbele punt"
+      ]
+    },
+    {
+      "book": "tb",
+      "track": 3,
+      "title": "Minidialogen",
+      "lines": [
+        "1.",
+        "A: Hallo!",
+        "B: Hoi!",
+        "A: Hoe gaat het?",
+        "B: Goed! En met jou?",
+        "A: Ook goed!",
+        "2.",
+        "A: Mag ik een koffie, alstublieft?",
+        "B: Natuurlijk!",
+        "A: Dank u wel.",
+        "3.",
+        "A: Hier is het boek. Alsjeblieft!",
+        "B: Dank je wel.",
+        "A: Graag gedaan.",
+        "4.",
+        "A: Pardon, mag ik iets vragen?",
+        "B: Ja, natuurlijk!",
+        "5.",
+        "A: Sorry!",
+        "B: Geen probleem! Dat geeft niks!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 1,
+      "title": null,
+      "lines": [
+        "1. Praat",
+        "2. Lees",
+        "3. Spreek",
+        "4. Praat",
+        "5. Luister",
+        "6. Schrijf",
+        "7. Kijk"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 2,
+      "title": null,
+      "lines": [
+        "1. Luister",
+        "2. Schrijf",
+        "3. Kijk",
+        "4. Lees",
+        "5. Luister",
+        "6. Spreek",
+        "7. Praat",
+        "8. Luister",
+        "9. Kijk",
+        "10. Lees",
+        "11. Lees",
+        "12. Spreek"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 3,
+      "title": null,
+      "lines": [
+        "1. Pak je boek en lees de tekst.",
+        "2. Schrijf het antwoord op.",
+        "3. Luister allemaal even!",
+        "4. Pak je boek en kijk naar het plaatje op pagina 3.",
+        "5. Praat met je medecursist.",
+        "6. Luister naar de dialoog.",
+        "7. Schrijf een e-mail aan je vriend.",
+        "8. Spreek met je medecursist."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 4,
+      "title": null,
+      "lines": [
+        "1. Boek",
+        "2. Oefening",
+        "3. Plaatje",
+        "4. Bladzijde",
+        "5. Pagina",
+        "6. Hoofdstuk"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 5,
+      "title": null,
+      "lines": [
+        "1. Pak je boek.",
+        "2. Ga naar pagina drie.",
+        "3. Kijk naar het plaatje.",
+        "4. Lees oefening drie.",
+        "5. Ga naar hoofdstuk drie.",
+        "6. Praat over het plaatje.",
+        "7. Lees de tekst op bladzijde drie.",
+        "8. Herhaal hoofdstuk drie."
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 6,
+      "title": null,
+      "lines": [
+        "1. Pardon meneer!",
+        "2. Ik heb een vraag.",
+        "3. Wat is example in het Nederlands?",
+        "4. Dat is voorbeeld.",
+        "5. Aha! Bedankt!",
+        "6. Pardon mevrouw, ik heb een vraag.",
+        "7. Ik begrijp het niet.",
+        "8. Wat betekent hoofdstuk?",
+        "9. Dat betekent chapter.",
+        "10. Ik begrijp het! Bedankt!"
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": [
+    {
+      "id": "ch00-overzicht",
+      "title": "Overzicht hoofdstuk 0",
+      "paragraphs": [
+        "Hoofdstuk 0: Introductie. Dit overzicht bevat de belangrijkste grammaticale punten en woordenschat van dit hoofdstuk."
+      ],
+      "examples": []
+    }
+  ],
+  "number": 0,
+  "title": "Introductie"
+}

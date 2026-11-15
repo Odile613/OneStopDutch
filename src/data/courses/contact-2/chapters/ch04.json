@@ -1,0 +1,376 @@
+{
+  "number": 4,
+  "title": "",
+  "vocab": [
+    {
+      "group": "verba",
+      "entries": [
+        {
+          "dutch": "meebrengen (we brengen … mee)",
+          "english": "to bring (along) (we bring, we are bringing)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "opruimen (we ruimen … op)",
+          "english": "to tidy up (we tidy up, we are tidying up)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "overleggen",
+          "english": "to consult, to discuss",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "parkeren",
+          "english": "to park",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "plaatsvinden (het vindt … plaats)",
+          "english": "to take place (it takes place, it is taking place)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "regelen",
+          "english": "to arrange",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "slagen voor (ze is geslaagd voor)",
+          "english": "to pass (she passed)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "uitnodigen (we nodigen … uit)",
+          "english": "to invite (we invite, we are inviting)",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "versieren",
+          "english": "to decorate",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "zakken voor (ze is gezakt voor)",
+          "english": "to fail (she failed)",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "substantieven",
+      "entries": [
+        {
+          "dutch": "de ballon (de ballonnen)",
+          "english": "balloon",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de borrel (de borrels)",
+          "english": "get-together",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de diploma-uitreiking (de diploma-uitreikingen)",
+          "english": "graduation ceremony",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de drukte (-)",
+          "english": "crowd",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de frisdrank (-)",
+          "english": "soft drink",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de gast (de gasten)",
+          "english": "guest",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de leerling (de leerlingen)",
+          "english": "pupil, student",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de school (de scholen)",
+          "english": "school",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de middelbare school",
+          "english": "secondary school",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de schoonmaker (de schoonmakers)",
+          "english": "cleaner",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de slinger (de slingers)",
+          "english": "streamer",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de taakverdeling (de taakverdelingen)",
+          "english": "division of tasks",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de uitnodiging (de uitnodigingen)",
+          "english": "invitation",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de verzorger (de verzorgers)",
+          "english": "caregiver",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de zaal (de zalen)",
+          "english": "room",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "de feestzaal",
+          "english": "party room",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het budget (de budgetten)",
+          "english": "budget",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het nootje (de nootjes)",
+          "english": "nut",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het paar (-)",
+          "english": "couple",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "een paar tips",
+          "english": "a couple of tips",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het voordeel (de voordelen)",
+          "english": "advantage",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "het vwo (-)",
+          "english": "pre-university education",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "adjectieven",
+      "entries": [
+        {
+          "dutch": "aanwezig (aanwezige)",
+          "english": "present",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "geschikt (geschikte)",
+          "english": "suitable",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "ideaal (ideale)",
+          "english": "ideal",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "officieel (officiële)",
+          "english": "official",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "totaal (totale)",
+          "english": "total",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "andere woorden",
+      "entries": [
+        {
+          "dutch": "eigen",
+          "english": "own",
+          "other": null,
+          "note": "We mogen onze eigen slingers meebrengen. We can bring our own streamers."
+        },
+        {
+          "dutch": "extra",
+          "english": "extra",
+          "other": null,
+          "note": "We betalen niet extra voor de schoonmaker. We are not paying extra for the cleaner."
+        },
+        {
+          "dutch": "gauw",
+          "english": "soon",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "helaas",
+          "english": "unfortunately",
+          "other": null,
+          "note": null
+        },
+        {
+          "dutch": "wegens",
+          "english": "due to, because of",
+          "other": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "group": "vaste combinaties",
+      "entries": [
+        {
+          "dutch": "zo snel mogelijk",
+          "english": "as soon as possible honderdzevenenzeventig 177",
+          "other": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "transcripts": [
+    {
+      "book": "tb",
+      "track": 15,
+      "title": null,
+      "lines": [
+        "Marta: \u0007Hé Emma, gefeliciteerd. We zijn geslaagd, hoera! Het diploma is binnen! Tijd voor een",
+        "feestje!",
+        "Emma: \u0007Ha Marta, jij ook gefeliciteerd! … Goed zijn wij, hè! ……",
+        "Het is wel jammer dat Lisa gezakt is. Zij moet nu nog een jaar op deze school blijven.",
+        "Marta: Ja, dat is heel jammer voor haar. Echt vervelend. Zij is er ook niet vandaag, helaas. …",
+        "Maar ik heb een vraagje. Zullen wij samen een examenfeest geven?",
+        "Emma: Ja, leuk! Wanneer zullen we dat doen? En waar zullen we dat doen?",
+        "Marta: Ik wil het graag zo snel mogelijk doen en het liefst in een leuke feestzaal in de stad.",
+        "Emma: Is volgende week woensdag 10 juli een geschikte datum?",
+        "Marta: \u0007Ja, ik denk het wel. Er zijn veel feesten in de komende weken. Dus we moeten ons feest",
+        "wel snel regelen. Ken jij leuke zaaltjes?",
+        "Emma: \u0007Ja, er zijn in de stad een paar leuke goedkope zaaltjes. Zal ik ze even laten zien op inter-",
+        "net?",
+        "Marta: Prima. En zullen we ook even wat tips zoeken voor het organiseren van een examenfeest?",
+        "Emma: Goed idee!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 6,
+      "title": null,
+      "lines": [
+        "Bram: Hoi Anne, hoe is ‘t?",
+        "Anne: Hey Bram, goed. En met jou?",
+        "Bram: \u0007Prima. Ik geniet van de vrije tijd. Maar ik wil even met je overleggen over ons",
+        "examenfeest.",
+        "Anne: Goed idee. Wat heb je al gedaan?",
+        "Bram: Ik heb feestzaal De Drie Zussen gemaild voor een reservering.",
+        "Anne: Hebben zij al geantwoord?",
+        "Bram: Nee, nog niet.",
+        "Anne: Misschien moet je even bellen.",
+        "Bram: \u0007Zal ik doen! We kunnen niet zo lang wachten. Ons feest is volgende week al. Wat heb",
+        "jij gedaan?",
+        "Anne: Ik heb een uitnodiging gemaakt voor de groepsapp. Ik stuur hem zo naar je toe.",
+        "Bram: Wat leuk! En de hapjes en de drankjes?",
+        "Anne: \u0007Dat heb ik nog niet gedaan. Ik ga morgen samen met mijn moeder boodschappen",
+        "doen. Heb jij al slingers en ballonnen gekocht?",
+        "Bram: Ja, dat heb ik gisteren gelijk gedaan.",
+        "Anne: Super, bedankt. En wat doen we met de schoonmaakspullen?",
+        "Bram: \u0007Ik heb thuis nog schoonmaakspullen. Die neem ik mee volgende week mee. Dan",
+        "kunnen we na het feest samen schoonmaken.",
+        "Anne: \u0007Goed idee. Wil je straks even naar de uitnodiging kijken? Ik stuur hem zo via",
+        "Whatsapp.",
+        "Bram: Ja, dat is prima. Zullen we de uitnodiging dan vandaag versturen?",
+        "Anne: Ja, dat doen we!"
+      ]
+    },
+    {
+      "book": "wb",
+      "track": 7,
+      "title": null,
+      "lines": [
+        "Leerkracht: \u0007Welkom bij dit oudergesprek. Ik wil graag met u praten over het advies voor de",
+        "middelbare school voor Jamal.",
+        "Vader: Dat is goed.",
+        "Moeder: Ja, wij zijn benieuwd.",
+        "Leerkracht: \u0007Het gaat heel goed met Jamal. Hij heeft voor alle vakken goede cijfers. Eens kijken…",
+        "een 8 voor Nederlandse taal, een 7,5 voor rekenen. Een 8 voor geschiedenis… Hij leert",
+        "graag en hij doet zijn best. Ook heeft hij de Cito-toets heel goed gemaakt, zijn score",
+        "was 541. Wij denken dat hij zeker naar de havo kan.",
+        "Moeder: Kan hij niet naar het vwo? Hij wil graag dokter worden.",
+        "Vader: Ja, ja, dokter… .",
+        "Leerkracht: \u0007Ik begrijp uw vraag, maar er is nog te veel twijfel over vwo. Jamal is goed in",
+        "Nederlands, maar zijn tempo van lezen is niet altijd snel genoeg. Ik ben bang dat het",
+        "op dit moment niet genoeg is voor vwo.",
+        "Vader: Wat kunnen we doen? Jamal wil echt dokter worden.",
+        "Leerkracht: Ik kan een advies geven voor de brugklas havo/vwo.",
+        "Moeder: Wat betekent dat?",
+        "Leerkracht: \u0007In het eerste jaar op de middelbare school krijgt hij vakken op havo- en vwo-niveau.",
+        "Na het eerste jaar kijkt de school naar zijn cijfers. Als zijn cijfers hoog genoeg zijn, mag",
+        "hij doorgaan met vwo. Als zijn cijfers voldoende zijn maar niet heel hoog, blijft hij op",
+        "de havo.",
+        "Vader: Dat is een goed idee.",
+        "Moeder: Ja, de brugklas havo/vwo lijkt mij heel goed.",
+        "Leerkracht: Dan kunt u hem aanmelden voor de brugklas havo/vwo. Fijn …."
+      ]
+    }
+  ],
+  "exercises": [],
+  "workbookExercises": [],
+  "grammar": []
+}
