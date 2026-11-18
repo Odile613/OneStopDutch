@@ -20,7 +20,26 @@ export type IconName =
   | "check"
   | "close"
   | "menu"
-  | "sparkle";
+  | "sparkle"
+  | "expand"
+  | "note"
+  | "sortTime"
+  | "sortCategory"
+  | "sortAlpha"
+  | "viewList"
+  | "viewCards"
+  | "hideEnglish"
+  | "hideDutch"
+  | "starOnly"
+  | "underlineU"
+  | "triangleRight"
+  | "triangleDown"
+  | "sequential"
+  | "logout"
+  | "trash"
+  | "brain"
+  | "send"
+  | "copy";
 
 export function Icon({
   name,
@@ -171,6 +190,142 @@ export function Icon({
         <svg {...common}>
           <path d="m12 3 1.8 5.2L19 10l-5.2 1.8L12 17l-1.8-5.2L5 10l5.2-1.8L12 3Z" />
           <path d="m19 16 .9 2.1L22 19l-2.1.9L19 22l-.9-2.1L16 19l2.1-.9L19 16Z" />
+        </svg>
+      );
+    case "expand":
+      return (
+        <svg {...common}>
+          <path d="M9 3H3v6M15 3h6v6M21 15v6h-6M3 15v6h6" />
+          <path d="M3 3l6 6M21 3l-6 6M3 21l6-6M21 21l-6-6" />
+        </svg>
+      );
+    case "note":
+      return (
+        <svg {...common}>
+          <path d="m4 20 4.5-1 10-10-3.5-3.5-10 10L4 20Z" />
+          <path d="m13.5 7.5 3.5 3.5" />
+        </svg>
+      );
+    case "underlineU":
+      return (
+        <svg {...common}>
+          <path d="M7 4v7a5 5 0 0 0 10 0V4" />
+          <path d="M5 20h14" />
+        </svg>
+      );
+    case "triangleRight":
+      return (
+        <svg {...common} fill="currentColor" stroke="none">
+          <path d="M8 5v14l11-7L8 5Z" />
+        </svg>
+      );
+    case "triangleDown":
+      return (
+        <svg {...common} fill="currentColor" stroke="none">
+          <path d="M5 8h14l-7 11L5 8Z" />
+        </svg>
+      );
+    case "sequential":
+      return (
+        <svg {...common}>
+          <path d="M4 6h4M4 12h7M4 18h10" />
+          <path d="m16 9 4 3-4 3" />
+        </svg>
+      );
+    case "sortTime":
+      return (
+        <svg {...common}>
+          <path d="M4 6h11M4 12h8M4 18h5" />
+          <path d="M17 14v6m0 0-2.5-2.5M17 20l2.5-2.5" />
+        </svg>
+      );
+    case "sortCategory":
+      return (
+        <svg {...common}>
+          <rect x="3" y="4" width="7" height="6" rx="1" />
+          <rect x="14" y="4" width="7" height="6" rx="1" />
+          <rect x="3" y="14" width="7" height="6" rx="1" />
+          <rect x="14" y="14" width="7" height="6" rx="1" />
+        </svg>
+      );
+    case "sortAlpha":
+      return (
+        <svg {...common}>
+          <path d="M4 18 8 6l4 12M5.6 14h4.8" />
+          <path d="M16 8h5M16 13h5M16 18h3" />
+        </svg>
+      );
+    case "viewList":
+      return (
+        <svg {...common}>
+          <path d="M9 6h11M9 12h11M9 18h11" />
+          <circle cx="4.5" cy="6" r="1" fill="currentColor" stroke="none" />
+          <circle cx="4.5" cy="12" r="1" fill="currentColor" stroke="none" />
+          <circle cx="4.5" cy="18" r="1" fill="currentColor" stroke="none" />
+        </svg>
+      );
+    case "viewCards":
+      return (
+        <svg {...common}>
+          <rect x="3" y="6" width="13" height="12" rx="2" />
+          <path d="M8 4h11a2 2 0 0 1 2 2v11" />
+        </svg>
+      );
+    case "hideEnglish":
+      return (
+        <svg {...common}>
+          <path d="M4 6h9M4 12h6M4 18h9" />
+          <path d="m16 15 4 4M20 15l-4 4" />
+        </svg>
+      );
+    case "hideDutch":
+      return (
+        <svg {...common}>
+          <rect x="3" y="5" width="18" height="14" rx="2" />
+          <path d="M3 10h18M3 14h18" />
+          <path d="m16 15 4 4M20 15l-4 4" />
+        </svg>
+      );
+    case "starOnly":
+      return (
+        <svg {...common}>
+          <path d="M7 4h10v16l-5-3.5L7 20V4Z" />
+        </svg>
+      );
+    case "logout":
+      return (
+        <svg {...common}>
+          <path d="M10 4H5a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h5" />
+          <path d="M14 8l4 4-4 4M18 12H9" />
+        </svg>
+      );
+    case "trash":
+      return (
+        <svg {...common}>
+          <path d="M4 7h16M9 7V4h6v3M6 7l1 13h10l1-13" />
+          <path d="M10 11v6M14 11v6" />
+        </svg>
+      );
+    case "brain":
+      return (
+        <svg {...common}>
+          <path d="M9 5a3 3 0 0 0-3 3 3 3 0 0 0-1 5.8V16a3 3 0 0 0 3 3h1V5H9Z" />
+          <path d="M15 5a3 3 0 0 1 3 3 3 3 0 0 1 1 5.8V16a3 3 0 0 1-3 3h-1V5h1Z" />
+          <path d="M12 5v14" />
+        </svg>
+      );
+    case "send":
+      return (
+        <svg {...common}>
+          <path d="M22 2 11 13" />
+          <path d="M22 2 15 22l-4-9-9-4 20-7Z" />
+        </svg>
+      );
+    case "copy":
+      return (
+        <svg {...common}>
+          <rect x="8" y="8" width="12" height="12" rx="2" />
+          <path d="M16 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2" />
         </svg>
       );
   }

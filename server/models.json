@@ -1,0 +1,51 @@
+{
+  "default": "gemini:gemini-flash-lite-latest",
+  "providers": {
+    "gemini": {
+      "label": "Google Gemini",
+      "apiKeyEnv": "GEMINI_API_KEY",
+      "enabled": true,
+      "models": [
+        { "id": "gemini-flash-lite-latest", "label": "Gemini Flash Lite", "enabled": true },
+        { "id": "gemini-3.1-flash-lite", "label": "Gemini 3.1 Flash Lite", "enabled": true },
+        { "id": "gemini-3.8-flash", "label": "Gemini 3.8 Flash", "enabled": true }
+      ]
+    },
+    "groq": {
+      "label": "Groq",
+      "apiKeyEnv": "GROQ_API_KEY",
+      "enabled": true,
+      "models": [
+        { "id": "qwen/qwen3.8-27b", "label": "Qwen 3.8 27B", "enabled": true },
+        { "id": "openai/gpt-oss-20b", "label": "GPT OSS 20B", "enabled": true }
+      ]
+    },
+    "mistral": {
+      "label": "Mistral AI",
+      "apiKeyEnv": "MISTRAL_API_KEY",
+      "enabled": false,
+      "models": [
+        { "id": "mistral-small-latest", "label": "Mistral Small", "enabled": true },
+        { "id": "mistral-large-latest", "label": "Mistral Large", "enabled": true }
+      ]
+    },
+    "openrouter": {
+      "label": "OpenRouter",
+      "apiKeyEnv": "OPENROUTER_API_KEY",
+      "enabled": false,
+      "models": [
+        { "id": "x-ai/grok-3-mini", "label": "Grok 3 Mini", "enabled": true },
+        { "id": "google/gemini-2.0-flash-001", "label": "Gemini 2.0 Flash", "enabled": true }
+      ]
+    },
+    "xai": {
+      "label": "xAI",
+      "apiKeyEnv": "XAI_API_KEY",
+      "enabled": false,
+      "models": [
+        { "id": "grok-3-mini", "label": "Grok 3 Mini", "enabled": true },
+        { "id": "grok-3", "label": "Grok 3", "enabled": true }
+      ]
+    }
+  }
+}

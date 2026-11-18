@@ -2,13 +2,23 @@ import { useEffect, useMemo, useState } from "react";
 import type { ChapterData } from "../types";
 import {
   allWords,
-  chapterName,
   groupLabel,
   type WordRow,
 } from "../data";
+import {
+  CREATE_NOTE_EVENT,
+  OPEN_NOTE_EVENT,
+  noteMatchesQuery,
+  notesForCourse,
+  foldText,
+  type SavedNote,
+} from "../lib/notes";
+import { sortNotes, type NoteSortMode } from "../lib/noteSort";
 import { useLocalStorage } from "../lib/useLocalStorage";
 import { speakDutch } from "../lib/speech";
 import { Icon } from "./Icon";
+import NoteSortControls from "./NoteSortControls";
+import NotesPanel from "./NotesPanel";
 
 function fold(value: string): string {
   return value
@@ -31,11 +41,17 @@ interface GroupBlock {
 export default function WordlistView({
   courseId,
   chapters,
+  notes,
+  onUpdateNote,
+  onDeleteNote,
   initialChapter,
   onChapterChange,
 }: {
   courseId: string;
   chapters: ChapterData[];
+  notes: SavedNote[];
+  onUpdateNote: (id: string, note: string) => void;
+  onDeleteNote: (id: string) => void;
   initialChapter: number;
   onChapterChange: (chapter: number) => void;
 }) {
@@ -44,13 +60,45 @@ export default function WordlistView({
   const [query, setQuery] = useState("");
   const [group, setGroup] = useState("all");
   const [hideEnglish, setHideEnglish] = useState(false);
+  const [hideDutch, setHideDutch] = useState(false);
   const [starredOnly, setStarredOnly] = useState(false);
   const [mode, setMode] = useState<"list" | "cards">("list");
   const [revealed, setRevealed] = useState<Set<string>>(() => new Set());
+  const [dutchRevealed, setDutchRevealed] = useState<Set<string>>(() => new Set());
+  const [collapsedGroups, setCollapsedGroups] = useState<Set<string>>(() => new Set());
+  const [noteSortMode, setNoteSortMode] = useState<NoteSortMode>("date");
+  const [noteNewestFirst, setNoteNewestFirst] = useState(true);
   const [stars, setStars] = useLocalStorage<Record<string, true>>(
     `onestopdutch-stars-${courseId}`,
     {},
   );
+
+  const wordNotes = useMemo(
+    () => notesForCourse(notes, courseId, ["word", "pronunciation"]),
+    [notes, courseId],
+  );
+  const visibleWordNotes = useMemo(
+    () => wordNotes.filter((note) => noteMatchesQuery(note, query)),
+    [wordNotes, query],
+  );
+  const sortedNotes = useMemo(
+    () => sortNotes(visibleWordNotes, noteSortMode, noteNewestFirst),
+    [visibleWordNotes, noteSortMode, noteNewestFirst],
+  );
+  const panelNotes = useMemo(() => {
+    if (group === "pronunciation") {
+      return sortedNotes.filter((note) => note.category === "pronunciation");
+    }
+    return sortedNotes.filter((note) => {
+      if (note.category === "pronunciation") return true;
+      return (
+        note.category === "word" &&
+        !everyWord.some(
+          (word) => foldText(word.dutch) === foldText(note.text.trim()),
+        )
+      );
+    });
+  }, [sortedNotes, group, everyWord]);
 
   useEffect(() => {
     setScope(initialChapter);
@@ -65,7 +113,7 @@ export default function WordlistView({
     const search = fold(query.trim());
     return everyWord.filter((word) => {
       if (scope !== "all" && word.chapterNumber !== scope) return false;
-      if (group !== "all" && word.group !== group) return false;
+      if (group !== "all" && group !== "mynote" && word.group !== group) return false;
       if (starredOnly && !stars[word.key]) return false;
       if (!search) return true;
       return [word.dutch, word.english, word.other ?? "", word.note ?? ""].some(
@@ -96,7 +144,6 @@ export default function WordlistView({
     return result;
   }, [words]);
 
-  const starredTotal = Object.keys(stars).length;
   const totalWords = everyWord.length;
   const hasWords = totalWords > 0;
 
@@ -118,65 +165,60 @@ export default function WordlistView({
     });
   }
 
-  const activeChapter = chapters.find(
-    (chapter) => chapter.number === (scope === "all" ? initialChapter : scope),
-  );
+  function toggleDutchReveal(key: string) {
+    setDutchRevealed((current) => {
+      const next = new Set(current);
+      if (next.has(key)) next.delete(key);
+      else next.add(key);
+      return next;
+    });
+  }
+
+  function toggleGroup(key: string) {
+    setCollapsedGroups((current) => {
+      const next = new Set(current);
+      if (next.has(key)) next.delete(key);
+      else next.add(key);
+      return next;
+    });
+  }
+
+  const notesByWord = useMemo(() => {
+    const map = new Map<string, SavedNote>();
+    for (const note of wordNotes) {
+      if (note.category !== "word") continue;
+      map.set(foldText(note.text.trim()), note);
+    }
+    return map;
+  }, [wordNotes]);
+
+  function addNoteForWord(word: WordRow, element: HTMLElement) {
+    const existing = notesByWord.get(foldText(word.dutch));
+    if (existing) {
+      window.dispatchEvent(
+        new CustomEvent(OPEN_NOTE_EVENT, {
+          detail: { id: existing.id, rect: element.getBoundingClientRect() },
+        }),
+      );
+      return;
+    }
+    window.dispatchEvent(
+      new CustomEvent(CREATE_NOTE_EVENT, {
+        detail: {
+          text: word.dutch,
+          rect: element.getBoundingClientRect(),
+          wordType: word.group,
+          category: group === "pronunciation" ? "pronunciation" : "word",
+        },
+      }),
+    );
+  }
 
   return (
     <div className="page">
-      <header className="page-hero">
-        <div className="page-hero__copy">
-          <p className="eyebrow">
-            <Icon name="list" size={14} />
-            Wordlist
-          </p>
-          <h1>Words &amp; phrases</h1>
-          <p className="page-hero__intro">
-            {hasWords
-              ? "Every word from the course wordlist, grouped by chapter and word type. Search across all chapters, hide the English, or practise with flashcards."
-              : "The wordlist for this book has not been added yet. The textbook and workbook audio are still available."}
-          </p>
-        </div>
-        <dl className="stat-row">
-          <div className="stat">
-            <dt>Words</dt>
-            <dd>{totalWords}</dd>
-          </div>
-          <div className="stat">
-            <dt>Chapters</dt>
-            <dd>{chapters.length}</dd>
-          </div>
-          <div className="stat">
-            <dt>Starred</dt>
-            <dd>{starredTotal}</dd>
-          </div>
-        </dl>
-      </header>
-
-      <div className="toolbar">
-        <label className="search-field">
-          <Icon name="search" size={17} />
-          <input
-            type="search"
-            value={query}
-            onChange={(event) => setQuery(event.target.value)}
-            placeholder="Search Dutch or English…"
-            aria-label="Search the wordlist"
-          />
-          {query && (
-            <button
-              type="button"
-              className="search-field__clear"
-              onClick={() => setQuery("")}
-              aria-label="Clear search"
-            >
-              <Icon name="close" size={14} />
-            </button>
-          )}
-        </label>
-
+      <div className="toolbar wordlist-toolbar">
         <label className="select-field">
-          <span>Chapter</span>
+          <span className="visually-hidden">Chapter</span>
           <select
             value={scope}
             onChange={(event) => {
@@ -200,82 +242,85 @@ export default function WordlistView({
               </option>
             ))}
           </select>
+          <Icon name="chevron" size={14} className="select-field__chevron" />
         </label>
 
         <label className="select-field">
-          <span>Word type</span>
+          <span className="visually-hidden">Word type</span>
           <select value={group} onChange={(event) => setGroup(event.target.value)}>
             <option value="all">All types</option>
+            <option value="mynote">MyNote</option>
+            <option value="pronunciation">Pronunciation</option>
             {groups.map((value) => (
               <option key={value} value={value}>
                 {groupLabel(value)}
               </option>
             ))}
           </select>
+          <Icon name="chevron" size={14} className="select-field__chevron" />
         </label>
 
-        <div className="segmented" role="group" aria-label="Wordlist view">
+        <label className="search-field">
+          <Icon name="search" size={17} />
+          <input
+            type="search"
+            value={query}
+            onChange={(event) => setQuery(event.target.value)}
+            placeholder="Search Dutch or English…"
+            aria-label="Search the wordlist"
+          />
+        </label>
+
+        <div className="wordlist-actions" role="group" aria-label="Wordlist view options">
           <button
             type="button"
-            className={mode === "list" ? "segmented__item is-active" : "segmented__item"}
+            className={mode === "list" ? "wordlist-action is-active" : "wordlist-action"}
             onClick={() => setMode("list")}
+            aria-label="List view"
+            title="List view"
           >
-            List
+            <Icon name="viewList" size={16} />
           </button>
           <button
             type="button"
-            className={mode === "cards" ? "segmented__item is-active" : "segmented__item"}
-            onClick={() => setMode("cards")}
+            className={hideEnglish ? "wordlist-action is-active" : "wordlist-action"}
+            onClick={() => setHideEnglish((value) => !value)}
+            aria-pressed={hideEnglish}
+            aria-label="Hide English"
+            title="Hide English"
           >
-            Flashcards
+            <span className="wordlist-action__letter">EN</span>
+          </button>
+          <button
+            type="button"
+            className={hideDutch ? "wordlist-action is-active" : "wordlist-action"}
+            onClick={() => setHideDutch((value) => !value)}
+            aria-pressed={hideDutch}
+            aria-label="Hide Dutch"
+            title="Hide Dutch"
+          >
+            <span className="wordlist-action__letter">NL</span>
+          </button>
+          <button
+            type="button"
+            className={starredOnly ? "wordlist-action is-active" : "wordlist-action"}
+            onClick={() => setStarredOnly((value) => !value)}
+            aria-pressed={starredOnly}
+            aria-label="Starred only"
+            title="Starred only"
+          >
+            <Icon name="star" size={16} />
+          </button>
+          <button
+            type="button"
+            className={mode === "cards" ? "wordlist-action is-active" : "wordlist-action"}
+            onClick={() => setMode("cards")}
+            aria-label="Flashcards"
+            title="Flashcards"
+          >
+            <Icon name="viewCards" size={16} />
           </button>
         </div>
-
-        <button
-          type="button"
-          className={
-            hideEnglish
-              ? "toggle-button is-active"
-              : "toggle-button"
-          }
-          onClick={() => setHideEnglish((value) => !value)}
-          aria-pressed={hideEnglish}
-          title="Hide the English translations"
-        >
-          <Icon name={hideEnglish ? "eyeOff" : "eye"} size={16} />
-          {hideEnglish ? "English hidden" : "Hide English"}
-        </button>
-
-        <button
-          type="button"
-          className={starredOnly ? "toggle-button is-active" : "toggle-button"}
-          onClick={() => setStarredOnly((value) => !value)}
-          aria-pressed={starredOnly}
-          title="Show only starred words"
-        >
-          <Icon name="star" size={16} />
-          Starred
-        </button>
-      </div>
-
-      <div className="results-bar">
-        <span>
-          <strong>{words.length}</strong> of {totalWords} words
-          {activeChapter && scope !== "all" ? ` · ${chapterName(activeChapter)}` : ""}
-        </span>
-        {(query || group !== "all" || starredOnly) && (
-          <button
-            type="button"
-            className="link-button"
-            onClick={() => {
-              setQuery("");
-              setGroup("all");
-              setStarredOnly(false);
-            }}
-          >
-            Clear filters
-          </button>
-        )}
       </div>
 
       {!hasWords ? (
@@ -287,7 +332,7 @@ export default function WordlistView({
             use the textbook and workbook audio.
           </p>
         </div>
-      ) : mode === "cards" ? (
+      ) : group === "mynote" ? null : mode === "cards" ? (
         <Flashcards
           words={words}
           stars={stars}
@@ -311,50 +356,87 @@ export default function WordlistView({
         </div>
       ) : (
         <div className="wordlist">
-          {blocks.map((block) => (
-            <section
-              key={`${block.chapterNumber}-${block.group}`}
-              className="word-group"
-            >
-              <div className="word-group__head">
-                <div>
-                  {scope === "all" && (
-                    <span className="word-group__chapter">
-                      {block.chapterNumber === 0
-                        ? "Introduction"
-                        : `Chapter ${block.chapterNumber}`}
-                      {block.chapterTitle ? ` · ${block.chapterTitle}` : ""}
-                    </span>
-                  )}
-                  <h2>{groupLabel(block.group)}</h2>
-                </div>
-                <span className="pill">
-                  {block.words.length} word{block.words.length === 1 ? "" : "s"}
-                </span>
-              </div>
-              <div className="word-table">
-                <div className="word-table__head" aria-hidden="true">
-                  <span />
-                  <span>Dutch</span>
-                  <span>English</span>
-                  <span>Listen</span>
-                </div>
-                {block.words.map((word) => (
-                  <WordLine
-                    key={word.key}
-                    word={word}
-                    starred={Boolean(stars[word.key])}
-                    onToggleStar={() => toggleStar(word.key)}
-                    hideEnglish={hideEnglish}
-                    revealed={revealed.has(word.key)}
-                    onReveal={() => toggleReveal(word.key)}
+          {blocks.map((block) => {
+            const groupKey = `${block.chapterNumber}-${block.group}`;
+            const collapsed = collapsedGroups.has(groupKey);
+            return (
+              <section key={groupKey} className="word-group">
+                <button
+                  type="button"
+                  className="word-group__head"
+                  onClick={() => toggleGroup(groupKey)}
+                  aria-expanded={!collapsed}
+                >
+                  <span className="word-group__labels">
+                    {scope === "all" && (
+                      <span className="word-group__chapter">
+                        {block.chapterNumber === 0
+                          ? "Introduction"
+                          : `Chapter ${block.chapterNumber}`}
+                        {block.chapterTitle ? ` · ${block.chapterTitle}` : ""}
+                      </span>
+                    )}
+                    <span className="word-group__title">{groupLabel(block.group)}</span>
+                  </span>
+                  <Icon
+                    name="chevron"
+                    size={15}
+                    className={
+                      collapsed
+                        ? "notes-panel__chevron"
+                        : "notes-panel__chevron is-open"
+                    }
                   />
-                ))}
-              </div>
-            </section>
-          ))}
+                </button>
+                {!collapsed && (
+                  <div className="word-table">
+                    <div className="word-table__head" aria-hidden="true">
+                      <span />
+                      <span>Dutch</span>
+                      <span>English</span>
+                      <span />
+                    </div>
+                    {block.words.map((word) => (
+                      <WordLine
+                        key={word.key}
+                        word={word}
+                        starred={Boolean(stars[word.key])}
+                        onToggleStar={() => toggleStar(word.key)}
+                        hideEnglish={hideEnglish}
+                        revealed={revealed.has(word.key)}
+                        onReveal={() => toggleReveal(word.key)}
+                        hideDutch={hideDutch}
+                        dutchRevealed={dutchRevealed.has(word.key)}
+                        onRevealDutch={() => toggleDutchReveal(word.key)}
+                        onAddNote={(element) => addNoteForWord(word, element)}
+                        attachedNote={notesByWord.get(foldText(word.dutch))}
+                        onDeleteNote={onDeleteNote}
+                      />
+                    ))}
+                  </div>
+                )}
+              </section>
+            );
+          })}
         </div>
       )}
+
+      <NotesPanel
+        title="MyNote"
+        notes={panelNotes}
+        compact
+        preserveOrder
+        actions={
+          <NoteSortControls
+            mode={noteSortMode}
+            newestFirst={noteNewestFirst}
+            onModeChange={setNoteSortMode}
+            onNewestFirstChange={setNoteNewestFirst}
+          />
+        }
+        onUpdateNote={onUpdateNote}
+        onDeleteNote={onDeleteNote}
+      />
     </div>
   );
 }
@@ -366,6 +448,12 @@ function WordLine({
   hideEnglish,
   revealed,
   onReveal,
+  hideDutch,
+  dutchRevealed,
+  onRevealDutch,
+  onAddNote,
+  attachedNote,
+  onDeleteNote,
 }: {
   word: WordRow;
   starred: boolean;
@@ -373,8 +461,15 @@ function WordLine({
   hideEnglish: boolean;
   revealed: boolean;
   onReveal: () => void;
+  hideDutch: boolean;
+  dutchRevealed: boolean;
+  onRevealDutch: () => void;
+  onAddNote: (element: HTMLElement) => void;
+  attachedNote?: SavedNote;
+  onDeleteNote?: (id: string) => void;
 }) {
   const englishHidden = hideEnglish && !revealed;
+  const dutchHidden = hideDutch && !dutchRevealed;
 
   return (
     <div className="word-line">
@@ -389,14 +484,35 @@ function WordLine({
         <Icon name="star" size={17} />
       </button>
       <div className="word-line__dutch">
-        <span>{word.dutch}</span>
-        {word.note && <small>{word.note}</small>}
+        {dutchHidden ? (
+          <button
+            type="button"
+            className="reveal-button"
+            onClick={onRevealDutch}
+            aria-label="Reveal Dutch"
+            title="Reveal Dutch"
+          >
+            <Icon name="eye" size={15} />
+          </button>
+        ) : (
+          <>
+            <span>{word.dutch}</span>
+            {(attachedNote?.note || word.note) && (
+              <small>{attachedNote?.note || word.note}</small>
+            )}
+          </>
+        )}
       </div>
       <div className="word-line__english">
         {englishHidden ? (
-          <button type="button" className="reveal-button" onClick={onReveal}>
-            <Icon name="eye" size={14} />
-            Reveal
+          <button
+            type="button"
+            className="reveal-button"
+            onClick={onReveal}
+            aria-label="Reveal English"
+            title="Reveal English"
+          >
+            <Icon name="eye" size={15} />
           </button>
         ) : (
           <>
@@ -405,15 +521,40 @@ function WordLine({
           </>
         )}
       </div>
-      <button
-        type="button"
-        className="speak-button speak-button--visible"
-        onClick={() => speakDutch(word.dutch)}
-        title="Listen to this word"
-        aria-label={`Listen to ${word.dutch}`}
-      >
-        <Icon name="volume" size={16} />
-      </button>
+      <div className="word-line__actions">
+        <button
+          type="button"
+          className="speak-button speak-button--visible"
+          onClick={() => speakDutch(word.dutch)}
+          title="Listen to this word"
+          aria-label={`Listen to ${word.dutch}`}
+        >
+          <Icon name="volume" size={16} />
+        </button>
+        <button
+          type="button"
+          className="speak-button speak-button--visible"
+          onClick={(event) => onAddNote(event.currentTarget)}
+          title="Add a note for this word"
+          aria-label={`Add a note for ${word.dutch}`}
+        >
+          <Icon name="note" size={16} />
+        </button>
+        {attachedNote && onDeleteNote && (
+          <button
+            type="button"
+            className="flashcard-icon-button"
+            onClick={(event) => {
+              event.stopPropagation();
+              onDeleteNote(attachedNote.id);
+            }}
+            aria-label="Delete note"
+            title="Delete note"
+          >
+            <Icon name="trash" size={16} />
+          </button>
+        )}
+      </div>
     </div>
   );
 }
@@ -431,6 +572,7 @@ function Flashcards({
 }) {
   const [index, setIndex] = useState(0);
   const [revealed, setRevealed] = useState(false);
+  const [orderMode, setOrderMode] = useState<"sequential" | "shuffle">("sequential");
 
   useEffect(() => {
     setIndex(0);
@@ -450,16 +592,21 @@ function Flashcards({
   const safeIndex = Math.min(index, words.length - 1);
   const word = words[safeIndex];
 
-  function go(step: number) {
-    setIndex((current) => (current + step + words.length) % words.length);
+  function goPrevious() {
+    setIndex((current) => (current - 1 + words.length) % words.length);
     setRevealed(false);
   }
 
-  function shuffle() {
-    if (words.length < 2) return;
-    let next = safeIndex;
-    while (next === safeIndex) next = Math.floor(Math.random() * words.length);
-    setIndex(next);
+  function goNext() {
+    if (orderMode === "shuffle" && words.length > 1) {
+      setIndex((current) => {
+        let next = current;
+        while (next === current) next = Math.floor(Math.random() * words.length);
+        return next;
+      });
+    } else {
+      setIndex((current) => (current + 1) % words.length);
+    }
     setRevealed(false);
   }
 
@@ -467,22 +614,9 @@ function Flashcards({
     <div className="flashcard-wrap">
       <div className="flashcard" onClick={() => setRevealed((value) => !value)}>
         <div className="flashcard__top">
-          <span className="pill">
-            {word.chapterNumber === 0 ? "Intro" : `Chapter ${word.chapterNumber}`} ·{" "}
-            {groupLabel(word.group)}
+          <span className="flashcard__counter">
+            {safeIndex + 1} / {words.length}
           </span>
-          <button
-            type="button"
-            className={stars[word.key] ? "star-button is-starred" : "star-button"}
-            onClick={(event) => {
-              event.stopPropagation();
-              onToggleStar(word.key);
-            }}
-            aria-pressed={Boolean(stars[word.key])}
-            aria-label={stars[word.key] ? "Remove star" : "Star this word"}
-          >
-            <Icon name="star" size={18} />
-          </button>
         </div>
 
         <div className="flashcard__body">
@@ -496,63 +630,113 @@ function Flashcards({
           ) : (
             <button
               type="button"
-              className="flashcard__reveal"
+              className="reveal-button flashcard__reveal"
               onClick={(event) => {
                 event.stopPropagation();
                 setRevealed(true);
               }}
+              aria-label="Reveal English"
+              title="Reveal English"
             >
-              Reveal English
+              <Icon name="eye" size={16} />
             </button>
           )}
         </div>
 
         <div className="flashcard__footer">
-          <span>
-            {safeIndex + 1} / {words.length}
-          </span>
-          <button
-            type="button"
-            className="btn btn--ghost btn--small"
-            onClick={(event) => {
-              event.stopPropagation();
-              speakDutch(word.dutch);
-            }}
-          >
-            <Icon name="volume" size={15} />
-            Listen
-          </button>
-        </div>
-      </div>
+          <div className="flashcard__footer-actions">
+            <button
+              type="button"
+              className={
+                stars[word.key]
+                  ? "flashcard-icon-button is-starred"
+                  : "flashcard-icon-button"
+              }
+              onClick={(event) => {
+                event.stopPropagation();
+                onToggleStar(word.key);
+              }}
+              aria-pressed={Boolean(stars[word.key])}
+              aria-label={stars[word.key] ? "Remove star" : "Star this word"}
+              title={stars[word.key] ? "Remove star" : "Star this word"}
+            >
+              <Icon name="star" size={17} />
+            </button>
+            <button
+              type="button"
+              className="flashcard-icon-button"
+              onClick={(event) => {
+                event.stopPropagation();
+                speakDutch(word.dutch);
+              }}
+              aria-label="Listen to this word"
+              title="Listen to this word"
+            >
+              <Icon name="volume" size={17} />
+            </button>
+          </div>
 
-      <div className="flashcard-controls">
-        <button
-          type="button"
-          className="btn btn--secondary"
-          onClick={() => go(-1)}
-          aria-label="Previous card"
-        >
-          <Icon name="previous" size={17} />
-          Previous
-        </button>
-        <button
-          type="button"
-          className="btn btn--secondary"
-          onClick={shuffle}
-          aria-label="Shuffle deck"
-        >
-          <Icon name="shuffle" size={17} />
-          Shuffle
-        </button>
-        <button
-          type="button"
-          className="btn"
-          onClick={() => go(1)}
-          aria-label="Next card"
-        >
-          Next
-          <Icon name="next" size={17} />
-        </button>
+          <div className="flashcard-controls">
+            <button
+              type="button"
+              className="flashcard-icon-button"
+              onClick={(event) => {
+                event.stopPropagation();
+                goPrevious();
+              }}
+              aria-label="Previous card"
+              title="Previous card"
+            >
+              <Icon name="previous" size={17} />
+            </button>
+            <button
+              type="button"
+              className={
+                orderMode === "sequential"
+                  ? "flashcard-icon-button is-active"
+                  : "flashcard-icon-button"
+              }
+              onClick={(event) => {
+                event.stopPropagation();
+                setOrderMode("sequential");
+              }}
+              aria-pressed={orderMode === "sequential"}
+              aria-label="Sequential mode"
+              title="Sequential mode"
+            >
+              <Icon name="sequential" size={17} />
+            </button>
+            <button
+              type="button"
+              className={
+                orderMode === "shuffle"
+                  ? "flashcard-icon-button is-active"
+                  : "flashcard-icon-button"
+              }
+              onClick={(event) => {
+                event.stopPropagation();
+                setOrderMode("shuffle");
+              }}
+              aria-pressed={orderMode === "shuffle"}
+              aria-label="Shuffle mode"
+              title="Shuffle mode"
+            >
+              <Icon name="shuffle" size={17} />
+            </button>
+            <button
+              type="button"
+              className="flashcard-icon-button"
+              onClick={(event) => {
+                event.stopPropagation();
+                goNext();
+              }}
+              aria-label="Next card"
+              title="Next card"
+            >
+              <Icon name="next" size={17} />
+            </button>
+          </div>
+        </div>
       </div>
     </div>
   );

@@ -1,20 +1,25 @@
 # Uploading Contact 4
 
-The site currently ships **Contact! nieuw 1, 2 and 3**. Contact 4 is a separate
-book, so it gets its own folder and a book switcher entry in the sidebar.
+The site ships **Contact! nieuw 1–3** in full, and **Contact! nieuw 4** with its
+textbook and workbook audio plus the textbook transcripts. Contact 4 is a
+separate book, so it has its own folder and a book switcher entry in the top bar.
 
 ## Status
 
 | Book | Status |
 | --- | --- |
-| Contact 1 | Live: 16 chapters, 166 tracks, 981 words, 71 grammar topics, chapter 1 exercises |
-| Contact 2 | Live: 15 chapters, 138 tracks, 817 words, 54 reference grammar topics. No textbook/workbook PDF or answer key, so no chapter titles or exercises yet |
+| Contact 1 | Live: 16 chapters, 166 tracks, 981 words, 71 grammar topics |
+| Contact 2 | Live: 15 chapters, 138 tracks, 817 words, 54 reference grammar topics. No textbook/workbook PDF or answer key, so no chapter titles yet |
 | Contact 3 | Live: 16 chapters, 118 tracks (50 textbook + 68 workbook), 961 words, 68 reference grammar topics. No textbook/workbook PDF or answer key; textbook chapters 2, 7, 10 and 11 have no textbook audio, and chapter 10 has no audio at all |
-| Contact 4 | Partly uploaded: combined transcript PDF and two audio ZIPs. Still needs the wordlist, grammar and a full transcript/audio mapping |
+| Contact 4 | Live (partial): 17 chapters, 196 tracks (80 textbook + 116 workbook) and the combined transcript PDF. Missing: wordlist, grammar, textbook/workbook PDFs and answer key. Workbook chapters 3, 8 and 11 have no workbook audio |
 
 Contacts 2 and 3 were uploaded as four PDFs (textbook transcripts, workbook
 transcripts, wordlist, grammar) plus two audio ZIPs. The ZIPs are extracted into
 `audio/textbook/` and `audio/workbook/` as part of the import.
+
+Contact 4 was uploaded as one combined transcript PDF and two audio ZIPs, and is
+already imported. That PDF covers the textbook audio only, so workbook tracks
+appear as audio without a printed transcript.
 
 Drop everything into this project here:
 
@@ -54,7 +59,8 @@ original names work as well as the numbered ones above.
 
 ## What to upload, in order
 
-Do **one book at a time**, and start with Contact 4. For each book:
+Do **one book at a time**, and finish Contact 4 first. Its audio is already in,
+so only PDFs are outstanding.
 
 ### Batch 1 — enough to build a real preview
 
@@ -62,7 +68,7 @@ Do **one book at a time**, and start with Contact 4. For each book:
 | --- | --- |
 | Textbook PDF | Chapter titles, texts and exercise structure |
 | Wordlist PDF | The Wordlist section and flashcards |
-| All textbook audio | The Textbook section and its player |
+| All textbook audio | ✅ already uploaded for Contact 4 (80 tracks) |
 
 ### Batch 2 — completes the listening experience
 

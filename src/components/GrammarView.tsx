@@ -106,22 +106,6 @@ export default function GrammarView({
     chapters.reduce((total, chapter) => total + chapter.grammar.length, 0) +
     (reference?.length ?? 0);
   const hasAnyGrammar = totalSections > 0;
-  const totalStrings =
-    chapters.reduce(
-      (total, chapter) =>
-        total +
-        chapter.grammar.reduce(
-          (sum, section) =>
-            sum + section.paragraphs.length + (section.examples?.length ?? 0),
-          0,
-        ),
-      0,
-    ) +
-    (reference ?? []).reduce(
-      (total, section) =>
-        total + section.paragraphs.length + (section.examples?.length ?? 0),
-      0,
-    );
   const selectedChapter =
     typeof scope === "number"
       ? chapters.find((chapter) => chapter.number === scope)
@@ -129,43 +113,6 @@ export default function GrammarView({
 
   return (
     <div className="page">
-      <header className="page-hero">
-        <div className="page-hero__copy">
-          <p className="eyebrow">
-            <Icon name="grammar" size={14} />
-            Grammar
-          </p>
-          <h1>
-            {!hasAnyGrammar
-              ? "Grammar"
-              : hasChapterGrammar
-                ? "Grammar, chapter by chapter"
-                : "Grammar reference"}
-          </h1>
-          <p className="page-hero__intro">
-            {!hasAnyGrammar
-              ? "The grammar reference for this book has not been added yet. The textbook and workbook audio are still available."
-              : hasChapterGrammar
-                ? "The complete grammar reference with every explanation and example from the course. Search for a rule, or read the overview for one chapter."
-                : "The course's grammar appendix, from sounds and spelling to word order, verbs and prepositions. Search a rule or browse the reference."}
-          </p>
-        </div>
-        <dl className="stat-row">
-          <div className="stat">
-            <dt>Topics</dt>
-            <dd>{totalSections}</dd>
-          </div>
-          <div className="stat">
-            <dt>Examples</dt>
-            <dd>{totalStrings}</dd>
-          </div>
-          <div className="stat">
-            <dt>Chapters</dt>
-            <dd>{chapters.length}</dd>
-          </div>
-        </dl>
-      </header>
-
       <div className="toolbar">
         <label className="search-field">
           <Icon name="search" size={17} />

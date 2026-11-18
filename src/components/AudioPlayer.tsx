@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, type CSSProperties } from "react";
 import { Icon } from "./Icon";
 
 const SPEEDS = [0.5, 0.75, 1, 1.25, 1.5, 2];
@@ -87,10 +87,21 @@ export default function AudioPlayer({ src, label }: { src: string; label?: strin
         onEnded={() => setPlaying(false)}
         onError={() => setError(true)}
       />
+      <button
+        type="button"
+        className={playing ? "audio-player__toggle is-playing" : "audio-player__toggle"}
+        onClick={toggle}
+        aria-label={playing ? "Pause" : "Play"}
+      >
+        <Icon name={playing ? "pause" : "play"} size={16} />
+      </button>
       <select
         className="audio-player__speed"
         value={rate}
-        onChange={(event) => setRate(Number(event.target.value))}
+        onChange={(event) => {
+          setRate(Number(event.target.value));
+          event.currentTarget.blur();
+        }}
         aria-label="Playback speed"
         title="Playback speed"
       >
@@ -100,17 +111,14 @@ export default function AudioPlayer({ src, label }: { src: string; label?: strin
           </option>
         ))}
       </select>
-      <button
-        type="button"
-        className="audio-player__toggle"
-        onClick={toggle}
-        aria-label={playing ? "Pause" : "Play"}
-      >
-        <Icon name={playing ? "pause" : "play"} size={16} />
-      </button>
       <input
         className="audio-player__seek"
         type="range"
+        style={
+          {
+            "--seek-progress": `${duration ? (Math.min(time, duration) / duration) * 100 : 0}%`,
+          } as CSSProperties
+        }
         min={0}
         max={duration || 0}
         step={0.1}

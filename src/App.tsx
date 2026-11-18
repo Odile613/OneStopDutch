@@ -1,19 +1,21 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import type { CourseId, SectionId } from "./types";
 import {
   chapterOptionLabel,
   courseById,
   courses,
-  grammarStringCount,
-  referenceStringCount,
   shortChapterName,
-  tracksFor,
-  vocabCount,
 } from "./data";
+import AuthControl from "./components/AuthControl";
 import BookView from "./components/BookView";
-import GrammarView from "./components/GrammarView";
+import GrammarNotesView from "./components/GrammarNotesView";
+import SelectionTools from "./components/SelectionTools";
 import WordlistView from "./components/WordlistView";
 import { Icon, type IconName } from "./components/Icon";
+import { useAuth } from "./lib/auth";
+import { NOTES_STORAGE_KEY, type SavedNote } from "./lib/notes";
+import { useCloudSync } from "./lib/sync";
+import { useLocalStorage } from "./lib/useLocalStorage";
 
 interface Route {
   courseId: CourseId;
@@ -120,7 +122,8 @@ function storedChapter(courseId: CourseId): number | null {
   }
 }
 
-export default function App() {
+function AppShell() {
+  const [notes, setNotes] = useLocalStorage<SavedNote[]>(NOTES_STORAGE_KEY, []);
   const [route, setRoute] = useState<Route>(() => {
     const fromHash = parseHash();
     if (fromHash) return fromHash;
@@ -132,27 +135,33 @@ export default function App() {
       chapter: storedChapter(courseId) ?? course.chapters[0].number,
     };
   });
-  const activeChapterRef = useRef<HTMLButtonElement | null>(null);
 
   const course = courseById(route.courseId) ?? courses[0];
   const chapters = course.chapters;
 
-  const totalWords = useMemo(
-    () => chapters.reduce((total, chapter) => total + vocabCount(chapter), 0),
-    [chapters],
-  );
-  const totalGrammar = useMemo(
-    () =>
-      chapters.reduce((total, chapter) => total + chapter.grammar.length, 0) +
-      (course.referenceGrammar?.length ?? 0),
-    [chapters, course],
-  );
-  const totalGrammarStrings = useMemo(
-    () =>
-      chapters.reduce((total, chapter) => total + grammarStringCount(chapter), 0) +
-      referenceStringCount(course),
-    [chapters, course],
-  );
+  useEffect(() => {
+    function updateStickyOffsets() {
+      const header = document.querySelector<HTMLElement>(".topbar");
+      const toolbar = document.querySelector<HTMLElement>(".section-heading--toolbar");
+      document.documentElement.style.setProperty(
+        "--topbar-height",
+        `${header?.offsetHeight ?? 64}px`,
+      );
+      document.documentElement.style.setProperty(
+        "--sticky-toolbar-space",
+        `${toolbar?.offsetHeight ?? 34}px`,
+      );
+    }
+    updateStickyOffsets();
+    const observer = new ResizeObserver(updateStickyOffsets);
+    const header = document.querySelector(".topbar");
+    if (header) observer.observe(header);
+    window.addEventListener("resize", updateStickyOffsets);
+    return () => {
+      observer.disconnect();
+      window.removeEventListener("resize", updateStickyOffsets);
+    };
+  }, [route.section]);
 
   useEffect(() => {
     const handleHash = () => {
@@ -162,10 +171,6 @@ export default function App() {
     window.addEventListener("hashchange", handleHash);
     return () => window.removeEventListener("hashchange", handleHash);
   }, []);
-
-  useEffect(() => {
-    activeChapterRef.current?.scrollIntoView({ block: "nearest", inline: "center" });
-  }, [route.chapter, route.courseId]);
 
   useEffect(() => {
     const nextHash = `#/${route.courseId}/${route.section}/${route.chapter}`;
@@ -188,6 +193,28 @@ export default function App() {
 
   const chapter = chapters.find((item) => item.number === route.chapter) ?? chapters[0];
 
+  useEffect(() => {
+    const section = SECTIONS.find((item) => item.id === route.section)?.label ?? "Study";
+    document.title = `${shortChapterName(chapter)} · ${section} · ${course.title} | OneStopDutch`;
+  }, [chapter, course, route.section]);
+
+  // The topbar grows an extra row on narrow screens, so expose its real height
+  // to CSS. Sticky elements (the toolbar and the audio bar) offset from it.
+  useEffect(() => {
+    const topbar = document.querySelector<HTMLElement>(".topbar");
+    if (!topbar) return;
+    const update = () => {
+      document.documentElement.style.setProperty(
+        "--topbar-height",
+        `${Math.ceil(topbar.getBoundingClientRect().height)}px`,
+      );
+    };
+    update();
+    const observer = new ResizeObserver(update);
+    observer.observe(topbar);
+    return () => observer.disconnect();
+  }, []);
+
   function setSection(section: SectionId) {
     setRoute((current) => ({ ...current, section }));
   }
@@ -209,139 +236,110 @@ export default function App() {
     }));
   }
 
+  function updateNote(id: string, text: string) {
+    setNotes((current) =>
+      current.map((note) => (note.id === id ? { ...note, note: text } : note)),
+    );
+  }
+
+  function deleteNote(id: string) {
+    setNotes((current) => current.filter((note) => note.id !== id));
+  }
+
   return (
     <div className="shell">
-      <aside className="sidebar">
-        <div className="brand">
-          <span className="brand__mark">NL</span>
-          <span className="brand__name">
-            OneStop<span>Dutch</span>
-          </span>
-        </div>
-
-        <div className="sidebar__course">
-          <label className="course-switcher">
-            <span className="visually-hidden">Choose a book</span>
-            <select value={course.id} onChange={(event) => setCourse(event.target.value as CourseId)}>
-              {courses.map((item) => (
-                <option key={item.id} value={item.id}>
-                  {item.title}
-                </option>
-              ))}
-            </select>
-            <Icon name="chevron" size={15} className="course-switcher__chevron" />
-          </label>
-          <span>{course.subtitle}</span>
-        </div>
-
-        <nav className="chapter-nav" aria-label="Chapters">
-          <p className="chapter-nav__label">Chapters</p>
-          <ol className="chapter-list">
-            {chapters.map((item) => {
-              const tracks =
-                tracksFor(course.audioTracks, item, "tb").length +
-                tracksFor(course.audioTracks, item, "wb").length;
-              return (
-                <li key={item.number}>
-                  <button
-                    type="button"
-                    ref={item.number === route.chapter ? activeChapterRef : undefined}
-                    className={
-                      item.number === route.chapter
-                        ? "chapter-item is-active"
-                        : "chapter-item"
-                    }
-                    onClick={() => setChapter(item.number)}
-                    aria-current={item.number === route.chapter ? "page" : undefined}
-                  >
-                    <span className="chapter-item__number">
-                      {item.number === 0 ? "0" : item.number}
-                    </span>
-                    <span className="chapter-item__text">
-                      <strong>{shortChapterName(item)}</strong>
-                      <small>
-                        {vocabCount(item)} words · {tracks} track
-                        {tracks === 1 ? "" : "s"}
-                      </small>
-                    </span>
-                  </button>
-                </li>
-              );
-            })}
-          </ol>
-        </nav>
-
-        <div className="sidebar__footer">
-          <div>
-            <strong>{course.audioTracks.length}</strong>
-            <span>audio tracks</span>
-          </div>
-          <div>
-            <strong>{totalWords}</strong>
-            <span>words</span>
-          </div>
-          <div>
-            <strong>{totalGrammar}</strong>
-            <span>grammar topics</span>
-          </div>
-        </div>
-      </aside>
-
       <div className="main">
         <header className="topbar">
           <div className="topbar__brand">
             <span className="brand__mark">NL</span>
-            <span>OneStopDutch</span>
+            <span className="topbar__name">OneStopDutch</span>
           </div>
 
-          <nav className="section-nav" aria-label="Sections">
-            {SECTIONS.map((section) => (
-              <button
-                key={section.id}
-                type="button"
-                className={
-                  route.section === section.id
-                    ? "section-nav__item is-active"
-                    : "section-nav__item"
-                }
-                onClick={() => setSection(section.id)}
-                title={section.hint}
-                aria-current={route.section === section.id ? "page" : undefined}
-              >
-                <Icon name={section.icon} size={17} />
-                <span className="section-nav__label">{section.label}</span>
-                <span className="section-nav__short">{section.shortLabel}</span>
-              </button>
-            ))}
-          </nav>
+          <div className="topbar__center">
+            <div className="topbar__selectors">
+              <label className="course-switcher">
+                <span className="visually-hidden">Choose a book</span>
+                <select
+                  value={course.id}
+                  onChange={(event) => setCourse(event.target.value as CourseId)}
+                >
+                  {courses.map((item) => (
+                    <option key={item.id} value={item.id} title={item.title}>
+                      Vol. {item.bookNumber}
+                    </option>
+                  ))}
+                </select>
+                <Icon name="chevron" size={15} className="course-switcher__chevron" />
+              </label>
 
-          <label className="chapter-jump">
-            <span className="visually-hidden">Jump to chapter</span>
-            <select value={route.chapter} onChange={(event) => setChapter(Number(event.target.value))}>
-              {chapters.map((item) => (
-                <option key={item.number} value={item.number}>
-                  {chapterOptionLabel(item)}
-                </option>
+              <label className="chapter-jump">
+                <span className="visually-hidden">Jump to chapter</span>
+                <select
+                  value={route.chapter}
+                  onChange={(event) => setChapter(Number(event.target.value))}
+                >
+                  {chapters.map((item) => (
+                    <option key={item.number} value={item.number} title={chapterOptionLabel(item)}>
+                      Ch. {item.number}
+                    </option>
+                  ))}
+                </select>
+                <Icon name="chevron" size={15} className="course-switcher__chevron" />
+              </label>
+            </div>
+
+            <span className="topbar__divider" aria-hidden="true" />
+
+            <nav className="section-nav" aria-label="Sections">
+              {SECTIONS.map((section) => (
+                <button
+                  key={section.id}
+                  type="button"
+                  className={
+                    route.section === section.id
+                      ? "section-nav__item is-active"
+                      : "section-nav__item"
+                  }
+                  onClick={() => setSection(section.id)}
+                  title={section.hint}
+                  aria-current={route.section === section.id ? "page" : undefined}
+                >
+                  <Icon name={section.icon} size={17} />
+                  <span className="section-nav__label">{section.label}</span>
+                  <span className="section-nav__short">{section.shortLabel}</span>
+                </button>
               ))}
-            </select>
-          </label>
+            </nav>
+          </div>
+
+          <div className="topbar__account">
+            <AuthControl />
+          </div>
         </header>
 
         <main className="content">
           {route.section === "textbook" && (
             <BookView
               key={`${course.id}-tb-${chapter.number}`}
+              courseId={course.id}
               chapter={chapter}
               book="tb"
               tracks={course.audioTracks}
+              notes={notes}
+              onUpdateNote={updateNote}
+              onDeleteNote={deleteNote}
             />
           )}
           {route.section === "workbook" && (
             <BookView
               key={`${course.id}-wb-${chapter.number}`}
+              courseId={course.id}
               chapter={chapter}
               book="wb"
               tracks={course.audioTracks}
+              notes={notes}
+              onUpdateNote={updateNote}
+              onDeleteNote={deleteNote}
             />
           )}
           {route.section === "wordlist" && (
@@ -349,31 +347,42 @@ export default function App() {
               key={`${course.id}-words`}
               courseId={course.id}
               chapters={chapters}
+              notes={notes}
+              onUpdateNote={updateNote}
+              onDeleteNote={deleteNote}
               initialChapter={chapter.number}
               onChapterChange={setChapter}
             />
           )}
           {route.section === "grammar" && (
-            <GrammarView
-              key={`${course.id}-grammar`}
-              chapters={chapters}
-              reference={course.referenceGrammar}
-              initialChapter={chapter.number}
-              onChapterChange={setChapter}
-            />
+            <div className="page">
+              <GrammarNotesView
+                key={course.id}
+                courseId={course.id}
+                chapters={chapters}
+                initialChapter={chapter.number}
+                notes={notes}
+                onUpdateNote={updateNote}
+                onDeleteNote={deleteNote}
+              />
+            </div>
           )}
         </main>
 
-        <footer className="site-footer">
-          <span>
-            {course.title} · built from your course audio, transcripts and wordlist
-          </span>
-          <span>
-            {course.audioTracks.length} tracks · {totalWords} words · {totalGrammarStrings}{" "}
-            grammar notes
-          </span>
-        </footer>
+        <SelectionTools
+          context={`${course.id}/${route.section}/${route.chapter}`}
+          notes={notes}
+          setNotes={setNotes}
+        />
       </div>
     </div>
   );
+}
+
+export default function App() {
+  const { user } = useAuth();
+  const [epoch, setEpoch] = useState(0);
+  const onRemoteData = useCallback(() => setEpoch((value) => value + 1), []);
+  useCloudSync(user, onRemoteData);
+  return <AppShell key={epoch} />;
 }

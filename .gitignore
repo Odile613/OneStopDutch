@@ -3,6 +3,8 @@ dist
 out-tsc
 *.local
 .DS_Store
+.venv/
+**/.venv/
 .vscode/*
 !.vscode/extensions.json
 tsconfig.tsbuildinfo
@@ -12,3 +14,10 @@ public/Audio/
 
 # Copyrighted source PDFs and per-book audio: local drop zone only
 source-materials/
+
+# Local Netlify folder
+.netlify
+
+# Python bytecode
+__pycache__/
+*.py[cod]

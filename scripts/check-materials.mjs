@@ -84,6 +84,14 @@ for (const book of BOOKS) {
     if (kind && !found.has(kind.key)) found.set(kind.key, pdf);
   }
 
+  // A combined transcript also covers the separate textbook/workbook rows, so
+  // the checklist does not report the uploaded PDF as missing twice.
+  const combinedTranscript = found.get("transcripts-combined");
+  if (combinedTranscript) {
+    if (!found.has("transcripts-tb")) found.set("transcripts-tb", combinedTranscript);
+    if (!found.has("transcripts-wb")) found.set("transcripts-wb", combinedTranscript);
+  }
+
   const audioWithBook = audio.filter((file) => {
     const rel = relative(bookDir, file).toLowerCase();
     return /textbook|tekstboek|\/tb|_tb|workbook|werkboek|\/wb|_wb/.test(rel);
@@ -103,9 +111,13 @@ for (const book of BOOKS) {
       (audioUnclear ? ` (${audioUnclear} not in textbook/workbook folder)` : ""),
   );
 
+  const hasCombinedTranscript = found.has("transcripts-combined");
   for (const key of DISPLAY_ORDER) {
     const kind = DOC_KINDS.find((item) => item.key === key);
     if (!kind) continue;
+    if (hasCombinedTranscript && (key === "transcripts-tb" || key === "transcripts-wb")) {
+      continue;
+    }
     const file = found.get(kind.key);
     const shown = file ? relative(bookDir, file) : `${kind.label} — not uploaded`;
     console.log(`   ${icon(Boolean(file))} ${shown}`);

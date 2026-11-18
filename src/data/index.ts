@@ -4,7 +4,6 @@ import type {
   ChapterData,
   Course,
   CourseId,
-  Exercise,
   TranscriptTrack,
   VocabEntry,
 } from "../types";
@@ -81,22 +80,6 @@ export function referenceStringCount(course: Course): number {
       total + section.paragraphs.length + (section.examples?.length ?? 0),
     0,
   );
-}
-
-/**
- * Placeholder exercises in the old Contact 1 data set are not real exercises,
- * so the UI leaves them out.
- */
-export function isPlaceholderExercise(exercise: Exercise): boolean {
-  return (
-    /-auto-\d+$/.test(exercise.id) ||
-    /^Oefening bij hoofdstuk \d+:/.test(exercise.question)
-  );
-}
-
-export function realExercises(chapter: ChapterData, book: BookId): Exercise[] {
-  const list = book === "tb" ? chapter.exercises : chapter.workbookExercises;
-  return list.filter((exercise) => !isPlaceholderExercise(exercise));
 }
 
 export interface WordRow extends VocabEntry {
