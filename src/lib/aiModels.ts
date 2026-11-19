@@ -1,3 +1,4 @@
+import { CHAT_API_URL, readChatError } from "./chatApi";
 import { supabase } from "./supabase";
 
 export interface AiModelOption {
@@ -21,8 +22,6 @@ export interface AiPreferences {
   last_model: string;
 }
 
-const API_URL = import.meta.env.VITE_CHAT_API_URL || "http://localhost:8000";
-
 export function splitModelRef(ref: string): { provider: string; model: string } {
   const index = ref.indexOf(":");
   if (index < 0) return { provider: "", model: "" };
@@ -41,10 +40,10 @@ export function findModel(
 }
 
 export async function fetchAiModels(token: string): Promise<AiModelsResponse> {
-  const response = await fetch(`${API_URL}/models`, {
+  const response = await fetch(`${CHAT_API_URL}/models`, {
     headers: { Authorization: `Bearer ${token}` },
   });
-  if (!response.ok) throw new Error("Could not load AI models");
+  if (!response.ok) throw new Error(await readChatError(response));
   return response.json();
 }
 

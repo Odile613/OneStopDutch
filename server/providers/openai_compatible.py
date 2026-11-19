@@ -20,6 +20,15 @@ class OpenAICompatibleAdapter(ProviderAdapter):
             "Content-Type": "application/json",
         }
 
+    @staticmethod
+    def _json_messages(messages: list[dict]) -> list[dict]:
+        # OpenAI-compatible APIs such as Groq require the word "json" in the
+        # messages when response_format=json_object is requested.
+        return [
+            *messages,
+            {"role": "system", "content": "Respond with a single valid JSON object."},
+        ]
+
     async def chat_json(self, messages: list[dict], model: str) -> str:
         async with httpx.AsyncClient(timeout=300) as client:
             response = await client.post(
@@ -27,7 +36,7 @@ class OpenAICompatibleAdapter(ProviderAdapter):
                 headers=self._headers(),
                 json={
                     "model": model,
-                    "messages": messages,
+                    "messages": self._json_messages(messages),
                     "temperature": 0.3,
                     "response_format": {"type": "json_object"},
                 },
@@ -48,7 +57,7 @@ class OpenAICompatibleAdapter(ProviderAdapter):
                 headers=self._headers(),
                 json={
                     "model": model,
-                    "messages": messages,
+                    "messages": self._json_messages(messages) if json_mode else messages,
                     "temperature": 0.3,
                     "stream": True,
                     **({"response_format": {"type": "json_object"}} if json_mode else {}),

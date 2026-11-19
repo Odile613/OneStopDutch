@@ -148,6 +148,119 @@ def parse_json_response(text: str) -> dict:
     raise ValueError("Model did not return valid JSON")
 
 
+_LABELS = {
+    "breakdown": "Breakdown",
+    "structure": "Structure",
+    "order": "Word order",
+    "takeaway": "Takeaway",
+    "example": "Example",
+    "examples": "Examples",
+    "formation": "Formation",
+    "conjugation": "Conjugation",
+    "notes": "Notes",
+    "dutch": "Dutch",
+    "english": "English",
+    "partOfSpeech": "Part of speech",
+    "part_of_speech": "Part of speech",
+    "meaning": "Meaning",
+    "explanation": "Explanation",
+}
+_RESULT_KEYS = {
+    "word_or_phrase", "word", "original_sentence", "original", "sentence",
+    "english_translation", "translation", "english", "vocabulary_category",
+    "grammar_category", "partOfSpeech", "part_of_speech", "pos", "category",
+    "grammar_point", "topic", "explanation",
+    "example", "examples", "example_dutch", "example_english",
+    "exampleDutch", "exampleEnglish",
+}
+
+
+def _first_string(source: dict, keys: tuple[str, ...]) -> str:
+    for key in keys:
+        value = source.get(key)
+        if isinstance(value, str) and value.strip():
+            return value.strip()
+    return ""
+
+
+def _render_explanation(result: dict) -> str:
+    lines: list[str] = []
+    for key, value in result.items():
+        if key in _RESULT_KEYS or value is None or value == "":
+            continue
+        label = _LABELS.get(key, key)
+        if isinstance(value, list):
+            lines += [f"**{label}**", ""]
+            for item in value:
+                if isinstance(item, str):
+                    lines.append(
+                        item if item.startswith(("- ", "• ")) else f"- {item}"
+                    )
+                elif isinstance(item, dict):
+                    parts = [
+                        item.get("word") or item.get("term") or item.get("dutch"),
+                        item.get("meaning") or item.get("translation") or item.get("english"),
+                        item.get("explanation") or item.get("note") or item.get("function"),
+                    ]
+                    parts = [part for part in parts if part]
+                    if parts:
+                        lines.append(f"- {' — '.join(str(part) for part in parts)}")
+            lines.append("")
+        elif isinstance(value, dict):
+            lines += [f"**{label}**", ""]
+            for sub_key, sub_value in value.items():
+                lines.append(f"*{_LABELS.get(sub_key, sub_key)}:* {sub_value}")
+            lines.append("")
+        else:
+            lines += [f"**{label}**", str(value), ""]
+    return "\n".join(lines).strip()
+
+
+def _example_lines(result: dict) -> list[str]:
+    example = result.get("example")
+    dutch = _first_string(result, ("example_dutch", "exampleDutch"))
+    english = _first_string(result, ("example_english", "exampleEnglish"))
+    if isinstance(example, dict):
+        dutch = dutch or _first_string(example, ("dutch", "nl"))
+        english = english or _first_string(example, ("english", "en"))
+    lines = [line for line in (dutch, english) if line]
+    if lines:
+        return lines
+    if isinstance(example, str) and example.strip():
+        return [example.strip()]
+    if isinstance(result.get("examples"), list):
+        return [item for item in result["examples"] if isinstance(item, str)]
+    return []
+
+
+def normalize_result(result: dict) -> dict:
+    """Map a model's ad-hoc JSON keys onto the fields the note panel renders."""
+    if not isinstance(result, dict):
+        return result
+    out = dict(result)
+    title = _first_string(result, ("word_or_phrase", "word", "original_sentence", "original", "sentence"))
+    translation = _first_string(result, ("english_translation", "translation", "english"))
+    vocab_category = _first_string(result, ("vocabulary_category", "partOfSpeech", "part_of_speech", "pos", "category"))
+    grammar_category = _first_string(result, ("grammar_category", "grammar_point", "topic"))
+    if title:
+        clean_title = title.replace("**", "").strip()
+        out["word_or_phrase"] = clean_title
+        out["original_sentence"] = clean_title
+    if translation:
+        out["english_translation"] = translation
+    if vocab_category:
+        out["vocabulary_category"] = vocab_category
+    if grammar_category:
+        out["grammar_category"] = grammar_category
+    if not _first_string(result, ("explanation",)):
+        body = _render_explanation(result)
+        example = _example_lines(result)
+        if example:
+            body = "**Example**\n" + "\n".join(example) + (f"\n\n{body}" if body else "")
+        out["explanation"] = body.strip()
+    return out
+
+
 def resolve_selection(provider: str | None, model: str | None) -> tuple[str, object]:
     if bool(provider) != bool(model):
         raise ProviderError("Provider and model must be selected together", "invalid_model")
@@ -292,6 +405,7 @@ async def health() -> dict:
         default = None
     return {
         "status": "ok",
+        "supabase_configured": bool(SUPABASE_URL and SERVICE_KEY),
         "default_model": default,
         "embed_model": OLLAMA_EMBED_MODEL,
         "providers": [item["id"] for item in registry.available_providers()],
@@ -314,7 +428,7 @@ async def explain(request: ExplainRequest, http_request: Request) -> dict:
     messages, sources = await build_explain_messages(request.mode, query)
     raw = await chat_json(adapter, ref, messages)
     try:
-        result = parse_json_response(raw)
+        result = normalize_result(parse_json_response(raw))
     except (ValueError, json.JSONDecodeError) as error:
         raise HTTPException(502, f"Invalid AI response: {error}")
     return {
@@ -341,7 +455,7 @@ async def explain_stream(request: ExplainRequest, http_request: Request):
             raw += token
             yield "event: token\ndata: " + json.dumps({"text": token}) + "\n\n"
         try:
-            result = parse_json_response(raw)
+            result = normalize_result(parse_json_response(raw))
         except (ValueError, json.JSONDecodeError):
             result = {"explanation": raw}
         yield "event: result\ndata: " + json.dumps(result) + "\n\n"

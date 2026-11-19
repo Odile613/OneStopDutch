@@ -1,5 +1,11 @@
 import { useEffect, useRef, useState, type FormEvent, type ReactNode } from "react";
 import { splitModelRef } from "../lib/aiModels";
+import {
+  CHAT_API_URL,
+  describeChatFetchError,
+  parseSseFrame,
+  readChatError,
+} from "../lib/chatApi";
 import { AI_EXPLAIN_EVENT } from "../lib/notes";
 import { Icon } from "./Icon";
 
@@ -13,8 +19,6 @@ interface ChatMessage {
 interface Source {
   page: number;
 }
-
-const API_URL = import.meta.env.VITE_CHAT_API_URL || "http://localhost:8000";
 
 function inline(text: string): ReactNode[] {
   return text.split(/(\*\*[^*]+\*\*)/g).map((part, index) =>
@@ -91,18 +95,6 @@ function extractExplanation(raw: string): string {
   return out;
 }
 
-async function readError(response: Response): Promise<string> {
-  try {
-    const body = await response.json();
-    if (body?.error?.message) return body.error.message;
-    if (body?.detail?.error?.message) return body.detail.error.message;
-    if (typeof body?.detail === "string") return body.detail;
-  } catch {
-    // ignore
-  }
-  return `AI request failed (${response.status})`;
-}
-
 export default function NoteAiPanel({
   mode,
   query,
@@ -137,7 +129,8 @@ export default function NoteAiPanel({
   }
 
   async function search() {
-    if (!accessToken || !query.trim() || loading || !selectedModel) return;
+    // An empty selectedModel is fine: the backend falls back to its default.
+    if (!accessToken || !query.trim() || loading) return;
     setLoading(true);
     setError(null);
     setResult(null);
@@ -145,12 +138,12 @@ export default function NoteAiPanel({
     setMessages([]);
     setStreamText("");
     try {
-      const response = await fetch(`${API_URL}/explain/stream`, {
+      const response = await fetch(`${CHAT_API_URL}/explain/stream`, {
         method: "POST",
         headers: headers(),
         body: JSON.stringify({ mode, query, ...modelFields() }),
       });
-      if (!response.ok) throw new Error(await readError(response));
+      if (!response.ok) throw new Error(await readChatError(response));
       if (!response.body) throw new Error("AI request failed");
       const reader = response.body.getReader();
       const decoder = new TextDecoder();
@@ -163,20 +156,20 @@ export default function NoteAiPanel({
         const parts = buffer.split("\n\n");
         buffer = parts.pop() ?? "";
         for (const part of parts) {
-          const eventLine = part.split("\n").find((line) => line.startsWith("event:"));
-          const dataLine = part.split("\n").find((line) => line.startsWith("data:"));
-          if (!eventLine || !dataLine) continue;
-          const name = eventLine.slice(6).trim();
-          const payload = JSON.parse(dataLine.slice(5).trim());
-          if (name === "sources") setSources(payload);
-          else if (name === "token") {
-            raw += payload.text ?? "";
+          const frame = parseSseFrame(part);
+          if (!frame) continue;
+          if (frame.name === "sources") setSources(frame.payload);
+          else if (frame.name === "token") {
+            raw += frame.payload.text ?? "";
             setStreamText(extractExplanation(raw));
-          } else if (name === "result") setResult(payload);
+          } else if (frame.name === "result") setResult(frame.payload);
+          else if (frame.name === "error") {
+            throw new Error(frame.payload.message || "AI request failed");
+          }
         }
       }
     } catch (cause) {
-      setError(cause instanceof Error ? cause.message : "AI request failed");
+      setError(describeChatFetchError(cause));
     } finally {
       setLoading(false);
     }
@@ -208,7 +201,7 @@ export default function NoteAiPanel({
   async function sendFollowup(event: FormEvent) {
     event.preventDefault();
     const question = input.trim();
-    if (!question || !result || chatting || !accessToken || !selectedModel) return;
+    if (!question || !result || chatting || !accessToken) return;
     setInput("");
     setError(null);
     setChatting(true);
@@ -220,7 +213,7 @@ export default function NoteAiPanel({
     const assistantIndex = messages.length + 1;
 
     try {
-      const response = await fetch(`${API_URL}/followup/stream`, {
+      const response = await fetch(`${CHAT_API_URL}/followup/stream`, {
         method: "POST",
         headers: headers(),
         body: JSON.stringify({
@@ -231,9 +224,8 @@ export default function NoteAiPanel({
           ...modelFields(),
         }),
       });
-      if (!response.ok || !response.body) {
-        throw new Error(await readError(response));
-      }
+      if (!response.ok) throw new Error(await readChatError(response));
+      if (!response.body) throw new Error("AI request returned no content");
       const reader = response.body.getReader();
       const decoder = new TextDecoder();
       let buffer = "";
@@ -244,21 +236,23 @@ export default function NoteAiPanel({
         const parts = buffer.split("\n\n");
         buffer = parts.pop() ?? "";
         for (const part of parts) {
-          const eventLine = part.split("\n").find((line) => line.startsWith("event:"));
-          const dataLine = part.split("\n").find((line) => line.startsWith("data:"));
-          if (eventLine?.slice(6).trim() !== "token" || !dataLine) continue;
-          const payload = JSON.parse(dataLine.slice(5).trim());
-          setMessages((current) =>
-            current.map((message, index) =>
-              index === assistantIndex
-                ? { ...message, content: message.content + payload.text }
-                : message,
-            ),
-          );
+          const frame = parseSseFrame(part);
+          if (!frame) continue;
+          if (frame.name === "token") {
+            setMessages((current) =>
+              current.map((message, index) =>
+                index === assistantIndex
+                  ? { ...message, content: message.content + frame.payload.text }
+                  : message,
+              ),
+            );
+          } else if (frame.name === "error") {
+            throw new Error(frame.payload.message || "Follow-up failed");
+          }
         }
       }
     } catch (cause) {
-      setError(cause instanceof Error ? cause.message : "Follow-up failed");
+      setError(describeChatFetchError(cause));
     } finally {
       setChatting(false);
     }
@@ -284,7 +278,7 @@ export default function NoteAiPanel({
         <div className="note-ai__result">
           <p className="note-ai__title">{title}</p>
           {translation && <p className="note-ai__translation">{translation}</p>}
-          {category && <p className="note-ai__category">{category}</p>}
+          {category && <p className="note-ai__category">[{category}]</p>}
           {result.explanation && <Markdown text={result.explanation} />}
           {sources.length > 0 && (
             <p className="note-ai__sources">

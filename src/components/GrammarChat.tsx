@@ -1,4 +1,10 @@
 import { useEffect, useRef, useState, type FormEvent } from "react";
+import {
+  CHAT_API_URL,
+  describeChatFetchError,
+  parseSseFrame,
+  readChatError,
+} from "../lib/chatApi";
 import { useAuth } from "../lib/auth";
 import { useLocalStorage } from "../lib/useLocalStorage";
 import {
@@ -20,8 +26,6 @@ interface Source {
   page: number;
   similarity: number;
 }
-
-const API_URL = import.meta.env.VITE_CHAT_API_URL || "http://localhost:8000";
 
 export default function GrammarChat() {
   const { user, accessToken } = useAuth();
@@ -66,8 +70,14 @@ export default function GrammarChat() {
         const fallback = prefs?.default_model || data.default;
         setDefaultModel(fallback);
         setSelectedModel(prefs?.last_model || fallback);
-      } catch {
-        // Model loading is best-effort; chat falls back to the server default.
+      } catch (cause) {
+        // Chat still works with the server default; tell the user why the
+        // model picker is empty instead of failing silently.
+        if (active) {
+          setError(
+            `Could not load AI models (${cause instanceof Error ? cause.message : "unknown error"}). Using the server default.`,
+          );
+        }
       }
     })();
     return () => {
@@ -145,7 +155,7 @@ export default function GrammarChat() {
     const assistantIndex = messages.length + 1;
 
     try {
-      const response = await fetch(`${API_URL}/chat/stream`, {
+      const response = await fetch(`${CHAT_API_URL}/chat/stream`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -158,9 +168,8 @@ export default function GrammarChat() {
         }),
       });
 
-      if (!response.ok || !response.body) {
-        throw new Error(`Chat request failed (${response.status})`);
-      }
+      if (!response.ok) throw new Error(await readChatError(response));
+      if (!response.body) throw new Error("Chat request returned no content");
 
       const reader = response.body.getReader();
       const decoder = new TextDecoder();
@@ -174,27 +183,26 @@ export default function GrammarChat() {
         buffer = parts.pop() ?? "";
 
         for (const part of parts) {
-          const eventLine = part.split("\n").find((line) => line.startsWith("event:"));
-          const dataLine = part.split("\n").find((line) => line.startsWith("data:"));
-          if (!eventLine || !dataLine) continue;
-          const eventName = eventLine.slice(6).trim();
-          const payload = JSON.parse(dataLine.slice(5).trim());
+          const frame = parseSseFrame(part);
+          if (!frame) continue;
 
-          if (eventName === "sources") {
-            setSources(payload);
-          } else if (eventName === "token") {
+          if (frame.name === "sources") {
+            setSources(frame.payload);
+          } else if (frame.name === "token") {
             setMessages((current) =>
               current.map((message, index) =>
                 index === assistantIndex
-                  ? { ...message, content: message.content + payload.text }
+                  ? { ...message, content: message.content + frame.payload.text }
                   : message,
               ),
             );
+          } else if (frame.name === "error") {
+            throw new Error(frame.payload.message || "Chat failed");
           }
         }
       }
     } catch (cause) {
-      setError(cause instanceof Error ? cause.message : "Chat failed");
+      setError(describeChatFetchError(cause));
     } finally {
       setBusy(false);
     }
@@ -226,18 +234,15 @@ export default function GrammarChat() {
               onChange={(ref) => void changeModel(ref)}
               onSetDefault={() => void setDefault()}
               disabled={busy}
-              trailing={clearButton}
             />
           ) : (
-            <>
-              <span className="note-model-hint">Sign in to choose an AI model</span>
-              {clearButton}
-            </>
+            <span className="note-model-hint">Sign in to choose an AI model</span>
           )}
         </div>
       </div>
 
       <div className="grammar-chat__body">
+        {clearButton}
         <div className="grammar-chat__messages" ref={messagesRef}>
           {messages.map((message, index) => (
             <div

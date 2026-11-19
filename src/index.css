@@ -122,13 +122,12 @@ a {
   flex: 0 0 auto;
   width: 42px;
   height: 42px;
-  border-radius: 12px;
-  background: linear-gradient(145deg, #f18a35, var(--orange));
+  border-radius: 13px;
+  background: var(--orange);
   color: #fff;
   font-size: 0.82rem;
   font-weight: 800;
-  letter-spacing: 0.04em;
-  box-shadow: 0 5px 16px rgba(232, 119, 34, 0.35);
+  letter-spacing: -0.01em;
 }
 
 .course-switcher {
@@ -444,6 +443,10 @@ a {
   height: 36px;
   border-radius: 10px;
   font-size: 0.74rem;
+}
+
+.topbar__name-accent {
+  color: var(--orange);
 }
 
 .topbar__selectors {
@@ -1641,7 +1644,7 @@ body.notes-drawer-open .topbar__account {
 
 .ai-selector {
   display: flex;
-  align-items: flex-end;
+  align-items: center;
   gap: 0.5rem;
 }
 
@@ -1655,7 +1658,7 @@ body.notes-drawer-open .topbar__account {
 
 .ai-selector__field select {
   width: 100%;
-  padding: 0.25rem 0;
+  padding: 0;
   border: 0;
   background: transparent;
   color: var(--muted);
@@ -1771,14 +1774,10 @@ body.notes-drawer-open .topbar__account {
 }
 
 .note-ai__category {
-  display: inline-block;
-  margin: 0 0 0.4rem;
-  padding: 0.1rem 0.4rem;
-  border-bottom: 1px solid var(--line);
-  color: var(--muted);
-  font-family: var(--font-ui);
-  font-size: 0.68rem;
-  font-weight: 650;
+  margin: 0.25rem 0;
+  color: var(--ink);
+  font-size: 0.8rem;
+  line-height: 1.55;
 }
 
 .note-ai__sources {
@@ -3808,8 +3807,10 @@ body.notes-drawer-open .topbar__account {
 }
 
 .grammar-chat__clear {
+  display: grid;
   width: 26px;
   height: 26px;
+  margin-left: auto;
 }
 
 .grammar-chat__copy {

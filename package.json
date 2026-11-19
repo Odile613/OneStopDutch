@@ -6,7 +6,8 @@
   "description": "One-stop study site for the Contact! nieuw series — textbook, workbook, wordlist and grammar.",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "tsc -b && vite build && node scripts/generate-function-assets.mjs",
+    "sync:ai": "npm run build && npx netlify deploy --prod --dir=dist --functions=netlify/functions",
     "preview": "vite preview",
     "sync:audio": "node scripts/sync-audio.mjs",
     "import:contact-2": "node scripts/import-book.mjs contact-2",

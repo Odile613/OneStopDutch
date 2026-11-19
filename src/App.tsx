@@ -252,7 +252,9 @@ function AppShell() {
         <header className="topbar">
           <div className="topbar__brand">
             <span className="brand__mark">NL</span>
-            <span className="topbar__name">OneStopDutch</span>
+            <span className="topbar__name">
+              OneStop<span className="topbar__name-accent">Dutch</span>
+            </span>
           </div>
 
           <div className="topbar__center">
